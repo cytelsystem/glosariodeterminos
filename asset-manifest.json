@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/glosario/static/css/main.59fe31df.css",
+    "main.js": "/glosario/static/js/main.909fa749.js",
+    "index.html": "/glosario/index.html",
+    "main.59fe31df.css.map": "/glosario/static/css/main.59fe31df.css.map",
+    "main.909fa749.js.map": "/glosario/static/js/main.909fa749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59fe31df.css",
+    "static/js/main.909fa749.js"
+  ]
+}
