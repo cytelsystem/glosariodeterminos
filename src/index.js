@@ -6,6 +6,6 @@ import './global.scss';
 
 import App from './components/App';
 
-const contenedor = document.getElementById('id');
+const contenedor = document.getElementById('app');
 
 ReactDOM.render(<App />, contenedor);
