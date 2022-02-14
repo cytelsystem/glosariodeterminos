@@ -11,6 +11,7 @@ function App() {
       <Switch>
           <Route exact path="/JavaScriptNode" component={JavaScriptNode} />
           <Route exact path="/Mysql" component={Mysql} />
+          <Route exact path="/" component={Mysql} />
       </Switch>
     </BrowserRouter>
   );
