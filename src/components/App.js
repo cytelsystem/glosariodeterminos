@@ -4,17 +4,24 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 import Principal from '../pages/Principal';
 import JavaScriptNode from '../pages/JavaScriptNode';
 import Mysql from '../pages/Mysql';
+import Layout from './Layout';
+import NotFound from '../pages/NotFound';
 
 
 
 function App() {
   return (
     <Router basename={process.env.PUBLIC_URL + '/'}>
-      <Switch>
-          <Route exact path="/" component={Mysql} />
-          <Route exact path="/JavaScriptNode" component={JavaScriptNode} />
-          <Route exact path="/Mysql" component={Mysql} />
-      </Switch>
+      <Layout>
+        <Switch>
+            <Route exact path="/" component={Mysql} />
+            <Route exact path="/JavaScriptNode" component={JavaScriptNode} />
+            <Route exact path="/Mysql" component={Mysql} />
+            <Route component={NotFound} />
+
+        </Switch>
+      </Layout>
+
     </Router>
   );
 }
