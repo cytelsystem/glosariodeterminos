@@ -7,6 +7,7 @@ class JavaScriptNode extends React.Component {
       <div>
       <h1>hola</h1>
       <Header title="JavaScriptNode"/>
+      <p>prueba javascript node</p>
      </div>
     )
   }
