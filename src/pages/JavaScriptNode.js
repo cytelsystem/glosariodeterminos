@@ -5,6 +5,7 @@ class JavaScriptNode extends React.Component {
   render() {
     return (
       <div>
+      <h1>hola</h1>
       <Header title="JavaScriptNode"/>
      </div>
     )
