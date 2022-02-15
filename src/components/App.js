@@ -9,7 +9,7 @@ import Mysql from '../pages/Mysql';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Switch>
           <Route exact path="/JavaScriptNode" component={JavaScriptNode} />
           <Route exact path="/Mysql" component={Mysql} />
