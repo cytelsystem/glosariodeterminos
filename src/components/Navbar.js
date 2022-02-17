@@ -2,30 +2,44 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import data from '../db.json';
 import './styles/navbar.scss';
+import * as ReactBootStrap from "react-bootstrap";
 
-class Navbar extends React.Component {
+function Navbar() {
+  return (
+    <div>
 
-  render() {
+      <ReactBootStrap.Navbar bg="light" expand={false}>
+          <ReactBootStrap.Container fluid>
+            <ReactBootStrap.Navbar.Brand href="#">Glosario de terminos</ReactBootStrap.Navbar.Brand>
+            <ReactBootStrap.Navbar.Toggle aria-controls="offcanvasNavbar" />
+            <ReactBootStrap.Navbar.Offcanvas
+              id="offcanvasNavbar"
+              aria-labelledby="offcanvasNavbarLabel"
+              placement="end"
+            >
+              <ReactBootStrap.Offcanvas.Header closeButton>
+                <ReactBootStrap.Offcanvas.Title id="offcanvasNavbarLabel">Offcanvas</ReactBootStrap.Offcanvas.Title>
+              </ReactBootStrap.Offcanvas.Header>
+              <ReactBootStrap.Offcanvas.Body>
+                <ReactBootStrap.Nav className="justify-content-end flex-grow-1 pe-3">
 
-    return (
 
-      <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top ">
+                  <ul className="row list-unstyled">
+                    {data.results.map(detalle =>(
+                      <li className="col-4 col-md-6 col-sm-4" key={detalle.id}>
+                        <Link to={detalle.Url} className="btn btn-secondary">{detalle.name}</Link>
+                      </li>
+                    ))}
+                  </ul>
+                </ReactBootStrap.Nav>
 
-          <div className="container-fluid">
-            <ul className="row list-unstyled">
-                {data.results.map(detalle =>(
-                  <li className="col-4 col-md-6 col-sm-4" key={detalle.id}>
-                     <Link to={detalle.Url} className="btn btn-secondary">{detalle.name}</Link>
-                  </li>
-                ))}
-            </ul>
-        </div>
+              </ReactBootStrap.Offcanvas.Body>
+            </ReactBootStrap.Navbar.Offcanvas>
+          </ReactBootStrap.Container>
+        </ReactBootStrap.Navbar>
 
-      </nav>
-
-    )
-
-  }
+    </div>
+  );
 }
 
 export default Navbar;
