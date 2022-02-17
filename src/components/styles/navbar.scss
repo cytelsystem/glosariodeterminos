@@ -1,0 +1,23 @@
+
+
+.navbar {
+  background-color: #343a40;
+  .container {
+    background-color: red;
+    flex-direction: column;
+    ul {
+      background-color:rgb(13, 219, 65);
+      li {
+        background-color: #db0dc6;
+        border: 1px solid black;
+
+        a {
+          background-color: #380dfa;
+          min-width: 100%;
+          min-height: 100%;
+        }
+      }
+    }
+  }
+}
+

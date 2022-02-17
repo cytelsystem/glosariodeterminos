@@ -1,16 +1,14 @@
 import React from 'react';
-import Header from '../components/Header';
+import Navbar from '../components/Navbar';
+import Offcanvas from '../components/Offcanvas';
 
 function Layout (props) {
-  // const children = props.children;
   return (
-
-
     <React.Fragment>
-        <Header />
+        <Offcanvas />
+        <Navbar />
         {props.children}
     </React.Fragment>
-
   );
 }
 

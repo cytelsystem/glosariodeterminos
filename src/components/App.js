@@ -1,7 +1,6 @@
 import React from 'react';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 
-import Principal from '../pages/Principal';
 import JavaScriptNode from '../pages/JavaScriptNode';
 import Mysql from '../pages/Mysql';
 import Layout from './Layout';
@@ -18,10 +17,8 @@ function App() {
             <Route exact path="/JavaScriptNode" component={JavaScriptNode} />
             <Route exact path="/Mysql" component={Mysql} />
             <Route component={NotFound} />
-
         </Switch>
       </Layout>
-
     </Router>
   );
 }
