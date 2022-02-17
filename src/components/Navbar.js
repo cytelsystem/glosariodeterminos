@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <div>
 
-      <ReactBootStrap.Navbar bg="light" expand={false}>
+      <ReactBootStrap.Navbar bg="dark" variant="dark" expand="true">
           <ReactBootStrap.Container fluid>
             <ReactBootStrap.Navbar.Brand href="#">Glosario de terminos</ReactBootStrap.Navbar.Brand>
             <ReactBootStrap.Navbar.Toggle aria-controls="offcanvasNavbar" />
