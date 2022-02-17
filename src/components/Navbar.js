@@ -8,35 +8,34 @@ function Navbar() {
   return (
     <div>
 
-      <ReactBootStrap.Navbar bg="dark" variant="dark" expand="true">
+      <ReactBootStrap.Navbar bg="dark" variant="dark" expand={false}>
           <ReactBootStrap.Container fluid>
             <ReactBootStrap.Navbar.Brand href="#">Glosario de terminos</ReactBootStrap.Navbar.Brand>
             <ReactBootStrap.Navbar.Toggle aria-controls="offcanvasNavbar" />
-            <ReactBootStrap.Navbar.Offcanvas
-              id="offcanvasNavbar"
-              aria-labelledby="offcanvasNavbarLabel"
-              placement="end"
-            >
+
+            <ReactBootStrap.Navbar.Offcanvas id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel" placement="end">
               <ReactBootStrap.Offcanvas.Header closeButton>
-                <ReactBootStrap.Offcanvas.Title id="offcanvasNavbarLabel">Offcanvas</ReactBootStrap.Offcanvas.Title>
+                <ReactBootStrap.Offcanvas.Title id="offcanvasNavbarLabel"></ReactBootStrap.Offcanvas.Title>
               </ReactBootStrap.Offcanvas.Header>
-              <ReactBootStrap.Offcanvas.Body>
+
+              <ReactBootStrap.Offcanvas.Body className="Offcanvas-Body">
+
                 <ReactBootStrap.Nav className="justify-content-end flex-grow-1 pe-3">
-
-
                   <ul className="row list-unstyled">
                     {data.results.map(detalle =>(
                       <li className="col-4 col-md-6 col-sm-4" key={detalle.id}>
-                        <Link to={detalle.Url} className="btn btn-secondary">{detalle.name}</Link>
+                          <Link to={detalle.Url} className="btn btn-secondary">{detalle.name}</Link>
                       </li>
                     ))}
                   </ul>
                 </ReactBootStrap.Nav>
 
               </ReactBootStrap.Offcanvas.Body>
+
             </ReactBootStrap.Navbar.Offcanvas>
+
           </ReactBootStrap.Container>
-        </ReactBootStrap.Navbar>
+      </ReactBootStrap.Navbar>
 
     </div>
   );

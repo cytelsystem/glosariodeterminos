@@ -1,23 +1,31 @@
 
 
-.navbar {
-  background-color: #343a40;
-  .container {
-    background-color: red;
-    flex-direction: column;
-    ul {
-      background-color:rgb(13, 219, 65);
-      li {
-        background-color: #db0dc6;
-        border: 1px solid black;
+#offcanvasNavbar {
+  background-color: rgba(52, 58, 64, 0.57) !important;
 
-        a {
-          background-color: #380dfa;
+  .btn-close {
+    background-color:#fdf5f5;
+  }
+
+
+  .Offcanvas-Body {
+
+    ul {
+      li {
+
+        .btn-secondary{
+          background-color:#2f332d;
+          background-color: #2f332d;
           min-width: 100%;
           min-height: 100%;
+          display: flex;
+          flex-direction: row;
+          justify-content: center;
+          align-items: center;
+          align-content: center;
         }
       }
     }
+
   }
 }
-
