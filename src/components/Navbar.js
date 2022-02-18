@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import data from '../db.json';
 import './styles/navbar.scss';
+
 import * as ReactBootStrap from "react-bootstrap";
 
 function Navbar() {
