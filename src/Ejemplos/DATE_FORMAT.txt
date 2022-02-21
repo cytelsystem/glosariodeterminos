@@ -1,0 +1,8 @@
+https://www.w3schools.com/mysql/func_mysql_date_format.asp
+
+// ********************************
+
+SELECT title, DATE_FORMAT(release_date, "%d/%m/%Y")
+FROM movies;
+
+// **************************************************

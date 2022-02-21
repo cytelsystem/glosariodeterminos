@@ -1,0 +1,11 @@
+SELECT LENGTH(title)
+FROM movies;
+
+// ***************************
+
+SELECT title
+FROM movies
+WHERE LENGTH(title) > 10
+FROM movies;
+
+// *************************

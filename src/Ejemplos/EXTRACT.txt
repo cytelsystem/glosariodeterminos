@@ -1,0 +1,28 @@
+// ******************MUESTRA EL AÑO**********************
+
+SELECT title, YEAR(release_date)
+FROM movies;
+
+// ***************EXTRACT Extrae de diferentes formas X dia, año etc ***************
+
+SELECT title, EXTRACT(year FROM release_date)
+FROM movies;
+SELECT title, EXTRACT(day FROM release_date)
+FROM movies;
+SELECT title, EXTRACT(month FROM release_date)
+FROM movies;
+
+
+// ***********************************************************
+
+
+SELECT idusuario AS ID,
+nombre As Nombre,
+email AS "E-mail",
+extract(year from fechanacimiento) as "anio nacimiento",
+TIMESTAMPDIFF(YEAR,fechanacimiento,CURDATE()) AS Edad,
+TIMESTAMPDIFF(month,fechanacimiento,CURDATE()) AS Meses,
+TIMESTAMPDIFF(day,fechanacimiento,CURDATE()) AS dias
+FROM usuario;
+
+-- // ******************************************************************************
