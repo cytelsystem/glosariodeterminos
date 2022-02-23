@@ -1,24 +1,25 @@
 import React from 'react';
 import Tabs from 'react-bootstrap/Tabs';
 import Tab from 'react-bootstrap/Tab'
+import archivo from './archivo';
+import ReactFileReader from 'react-file-reader';
+import { text } from './prueba.txt';
+
+class Caracteristicas extends React.Component {
 
 
-function Caracteristicas () {
-  return (
-    <Tabs defaultActiveKey="profile" id="uncontrolled-tab-example" className="mb-3">
-          <Tab eventKey="home" title="Home">
-          <a href="./Ejemplos/SELECTDATABASE.jpg" target="_black">Ejemplo1</a>
-          <a href="./Ejemplos/SELECTDATABASE.txt" target="_black">Ejemplo2</a>
+  render() {
+    return (
+      <div>
 
-          </Tab>
-          <Tab eventKey="profile" title="Profile">
+      <p>
+      </p>
 
-          </Tab>
-          <Tab eventKey="contact" title="Contact" disabled>
-
-          </Tab>
-        </Tabs>
-  )
+      </div>
+    )
+  }
 }
+
+
 
 export default Caracteristicas;
