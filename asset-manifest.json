@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosario/static/css/main.70fbf814.css",
-    "main.js": "/glosario/static/js/main.c7928e54.js",
+    "main.js": "/glosario/static/js/main.c2578f15.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosario/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosario/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosario/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -471,10 +471,10 @@
     "static/media/tecnicasPrueba.txt": "/glosario/static/media/tecnicasPrueba.31d6cfe0d16ae931b73c.txt",
     "static/media/unitTest.txt": "/glosario/static/media/unitTest.31d6cfe0d16ae931b73c.txt",
     "main.70fbf814.css.map": "/glosario/static/css/main.70fbf814.css.map",
-    "main.c7928e54.js.map": "/glosario/static/js/main.c7928e54.js.map"
+    "main.c2578f15.js.map": "/glosario/static/js/main.c2578f15.js.map"
   },
   "entrypoints": [
     "static/css/main.70fbf814.css",
-    "static/js/main.c7928e54.js"
+    "static/js/main.c2578f15.js"
   ]
 }
