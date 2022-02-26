@@ -1,6 +1,5 @@
 import React from 'react';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
-
 import JavaScriptNode from '../pages/JavaScriptNode';
 import Mysql from '../pages/Mysql';
 import Layout from './Layout';

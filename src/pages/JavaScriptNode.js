@@ -1,14 +1,21 @@
 import React from 'react';
+import ListItem from '../components/ListItem';
+import  data  from '../data/JavaScriptNode.json';
 
-class JavaScriptNode extends React.Component {
-  render() {
-    return (
-      <React.Fragment>
-      <h1>JavaScriptNode</h1>
-      <p>prueba javascript node</p>
-     </React.Fragment>
-    )
-  }
+
+
+function JavaScriptNode() {
+
+
+  return (
+    <div>
+      <ListItem nombre="JavaScriptjavier con botones" data={data}/>
+    </div>
+  )
+
+
 }
+
+
 
 export default JavaScriptNode;

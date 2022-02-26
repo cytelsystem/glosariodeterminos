@@ -1,20 +1,20 @@
 import React from 'react';
-import data from '../data/Mysql.json';
-import './styles/styleDatos.scss';
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Accordion from 'react-bootstrap/Accordion'
 import Button from 'react-bootstrap/Button'
 
 
-function Mysql() {
+function ListItem(props) {
+
+  const data = props.data;
 
 
   return (
 
 <React.Fragment>
 
-      <h1>Mysql</h1>
+      <h1>{props.nombre}</h1>
       <div className="container-fluid styledatos">
                     <ul className="row list-unstyled">
                     {data.results.map(detalle =>(
@@ -62,4 +62,4 @@ function Mysql() {
 
 
 
-export default Mysql;
+export default ListItem;
