@@ -5,11 +5,27 @@
         {
             "id": 1,
             "name": "SELECT DATABASE()",
-            "ejemplo1": "",
-            "detalle": "Muestra la base de datos en la que estoy parado actualmente",
+            "detalle": "Muestra la base de datos en la que estoy parado actualmente1",
             "Url": "prueba.txt",
-            "ejemplo2": "./Ejemplos/SELECTDATABASE.jpg",
-            "wjwmplo3": "this.caracteristicas()"
+            "ejemplo1": "SELECTDATABASE.jpg",
+            "ejemplo2": "SELECTDATABASE.txt"
+
+        },
+        {
+            "id": 2,
+            "name": "SHOW TABLES",
+            "detalle": "Lista las tablas de la base de datos por consola",
+            "Url": "prueba.txt",
+            "ejemplo1": "SHOWTABLES.jpg",
+            "ejemplo2": "SHOWTABLES.txt"
+        },
+        {
+            "id": 3,
+            "name": "SHOW COLUMNS",
+            "detalle": "Lista los campos de una tabla de la base de datos por consola",
+            "Url": "prueba.txt",
+            "ejemplo1": "SHOWCOLUMNS.jpg",
+            "ejemplo2": "SHOWCOLUMNS.txt"
         }
     ]
 }
