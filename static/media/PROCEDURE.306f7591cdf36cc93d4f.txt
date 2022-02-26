@@ -1,0 +1,43 @@
+
+
+DELIMITER $$
+CREATE PROCEDURE sp_nombre_procedimiento()
+BEGIN
+ -- Bloque de instrucciones SQL;
+END $$
+
+
+-- // **********************Crear un procedimiento que al ejecutarlo con CALL ingrese nuevos usuarios tabla clientes*********************************************************
+
+DROP PROCEDURE IF EXISTS sp_Insert
+DELIMITER $$
+CREATE PROCEDURE sp_Insert
+(in id tinyint, in nom VARCHAR(50), in ape VARCHAR(50), in emp VARCHAR(50), in dir VARCHAR(50), in ciu VARCHAR(50), in est VARCHAR(50), in pai VARCHAR(50), in cod VARCHAR(50), in tel VARCHAR(50), in fax1 VARCHAR(50), in ema VARCHAR(50), in rep tinyint)
+
+BEGIN
+INSERT INTO clientes
+(id, primer_nombre, apellido, empresa, direccion, ciudad, estado_o_provincia, pais, codigo_postal, telefono, fax, email, id_representante)
+VALUES
+(id, nom, ape, emp, dir, ciu, est, pai, cod, tel, fax1, ema, rep);
+END $$
+
+-- // ***Llamar o ejecutar un procedimiento almacenado******************************
+
+CALL sp_Insert(60, "Car", "Rodr", "Cytel", "Av Comu", "Bogota", "Cmarca", "Colombia", 0000, 12024, 512025, "carolr@gmail.com", 3);
+
+CALL sp_Insert(61, "oscar", "benjumea", "claro", "Av nqs", "tunja", "byca", "Colombia", 0000, 1651, 6516, "carlosben@gmail.com", 3);
+
+
+-- // **************************************Eliminar un procedimiento*************************************************************
+
+DROP PROCEDURE IF EXISTS sp_Insert
+
+-- // *************************************Asignación de valores a variables************************************************************
+DELIMITER $$
+CREATE PROCEDURE sp_nombre_procedimiento()
+BEGIN
+ DECLARE salario FLOAT DEFAULT 1000.00;
+ SET salario = 25700.50;
+END $$
+
+-- // **************************************************************************************************

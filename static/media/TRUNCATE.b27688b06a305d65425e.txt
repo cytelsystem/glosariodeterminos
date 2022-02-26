@@ -1,0 +1,9 @@
+Borra los registros de la tabla y inicializa ID
+
+
+TRUNCATE TABLE Categories;
+
+
+-- // **********************************************
+
+TRUNCATE TABLE evaluacion.empleados;
