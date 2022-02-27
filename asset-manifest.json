@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/glosario/static/css/main.70fbf814.css",
-    "main.js": "/glosario/static/js/main.c2578f15.js",
+    "main.css": "/glosario/static/css/main.b1d928e5.css",
+    "main.js": "/glosario/static/js/main.37948f9c.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosario/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosario/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosario/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -41,6 +41,7 @@
     "static/media/PROCEDURE.jpg": "/glosario/static/media/PROCEDURE.358158738add843d8c2e.jpg",
     "static/media/PatronFactory2.jpg": "/glosario/static/media/PatronFactory2.abeaf8ce237486b4a46c.jpg",
     "static/media/FacesDesignthinking.jpg": "/glosario/static/media/FacesDesignthinking.004ae1aac5a288a867c8.jpg",
+    "static/media/var.jpg": "/glosario/static/media/var.b0265da0c2c10a917283.jpg",
     "static/media/ExceptionPerJava1.jpg": "/glosario/static/media/ExceptionPerJava1.db01dbfd932e34c604b5.jpg",
     "static/media/PruebasUnitariasComponente2.jpg": "/glosario/static/media/PruebasUnitariasComponente2.4c4daa33b315fdb49653.jpg",
     "static/media/Nivelespruebas.jpg": "/glosario/static/media/Nivelespruebas.258d898498e5c146639b.jpg",
@@ -470,11 +471,12 @@
     "static/media/pruebasV.txt": "/glosario/static/media/pruebasV.31d6cfe0d16ae931b73c.txt",
     "static/media/tecnicasPrueba.txt": "/glosario/static/media/tecnicasPrueba.31d6cfe0d16ae931b73c.txt",
     "static/media/unitTest.txt": "/glosario/static/media/unitTest.31d6cfe0d16ae931b73c.txt",
-    "main.70fbf814.css.map": "/glosario/static/css/main.70fbf814.css.map",
-    "main.c2578f15.js.map": "/glosario/static/js/main.c2578f15.js.map"
+    "static/media/var.txt": "/glosario/static/media/var.31d6cfe0d16ae931b73c.txt",
+    "main.b1d928e5.css.map": "/glosario/static/css/main.b1d928e5.css.map",
+    "main.37948f9c.js.map": "/glosario/static/js/main.37948f9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.70fbf814.css",
-    "static/js/main.c2578f15.js"
+    "static/css/main.b1d928e5.css",
+    "static/js/main.37948f9c.js"
   ]
 }
