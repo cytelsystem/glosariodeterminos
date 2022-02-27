@@ -1,8 +1,9 @@
 import React from 'react';
+import './styles/listItem.scss'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Accordion from 'react-bootstrap/Accordion'
-import Button from 'react-bootstrap/Button'
+
 
 
 function ListItem(props) {
@@ -11,37 +12,30 @@ function ListItem(props) {
 
 
   return (
-
-<React.Fragment>
-
-      <h1>{props.nombre}</h1>
-      <div className="container-fluid styledatos">
+    <React.Fragment>
+      <div className="container-fluid listItem">
+                    <h1>{props.nombre}</h1>
                     <ul className="row list-unstyled">
                     {data.results.map(detalle =>(
 
                       <li  key={detalle.id}>
 
                           <Accordion >
-                            <Accordion.Item eventKey="0">
-                              <Accordion.Header><Row>
-                                <Col xs={4} className="col1">
-                                  <h4>{detalle.name}</h4>
-                                </Col>
+                            <Accordion.Item eventKey="0" className="listItem-Item">
+                              <Accordion.Header>
+                                <Row>
+                                  <Col xs={4} className="col1">
+                                    <h4>{detalle.name}</h4>
+                                  </Col>
 
-                                <Col xs={8} className="col2">
-                                  <p>{detalle.detalle}</p>
-                                </Col>
-                              </Row></Accordion.Header>
+                                  <Col xs={8} className="col2">
+                                    <p>{detalle.detalle}</p>
+                                  </Col>
+                                </Row>
+                              </Accordion.Header>
                               <Accordion.Body>
-
-                             <a href={require(`../Ejemplos/${detalle.ejemplo1}`)}>Ejemplo1</a>
-                             <a href={require(`../Ejemplos/${detalle.ejemplo2}`)}>Ejemplo2</a>
-                               <Button variant="primary" size="lg">
-                                Block level button
-                              </Button>
-
-
-
+                                <a href={require(`../Ejemplos/${detalle.ejemplo1}`)}>Ejemplo1</a>
+                                <a href={require(`../Ejemplos/${detalle.ejemplo2}`)}>Ejemplo2</a>
                              </Accordion.Body>
                             </Accordion.Item>
 
@@ -53,8 +47,6 @@ function ListItem(props) {
 
       </div>
      </React.Fragment>
-
-
   )
 
 

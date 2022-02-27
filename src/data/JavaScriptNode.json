@@ -7,8 +7,8 @@
             "name": "var",
             "detalle": "Variable para guardar valores de forma global",
             "Url": "prueba.txt",
-            "ejemplo1": "SELECTDATABASE.jpg",
-            "ejemplo2": "SELECTDATABASE.txt"
+            "ejemplo1": "var.jpg",
+            "ejemplo2": "var.txt"
 
         },
         {
@@ -16,16 +16,16 @@
             "name": "let",
             "detalle": "Variable para guardar valores de forma local en una funcion",
             "Url": "prueba.txt",
-            "ejemplo1": "SHOWTABLES.jpg",
-            "ejemplo2": "SHOWTABLES.txt"
+            "ejemplo1": "let.txt",
+            "ejemplo2": "let.txt"
         },
         {
             "id": 3,
             "name": "Math.round()",
             "detalle": "Retorna el valor resondeado al entero mas cercano",
             "Url": "prueba.txt",
-            "ejemplo1": "SHOWCOLUMNS.jpg",
-            "ejemplo2": "SHOWCOLUMNS.txt"
+            "ejemplo1": "MathRound.jpg",
+            "ejemplo2": "MathRound.txt"
         }
     ]
 }

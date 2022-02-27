@@ -9,7 +9,7 @@ function JavaScriptNode() {
 
   return (
     <div>
-      <ListItem nombre="JavaScriptjavier con botones" data={data}/>
+      <ListItem nombre="JavaScript" data={data}/>
     </div>
   )
 
