@@ -8,7 +8,8 @@
             "detalle": "Variable para guardar valores de forma global",
             "Url": "prueba.txt",
             "ejemplo1": "var.jpg",
-            "ejemplo2": "var.txt"
+            "ejemplo2": "var.txt",
+            "ejemplo3": "var.txt"
 
         },
         {
@@ -17,7 +18,8 @@
             "detalle": "Variable para guardar valores de forma local en una funcion",
             "Url": "prueba.txt",
             "ejemplo1": "let.txt",
-            "ejemplo2": "let.txt"
+            "ejemplo2": "let.txt",
+            "ejemplo3": "let.txt"
         },
         {
             "id": 3,
@@ -25,7 +27,8 @@
             "detalle": "Retorna el valor resondeado al entero mas cercano",
             "Url": "prueba.txt",
             "ejemplo1": "MathRound.jpg",
-            "ejemplo2": "MathRound.txt"
+            "ejemplo2": "MathRound.txt",
+            "ejemplo3": "MathRound.txt"
         }
     ]
 }

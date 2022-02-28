@@ -24,18 +24,19 @@ function ListItem(props) {
                             <Accordion.Item eventKey="0" className="listItem-Item">
                               <Accordion.Header>
                                 <Row>
-                                  <Col xs={4} className="col1">
+                                  <Col xs={4} sm={4} md={2} lg={2}  className="col1">
                                     <h4>{detalle.name}</h4>
                                   </Col>
 
-                                  <Col xs={8} className="col2">
+                                  <Col xs={8} sm={8} md={10} lg={10}  className="col2">
                                     <p>{detalle.detalle}</p>
                                   </Col>
                                 </Row>
                               </Accordion.Header>
                               <Accordion.Body>
-                                <a href={require(`../Ejemplos/${detalle.ejemplo1}`)}>Ejemplo1</a>
-                                <a href={require(`../Ejemplos/${detalle.ejemplo2}`)}>Ejemplo2</a>
+                                <a href={require(`../Ejemplos/${detalle.ejemplo1}`)} target="_blank">Ejemplo1</a>
+                                <a href={require(`../Ejemplos/${detalle.ejemplo2}`)} target="_blank">Ejemplo2</a>
+                                <a href={require(`../Ejemplos/${detalle.ejemplo3}`)} target="_blank">Ejemplo3</a>
                              </Accordion.Body>
                             </Accordion.Item>
 

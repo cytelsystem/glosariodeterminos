@@ -8,7 +8,8 @@
             "detalle": "Muestra la base de datos en la que estoy parado actualmente1",
             "Url": "prueba.txt",
             "ejemplo1": "SELECTDATABASE.jpg",
-            "ejemplo2": "SELECTDATABASE.txt"
+            "ejemplo2": "SELECTDATABASE.txt",
+            "ejemplo3": "SELECTDATABASE.txt"
 
         },
         {
@@ -17,7 +18,8 @@
             "detalle": "Lista las tablas de la base de datos por consola",
             "Url": "prueba.txt",
             "ejemplo1": "SHOWTABLES.jpg",
-            "ejemplo2": "SHOWTABLES.txt"
+            "ejemplo2": "SHOWTABLES.txt",
+            "ejemplo3": "SELECTDATABASE.txt"
         },
         {
             "id": 3,
@@ -25,7 +27,8 @@
             "detalle": "Lista los campos de una tabla de la base de datos por consola",
             "Url": "prueba.txt",
             "ejemplo1": "SHOWCOLUMNS.jpg",
-            "ejemplo2": "SHOWCOLUMNS.txt"
+            "ejemplo2": "SHOWCOLUMNS.txt",
+            "ejemplo3": "SELECTDATABASE.txt"
         }
     ]
 }
