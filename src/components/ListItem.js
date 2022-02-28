@@ -12,6 +12,7 @@ function ListItem(props) {
 
 
   return (
+
     <React.Fragment>
       <div className="container-fluid listItem">
                     <h1>{props.nombre}</h1>
@@ -37,6 +38,7 @@ function ListItem(props) {
                                 <a href={require(`../Ejemplos/${detalle.ejemplo1}`)} target="_blank">Ejemplo1</a>
                                 <a href={require(`../Ejemplos/${detalle.ejemplo2}`)} target="_blank">Ejemplo2</a>
                                 <a href={require(`../Ejemplos/${detalle.ejemplo3}`)} target="_blank">Ejemplo3</a>
+
                              </Accordion.Body>
                             </Accordion.Item>
 

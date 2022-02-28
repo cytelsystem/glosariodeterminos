@@ -29,6 +29,24 @@
             "ejemplo1": "MathRound.jpg",
             "ejemplo2": "MathRound.txt",
             "ejemplo3": "MathRound.txt"
+        },
+        {
+            "id": 4,
+            "name": "If ternario",
+            "detalle": "Version Abreviada del IF",
+            "Url": "prueba.txt",
+            "ejemplo1": "ifTernario.jpg",
+            "ejemplo2": "ifTernario.txt",
+            "ejemplo3": "ifTernario.txt"
+        },
+        {
+            "id": 5,
+            "name": "Switch",
+            "detalle": "El switch nos propone una sintaxis más legible para los casos en los que queremos evaluar muchas posibilidades de un solo valor",
+            "Url": "prueba.txt",
+            "ejemplo1": "Switch.jpg",
+            "ejemplo2": "Switch.txt",
+            "ejemplo3": "Switch.txt"
         }
     ]
 }
