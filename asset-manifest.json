@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosario/static/css/main.69319729.css",
-    "main.js": "/glosario/static/js/main.f78cba28.js",
+    "main.js": "/glosario/static/js/main.31e3a57d.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosario/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosario/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosario/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -375,7 +375,7 @@
     "static/media/exports.txt": "/glosario/static/media/exports.ae3d95c117f735f5894d.txt",
     "static/media/lastindexof.txt": "/glosario/static/media/lastindexof.a51e239d1b6fee4e7ff5.txt",
     "static/media/SEC_TO_TIME.txt": "/glosario/static/media/SEC_TO_TIME.f2ac80f63c70d713da4a.txt",
-    "static/media/indexof.txt": "/glosario/static/media/indexof.266ac806afdd72c0a5a6.txt",
+    "static/media/indexOf.txt": "/glosario/static/media/indexOf.266ac806afdd72c0a5a6.txt",
     "static/media/WHERE.txt": "/glosario/static/media/WHERE.f82aa36e2bb25b177da0.txt",
     "static/media/shift.txt": "/glosario/static/media/shift.9c12578e4a53b2745b4b.txt",
     "static/media/FORMAT.txt": "/glosario/static/media/FORMAT.00396efc743d733533d5.txt",
@@ -473,10 +473,10 @@
     "static/media/unitTest.txt": "/glosario/static/media/unitTest.31d6cfe0d16ae931b73c.txt",
     "static/media/var.txt": "/glosario/static/media/var.31d6cfe0d16ae931b73c.txt",
     "main.69319729.css.map": "/glosario/static/css/main.69319729.css.map",
-    "main.f78cba28.js.map": "/glosario/static/js/main.f78cba28.js.map"
+    "main.31e3a57d.js.map": "/glosario/static/js/main.31e3a57d.js.map"
   },
   "entrypoints": [
     "static/css/main.69319729.css",
-    "static/js/main.f78cba28.js"
+    "static/js/main.31e3a57d.js"
   ]
 }
