@@ -6,47 +6,164 @@
             "id": 1,
             "name": "var",
             "detalle": "Variable para guardar valores de forma global",
-            "Url": "prueba.txt",
             "ejemplo1": "var.jpg",
             "ejemplo2": "var.txt",
-            "ejemplo3": "var.txt"
+            "ejemplo3": "NoHayInformacion.jpg"
 
         },
         {
             "id": 2,
             "name": "let",
             "detalle": "Variable para guardar valores de forma local en una funcion",
-            "Url": "prueba.txt",
             "ejemplo1": "let.txt",
             "ejemplo2": "let.txt",
-            "ejemplo3": "let.txt"
+            "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 3,
             "name": "Math.round()",
             "detalle": "Retorna el valor resondeado al entero mas cercano",
-            "Url": "prueba.txt",
             "ejemplo1": "MathRound.jpg",
             "ejemplo2": "MathRound.txt",
-            "ejemplo3": "MathRound.txt"
+            "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 4,
             "name": "If ternario",
             "detalle": "Version Abreviada del IF",
-            "Url": "prueba.txt",
             "ejemplo1": "ifTernario.jpg",
             "ejemplo2": "ifTernario.txt",
-            "ejemplo3": "ifTernario.txt"
+            "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 5,
             "name": "Switch",
             "detalle": "El switch nos propone una sintaxis más legible para los casos en los que queremos evaluar muchas posibilidades de un solo valor",
-            "Url": "prueba.txt",
             "ejemplo1": "Switch.jpg",
             "ejemplo2": "Switch.txt",
-            "ejemplo3": "Switch.txt"
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 6,
+            "name": "typeof",
+            "detalle": "Devolver el tipo de dato",
+            "ejemplo1": "typeof.jpg",
+            "ejemplo2": "typeof.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 7,
+            "name": ".length",
+            "detalle": "Devolver la longitud de una cadena de texto",
+            "ejemplo1": "length.jpg",
+            "ejemplo2": "length.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 8,
+            "name": ".toUpperCase",
+            "detalle": "Convierte a mayusculas un string",
+            "ejemplo1": "toUpperCase.jpg",
+            "ejemplo2": "toUpperCase.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 9,
+            "name": ".charAt()",
+            "detalle": "Se ubica el caracter que se le indica dentro de un string",
+            "ejemplo1": "charAt.jpg",
+            "ejemplo2": "charAt.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 10,
+            "name": ".slice()",
+            "detalle": "Toma una porcion determinada de una cadena de texto y un indice en un array",
+            "ejemplo1": "slice.jpg",
+            "ejemplo2": "slice.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 11,
+            "name": ".trim()",
+            "detalle": "Elimina los espacios que esten al principio y al final de un string",
+            "ejemplo1": "trim.jpg",
+            "ejemplo2": "trim.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 12,
+            "name": ".split()",
+            "detalle": "Convierte un string en un array",
+            "ejemplo1": "split.jpg",
+            "ejemplo2": "split.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 13,
+            "name": ".replace()",
+            "detalle": "Permite remplazar una porcion de texto dentro de un string",
+            "ejemplo1": "replace.jpg",
+            "ejemplo2": "replace.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Array[]",
+            "detalle": "Permite almacenar elementos puntuales ocupando una pocicion numerada",
+            "ejemplo1": "array.jpg",
+            "ejemplo2": "array.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 15,
+            "name": ".push()",
+            "detalle": "Permite adicionar la final de un array otros elementos",
+            "ejemplo1": "push.jpg",
+            "ejemplo2": "push.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 16,
+            "name": ".pop()",
+            "detalle": "Elimina el último elemento de un array",
+            "ejemplo1": "pop.jpg",
+            "ejemplo2": "pop.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 17,
+            "name": ".shift()",
+            "detalle": "Elimina el primer elemento de un array o elemento [0]",
+            "ejemplo1": "shift.jpg",
+            "ejemplo2": "shift.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 18,
+            "name": ".unshift()",
+            "detalle": "Agrega uno o varios elementos al principio de un array",
+            "ejemplo1": "unshift.jpg",
+            "ejemplo2": "unshift.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 19,
+            "name": ".join()",
+            "detalle": "Une los elementos de un array utilizando el separador que le especifiquemos.",
+            "ejemplo1": "join.jpg",
+            "ejemplo2": "join.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 20,
+            "name": ".indexOf",
+            "detalle": "Devolver la pocicion de ubicacion elemento(texto) dentro de un array",
+            "ejemplo1": "indexOf.jpg",
+            "ejemplo2": "indexOf.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
+
+
     ]
 }
