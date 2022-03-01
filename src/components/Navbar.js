@@ -7,7 +7,7 @@ import * as ReactBootStrap from "react-bootstrap";
 
 function Navbar() {
   return (
-    <div>
+    <div className="sticky-top" >
 
       <ReactBootStrap.Navbar bg="dark" variant="dark" expand={false}>
           <ReactBootStrap.Container fluid>

@@ -1,0 +1,17 @@
+{
+    "results": [
+
+
+        {
+            "id": 1,
+            "name": "falta",
+            "detalle": "falta inclir informacion",
+            "ejemplo1": "var.jpg",
+            "ejemplo2": "var.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        }
+
+
+    ]
+}

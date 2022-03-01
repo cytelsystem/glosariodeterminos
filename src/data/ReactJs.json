@@ -1,0 +1,224 @@
+{
+    "results": [
+
+
+        {
+            "id": 1,
+            "name": "Instalación",
+            "detalle": "Herramientas y commandos instalacion entorno de react",
+            "ejemplo1": "InstalacionReactJs.jpg",
+            "ejemplo2": "InstalacionReactJs.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "Configuracion del proyecto en react",
+            "detalle": "Creacion y configuracion de carpetas que requerimos para nuestro proyecto",
+            "ejemplo1": "NoHayInformacion.jpg",
+            "ejemplo2": "configuracionProyectoReact.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 3,
+            "name": "Instalacion de Sass en react",
+            "detalle": "Instalacion de el preprocesador Sass para dar estilos a nuestro proyecto",
+            "ejemplo1": "NoHayInformacion.jpg",
+            "ejemplo2": "InstalacionSassReact.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 4,
+            "name": "Instalar Bootstrap ReactJS",
+            "detalle": "Instalar bootstrap para utilizar herramientas de bootstrap",
+            "ejemplo1": "installBootstrapReactJS.jpg",
+            "ejemplo2": "installBootstrapReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 5,
+            "name": "Git publicación proyecto gh-pages",
+            "detalle": "Deploy en producción",
+            "ejemplo1": "gitHubDeployReactJS.jpg",
+            "ejemplo2": "installBootstrapReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 6,
+            "name": "Crear un elemento sin utilizar react",
+            "detalle": "Crear un elemento sin utilizar react",
+            "ejemplo1": "CreatElement.jpg",
+            "ejemplo2": "CreatElement.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 7,
+            "name": "Crear un elemento utilizando ReactJS",
+            "detalle": "Crear un elemento utilizando ReactJS",
+            "ejemplo1": "CreatElementReactJS.jpg",
+            "ejemplo2": "CreatElementReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 8,
+            "name": "Crear un Componente ReactJS",
+            "detalle": "Crear componente utilizando ReactJS",
+            "ejemplo1": "CreatComponenteReactJS.jpg",
+            "ejemplo2": "CreatComponenteReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 9,
+            "name": "Props en Componente ReactJS",
+            "detalle": "Enviar informacion como parametro a los componentes",
+            "ejemplo1": "PropsComponenteReactJS.jpg",
+            "ejemplo2": "PropsComponenteReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 10,
+            "name": "Enlazando eventos",
+            "detalle": "Enlazando eventos",
+            "ejemplo1": "EventosReactJS.jpg",
+            "ejemplo2": "EventosReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 11,
+            "name": "Manejo de estados this.state / this.setState",
+            "detalle": "Componentes pueden producir su propia información para ser utilizada en props",
+            "ejemplo1": "ManejoEstadosReactJS.jpg",
+            "ejemplo2": "ManejoEstadosReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 12,
+            "name": "Levantamiento del estado",
+            "detalle": "Utilizar la informacion para pasarla como props a los diferentes componentes",
+            "ejemplo1": "LevantamientoEstadoReactJS.jpg",
+            "ejemplo2": "LevantamientoEstadoReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 13,
+            "name": "Lista de componentes",
+            "detalle": "Generar varios componentes en forma de lista",
+            "ejemplo1": "ListaDeComponentesReactJS.jpg",
+            "ejemplo2": "ListaDeComponentesReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 14,
+            "name": "React Router",
+            "detalle": "Mejora la respuesta al traer solamente la diferencia de informacion cuando se hace la solicitud",
+            "ejemplo1": "ReactRouterInstalacion.txt",
+            "ejemplo2": "ReactRouterJS.jpg",
+            "ejemplo3": "ReactRouterJS.txt"
+
+        },
+        {
+            "id": 15,
+            "name": "Layout React",
+            "detalle": "Permite que un componente se pueda mostrar en diferentes paginas sin escribirlo varias veses",
+            "ejemplo1": "LayoutReactJS.jpg",
+            "ejemplo2": "LayoutReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 16,
+            "name": "Ciclo de vida de un componente",
+            "detalle": "Montaje, Actualizacion y desmontage",
+            "ejemplo1": "CicloVidaComponenteReactJS.jpg",
+            "ejemplo2": "CicloVidaComponenteReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 17,
+            "name": "setTimeout",
+            "detalle": "El método setTimeout () llama a una función después de una cantidad de milisegundos.",
+            "ejemplo1": "setTimeoutReactJS.jpg",
+            "ejemplo2": "setTimeoutReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 18,
+            "name": "Consumir información Json en ReactJs",
+            "detalle": "Cargar información de un archivo json y mostrar en el navegador",
+            "ejemplo1": "JsonReactJS.jpg",
+            "ejemplo2": "JsonReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 19,
+            "name": "API en ReactJs",
+            "detalle": "Manejo de informacion desde una Api",
+            "ejemplo1": "ApiReactJS.jpg",
+            "ejemplo2": "ApiReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 20,
+            "name": "Solicitando datos (GET) ReactJs",
+            "detalle": "Solicitar informacion a una api con Get",
+            "ejemplo1": "ApiGetReactJS.jpg",
+            "ejemplo2": "ApiGetReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 21,
+            "name": "Instalacion de Hash Md5",
+            "detalle": "Generar hash para utilizar en las aplicaciones",
+            "ejemplo1": "InstalacionHashMd5.jpg",
+            "ejemplo2": "InstalacionHashMd5.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 22,
+            "name": "Enviar datos POST a la Api",
+            "detalle": "Enviar un formulario lleno y registrar datos en la api",
+            "ejemplo1": "EnviarDatosPOSTReactJs.jpg",
+            "ejemplo2": "EnviarDatosPOSTReactJs.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 23,
+            "name": "Servidor temporal Pruebas Api",
+            "detalle": "Crear un servidor en el puerto 3001 Pruebas reales api",
+            "ejemplo1": "ServPruebasApiReactJs.jpg",
+            "ejemplo2": "ServPruebasApiReactJs.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 24,
+            "name": "Offcanvas con react",
+            "detalle": "Crear un pagina con boton hamburguesa y menu interno que se muestra al oprimir",
+            "ejemplo1": "OffcanvasReact.jpg",
+            "ejemplo2": "OffcanvasReact.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        }
+
+
+    ]
+}
