@@ -25,7 +25,7 @@ function Navbar() {
                   <ul className="row list-unstyled">
                     {data.results.map(detalle =>(
                       <li className="col-4 col-md-6 col-sm-4" key={detalle.id}>
-                          <Link to={detalle.Url} className="btn btn-secondary">{detalle.name}</Link>
+                          <Link to={detalle.Url} className="btn btn-secondary btn-style">{detalle.name}</Link>
                       </li>
                     ))}
                   </ul>
