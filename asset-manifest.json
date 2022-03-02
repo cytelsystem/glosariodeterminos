@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/glosariodeterminos/static/css/main.69319729.css",
-    "main.js": "/glosariodeterminos/static/js/main.6e77b2cb.js",
+    "main.css": "/glosariodeterminos/static/css/main.7cfaf685.css",
+    "main.js": "/glosariodeterminos/static/js/main.aa278d85.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -233,6 +233,7 @@
     "static/media/toUpperCase.jpg": "/glosariodeterminos/static/media/toUpperCase.21533179f14e274bec0b.jpg",
     "static/media/MathRound.jpg": "/glosariodeterminos/static/media/MathRound.2190d480ef9478efa6cc.jpg",
     "static/media/ApiGetReactJS.txt": "/glosariodeterminos/static/media/ApiGetReactJS.6155b24d11a788cc67e9.txt",
+    "static/media/PaginaPrincipal.webp": "/glosariodeterminos/static/media/PaginaPrincipal.1db7c91fa5a29508c96e.webp",
     "static/media/JsonReactJS.txt": "/glosariodeterminos/static/media/JsonReactJS.48fa145ac878fffc474c.txt",
     "static/media/TRUNCATE.jpg": "/glosariodeterminos/static/media/TRUNCATE.0a19007d95f0f126cf08.jpg",
     "static/media/prueba.docx": "/glosariodeterminos/static/media/prueba.8409096c718904a6be43.docx",
@@ -476,11 +477,11 @@
     "static/media/tecnicasPrueba.txt": "/glosariodeterminos/static/media/tecnicasPrueba.31d6cfe0d16ae931b73c.txt",
     "static/media/unitTest.txt": "/glosariodeterminos/static/media/unitTest.31d6cfe0d16ae931b73c.txt",
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
-    "main.69319729.css.map": "/glosariodeterminos/static/css/main.69319729.css.map",
-    "main.6e77b2cb.js.map": "/glosariodeterminos/static/js/main.6e77b2cb.js.map"
+    "main.7cfaf685.css.map": "/glosariodeterminos/static/css/main.7cfaf685.css.map",
+    "main.aa278d85.js.map": "/glosariodeterminos/static/js/main.aa278d85.js.map"
   },
   "entrypoints": [
-    "static/css/main.69319729.css",
-    "static/js/main.6e77b2cb.js"
+    "static/css/main.7cfaf685.css",
+    "static/js/main.aa278d85.js"
   ]
 }
