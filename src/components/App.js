@@ -13,8 +13,6 @@ import ReactJs from '../pages/ReactJs';
 import Layout from './Layout';
 import NotFound from '../pages/NotFound';
 
-
-
 function App() {
   return (
     <Router basename={process.env.PUBLIC_URL + '/'}>
