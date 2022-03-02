@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosario/static/css/main.69319729.css",
-    "main.js": "/glosario/static/js/main.49e82a9a.js",
+    "main.js": "/glosario/static/js/main.c6794fa1.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosario/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosario/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosario/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -397,6 +397,8 @@
     "static/media/equals.txt": "/glosario/static/media/equals.4d4f4ec81319741e9d9f.txt",
     "static/media/SHOWCOLUMNS.txt": "/glosario/static/media/SHOWCOLUMNS.7ccb32b7f699c131411e.txt",
     "static/media/SELECTDATABASE.txt": "/glosario/static/media/SELECTDATABASE.5e5f3d27628ae3259b48.txt",
+    "static/media/Generics2.txt": "/glosario/static/media/Generics2.ec63d62f34f7eb38b904.txt",
+    "static/media/TablaConceptosPOPMica.txt": "/glosario/static/media/TablaConceptosPOPMica.ec63d62f34f7eb38b904.txt",
     "static/media/AVG.txt": "/glosario/static/media/AVG.7e5af7156bc83019e54b.txt",
     "static/media/COUNT.txt": "/glosario/static/media/COUNT.7e5af7156bc83019e54b.txt",
     "static/media/DATE_ADD.txt": "/glosario/static/media/DATE_ADD.7e5af7156bc83019e54b.txt",
@@ -428,6 +430,7 @@
     "static/media/Happypathtesting.txt": "/glosario/static/media/Happypathtesting.31d6cfe0d16ae931b73c.txt",
     "static/media/HerenciaJava.txt": "/glosario/static/media/HerenciaJava.31d6cfe0d16ae931b73c.txt",
     "static/media/ImplementacionPrueba.txt": "/glosario/static/media/ImplementacionPrueba.31d6cfe0d16ae931b73c.txt",
+    "static/media/InstalacionPop.txt": "/glosario/static/media/InstalacionPop.31d6cfe0d16ae931b73c.txt",
     "static/media/MatchersJest.txt": "/glosario/static/media/MatchersJest.31d6cfe0d16ae931b73c.txt",
     "static/media/MetodosClase - copia.txt": "/glosario/static/media/MetodosClase - copia.31d6cfe0d16ae931b73c.txt",
     "static/media/MetodosClase.txt": "/glosario/static/media/MetodosClase.31d6cfe0d16ae931b73c.txt",
@@ -474,10 +477,10 @@
     "static/media/unitTest.txt": "/glosario/static/media/unitTest.31d6cfe0d16ae931b73c.txt",
     "static/media/var.txt": "/glosario/static/media/var.31d6cfe0d16ae931b73c.txt",
     "main.69319729.css.map": "/glosario/static/css/main.69319729.css.map",
-    "main.49e82a9a.js.map": "/glosario/static/js/main.49e82a9a.js.map"
+    "main.c6794fa1.js.map": "/glosario/static/js/main.c6794fa1.js.map"
   },
   "entrypoints": [
     "static/css/main.69319729.css",
-    "static/js/main.49e82a9a.js"
+    "static/js/main.c6794fa1.js"
   ]
 }
