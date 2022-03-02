@@ -11,7 +11,7 @@ function Navbar() {
 
       <ReactBootStrap.Navbar bg="dark" variant="dark" expand={false}>
           <ReactBootStrap.Container fluid>
-            <ReactBootStrap.Navbar.Brand href="#">Glosario de terminos</ReactBootStrap.Navbar.Brand>
+            <ReactBootStrap.Navbar.Brand href="/">Glosario de terminos</ReactBootStrap.Navbar.Brand>
             <ReactBootStrap.Navbar.Toggle aria-controls="offcanvasNavbar" />
 
             <ReactBootStrap.Navbar.Offcanvas id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel" placement="end">
