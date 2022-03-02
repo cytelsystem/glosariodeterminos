@@ -1,6 +1,6 @@
 {
-  "homepage": "https://cytelsystem.github.io/glosario",
-  "name": "glosario",
+  "homepage": "https://cytelsystem.github.io/glosariodeterminos",
+  "name": "glosariodeterminos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
