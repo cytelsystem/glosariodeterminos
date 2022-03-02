@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import data from '../db.json';
+import data from '../data/Navbar.json';
 import './styles/navbar.scss';
 
 import * as ReactBootStrap from "react-bootstrap";

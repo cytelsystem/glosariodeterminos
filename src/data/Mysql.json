@@ -1,34 +1,431 @@
 {
     "results": [
 
-
         {
             "id": 1,
-            "name": "SELECT DATABASE()",
-            "detalle": "Muestra la base de datos en la que estoy parado actualmente1",
-            "Url": "prueba.txt",
-            "ejemplo1": "SELECTDATABASE.jpg",
-            "ejemplo2": "SELECTDATABASE.txt",
-            "ejemplo3": "SELECTDATABASE.txt"
-
+            "name": "INSTALACIÓN",
+            "detalle": "Instalación y configuracion Base de Datos",
+            "ejemplo1": "InstalacionMysql.jpg",
+            "ejemplo2": "InstalacionMysql.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 2,
-            "name": "SHOW TABLES",
-            "detalle": "Lista las tablas de la base de datos por consola",
-            "Url": "prueba.txt",
-            "ejemplo1": "SHOWTABLES.jpg",
-            "ejemplo2": "SHOWTABLES.txt",
-            "ejemplo3": "SELECTDATABASE.txt"
+            "name": "SELECT DATABASE()",
+            "detalle": "Muestra la base de datos en la que estoy parado actualmente",
+            "ejemplo1": "SELECTDATABASE.jpg",
+            "ejemplo2": "SELECTDATABASE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 3,
+            "name": "SHOW TABLES",
+            "detalle": "Lista las tablas de la base de datos por consola",
+            "ejemplo1": "SHOWTABLES.jpg",
+            "ejemplo2": "SHOWTABLES.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 4,
             "name": "SHOW COLUMNS",
             "detalle": "Lista los campos de una tabla de la base de datos por consola",
-            "Url": "prueba.txt",
             "ejemplo1": "SHOWCOLUMNS.jpg",
             "ejemplo2": "SHOWCOLUMNS.txt",
-            "ejemplo3": "SELECTDATABASE.txt"
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 5,
+            "name": "OPERADORES",
+            "detalle": "Operadores que se pueden uilizar para las diferentes consultas",
+            "ejemplo1": "OPERADORES.jpg",
+            "ejemplo2": "OPERADORES.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 6,
+            "name": "CREATE DATABASE",
+            "detalle": "Creacion de una base de datos sin las tablas",
+            "ejemplo1": "CREATEDATABASE.jpg",
+            "ejemplo2": "CREATEDATABASE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 7,
+            "name": "CREATE TABLE",
+            "detalle": "Creacion de las tablas despues de tener la base de datos creada",
+            "ejemplo1": "CREATETABLE.jpg",
+            "ejemplo2": "CREATETABLE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 8,
+            "name": "ALTER TABLE",
+            "detalle": "Modifica la estructura de la tabla (Los campos)",
+            "ejemplo1": "ALTERTABLE.jpg",
+            "ejemplo2": "ALTERTABLE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 9,
+            "name": "DROP",
+            "detalle": "DROP TABLE borrará la tabla o columna (DDL) que le especifiquemos en la sentencia",
+            "ejemplo1": "DROP.jpg",
+            "ejemplo2": "DROP.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 10,
+            "name": "TRUNCATE",
+            "detalle": "TRUNCATE TABLE elimina los datos dentro de una tabla, pero no la tabla en sí.",
+            "ejemplo1": "TRUNCATE.jpg",
+            "ejemplo2": "TRUNCATE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 11,
+            "name": "SELECT",
+            "detalle": "Permite realizar consultas a una tabla de la base de datos",
+            "ejemplo1": "SELECT.jpg",
+            "ejemplo2": "SELECT.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 12,
+            "name": "INSERT INTO",
+            "detalle": "Permite adicionar registros a una tabla de la base de datos",
+            "ejemplo1": "INSERT.jpg",
+            "ejemplo2": "INSERT.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 13,
+            "name": "UPDATE",
+            "detalle": "UPDATE modificará los registros existentes de una tabla.",
+            "ejemplo1": "UPDATE.jpg",
+            "ejemplo2": "UPDATE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 14,
+            "name": "DELETE",
+            "detalle": "Con DELETE podemos borrar información de una tabla.",
+            "ejemplo1": "DELETE.jpg",
+            "ejemplo2": "DELETE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 15,
+            "name": "WHERE",
+            "detalle": "Permite filtrar datos en una consultas de una tabla de la base de datos",
+            "ejemplo1": "WHERE.jpg",
+            "ejemplo2": "WHERE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 16,
+            "name": "ORDER BY",
+            "detalle": "Permite ordenar datos por un campo en una consultas de una tabla de la base de datos",
+            "ejemplo1": "ORDER_BY.jpg",
+            "ejemplo2": "ORDER_BY.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 17,
+            "name": "BETWEEN",
+            "detalle": "Permite filtrar datos en una consultas de una tabla de la base de datos",
+            "ejemplo1": "BETWEEN.jpg",
+            "ejemplo2": "BETWEEN.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 18,
+            "name": "LIKE",
+            "detalle": "Permite utilizar comodines % para filtrar en una consulta de una tabla de la base de datos",
+            "ejemplo1": "LIKE.jpg",
+            "ejemplo2": "LIKE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 19,
+            "name": "LIMIT",
+            "detalle": "Limita la cantidad de registros que se pueden mostrar en una consulta a la tabla de la base de datos",
+            "ejemplo1": "LIMIT.jpg",
+            "ejemplo2": "LIMIT.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 20,
+            "name": "OFFSET",
+            "detalle": "Permite Hacer paginado con cantidad de registros a mostrar utilizando LIMIT",
+            "ejemplo1": "OFFSET.jpg",
+            "ejemplo2": "OFFSET.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 21,
+            "name": "ALIAS AS",
+            "detalle": "Permite colocar un alias a una columna o tabla en una consulta",
+            "ejemplo1": "AS.jpg",
+            "ejemplo2": "AS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 21,
+            "name": "IN",
+            "detalle": "Permite filtrar en una consulta por datos completos",
+            "ejemplo1": "IN.jpg",
+            "ejemplo2": "IN.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 22,
+            "name": "COUNT()",
+            "detalle": "Devuelve un único resultado indicando la cantidad de filas/registros que cumplen con el criterio.",
+            "ejemplo1": "COUNT.jpg",
+            "ejemplo2": "COUNT.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 23,
+            "name": "AVG()",
+            "detalle": "AVG (average) devuelve un único resultado indicando el promedio de una columna cuyo tipo de datos debe ser numérico.",
+            "ejemplo1": "AVG.jpg",
+            "ejemplo2": "AVG.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 24,
+            "name": "SUM()",
+            "detalle": "SUM (suma) devuelve un único resultado indicando la suma de una columna cuyo tipo de datos debe ser numérico.",
+            "ejemplo1": "SUM.jpg",
+            "ejemplo2": "SUM.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 25,
+            "name": "MIN()",
+            "detalle": "MIN devuelve un único resultado indicando el valor mínimo de una columna cuyo tipo de datos debe ser numérico.",
+            "ejemplo1": "MIN.jpg",
+            "ejemplo2": "MIN.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 26,
+            "name": "MAX()",
+            "detalle": "MAX devuelve un único resultado indicando el valor máximo de una columna cuyo tipo de datos debe ser numérico.",
+            "ejemplo1": "MAX.jpg",
+            "ejemplo2": "MAX.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 27,
+            "name": "GROUP BY",
+            "detalle": "GROUP BY se usa para agrupar los registros de la tabla resultante de una consulta por una o más columnas.",
+            "ejemplo1": "GROUPBY.jpg",
+            "ejemplo2": "GROUPBY.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 28,
+            "name": "HAVING",
+            "detalle": "Cumple la misma función que WHERE, a diferencia de que HAVING permite la implementación de alias y funciones de agregación en las condiciones de la selección de datos.",
+            "ejemplo1": "HAVING.jpg",
+            "ejemplo2": "HAVING.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 29,
+            "name": "Table reference",
+            "detalle": "Consultas a más de una tabla de forma sencilla",
+            "ejemplo1": "TABLEREFERENCE.jpg",
+            "ejemplo2": "TABLEREFERENCE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 30,
+            "name": "INNER JOIN",
+            "detalle": "INNER JOIN nos permite hacer consultas a distintas tablas y unir los resultados.",
+            "ejemplo1": "INNERJOIN.jpg",
+            "ejemplo2": "INNERJOIN.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 31,
+            "name": "LEFT JOIN",
+            "detalle": "LEFT JOIN nos permite hacer consultas a distintas tablas y unir y mostrar los resultados incluyendo campos de la tabla izquierda que esten en (null)",
+            "ejemplo1": "LEFT_JOIN.jpg",
+            "ejemplo2": "LEFT_JOIN.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 32,
+            "name": "DISTINCT",
+            "detalle": "DISTINCT devuelve un listado en donde cada fila es distinta.",
+            "ejemplo1": "DISTINCT.jpg",
+            "ejemplo2": "DISTINCT.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 33,
+            "name": "CONCAT",
+            "detalle": "Usamos CONCAT para concatenar dos o más expresiones:",
+            "ejemplo1": "CONCAT.jpg",
+            "ejemplo2": "CONCAT.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 34,
+            "name": "COALESCE",
+            "detalle": "Usamos COALESCE para sustituir el valor NULL en una sucesión de expresiones o campos.",
+            "ejemplo1": "COALESCE.jpg",
+            "ejemplo2": "COALESCE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 35,
+            "name": "DATEDIFF",
+            "detalle": "Usamos DATEDIFF para devolver la diferencia entre dos fechas, tomando como granularidad el intervalo especificado.",
+            "ejemplo1": "DATEDIFF.jpg",
+            "ejemplo2": "DATEDIFF.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 36,
+            "name": "TIMEDIFF",
+            "detalle": "Usamos TIMEDIFF para devolver la diferencia entre dos horarios, tomando como granularidad el intervalo especificado.",
+            "ejemplo1": "TIMEDIFF.jpg",
+            "ejemplo2": "TIMEDIFF.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 37,
+            "name": "EXTRACT",
+            "detalle": "Usamos EXTRACT para extraer partes de una fecha:",
+            "ejemplo1": "EXTRACT.jpg",
+            "ejemplo2": "EXTRACT.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 38,
+            "name": "REPLACE",
+            "detalle": "Forma compacta de crear o expresar nuestras funciones.",
+            "ejemplo1": "REPLACE_MYSQL.jpg",
+            "ejemplo2": "REPLACE_MYSQL.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 39,
+            "name": "DATE_FORMAT",
+            "detalle": "Usamos DATE_FORMAT para cambiar el formato de salida de una fecha según una condición dada.",
+            "ejemplo1": "DATE_FORMAT.jpg",
+            "ejemplo2": "DATE_FORMAT.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 40,
+            "name": "DATE_ADD",
+            "detalle": "Usamos DATE_ADD para sumar o agregar un período de tiempo a un valor de tipo DATE o DATETIME.",
+            "ejemplo1": "DATE_ADD.jpg",
+            "ejemplo2": "DATE_ADD.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 41,
+            "name": "DATE_SUB",
+            "detalle": "Usamos DATE_SUB para restar o quitar un período de tiempo a un valor de tipo DATE o DATETIME.",
+            "ejemplo1": "DATE_SUB.jpg",
+            "ejemplo2": "DATE_SUB.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 42,
+            "name": "CASE",
+            "detalle": "Usamos CASE para evaluar condiciones y devolver la primera condición que se cumpla. En este ejemplo, la tabla resultante tendrá 4 columnas: id, titulo, rating, calificacion. Esta última columna mostrará los valores: Mala, Regular, Buena y Excelente; según el rating de la película.",
+            "ejemplo1": "CASE_MYSQL.jpg",
+            "ejemplo2": "CASE_MYSQL.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 43,
+            "name": "LENGTH()",
+            "detalle": "Usamos LENGTH para contar la cantidad de caracteres y filtrar en el WHERE",
+            "ejemplo1": "LENGTH_MYSQL.jpg",
+            "ejemplo2": "LENGTH_MYSQL.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 44,
+            "name": "LEFT()",
+            "detalle": "Extrae la cantidad de caracteres indicada de una columna",
+            "ejemplo1": "LEFT.jpg",
+            "ejemplo2": "LEFT.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 45,
+            "name": "SEC_TO_TIME",
+            "detalle": "Convertir Milisegundos a minutos",
+            "ejemplo1": "SEC_TO_TIME.jpg",
+            "ejemplo2": "SEC_TO_TIME.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 46,
+            "name": "ROUND",
+            "detalle": "Redondea un numero",
+            "ejemplo1": "ROUND.jpg",
+            "ejemplo2": "ROUND.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 47,
+            "name": "FORMAT",
+            "detalle": "Formatea un numero y se le pueden incluir la cantidad de decimales",
+            "ejemplo1": "FORMAT.jpg",
+            "ejemplo2": "FORMAT.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 48,
+            "name": "LOCATE",
+            "detalle": "Retorna el index o posición de un caractes o numero",
+            "ejemplo1": "LOCATE.jpg",
+            "ejemplo2": "LOCATE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 48,
+            "name": "IS NULL o IS NOT NULL",
+            "detalle": "Verificar campos null y con informacion o vacios ='' ",
+            "ejemplo1": "ISNULLoISNOTNULL.jpg",
+            "ejemplo2": "ISNULLoISNOTNULL.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 48,
+            "name": "INDICES",
+            "detalle": "Un índice dentro de una base de datos es una estructura de datos que mejora la velocidad de las consultas,",
+            "ejemplo1": "INDICES.jpg",
+            "ejemplo2": "INDICES.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 48,
+            "name": "VISTAS",
+            "detalle": "Una vista es un elemento de la base de datos que facilita el acceso a los datos de las tablas.",
+            "ejemplo1": "VISTA.jpg",
+            "ejemplo2": "VISTA.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 48,
+            "name": "STORED PROCEDURES",
+            "detalle": "Los SP (stored procedure) son un conjunto de instrucciones en formato SQL que se almacenan",
+            "ejemplo1": "PROCEDURE.jpg",
+            "ejemplo2": "PROCEDURE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
+
+
     ]
 }
