@@ -4,14 +4,409 @@
 
         {
             "id": 1,
-            "name": "var",
-            "detalle": "Falta incluir informacion",
-            "ejemplo1": "var.jpg",
-            "ejemplo2": "var.txt",
+            "name": "Instalacion",
+            "detalle": "Instalacion y configuracion",
+            "ejemplo1": "InstalacionPop.jpg",
+            "ejemplo2": "InstalacionPop.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "Tipos de Datos",
+            "detalle": "Tipos de Datos Primitivos y operadores matematicos, Logicos",
+            "ejemplo1": "TiposDatosJava.jpg",
+            "ejemplo2": "TiposDatosJava.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 3,
+            "name": "System.out.println",
+            "detalle": "Muestra informacion por consola",
+            "ejemplo1": "SystemOutPrintln.jpg",
+            "ejemplo2": "SystemOutPrintln.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 4,
+            "name": ".equals()",
+            "detalle": "Para efectuar una comparación por igual usamos equals",
+            "ejemplo1": "equals.jpg",
+            "ejemplo2": "equals.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 5,
+            "name": ".compareTo()",
+            "detalle": "Para comparar si un valor es mayor o menor que otro",
+            "ejemplo1": "compareTo.jpg",
+            "ejemplo2": "compareTo.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 6,
+            "name": "String",
+            "detalle": "Las Strings nos permiten utilizar funciones ya programadas",
+            "ejemplo1": "String.jpg",
+            "ejemplo2": "String.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 7,
+            "name": "Integer",
+            "detalle": "Clase Integer permite almacenar datos numericos enteros y tiene sus propios metodos",
+            "ejemplo1": "Integer.jpg",
+            "ejemplo2": "Integer.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 8,
+            "name": "Float",
+            "detalle": "Clase Float permite almacenar datos con decimales o punto flotante y tiene sus propios metodos",
+            "ejemplo1": "Float.jpg",
+            "ejemplo2": "Float.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 9,
+            "name": "Date",
+            "detalle": "Clase Date permite almacenar datos tipo fecha y tiene sus propios metodos",
+            "ejemplo1": "Date.jpg",
+            "ejemplo2": "Date.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 10,
+            "name": "Scanner",
+            "detalle": "Permite ingresar informacion mediante el teclado",
+            "ejemplo1": "Scanner.jpg",
+            "ejemplo2": "Scanner.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 11,
+            "name": "Metodo main y otros metodos",
+            "detalle": "El método main en java es un estándar utilizado por la JVM para iniciar la ejecución de cualquier programa Java",
+            "ejemplo1": "MetodoMain.jpg",
+            "ejemplo2": "MetodoMain.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 12,
+            "name": "Array",
+            "detalle": "Estructuras de datos estáticas que permiten guardar elementos",
+            "ejemplo1": "ArrayJava.jpg",
+            "ejemplo2": "ArrayJava.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 13,
+            "name": "Objetos",
+            "detalle": "OJO",
+            "ejemplo1": "EncapsulamientoJava.jpg",
+            "ejemplo2": "EncapsulamientoJava.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 14,
+            "name": "Encapsulamiento",
+            "detalle": "Limitar el acceso a las variables de nuestras clases Java de tal forma que podamos tener un mayor control sobre ellas",
+            "ejemplo1": "EncapsulamientoJava.jpg",
+            "ejemplo2": "EncapsulamientoJava.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 15,
+            "name": "UML",
+            "detalle": "Lenguaje de modelado unificado (Unified Modeling Language)",
+            "ejemplo1": "UMLJava.jpg",
+            "ejemplo2": "UMLJava.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 16,
+            "name": "Herencia en Java",
+            "detalle": "Heredar la informacion de la clase padre",
+            "ejemplo1": "HerenciaJava.jpg",
+            "ejemplo2": "HerenciaJava.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 17,
+            "name": "Creacion de una instancia",
+            "detalle": "Creacion y UML de una clase instanciada",
+            "ejemplo1": "CreacionInstancia.jpg",
+            "ejemplo2": "CreacionInstancia.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 18,
+            "name": "Sobre Carga",
+            "detalle": "Duplicar un metodo con el mismo nombre y distinto comportamiento",
+            "ejemplo1": "SobreCarga.jpg",
+            "ejemplo2": "SobreCarga.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 19,
+            "name": "Sobre Escritura",
+            "detalle": "Utiliza el metodo o firma de una interface o clase abstract y lo sobreEscribe",
+            "ejemplo1": "SobreEscritura.jpg",
+            "ejemplo2": "SobreEscritura.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 20,
+            "name": "Variables de Clase",
+            "detalle": "Variables de Clase",
+            "ejemplo1": "VariablesClase.jpg",
+            "ejemplo2": "VariablesClase.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 21,
+            "name": "Metodos de Clase",
+            "detalle": "Metodos de Clase",
+            "ejemplo1": "MetodosClase.jpg",
+            "ejemplo2": "MetodosClase.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 22,
+            "name": "Detalles POP",
+            "detalle": "Tetalles para tener en cuenta",
+            "ejemplo1": "detallesPOP.jpg",
+            "ejemplo2": "detallesPOP.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 23,
+            "name": "Tabla de Conceptos",
+            "detalle": "Detalles para tener en cuenta sobre UML",
+            "ejemplo1": "TablaConceptosPOPMica.jpg",
+            "ejemplo2": "TablaConceptosPOPMica.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 24,
+            "name": ".toString()",
+            "detalle": "toString()método devuelve una cadena que representa el objeto",
+            "ejemplo1": "toString.jpg",
+            "ejemplo2": "toString.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 25,
+            "name": ".hashCode()",
+            "detalle": "Devuelve un numero unico que identifica al objeto",
+            "ejemplo1": "hashCode.jpg",
+            "ejemplo2": "hashCode.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 26,
+            "name": ".equals(Object o)",
+            "detalle": "Método se usa para probar la igualdad entre los tipos de referencia (objetos) en Java",
+            "ejemplo1": "equalsObject.jpg",
+            "ejemplo2": "equalsObject.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 27,
+            "name": "Casting",
+            "detalle": "Transforma el objeto de un tipo a otro",
+            "ejemplo1": "Casting.jpg",
+            "ejemplo2": "Casting.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 28,
+            "name": "Colecciones",
+            "detalle": "Grupo de objetos(Elementos) que se almacenan y contiene metodos",
+            "ejemplo1": "ColeccionesPOP.jpg",
+            "ejemplo2": "ColeccionesPOP.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 29,
+            "name": "Recorrer Colecciones con FOR y WHILE",
+            "detalle": "Maneras de recorrer una colección.",
+            "ejemplo1": "RecorrerColecciones.jpg",
+            "ejemplo2": "RecorrerColecciones.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 30,
+            "name": "Iterator",
+            "detalle": "Maneras de recorrer una colección.",
+            "ejemplo1": "Iterator.jpg",
+            "ejemplo2": "Iterator.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 31,
+            "name": "for each Java",
+            "detalle": "Maneras de recorrer una colección.",
+            "ejemplo1": "forEachJava.jpg",
+            "ejemplo2": "forEachJava.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 32,
+            "name": "Crear coleccion",
+            "detalle": "Crear una collecion en java.",
+            "ejemplo1": "CrearColeccion.jpg",
+            "ejemplo2": "CrearColeccion.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 33,
+            "name": "Agregar Elementos coleccion",
+            "detalle": "Adicionar elementos a una collecion en java.",
+            "ejemplo1": "AgregarElementos.jpg",
+            "ejemplo2": "AgregarElementos.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 34,
+            "name": "Eliminar Elementos coleccion",
+            "detalle": "Adicionar elementos a una collecion en java.",
+            "ejemplo1": "EliminarElementosColeccion.jpg",
+            "ejemplo2": "EliminarElementosColeccion.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 35,
+            "name": "Obtener o buscar Elementos coleccion",
+            "detalle": "Obtener o buscar elementos a una collecion en java.",
+            "ejemplo1": "ObtenerElementosColeccion.jpg",
+            "ejemplo2": "ObtenerElementosColeccion.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 36,
+            "name": "Generics",
+            "detalle": "Programación paramétrica java.",
+            "ejemplo1": "Generics.jpg",
+            "ejemplo2": "Generics2.txt",
+            "ejemplo3": "Generics.txt"
+
+        },
+        {
+            "id": 37,
+            "name": "Excepciones try catch",
+            "detalle": "Cuando en nuestro código se produce un error por una situación excepcional.",
+            "ejemplo1": "ExcepcionesJava.jpg",
+            "ejemplo2": "ExcepcionesJava2.jpg",
+            "ejemplo3": "ExcepcionesJava.txt"
+
+        },
+        {
+            "id": 38,
+            "name": "Excepciones RuntimeException",
+            "detalle": "Cuando en nuestro código se produce un error por una situación excepcional.",
+            "ejemplo1": "RuntimeExceptionJava1.jpg",
+            "ejemplo2": "RuntimeExceptionJava2.jpg",
+            "ejemplo3": "RuntimeExceptionJava.txt"
+
+        },
+        {
+            "id": 39,
+            "name": "Excepciones Personalizadas",
+            "detalle": "Cuando en nuestro código se produce un error por una situación excepcional.",
+            "ejemplo1": "ExceptionPerJava1.jpg",
+            "ejemplo2": "ExceptionPerJava2.jpg",
+            "ejemplo3": "ExceptionPerJava.txt"
+
+        },
+        {
+            "id": 40,
+            "name": "Patrón Singleton",
+            "detalle": "Administra su propia instancia y evita que cualquier otra clase cree una instancia de ella.",
+            "ejemplo1": "PatronSingleton.jpg",
+            "ejemplo2": "PatronSingleton.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 41,
+            "name": "Patrón State",
+            "detalle": "El patrón de diseño State se utiliza cuando el comportamiento de un objeto cambia dependiendo del estado del mismo",
+            "ejemplo1": "PatronState1.jpg",
+            "ejemplo2": "PatronState2.jpg",
+            "ejemplo3": "PatronState.txt"
+
+        },
+        {
+            "id": 42,
+            "name": "Patrón Factory",
+            "detalle": "El propósito del patrón Factory es crear objetos, por lo que se considera un patrón de creación",
+            "ejemplo1": "PatronFactory1.jpg",
+            "ejemplo2": "PatronFactory2.jpg",
+            "ejemplo3": "PatronFactory3.jpg"
+
+        },
+        {
+            "id": 43,
+            "name": "Patrón Composite",
+            "detalle": "El patrón Composite sirve para construir objetos complejos a partir de otros más simples y similares entre sí",
+            "ejemplo1": "PatronComposite.jpg",
+            "ejemplo2": "PatronComposite2.jpg",
+            "ejemplo3": "PatronComposite.txt"
+
+        },
+        {
+            "id": 43,
+            "name": "Patrón Observer",
+            "detalle": "El patrón Composite sirve para construir objetos complejos a partir de otros más simples y similares entre sí",
+            "ejemplo1": "PatronObserver.jpg",
+            "ejemplo2": "PatronObserver.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 43,
+            "name": "Patrón Strategy",
+            "detalle": "El patrón Strategy sirve para construir objetos complejos a partir de otros más simples y similares entre sí",
+            "ejemplo1": "PatronStrategy.jpg",
+            "ejemplo2": "PatronStrategy.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
-
 
 
     ]

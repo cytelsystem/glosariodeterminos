@@ -4,8 +4,143 @@
 
         {
             "id": 1,
+            "name": "Pilares del Design Thinking",
+            "detalle": "5 recomendaciónes para pensar como diseñadores",
+            "ejemplo1": "PilaresDesignThinking.jpg",
+            "ejemplo2": "PilaresDesignThinking.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "Mindset del design thinking",
+            "detalle": "Mindset del design thinking",
+            "ejemplo1": "MindsetDesignThinking.jpg",
+            "ejemplo2": "MindsetDesignThinking.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 3,
+            "name": "Diferentes modelos de desing thinking",
+            "detalle": "Diferentes modelos de desing thinking",
+            "ejemplo1": "ModelosDesingThinking.jpg",
+            "ejemplo2": "ModelosDesingThinking.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 4,
+            "name": "Faces de Design thinking",
+            "detalle": "Proceso de design thinking de Stanford Design School",
+            "ejemplo1": "FacesDesignthinking.jpg",
+            "ejemplo2": "FacesDesignthinking.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 5,
+            "name": "Métodos cuantitativos",
+            "detalle": "Es la base del proceso y está centrado en las personas y en los usuarios",
+            "ejemplo1": "MetodosCuantitativos.jpg",
+            "ejemplo2": "MetodosCuantitativos.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 6,
+            "name": "Métodos cualitativos",
+            "detalle": "Existen diferentes fuentes de información numérica que nos permiten conocer sobre el universo de las personas. Los métodos cuantitativos nos posibilitan responder las preguntas deductivas y medibles: ¿Qué sucede? ¿Cuándo sucede? ¿Dónde sucede?",
+            "ejemplo1": "MetodosCualitativos.jpg",
+            "ejemplo2": "MetodosCualitativos.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 7,
+            "name": "Tips para realizar una encuesta",
+            "detalle": "Tips para realizar una encuesta",
+            "ejemplo1": "TipsEncuesta.jpg",
+            "ejemplo2": "TipsEncuesta.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 8,
+            "name": "Mapa de actores",
+            "detalle": "Forma visual de cada uno de los participantes que intervienen durante todo el proceso",
+            "ejemplo1": "MapaActores.jpg",
+            "ejemplo2": "MapaActores.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 9,
+            "name": "Empatía",
+            "detalle": "Es la base del proceso y está centrado en las personas y en los usuarios",
+            "ejemplo1": "empatia.jpg",
+            "ejemplo2": "empatia.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 10,
+            "name": "Definición",
+            "detalle": "Dar claridad y enfoque a la información recopilada",
+            "ejemplo1": "definicion.jpg",
+            "ejemplo2": "definicion.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 11,
+            "name": "Ideación",
+            "detalle": "Proceso de diseño y la generación de múltiples ideas",
+            "ejemplo1": "ideacion.jpg",
+            "ejemplo2": "ideacion.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 12,
+            "name": "Prototipo",
+            "detalle": "Generar elementos como dibujos, artefactos y objetos con la intención de responder preguntas que nos acerquen a la solución final,",
+            "ejemplo1": "prototipo.jpg",
+            "ejemplo2": "prototipo.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 13,
+            "name": "Testear / Evaluar",
+            "detalle": "Solicitar feedback y opiniones sobre los prototipos que se han creado de los mismos usuarios y colegas",
+            "ejemplo1": "TestearEvaluar.jpg",
+            "ejemplo2": "TestearEvaluar.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 14,
+            "name": "Trabajo final integrador",
+            "detalle": "Trabajo final integrador en grupo",
+            "ejemplo1": "TrabajoFinalIntegradorDesignThinking.pdf",
+            "ejemplo2": "TrabajoFinalIntegradorDesignThinking.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 15,
+            "name": "Caracteristicas Design Thinking Efectivo",
+            "detalle": "Trabajo final integrador en grupo",
+            "ejemplo1": "CaracteristicasDesignThinkerEfectivo.jpg",
+            "ejemplo2": "CaracteristicasDesignThinkerEfectivo.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 16,
             "name": "var",
-            "detalle": "falta incluir informacion",
+            "detalle": "falta",
             "ejemplo1": "var.jpg",
             "ejemplo2": "var.txt",
             "ejemplo3": "NoHayInformacion.jpg"
