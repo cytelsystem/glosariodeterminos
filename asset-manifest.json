@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosario/static/css/main.69319729.css",
-    "main.js": "/glosario/static/js/main.31e3a57d.js",
+    "main.js": "/glosario/static/js/main.49e82a9a.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosario/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosario/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosario/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -409,6 +409,7 @@
     "static/media/this.txt": "/glosario/static/media/this.7e5af7156bc83019e54b.txt",
     "static/media/appendFileSync.txt": "/glosario/static/media/appendFileSync.d5c00fa28f1dab11259c.txt",
     "static/media/SHOWTABLES.txt": "/glosario/static/media/SHOWTABLES.2bc822687fc0416729a5.txt",
+    "static/media/InstalacionMysql.txt": "/glosario/static/media/InstalacionMysql.430756517c0691fd2afb.txt",
     "static/media/FrameworksUnit.txt": "/glosario/static/media/FrameworksUnit.89312ccc70f1fe0ca2e1.txt",
     "static/media/7principiostesting.txt": "/glosario/static/media/7principiostesting.31d6cfe0d16ae931b73c.txt",
     "static/media/Breakpoints.txt": "/glosario/static/media/Breakpoints.31d6cfe0d16ae931b73c.txt",
@@ -473,10 +474,10 @@
     "static/media/unitTest.txt": "/glosario/static/media/unitTest.31d6cfe0d16ae931b73c.txt",
     "static/media/var.txt": "/glosario/static/media/var.31d6cfe0d16ae931b73c.txt",
     "main.69319729.css.map": "/glosario/static/css/main.69319729.css.map",
-    "main.31e3a57d.js.map": "/glosario/static/js/main.31e3a57d.js.map"
+    "main.49e82a9a.js.map": "/glosario/static/js/main.49e82a9a.js.map"
   },
   "entrypoints": [
     "static/css/main.69319729.css",
-    "static/js/main.31e3a57d.js"
+    "static/js/main.49e82a9a.js"
   ]
 }
