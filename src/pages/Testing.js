@@ -9,7 +9,7 @@ function Testing() {
 
   return (
     <div>
-      <ListItem nombre="Testing" data={data}/>
+      <ListItem nombre="Testing I" data={data}/>
     </div>
   )
 

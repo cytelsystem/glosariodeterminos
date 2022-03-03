@@ -172,7 +172,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 21,
+            "id": 22,
             "name": "Pruebas dinamicas",
             "detalle": "Son aquellas en las cuales tengo que ejecutar el software para poder probarlo",
             "ejemplo1": "PruebasDinamicas.jpg",
@@ -180,7 +180,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 22,
+            "id": 23,
             "name": "Planificación de la prueba",
             "detalle": "Organización ambientes para hacer pruebas desarrollo o DEV /  pruebas o QA / Ambiente de UAT ",
             "ejemplo1": "PlanificacionPrueba.jpg",
@@ -188,7 +188,7 @@
             "ejemplo3": "PlanificacionPrueba.txt"
         },
         {
-            "id": 23,
+            "id": 24,
             "name": "Debugging / debuggear o depurar",
             "detalle": "Proceso de encontrar, analizar y remover las causas de fallos en el software",
             "ejemplo1": "DebuggingCHROME.jpg",
@@ -196,7 +196,7 @@
             "ejemplo3": "Debugging.txt"
         },
         {
-            "id": 24,
+            "id": 25,
             "name": "Controles debuggear",
             "detalle": "Proceso de encontrar, analizar y remover las causas de fallos en el software",
             "ejemplo1": "ControlesDebuggear.jpg",
@@ -204,7 +204,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 25,
+            "id": 26,
             "name": "Breakpoints",
             "detalle": "Punto de interrupción en nuestro código para detener la ejecución del programa en líneas específicas y analizar la situación del mismo.",
             "ejemplo1": "Breakpoints.jpg",
@@ -212,7 +212,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 26,
+            "id": 27,
             "name": "Debugging VS Testing",
             "detalle": "punto de interrupción en nuestro código para detener la ejecución del programa en líneas específicas y analizar la situación del mismo.",
             "ejemplo1": "DebuggingVSTesting.jpg",
@@ -220,7 +220,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 27,
+            "id": 28,
             "name": "Unit test",
             "detalle": "Son pequeños test creados específicamente para cubrir todos los requisitos del código y verificar sus resultados",
             "ejemplo1": "unitTest.jpg",
@@ -228,7 +228,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 28,
+            "id": 29,
             "name": "Frameworks",
             "detalle": "Frameworks",
             "ejemplo1": "FrameworksUnit.jpg",
@@ -236,7 +236,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 29,
+            "id": 30,
             "name": "Instalacion Frameworks Jest",
             "detalle": "Instalacion Frameworks Jest",
             "ejemplo1": "InstalacionFrameworksJest.jpg",
@@ -244,7 +244,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 30,
+            "id": 31,
             "name": "Prueba de componente o prueba unitaria (unit test)",
             "detalle": "unitaria es la prueba de los componentes individuales de software. Son pequeños test creados específicamente para cubrir todos los requisitos del código",
             "ejemplo1": "PruebasUnitariasComponente.jpg",
@@ -252,147 +252,195 @@
             "ejemplo3": "PruebasUnitariasComponente.txt"
         },
         {
-            "id": 31,
-            "name": "json.parse()",
-            "detalle": "Convierte un texto con formato JSON a tipo de dato equivalente de javaScript.",
-            "ejemplo1": "jsonParse.jpg",
-            "ejemplo2": "jsonParse.txt",
-            "ejemplo3": "NoHayInformacion.jpg"
-        },
-        {
             "id": 32,
-            "name": "json.stringify()",
-            "detalle": "Convierte un tipo de dato de JavaScript en un texto en formato JSON.",
-            "ejemplo1": "jsonStringify.jpg",
-            "ejemplo2": "jsonStringify.txt",
+            "name": "Inicialializar proyecto",
+            "detalle": "Configuracion y inicializacion de proyecto pruebas unitarias",
+            "ejemplo1": "InicialializarProyecto.jpg",
+            "ejemplo2": "InicialializarProyecto.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 33,
-            "name": "exports()",
-            "detalle": "Permite Exportar Modulos creados en archivos externos",
-            "ejemplo1": "exports.jpg",
-            "ejemplo2": "exports.txt",
+            "name": "Configuracion de reportes de Jest",
+            "detalle": "Configuracion para ejecutar el reporte de Jest",
+            "ejemplo1": "UnitTestcoverage.jpg",
+            "ejemplo2": "UnitTestcoverage.pdf",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 34,
-            "name": "require()",
-            "detalle": "Permite importar Modulos creados en archivos externos",
-            "ejemplo1": "require.jpg",
-            "ejemplo2": "require.txt",
+            "name": "Matchers en Jest",
+            "detalle": "Matchers mas usados en Jest",
+            "ejemplo1": "MatchersJest.jpg",
+            "ejemplo2": "MatchersJest.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 35,
-            "name": ".writeFileSync()",
-            "detalle": "Permite escribir dentro de archivos externos y remplaza la información",
-            "ejemplo1": "writeFileSync.jpg",
-            "ejemplo2": "writeFileSync.txt",
+            "name": "Get",
+            "detalle": "Obtener informacion de una Api",
+            "ejemplo1": "GetTesting.jpg",
+            "ejemplo2": "GetTesting.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 36,
-            "name": ".appendFileSync()",
-            "detalle": "Permite agregar (Adicionar) contenido a archivos externos",
-            "ejemplo1": "appendFileSync.jpg",
-            "ejemplo2": "appendFileSync.txt",
+            "name": "Post",
+            "detalle": "Enviar informacion de forma segura a Apis",
+            "ejemplo1": "PostTesting.jpg",
+            "ejemplo2": "PostTesting.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 37,
-            "name": ".readFileSync()",
-            "detalle": "Permite recuperar (extraer) datos de un archivo externo",
-            "ejemplo1": "readFileSync.jpg",
-            "ejemplo2": "readFileSync.txt",
+            "name": "Put",
+            "detalle": "Eliminar informacion de una ut",
+            "ejemplo1": "PutTesting.jpg",
+            "ejemplo2": "PutTesting.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 38,
-            "name": "Arrow Functions",
-            "detalle": "Forma compacta de crear o expresar nuestras funciones.",
-            "ejemplo1": "ArrowFunctions.jpg",
-            "ejemplo2": "ArrowFunctions.txt",
+            "name": "Delete",
+            "detalle": "Eliminar informacion de una ut",
+            "ejemplo1": "DeleteTesting.jpg",
+            "ejemplo2": "DeleteTesting.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 39,
-            "name": "callback",
-            "detalle": "Un callback es una función que se pasa como parámetro de otra función.",
-            "ejemplo1": "callback.jpg",
-            "ejemplo2": "callback.txt",
+            "name": "Instalacion de Postman",
+            "detalle": "Eliminar informacion de una ut",
+            "ejemplo1": "InstalacionGetPostman.jpg",
+            "ejemplo2": "InstalacionGetPostman.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 40,
-            "name": ".map()",
-            "detalle": "Retorna un array nuevo modificando los elementos de acuerdo al return de la function()",
-            "ejemplo1": "map.jpg",
-            "ejemplo2": "map.txt",
+            "name": "Codigos de respuestas Apis http",
+            "detalle": "Un API nos devuelve diferentes códigos de respuesta que nos informan qué pasó con la petición",
+            "ejemplo1": "codigosRespuestaPostman.jpg",
+            "ejemplo2": "codigosRespuestaPostman.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 41,
-            "name": ".filter()",
-            "detalle": "Filtra los Elementos y return un nuevo array de acuerdo a la operacion en la function()",
-            "ejemplo1": "filter.jpg",
-            "ejemplo2": "filter.txt",
+            "name": "Tipos de pruebas postman",
+            "detalle": "Tipos de pruebas que puedo hacer con postman",
+            "ejemplo1": "TiposPruebasPostman.jpg",
+            "ejemplo2": "TiposPruebasPostman.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 42,
-            "name": ".reduce()",
-            "detalle": "Almacenar el resultado los Elementos y return un nuevo array de acuerdo a la operacion en la function()",
-            "ejemplo1": "reduce.jpg",
-            "ejemplo2": "reduce.txt",
+            "name": "API Creación Pruebas(JS)",
+            "detalle": "API Testing- Creación de pruebas (JS) postman",
+            "ejemplo1": "APICreacionPruebasJS.jpg",
+            "ejemplo2": "APICreacionPruebasJS.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 43,
-            "name": ".forEach()",
-            "detalle": "Recorre el array y nos devuelve el indice y el contenido del elemento dentro del array",
-            "ejemplo1": "forEach.jpg",
-            "ejemplo2": "forEach.txt",
+            "name": "Colecciones Postman",
+            "detalle": "Las colecciones son un grupo de peticiones guardadas que pueden organizarse en carpetas",
+            "ejemplo1": "ColeccionesPostman.jpg",
+            "ejemplo2": "ColeccionesPostman.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 44,
-            "name": ".splice()",
-            "detalle": "Este método nos sirve para remover y/o agregar elementos de un array. Recibe tres parámetros:",
-            "ejemplo1": "splice.jpg",
-            "ejemplo2": "splice.txt",
+            "name": "Variables de entorno en Postman",
+            "detalle": "Solemos utilizar la misma solicitud varias veces con datos diferentes.",
+            "ejemplo1": "VariablesEntornoPostman.jpg",
+            "ejemplo2": "VariablesEntornoPostman.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 45,
-            "name": ".sort()",
-            "detalle": "Este método nos sirve para ordenar los elementos de un array.",
-            "ejemplo1": "sort.jpg",
-            "ejemplo2": "sort.txt",
+            "name": "Runner Postman",
+            "detalle": "Nos permite ejecutar un conjunto de test de diferentes colecciones al mismo tiempo",
+            "ejemplo1": "RunnerPostman.jpg",
+            "ejemplo2": "RunnerPostman.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 46,
-            "name": ".find()",
-            "detalle": "Este método devuelve el valor del primer elemento de un array que cumple con una función especificada (callback).",
-            "ejemplo1": "find.jpg",
-            "ejemplo2": "find.txt",
+            "name": "Pruebas automatizadas",
+            "detalle": "Es el proceso de ejecutar varias pruebas una y otra vez sin intervención humana utilizando una herramienta de automatización.",
+            "ejemplo1": "PruebasAutomatizadasTesting.jpg",
+            "ejemplo2": "PruebasAutomatizadasTesting.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 47,
-            "name": "parseFloat",
-            "detalle": "Este método permite convertir Json string numero ('25'), leerlo y sumarlo con decimales.",
-            "ejemplo1": "parseFloat.jpg",
-            "ejemplo2": "parseFloat.txt",
+            "name": "Pruebas automatizadas",
+            "detalle": "Es el proceso de ejecutar varias pruebas una y otra vez sin intervención humana utilizando una herramienta de automatización.",
+            "ejemplo1": "PruebasAutomatizadasTesting.jpg",
+            "ejemplo2": "PruebasAutomatizadasTesting.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 48,
-            "name": "findIndex",
-            "detalle": "Obtener el index apartir de un elemento de un array o metodo",
-            "ejemplo1": "findIndex.jpg",
-            "ejemplo2": "findIndex.txt",
+            "name": "Patron de diseño Screenplay",
+            "detalle": "Este patrón tiene un enfoque de desarrollo encaminado por el comportamiento Behaviour Driven Development (BDD). Es una estrategia de desarrollo que se enfoca en prevenir defectos en lugar de encontrarlos en un ambiente controlado.",
+            "ejemplo1": "PatronDisenoScreenplay.jpg",
+            "ejemplo2": "PatronDisenoScreenplay.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 49,
+            "name": "Patron de diseño Page Object",
+            "detalle": "Es un patrón de diseño que representa los componentes web o página web en una clase",
+            "ejemplo1": "PatronDisenoObject.jpg",
+            "ejemplo2": "PatronDisenoObject.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 50,
+            "name": "Principios SOLID",
+            "detalle": "Los principios SOLID son guías, buenas prácticas, que pueden ser aplicadas en el desarrollo de software para eliminar malos diseños.",
+            "ejemplo1": "PrincipiosSOLID.jpg",
+            "ejemplo2": "PrincipiosSOLID.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 51,
+            "name": "Page Object Model",
+            "detalle": "Los principios SOLID son guías, buenas prácticas, que pueden ser aplicadas en el desarrollo de software para eliminar malos diseños.",
+            "ejemplo1": "PageObjectModel.jpg",
+            "ejemplo2": "PageObjectModel.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 52,
+            "name": "Selenium",
+            "detalle": "framework destinado a la automatización web que consiste en desarrollar scripts que, mediante algún lenguaje de codificación determinado, permite ejecutar un flujo de navegación fijo",
+            "ejemplo1": "Selenium.jpg",
+            "ejemplo2": "Selenium.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 53,
+            "name": "Selenium IDE",
+            "detalle": "framework destinado a la automatización web que consiste en desarrollar scripts que, mediante algún lenguaje de codificación determinado, permite ejecutar un flujo de navegación fijo",
+            "ejemplo1": "SeleniumIDE.jpg",
+            "ejemplo2": "SeleniumIDE.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 54,
+            "name": "Selenium WebDriver",
+            "detalle": "Es un conjunto de herramientas para la automatización de navegadores web que utiliza las mejores técnicas disponibles para controlar las instancias de los navegadores y emular la interacción del usuario con el navegador",
+            "ejemplo1": "SeleniumWebDriver.jpg",
+            "ejemplo2": "SeleniumWebDriver.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 55,
+            "name": "Install Selenium WebDriver",
+            "detalle": "Es un conjunto de herramientas para la automatización de navegadores web que utiliza las mejores técnicas disponibles para controlar las instancias de los navegadores y emular la interacción del usuario con el navegador",
+            "ejemplo1": "installSeleniumWebDriver.jpg",
+            "ejemplo2": "installSeleniumWebDriver.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         }
 
