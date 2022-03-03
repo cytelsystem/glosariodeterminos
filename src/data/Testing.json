@@ -4,14 +4,397 @@
 
         {
             "id": 1,
-            "name": "var",
-            "detalle": "Las otras materias Sí tiene información",
-            "ejemplo1": "var.jpg",
-            "ejemplo2": "var.txt",
+            "name": "Error, Defecto y Fallo",
+            "detalle": "Conceptos de Defecto, Error y Falla",
+            "ejemplo1": "ErrorDefectoFallo.jpg",
+            "ejemplo2": "ErrorDefectoFallo.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 2,
+            "name": "7 principios del testing",
+            "detalle": "7 Principios del testing",
+            "ejemplo1": "7principiostesting.jpg",
+            "ejemplo2": "7principiostesting.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Ciclo de vida de un defecto",
+            "detalle": "Partes de un informe",
+            "ejemplo1": "Ciclovidadefecto.jpg",
+            "ejemplo2": "Ciclovidadefecto.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Informe",
+            "detalle": "Partes de un informe",
+            "ejemplo1": "informetesting.jpg",
+            "ejemplo2": "informetesting.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Tipos de template",
+            "detalle": "Diferentes tipos de informes(template) que se utilizan en testing",
+            "ejemplo1": "TemplateTesting.jpg",
+            "ejemplo2": "TemplateTesting.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Casos de prueba",
+            "detalle": "Documento escrito que proporciona información escrita sobre qué y cómo probar",
+            "ejemplo1": "casoPrueba.jpg",
+            "ejemplo2": "casoPrueba.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Happy path testing",
+            "detalle": "Modelado de software o información, un camino feliz es un escenario predeterminado que no presenta condiciones excepcionales o de error",
+            "ejemplo1": "Happypathtesting.jpg",
+            "ejemplo2": "Happypathtesting.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Casos de uso y de Prueba",
+            "detalle": "Un caso de uso cuenta la hitoria de cómo un usuario interactua con un sistema de software para lograr o abandonar un objetivo. Un caso de prueba cubre el software más en profundidad y con mayor detalle que un caso de uso.",
+            "ejemplo1": "CasoUso.jpg",
+            "ejemplo2": "CasoUso.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Ciclo de vida de las pruebas de software",
+            "detalle": "Un ciclo de vida es la secuencia de cambios que atraviesa una entidad de una forma a otra. Verificar el software desarrollado para ver si cumple con los requisitos específicos.",
+            "ejemplo1": "CvidaPsoftware.jpg",
+            "ejemplo2": "CvidaPsoftware.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Niveles de pruebas",
+            "detalle": "Tipos de pruebas que se realizan",
+            "ejemplo1": "Nivelespruebas.jpg",
+            "ejemplo2": "Nivelespruebas.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Pruebas en V",
+            "detalle": "Pruebas Enfoque tradicional Vs Enfoque Agil",
+            "ejemplo1": "pruebasV.jpg",
+            "ejemplo2": "pruebasV.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Niveles y tipos de pruebas",
+            "detalle": "Estructura de los niveles y tipos de pruebas",
+            "ejemplo1": "NivelesTipopruebas.jpg",
+            "ejemplo2": "NivelesTipopruebas.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Técnicas de prueba (Caja negra y blanca)",
+            "detalle": "Ayuda a identificar las condiciones, los casos y los datos de prueba.",
+            "ejemplo1": "tecnicasPrueba.jpg",
+            "ejemplo2": "tecnicasPrueba2.jpg",
+            "ejemplo3": "tecnicasPrueba.txt"
+        },
+        {
+            "id": 14,
+            "name": "Particion de Equivalencia",
+            "detalle": "Agrupar lo datos para minimizar la cantidad de pruebas",
+            "ejemplo1": "ParticionEquivalencia.jpg",
+            "ejemplo2": "ParticionEquivalencia.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Analisis de valores límites",
+            "detalle": "Agrupar lo datos por numericos o secuenciales",
+            "ejemplo1": "AnalisisValoresLimites.jpg",
+            "ejemplo2": "AnalisisValoresLimites.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Tabla de decisiòn",
+            "detalle": "Permite hacer en una tabla diferentes combinaciones con unas condiciones y unas acciones",
+            "ejemplo1": "TablaDecision.jpg",
+            "ejemplo2": "TablaDecision.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Tabla Transición de estado",
+            "detalle": "Permite Mostrar la transicion de estados",
+            "ejemplo1": "TransicionEstado.jpg",
+            "ejemplo2": "TransicionEstado.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Implementacion de las prueba / Ejecucion de la prueba",
+            "detalle": "Los conjuntos de pruebas se ejecutan luego del despliegue de cambios en los ambientes de prueba como parte del desarrollo planificado dentro de un sprint.",
+            "ejemplo1": "ImplementacionPrueba.jpg",
+            "ejemplo2": "ImplementacionPrueba.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Pruebas de humo",
+            "detalle": "Prueba basicas de un modulo ",
+            "ejemplo1": "PruebasHumo.jpg",
+            "ejemplo2": "PruebasHumo.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Pruebas de regresión",
+            "detalle": "Pruebas avanzadas que incluyen las pruebas de humo",
+            "ejemplo1": "PruebasRegresion.jpg",
+            "ejemplo2": "PruebasRegresion.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Pruebas estáticas",
+            "detalle": "Son aquellas que se hacen sin necesidad de ejecutar el código",
+            "ejemplo1": "PruebasEstaticas.jpg",
+            "ejemplo2": "PruebasEstaticas.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Pruebas dinamicas",
+            "detalle": "Son aquellas en las cuales tengo que ejecutar el software para poder probarlo",
+            "ejemplo1": "PruebasDinamicas.jpg",
+            "ejemplo2": "PruebasDinamicas.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Planificación de la prueba",
+            "detalle": "Organización ambientes para hacer pruebas desarrollo o DEV /  pruebas o QA / Ambiente de UAT ",
+            "ejemplo1": "PlanificacionPrueba.jpg",
+            "ejemplo2": "PlanificacionPrueba2.jpg",
+            "ejemplo3": "PlanificacionPrueba.txt"
+        },
+        {
+            "id": 23,
+            "name": "Debugging / debuggear o depurar",
+            "detalle": "Proceso de encontrar, analizar y remover las causas de fallos en el software",
+            "ejemplo1": "DebuggingCHROME.jpg",
+            "ejemplo2": "DebuggingVisualSC.jpg",
+            "ejemplo3": "Debugging.txt"
+        },
+        {
+            "id": 24,
+            "name": "Controles debuggear",
+            "detalle": "Proceso de encontrar, analizar y remover las causas de fallos en el software",
+            "ejemplo1": "ControlesDebuggear.jpg",
+            "ejemplo2": "ControlesDebuggear.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Breakpoints",
+            "detalle": "Punto de interrupción en nuestro código para detener la ejecución del programa en líneas específicas y analizar la situación del mismo.",
+            "ejemplo1": "Breakpoints.jpg",
+            "ejemplo2": "Breakpoints.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Debugging VS Testing",
+            "detalle": "punto de interrupción en nuestro código para detener la ejecución del programa en líneas específicas y analizar la situación del mismo.",
+            "ejemplo1": "DebuggingVSTesting.jpg",
+            "ejemplo2": "DebuggingVSTesting.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Unit test",
+            "detalle": "Son pequeños test creados específicamente para cubrir todos los requisitos del código y verificar sus resultados",
+            "ejemplo1": "unitTest.jpg",
+            "ejemplo2": "unitTest.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Frameworks",
+            "detalle": "Frameworks",
+            "ejemplo1": "FrameworksUnit.jpg",
+            "ejemplo2": "FrameworksUnit.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 29,
+            "name": "Instalacion Frameworks Jest",
+            "detalle": "Instalacion Frameworks Jest",
+            "ejemplo1": "InstalacionFrameworksJest.jpg",
+            "ejemplo2": "InstalacionFrameworksJest.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 30,
+            "name": "Prueba de componente o prueba unitaria (unit test)",
+            "detalle": "unitaria es la prueba de los componentes individuales de software. Son pequeños test creados específicamente para cubrir todos los requisitos del código",
+            "ejemplo1": "PruebasUnitariasComponente.jpg",
+            "ejemplo2": "PruebasUnitariasComponente2.jpg",
+            "ejemplo3": "PruebasUnitariasComponente.txt"
+        },
+        {
+            "id": 31,
+            "name": "json.parse()",
+            "detalle": "Convierte un texto con formato JSON a tipo de dato equivalente de javaScript.",
+            "ejemplo1": "jsonParse.jpg",
+            "ejemplo2": "jsonParse.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 32,
+            "name": "json.stringify()",
+            "detalle": "Convierte un tipo de dato de JavaScript en un texto en formato JSON.",
+            "ejemplo1": "jsonStringify.jpg",
+            "ejemplo2": "jsonStringify.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 33,
+            "name": "exports()",
+            "detalle": "Permite Exportar Modulos creados en archivos externos",
+            "ejemplo1": "exports.jpg",
+            "ejemplo2": "exports.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 34,
+            "name": "require()",
+            "detalle": "Permite importar Modulos creados en archivos externos",
+            "ejemplo1": "require.jpg",
+            "ejemplo2": "require.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 35,
+            "name": ".writeFileSync()",
+            "detalle": "Permite escribir dentro de archivos externos y remplaza la información",
+            "ejemplo1": "writeFileSync.jpg",
+            "ejemplo2": "writeFileSync.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 36,
+            "name": ".appendFileSync()",
+            "detalle": "Permite agregar (Adicionar) contenido a archivos externos",
+            "ejemplo1": "appendFileSync.jpg",
+            "ejemplo2": "appendFileSync.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 37,
+            "name": ".readFileSync()",
+            "detalle": "Permite recuperar (extraer) datos de un archivo externo",
+            "ejemplo1": "readFileSync.jpg",
+            "ejemplo2": "readFileSync.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 38,
+            "name": "Arrow Functions",
+            "detalle": "Forma compacta de crear o expresar nuestras funciones.",
+            "ejemplo1": "ArrowFunctions.jpg",
+            "ejemplo2": "ArrowFunctions.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 39,
+            "name": "callback",
+            "detalle": "Un callback es una función que se pasa como parámetro de otra función.",
+            "ejemplo1": "callback.jpg",
+            "ejemplo2": "callback.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 40,
+            "name": ".map()",
+            "detalle": "Retorna un array nuevo modificando los elementos de acuerdo al return de la function()",
+            "ejemplo1": "map.jpg",
+            "ejemplo2": "map.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 41,
+            "name": ".filter()",
+            "detalle": "Filtra los Elementos y return un nuevo array de acuerdo a la operacion en la function()",
+            "ejemplo1": "filter.jpg",
+            "ejemplo2": "filter.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 42,
+            "name": ".reduce()",
+            "detalle": "Almacenar el resultado los Elementos y return un nuevo array de acuerdo a la operacion en la function()",
+            "ejemplo1": "reduce.jpg",
+            "ejemplo2": "reduce.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 43,
+            "name": ".forEach()",
+            "detalle": "Recorre el array y nos devuelve el indice y el contenido del elemento dentro del array",
+            "ejemplo1": "forEach.jpg",
+            "ejemplo2": "forEach.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 44,
+            "name": ".splice()",
+            "detalle": "Este método nos sirve para remover y/o agregar elementos de un array. Recibe tres parámetros:",
+            "ejemplo1": "splice.jpg",
+            "ejemplo2": "splice.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 45,
+            "name": ".sort()",
+            "detalle": "Este método nos sirve para ordenar los elementos de un array.",
+            "ejemplo1": "sort.jpg",
+            "ejemplo2": "sort.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 46,
+            "name": ".find()",
+            "detalle": "Este método devuelve el valor del primer elemento de un array que cumple con una función especificada (callback).",
+            "ejemplo1": "find.jpg",
+            "ejemplo2": "find.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 47,
+            "name": "parseFloat",
+            "detalle": "Este método permite convertir Json string numero ('25'), leerlo y sumarlo con decimales.",
+            "ejemplo1": "parseFloat.jpg",
+            "ejemplo2": "parseFloat.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 48,
+            "name": "findIndex",
+            "detalle": "Obtener el index apartir de un elemento de un array o metodo",
+            "ejemplo1": "findIndex.jpg",
+            "ejemplo2": "findIndex.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
-
 
 
     ]
