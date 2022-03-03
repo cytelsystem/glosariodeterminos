@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/glosariodeterminos/static/css/main.7cde0c7e.css",
-    "main.js": "/glosariodeterminos/static/js/main.6d2ca024.js",
+    "main.css": "/glosariodeterminos/static/css/main.98dd6605.css",
+    "main.js": "/glosariodeterminos/static/js/main.5a9d0e8f.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -62,6 +62,7 @@
     "static/media/filter.jpg": "/glosariodeterminos/static/media/filter.897efdb4c2e2be27610b.jpg",
     "static/media/LayoutReactJS.jpg": "/glosariodeterminos/static/media/LayoutReactJS.504597ea005076d26751.jpg",
     "static/media/OffcanvasReact.jpg": "/glosariodeterminos/static/media/OffcanvasReact.9262925a26047e216d26.jpg",
+    "static/media/tecnicasPrueba2.jpg": "/glosariodeterminos/static/media/tecnicasPrueba2.b129a981c463e03e28c2.jpg",
     "static/media/InicialializarProyecto.jpg": "/glosariodeterminos/static/media/InicialializarProyecto.c794c277b04ee7848060.jpg",
     "static/media/reduce.jpg": "/glosariodeterminos/static/media/reduce.d0ee7393a897ea04cff6.jpg",
     "static/media/MetodosClase.jpg": "/glosariodeterminos/static/media/MetodosClase.0bbe133cbae66885067f.jpg",
@@ -83,7 +84,6 @@
     "static/media/informetesting.jpg": "/glosariodeterminos/static/media/informetesting.9e46a697a80f61e31c4a.jpg",
     "static/media/ParticionEquivalencia.jpg": "/glosariodeterminos/static/media/ParticionEquivalencia.57fc7592e5d16eef29d0.jpg",
     "static/media/installBootstrapReactJS.jpg": "/glosariodeterminos/static/media/installBootstrapReactJS.9b0ed677e419c6466777.jpg",
-    "static/media/tecnicasPrueba2.jpg": "/glosariodeterminos/static/media/tecnicasPrueba2.99420ac4c556803d96af.jpg",
     "static/media/SobreCarga.jpg": "/glosariodeterminos/static/media/SobreCarga.002b1b3bbc65f6cfe1b2.jpg",
     "static/media/PilaresDesignThinking.jpg": "/glosariodeterminos/static/media/PilaresDesignThinking.85b8e45fc95cc2aef210.jpg",
     "static/media/empatia.jpg": "/glosariodeterminos/static/media/empatia.db0bbc12e7ff4cca6205.jpg",
@@ -233,7 +233,6 @@
     "static/media/toUpperCase.jpg": "/glosariodeterminos/static/media/toUpperCase.21533179f14e274bec0b.jpg",
     "static/media/MathRound.jpg": "/glosariodeterminos/static/media/MathRound.2190d480ef9478efa6cc.jpg",
     "static/media/ApiGetReactJS.txt": "/glosariodeterminos/static/media/ApiGetReactJS.6155b24d11a788cc67e9.txt",
-    "static/media/PaginaPrincipal.webp": "/glosariodeterminos/static/media/PaginaPrincipal.1db7c91fa5a29508c96e.webp",
     "static/media/JsonReactJS.txt": "/glosariodeterminos/static/media/JsonReactJS.48fa145ac878fffc474c.txt",
     "static/media/TRUNCATE.jpg": "/glosariodeterminos/static/media/TRUNCATE.0a19007d95f0f126cf08.jpg",
     "static/media/prueba.docx": "/glosariodeterminos/static/media/prueba.8409096c718904a6be43.docx",
@@ -282,6 +281,7 @@
     "static/media/PatronSingleton.txt": "/glosariodeterminos/static/media/PatronSingleton.17f4ad27c830c31a30b1.txt",
     "static/media/empatia.txt": "/glosariodeterminos/static/media/empatia.f4c2aad62ad3983e46b7.txt",
     "static/media/VISTA.txt": "/glosariodeterminos/static/media/VISTA.0e0ca81a0aa38bb18822.txt",
+    "static/media/for.txt": "/glosariodeterminos/static/media/for.fb69606c28eda650c3a9.txt",
     "static/media/Generics.txt": "/glosariodeterminos/static/media/Generics.19de7ebb95d8055ba57c.txt",
     "static/media/configuracionProyectoReact.txt": "/glosariodeterminos/static/media/configuracionProyectoReact.4266271ac9e163e82c96.txt",
     "static/media/definicion.txt": "/glosariodeterminos/static/media/definicion.8f0684d37982c29479a3.txt",
@@ -306,7 +306,6 @@
     "static/media/jsonStringify.txt": "/glosariodeterminos/static/media/jsonStringify.a466da5bf5dad5886737.txt",
     "static/media/INSERT.txt": "/glosariodeterminos/static/media/INSERT.bb83a4c34ed8e30d54b6.txt",
     "static/media/require.txt": "/glosariodeterminos/static/media/require.dba9e89ce380ca56d419.txt",
-    "static/media/for.txt": "/glosariodeterminos/static/media/for.f0c9c597eb2c6521a1a9.txt",
     "static/media/ISNULLoISNOTNULL.txt": "/glosariodeterminos/static/media/ISNULLoISNOTNULL.0865ee3c267d4c8dd8ba.txt",
     "static/media/Debugging.txt": "/glosariodeterminos/static/media/Debugging.0796e49c3418c874dd3d.txt",
     "static/media/findIndex.txt": "/glosariodeterminos/static/media/findIndex.e31679c016a15c699d31.txt",
@@ -477,11 +476,11 @@
     "static/media/tecnicasPrueba.txt": "/glosariodeterminos/static/media/tecnicasPrueba.31d6cfe0d16ae931b73c.txt",
     "static/media/unitTest.txt": "/glosariodeterminos/static/media/unitTest.31d6cfe0d16ae931b73c.txt",
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
-    "main.7cde0c7e.css.map": "/glosariodeterminos/static/css/main.7cde0c7e.css.map",
-    "main.6d2ca024.js.map": "/glosariodeterminos/static/js/main.6d2ca024.js.map"
+    "main.98dd6605.css.map": "/glosariodeterminos/static/css/main.98dd6605.css.map",
+    "main.5a9d0e8f.js.map": "/glosariodeterminos/static/js/main.5a9d0e8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cde0c7e.css",
-    "static/js/main.6d2ca024.js"
+    "static/css/main.98dd6605.css",
+    "static/js/main.5a9d0e8f.js"
   ]
 }
