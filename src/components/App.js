@@ -11,6 +11,7 @@ import Pop from '../pages/Pop';
 import DesignThinking from '../pages/DesignThinking';
 import ReactJs from '../pages/ReactJs';
 import FrontEndII from '../pages/FrontEndII';
+import InfraestructuraI from '../pages/InfraestructuraI';
 import Layout from './Layout';
 import NotFound from '../pages/NotFound';
 
@@ -20,6 +21,7 @@ function App() {
       <Layout>
         <Switch>
             <Route exact path="/" component={PaginaPrincipal} />
+            <Route exact path="/glosariodeterminos/" component={PaginaPrincipal} />
             <Route exact path="/MetodologiasTrabajo" component={MetodologiasTrabajo} />
             <Route exact path="/Html" component={Html} />
             <Route exact path="/Css" component={Css} />
@@ -30,6 +32,7 @@ function App() {
             <Route exact path="/DesignThinking" component={DesignThinking} />
             <Route exact path="/ReactJs" component={ReactJs} />
             <Route exact path="/FrontEndII" component={FrontEndII} />
+            <Route exact path="/InfraestructuraI" component={InfraestructuraI} />
             <Route component={NotFound} />
         </Switch>
       </Layout>
