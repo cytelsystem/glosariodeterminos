@@ -4,10 +4,91 @@
 
         {
             "id": 1,
-            "name": "var",
-            "detalle": "Variable para guardar valores de forma global",
-            "ejemplo1": "var.jpg",
-            "ejemplo2": "var.txt",
+            "name": "Tipos de Errores Consola Chrome",
+            "detalle": "Errores que se reflejan en la consola de chrome",
+            "ejemplo1": "TiposErrores.jpg",
+            "ejemplo2": "TiposErrores.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "DevTools Application Storage",
+            "detalle": "Permite Borrar los datos de la pagina consumida",
+            "ejemplo1": "DevToolsApplicationtorage.jpg",
+            "ejemplo2": "DevToolsApplicationtorage.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 3,
+            "name": "DevTools Lighthouse",
+            "detalle": "DevTools Lighthouse Permite generar reporte de recursos chrome",
+            "ejemplo1": "DevToolsLighthouse.jpg",
+            "ejemplo2": "DevToolsLighthouse.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 4,
+            "name": "Console .error( ) .warn( ) .table( ) Alert()",
+            "detalle": "Commandos de mensajes en Pantalla",
+            "ejemplo1": "ComandosBasicosJavaScript.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 5,
+            "name": "confirm('')",
+            "detalle": "Commandos para mostrar en pantalla una alerta y obtener un true o false",
+            "ejemplo1": "confirmJavaScript.jpg",
+            "ejemplo2": "confirmJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 6,
+            "name": "prompt('')",
+            "detalle": "Muestra mensaje en pantalla y permite al usuario captura de informacion como texto asi se escriban numeros",
+            "ejemplo1": "promptJavaScript.jpg",
+            "ejemplo2": "promptJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 7,
+            "name": "Math.random()",
+            "detalle": "Este Métodos retorna un número aleatorio basado en un algoritmo, un  punto flotante, un número pseudoaleatorio dentro del rango [0, 1).",
+            "ejemplo1": "MathRandomJavaScript.jpg",
+            "ejemplo2": "MathRandomJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 8,
+            "name": "Math.round()",
+            "detalle": "Este Métodos retorna el valor de un número redondeado al entero más cercano.",
+            "ejemplo1": "MathRoundJavaScript.jpg",
+            "ejemplo2": "MathRoundJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 9,
+            "name": "Math.max()",
+            "detalle": "Este Métodos devuelve el mayor de cero o más números.",
+            "ejemplo1": "MathMaxJavaScript.jpg",
+            "ejemplo2": "MathMaxJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 10,
+            "name": "Math.PI",
+            "detalle": "Esta Propiedad devuelve el mayor de cero o más números.",
+            "ejemplo1": "MathPIJavaScript.jpg",
+            "ejemplo2": "MathPIJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
