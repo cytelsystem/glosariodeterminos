@@ -1,0 +1,17 @@
+{
+    "results": [
+
+
+        {
+            "id": 1,
+            "name": "var",
+            "detalle": "Variable para guardar valores de forma global",
+            "ejemplo1": "var.jpg",
+            "ejemplo2": "var.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        }
+
+
+    ]
+}
