@@ -58,6 +58,15 @@
         },
         {
             "id": 7,
+            "name": "Math",
+            "detalle": "Math es un objeto incorporado que tiene propiedades y métodos para constantes y funciones matemáticas",
+            "ejemplo1": "MathJavaScript.jpg",
+            "ejemplo2": "MathJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 8,
             "name": "Math.random()",
             "detalle": "Este Métodos retorna un número aleatorio basado en un algoritmo, un  punto flotante, un número pseudoaleatorio dentro del rango [0, 1).",
             "ejemplo1": "MathRandomJavaScript.jpg",
@@ -66,7 +75,7 @@
 
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Math.round()",
             "detalle": "Este Métodos retorna el valor de un número redondeado al entero más cercano.",
             "ejemplo1": "MathRoundJavaScript.jpg",
@@ -75,7 +84,7 @@
 
         },
         {
-            "id": 9,
+            "id": 10,
             "name": "Math.max()",
             "detalle": "Este Métodos devuelve el mayor de cero o más números.",
             "ejemplo1": "MathMaxJavaScript.jpg",
@@ -84,11 +93,83 @@
 
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "Math.PI",
             "detalle": "Esta Propiedad devuelve el mayor de cero o más números.",
             "ejemplo1": "MathPIJavaScript.jpg",
             "ejemplo2": "MathPIJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 12,
+            "name": "parseInt()",
+            "detalle": "Esta función parsea una cadena de texto y devuelve un número entero sin decimales.",
+            "ejemplo1": "parseIntJavaScript.jpg",
+            "ejemplo2": "parseIntJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 13,
+            "name": "parseFloat()",
+            "detalle": "Esta función parsea una cadena de texto y devuelve un número con decimales.",
+            "ejemplo1": "parseFloatJavaScript.jpg",
+            "ejemplo2": "parseFloatJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 14,
+            "name": "NaN",
+            "detalle": "La propiedad NaN nos indica que el valor no es un número (Not A Number),",
+            "ejemplo1": "NaNJavaScript.jpg",
+            "ejemplo2": "NaNJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 15,
+            "name": "for in",
+            "detalle": "for…in nos permite iterar sobre cada una de las propiedades de un objeto.",
+            "ejemplo1": "forInJavaScript.jpg",
+            "ejemplo2": "forInJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 16,
+            "name": "for of",
+            "detalle": "for…of nos permite iterar sobre cada uno de los valores de un elemento iterable, por ejemplo, un array.",
+            "ejemplo1": "forOfJavaScript.jpg",
+            "ejemplo2": "forOfJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 17,
+            "name": "querySelector()",
+            "detalle": "Retorna el primer elemento del DOM que cumple con la condición que buscamos.",
+            "ejemplo1": "querySelectorJavaScript.jpg",
+            "ejemplo2": "querySelectorJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 18,
+            "name": "querySelectorAll()",
+            "detalle": "Retorna todos los elementos del DOM que cumplen con la condición que buscamos.",
+            "ejemplo1": "querySelectorAllJavaScript.jpg",
+            "ejemplo2": "querySelectorAllJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 19,
+            "name": "getElementById()",
+            "detalle": "Retorna el elemento del DOM que cumpla con el id que buscamos.",
+            "ejemplo1": "getElementByIdJavaScript.jpg",
+            "ejemplo2": "getElementByIdJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
