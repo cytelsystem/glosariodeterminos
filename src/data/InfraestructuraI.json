@@ -4,10 +4,28 @@
 
         {
             "id": 1,
-            "name": "var",
-            "detalle": "Variable para guardar valores de forma global",
-            "ejemplo1": "var.jpg",
-            "ejemplo2": "var.txt",
+            "name": "Beneficios de automatizar",
+            "detalle": "Automatizar tareas permite ganar tiempo y maximizar la productividad de nuestra infraestructura IT. ",
+            "ejemplo1": "BeneficiosAutomatizarInfraestructura.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "5 Tareas más comunes",
+            "detalle": "5 Tareas más comunes en TI para automatizar",
+            "ejemplo1": "5TareasComunesInfraestructura.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 3,
+            "name": "Infraestructura y servicios",
+            "detalle": "servidores legacy o servicios contratados por un cloud providers.",
+            "ejemplo1": "InfraestructuraServiciosInfraestructura.jpg",
+            "ejemplo2": "InfraestructuraServiciosInfraestructura.pdf",
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
