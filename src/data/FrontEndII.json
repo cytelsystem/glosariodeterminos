@@ -172,6 +172,51 @@
             "ejemplo2": "getElementByIdJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 20,
+            "name": ".innerHTML",
+            "detalle": "Leer o modificar el contenido de una etiqueta HTML",
+            "ejemplo1": "innerHTMLJavaScript.jpg",
+            "ejemplo2": "innerHTMLJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 21,
+            "name": ".innerText",
+            "detalle": " leer o modificar el texto de una etiqueta HTML",
+            "ejemplo1": "innerTextJavaScript.jpg",
+            "ejemplo2": "innerTextJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 22,
+            "name": "Style en Javascript",
+            "detalle": "Permite leer y sobreescribir las reglas CSS que se aplican sobre un elemento que hayamos seleccionado.",
+            "ejemplo1": "StyleJavaScript.jpg",
+            "ejemplo2": "StyleJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 23,
+            "name": "Plantillas de texto 'Template literals'",
+            "detalle": "Permite reutilizar la estructura html y enviarle solamente la informacio cambiante incluyendo etiquetas",
+            "ejemplo1": "TemplateLiteralsJavaScript.jpg",
+            "ejemplo2": "TemplateLiteralsJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 24,
+            "name": "classList.add() classList.remove() classList.toggle()",
+            "detalle": "Permite adicionar, eliminar clases desde javascript en una etiqueta Html y con toggle el validad si ya esta la elimina o agrega para no utilizar add y remove",
+            "ejemplo1": "classListAddRemoveToggleJavaScript.jpg",
+            "ejemplo2": "classListAddRemoveToggleJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 
