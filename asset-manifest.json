@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.63c4dc3b.js",
+    "main.js": "/glosariodeterminos/static/js/main.f808e528.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -19,6 +19,7 @@
     "static/media/PruebasEstaticas.jpg": "/glosariodeterminos/static/media/PruebasEstaticas.682efead656c71b52518.jpg",
     "static/media/ExcepcionesJava.jpg": "/glosariodeterminos/static/media/ExcepcionesJava.f9e1fd1d1f8dde54db91.jpg",
     "static/media/PatronObserver.jpg": "/glosariodeterminos/static/media/PatronObserver.119bd0f9b17096641945.jpg",
+    "static/media/InfraestructuraServiciosInfraestructura.pdf": "/glosariodeterminos/static/media/InfraestructuraServiciosInfraestructura.fda5131e367814aa62fd.pdf",
     "static/media/ManejoEstadosReactJS.jpg": "/glosariodeterminos/static/media/ManejoEstadosReactJS.904c22f5763fecb27772.jpg",
     "static/media/AgregarElementos.jpg": "/glosariodeterminos/static/media/AgregarElementos.4f0d4eec64d86fe92516.jpg",
     "static/media/PatronFactory1.jpg": "/glosariodeterminos/static/media/PatronFactory1.56622b6ebeedd943dd53.jpg",
@@ -58,6 +59,7 @@
     "static/media/JsonReactJS.jpg": "/glosariodeterminos/static/media/JsonReactJS.42375b8dc5327e4c8d7a.jpg",
     "static/media/MetodosCualitativos.jpg": "/glosariodeterminos/static/media/MetodosCualitativos.a49d443592ba37175c3b.jpg",
     "static/media/Selenium.jpg": "/glosariodeterminos/static/media/Selenium.7c905994eb8075be978e.jpg",
+    "static/media/InfraestructuraServiciosInfraestructura.jpg": "/glosariodeterminos/static/media/InfraestructuraServiciosInfraestructura.4eaa1a1c5f474a1ea6a1.jpg",
     "static/media/map.jpg": "/glosariodeterminos/static/media/map.2b0930288235b0140ba7.jpg",
     "static/media/filter.jpg": "/glosariodeterminos/static/media/filter.897efdb4c2e2be27610b.jpg",
     "static/media/LayoutReactJS.jpg": "/glosariodeterminos/static/media/LayoutReactJS.504597ea005076d26751.jpg",
@@ -185,8 +187,10 @@
     "static/media/COUNT.jpg": "/glosariodeterminos/static/media/COUNT.778888151df950ba63fc.jpg",
     "static/media/definicion.jpg": "/glosariodeterminos/static/media/definicion.1b6b383fbc3532ba7fda.jpg",
     "static/media/jsonStringify.jpg": "/glosariodeterminos/static/media/jsonStringify.e485b1375783f85cc1dd.jpg",
+    "static/media/BeneficiosAutomatizarInfraestructura.jpg": "/glosariodeterminos/static/media/BeneficiosAutomatizarInfraestructura.45cc03434c54a81b40b3.jpg",
     "static/media/CONCAT.jpg": "/glosariodeterminos/static/media/CONCAT.ad7f5282d161e656ab76.jpg",
     "static/media/DevToolsLighthouse.jpg": "/glosariodeterminos/static/media/DevToolsLighthouse.0c4b421eec66462636f9.jpg",
+    "static/media/5TareasComunesInfraestructura.jpg": "/glosariodeterminos/static/media/5TareasComunesInfraestructura.da62d2485053ec7eaea5.jpg",
     "static/media/MathRoundJavaScript.jpg": "/glosariodeterminos/static/media/MathRoundJavaScript.bef882098892c895197d.jpg",
     "static/media/MathMaxJavaScript.jpg": "/glosariodeterminos/static/media/MathMaxJavaScript.4e90064d40fac8d8c1e9.jpg",
     "static/media/ALTERTABLE.jpg": "/glosariodeterminos/static/media/ALTERTABLE.4e6ed5a685fdf85c7f88.jpg",
@@ -515,10 +519,10 @@
     "static/media/unitTest.txt": "/glosariodeterminos/static/media/unitTest.31d6cfe0d16ae931b73c.txt",
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.63c4dc3b.js.map": "/glosariodeterminos/static/js/main.63c4dc3b.js.map"
+    "main.f808e528.js.map": "/glosariodeterminos/static/js/main.f808e528.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.63c4dc3b.js"
+    "static/js/main.f808e528.js"
   ]
 }
