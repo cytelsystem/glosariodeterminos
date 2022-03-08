@@ -172,7 +172,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 21,
+            "id": 22,
             "name": ".includes",
             "detalle": "Simitar la indexof() con la salvedad que retorna un booleano",
             "ejemplo1": "includes.jpg",
@@ -180,7 +180,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 22,
+            "id": 23,
             "name": "for",
             "detalle": "Ciclo repetitivo que permite repetir varias instrucciones(Pasos) miestras se cumpla la condición",
             "ejemplo1": "for.jpg",
@@ -188,7 +188,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 23,
+            "id": 24,
             "name": "While",
             "detalle": "Hace un ciclo repetitivo con una estructura conmo el if",
             "ejemplo1": "while.jpg",
@@ -196,7 +196,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 24,
+            "id": 25,
             "name": "do While",
             "detalle": "Ciclo repetitivo identico al while pero la condicion se verifica al finalizar el bloque de codigo",
             "ejemplo1": "do_while.jpg",
@@ -204,7 +204,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 25,
+            "id": 26,
             "name": "Objetos Literales",
             "detalle": "Dentro de un Objeto se pueden tener varios elementos y poderlos consultar y llamar cada uno de forma independiente",
             "ejemplo1": "objetoLiteral.jpg",
@@ -212,7 +212,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 26,
+            "id": 27,
             "name": "Metodo",
             "detalle": "Funcion creada dentro de un objeto Literal",
             "ejemplo1": "metodo.jpg",
@@ -220,7 +220,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 27,
+            "id": 28,
             "name": "Funciones Constructoras",
             "detalle": "Funciones Constructoras",
             "ejemplo1": "funcionesConstructoras.jpg",
@@ -228,7 +228,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 28,
+            "id": 29,
             "name": "Instanciar",
             "detalle": "Crear un objeto particular a partir de su funcion molde",
             "ejemplo1": "instanciar.jpg",
@@ -236,7 +236,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 29,
+            "id": 30,
             "name": "this",
             "detalle": "Llamar a un elemento u objeto que esta en el entorno local",
             "ejemplo1": "this.jpg",
@@ -244,7 +244,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 30,
+            "id": 31,
             "name": "Json",
             "detalle": "Formato de texto sencillo utilizado para el intercambio de datos entre distintos sistemas",
             "ejemplo1": "json.jpg",
@@ -252,7 +252,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 31,
+            "id": 32,
             "name": "json.parse()",
             "detalle": "Convierte un texto con formato JSON a tipo de dato equivalente de javaScript.",
             "ejemplo1": "jsonParse.jpg",
@@ -260,7 +260,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 32,
+            "id": 33,
             "name": "json.stringify()",
             "detalle": "Convierte un tipo de dato de JavaScript en un texto en formato JSON.",
             "ejemplo1": "jsonStringify.jpg",
@@ -268,7 +268,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 33,
+            "id": 34,
             "name": "exports()",
             "detalle": "Permite Exportar Modulos creados en archivos externos",
             "ejemplo1": "exports.jpg",
@@ -276,7 +276,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 34,
+            "id": 35,
             "name": "require()",
             "detalle": "Permite importar Modulos creados en archivos externos",
             "ejemplo1": "require.jpg",
@@ -284,7 +284,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 35,
+            "id": 36,
             "name": ".writeFileSync()",
             "detalle": "Permite escribir dentro de archivos externos y remplaza la información",
             "ejemplo1": "writeFileSync.jpg",
@@ -292,7 +292,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 36,
+            "id": 37,
             "name": ".appendFileSync()",
             "detalle": "Permite agregar (Adicionar) contenido a archivos externos",
             "ejemplo1": "appendFileSync.jpg",
@@ -300,7 +300,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 37,
+            "id": 38,
             "name": ".readFileSync()",
             "detalle": "Permite recuperar (extraer) datos de un archivo externo",
             "ejemplo1": "readFileSync.jpg",
@@ -308,7 +308,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 38,
+            "id": 39,
             "name": "Arrow Functions",
             "detalle": "Forma compacta de crear o expresar nuestras funciones.",
             "ejemplo1": "ArrowFunctions.jpg",
@@ -316,7 +316,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 39,
+            "id": 40,
             "name": "callback",
             "detalle": "Un callback es una función que se pasa como parámetro de otra función.",
             "ejemplo1": "callback.jpg",
@@ -324,7 +324,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 40,
+            "id": 41,
             "name": ".map()",
             "detalle": "Retorna un array nuevo modificando los elementos de acuerdo al return de la function()",
             "ejemplo1": "map.jpg",
@@ -332,7 +332,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 41,
+            "id": 42,
             "name": ".filter()",
             "detalle": "Filtra los Elementos y return un nuevo array de acuerdo a la operacion en la function()",
             "ejemplo1": "filter.jpg",
@@ -340,7 +340,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 42,
+            "id": 43,
             "name": ".reduce()",
             "detalle": "Almacenar el resultado los Elementos y return un nuevo array de acuerdo a la operacion en la function()",
             "ejemplo1": "reduce.jpg",
@@ -348,7 +348,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 43,
+            "id": 44,
             "name": ".forEach()",
             "detalle": "Recorre el array y nos devuelve el indice y el contenido del elemento dentro del array",
             "ejemplo1": "forEach.jpg",
@@ -356,7 +356,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 44,
+            "id": 45,
             "name": ".splice()",
             "detalle": "Este método nos sirve para remover y/o agregar elementos de un array. Recibe tres parámetros:",
             "ejemplo1": "splice.jpg",
@@ -364,7 +364,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 45,
+            "id": 46,
             "name": ".sort()",
             "detalle": "Este método nos sirve para ordenar los elementos de un array.",
             "ejemplo1": "sort.jpg",
@@ -372,7 +372,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 46,
+            "id": 47,
             "name": ".find()",
             "detalle": "Este método devuelve el valor del primer elemento de un array que cumple con una función especificada (callback).",
             "ejemplo1": "find.jpg",
@@ -380,7 +380,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 47,
+            "id": 48,
             "name": "parseFloat",
             "detalle": "Este método permite convertir Json string numero ('25'), leerlo y sumarlo con decimales.",
             "ejemplo1": "parseFloat.jpg",
@@ -388,7 +388,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 48,
+            "id": 49,
             "name": "findIndex",
             "detalle": "Obtener el index apartir de un elemento de un array o metodo",
             "ejemplo1": "findIndex.jpg",

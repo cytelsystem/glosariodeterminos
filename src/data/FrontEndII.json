@@ -217,6 +217,33 @@
             "ejemplo2": "classListAddRemoveToggleJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 25,
+            "name": "createElement()",
+            "detalle": "Crea un nodo de tipo elemento según el nombre de la etiqueta de HTML que le indiquemos.",
+            "ejemplo1": "createElementJavaScript.jpg",
+            "ejemplo2": "createElementJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 26,
+            "name": "createTextNode()",
+            "detalle": "Crea un nodo de texto explicitado entre comillas. No se visualiza hasta asignarlo a un elemento existente del DOM.",
+            "ejemplo1": "createTextNodeJavaScript.jpg",
+            "ejemplo2": "createTextNodeJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 27,
+            "name": "appendChild()",
+            "detalle": "Adhiere dentro del DOM un elemento hijo a un elemento padre. Si el elemento padre ya existía en el documento, cambia su posición hacia el otro elemento padre indicado. Si no existe, lo creamos con createElement()",
+            "ejemplo1": "appendChildJavaScript.jpg",
+            "ejemplo2": "appendChildJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 
