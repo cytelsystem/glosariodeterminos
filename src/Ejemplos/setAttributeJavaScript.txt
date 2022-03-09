@@ -1,0 +1,21 @@
+
+//*******************************************************************************************//
+
+
+let elemento = document.querySelector("#portada");  //Seleccionamos un elemento del HTML
+
+elemento.setAttribute("src", "imagen_portada.jpg");  //Pedimos el valor del atributo
+
+//*******************************************************************************************//
+
+function AgregarAttributo(){
+
+  let tarjetaadd = document.getElementById("tarjeta");
+
+  tarjetaadd.setAttribute("class", "card");
+
+}
+
+AgregarAttributo();
+
+//*******************************************************************************************//

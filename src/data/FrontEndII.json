@@ -244,6 +244,42 @@
             "ejemplo2": "appendChildJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 28,
+            "name": "hasAttribute()",
+            "detalle": "Sirve para consultar si el elemento posee o no un determinado atributo.",
+            "ejemplo1": "hasAttributeJavaScript.jpg",
+            "ejemplo2": "hasAttributeJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 29,
+            "name": "getAttribute()",
+            "detalle": "Permite obtener el valor de un determinado atributo",
+            "ejemplo1": "getAttributeJavaScript.jpg",
+            "ejemplo2": "getAttributeJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 30,
+            "name": "removeAttribute()",
+            "detalle": "Borra por completo el atributo y sus valores del elemento. Si no lo encuentra, no hace nada.",
+            "ejemplo1": "removeAttributeJavaScript.jpg",
+            "ejemplo2": "removeAttributeJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 31,
+            "name": "setAttribute()",
+            "detalle": "Este método nos permite agregar un atributo con su respectivo valor al elemento seleccionado.",
+            "ejemplo1": "setAttributeJavaScript.jpg",
+            "ejemplo2": "setAttributeJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 
