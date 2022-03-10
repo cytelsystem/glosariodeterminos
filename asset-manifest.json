@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.afd3ac47.js",
+    "main.js": "/glosariodeterminos/static/js/main.4d1df0cc.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -215,8 +215,10 @@
     "static/media/TestearEvaluar.jpg": "/glosariodeterminos/static/media/TestearEvaluar.0afaf205f814b5e61131.jpg",
     "static/media/array.jpg": "/glosariodeterminos/static/media/array.1dfc142fc8a1fe545016.jpg",
     "static/media/PruebasRegresion.jpg": "/glosariodeterminos/static/media/PruebasRegresion.c02f728acd6dc008d2f9.jpg",
+    "static/media/mouseOverJavaScript.jpg": "/glosariodeterminos/static/media/mouseOverJavaScript.8206b02b7dc7753d2d3c.jpg",
     "static/media/VariablesClase.jpg": "/glosariodeterminos/static/media/VariablesClase.627af1ae98c6612d3317.jpg",
     "static/media/typeof.jpg": "/glosariodeterminos/static/media/typeof.fb2da2228a90632052e0.jpg",
+    "static/media/mouseoutJavaScript.jpg": "/glosariodeterminos/static/media/mouseoutJavaScript.b7fc8525497b259beac5.jpg",
     "static/media/Ciclovidadefecto.jpg": "/glosariodeterminos/static/media/Ciclovidadefecto.02c77667b1d92d3b6eeb.jpg",
     "static/media/TiposErrores.jpg": "/glosariodeterminos/static/media/TiposErrores.d128048394901951a246.jpg",
     "static/media/findIndex.jpg": "/glosariodeterminos/static/media/findIndex.5fb5bf6bb47a2bc2326a.jpg",
@@ -230,6 +232,7 @@
     "static/media/OPERADORES.jpg": "/glosariodeterminos/static/media/OPERADORES.0e2fda43d3fb41f53e5c.jpg",
     "static/media/LIKE.jpg": "/glosariodeterminos/static/media/LIKE.cfe6fae14f6d541b0cf9.jpg",
     "static/media/UPDATE.jpg": "/glosariodeterminos/static/media/UPDATE.1f29968fc87081154164.jpg",
+    "static/media/dblclickJavaScript.jpg": "/glosariodeterminos/static/media/dblclickJavaScript.3571e28dd5a048e72eca.jpg",
     "static/media/LOCATE.jpg": "/glosariodeterminos/static/media/LOCATE.45406c60948c6498bf75.jpg",
     "static/media/for.jpg": "/glosariodeterminos/static/media/for.38f46c506d8e61279fca.jpg",
     "static/media/ifTernario.jpg": "/glosariodeterminos/static/media/ifTernario.046677135383f544fad8.jpg",
@@ -311,9 +314,11 @@
     "static/media/callback.txt": "/glosariodeterminos/static/media/callback.9a00d18787cefecfd0bb.txt",
     "static/media/toUpperCase.txt": "/glosariodeterminos/static/media/toUpperCase.69a094393e7e4d3416a0.txt",
     "static/media/InstalacionReactJs.txt": "/glosariodeterminos/static/media/InstalacionReactJs.275007dbe0c49e5f9ba0.txt",
+    "static/media/querySelectorAllJavaScript.txt": "/glosariodeterminos/static/media/querySelectorAllJavaScript.dc3470b4b891f10dfd44.txt",
     "static/media/array.txt": "/glosariodeterminos/static/media/array.6af7a16d45e229173a34.txt",
     "static/media/Scanner.txt": "/glosariodeterminos/static/media/Scanner.0509be9e106473c04caa.txt",
     "static/media/Ciclovidadefecto.txt": "/glosariodeterminos/static/media/Ciclovidadefecto.1efd3d09a89d5726e4e0.txt",
+    "static/media/dblclickJavaScript.txt": "/glosariodeterminos/static/media/dblclickJavaScript.086e2cd30b3255dc019d.txt",
     "static/media/InstalacionHashMd5.txt": "/glosariodeterminos/static/media/InstalacionHashMd5.f1cc732204ad3391910e.txt",
     "static/media/prototipo.txt": "/glosariodeterminos/static/media/prototipo.8b6d67e36dddd8194ae7.txt",
     "static/media/addEventListenerJavaScript.txt": "/glosariodeterminos/static/media/addEventListenerJavaScript.cb6b32e84739f555bc14.txt",
@@ -328,7 +333,6 @@
     "static/media/appendChildJavaScript.txt": "/glosariodeterminos/static/media/appendChildJavaScript.25012ddde79083cae67d.txt",
     "static/media/createTextNodeJavaScript.txt": "/glosariodeterminos/static/media/createTextNodeJavaScript.25012ddde79083cae67d.txt",
     "static/media/innerHTMLJavaScript.txt": "/glosariodeterminos/static/media/innerHTMLJavaScript.68de4633a93a89ddc4e7.txt",
-    "static/media/querySelectorAllJavaScript.txt": "/glosariodeterminos/static/media/querySelectorAllJavaScript.f63d88f8c98fc706671b.txt",
     "static/media/createElementJavaScript.txt": "/glosariodeterminos/static/media/createElementJavaScript.c0eb18438738cba5b3a7.txt",
     "static/media/Generics.txt": "/glosariodeterminos/static/media/Generics.19de7ebb95d8055ba57c.txt",
     "static/media/configuracionProyectoReact.txt": "/glosariodeterminos/static/media/configuracionProyectoReact.4266271ac9e163e82c96.txt",
@@ -338,9 +342,11 @@
     "static/media/MetodoMain.txt": "/glosariodeterminos/static/media/MetodoMain.39d31293a30f9c287ba5.txt",
     "static/media/EXTRACT.txt": "/glosariodeterminos/static/media/EXTRACT.6655166ef77020c0182a.txt",
     "static/media/push.txt": "/glosariodeterminos/static/media/push.d04c742078cceaa7306c.txt",
+    "static/media/mouseOverJavaScript.txt": "/glosariodeterminos/static/media/mouseOverJavaScript.b2de7fb2a1ff99ff129b.txt",
     "static/media/filter.txt": "/glosariodeterminos/static/media/filter.0d3563d4966ba0108754.txt",
     "static/media/ArrowFunctions.txt": "/glosariodeterminos/static/media/ArrowFunctions.f50cdc923d18a21d1f13.txt",
     "static/media/jsonParse.txt": "/glosariodeterminos/static/media/jsonParse.b21a919d693d626eb07b.txt",
+    "static/media/mouseoutJavaScript.txt": "/glosariodeterminos/static/media/mouseoutJavaScript.a498150dc771a2f3c364.txt",
     "static/media/preventDefaultJavaScript.txt": "/glosariodeterminos/static/media/preventDefaultJavaScript.9831b1abbb52136a9a1e.txt",
     "static/media/StyleJavaScript.txt": "/glosariodeterminos/static/media/StyleJavaScript.17154e71d2f14bda8185.txt",
     "static/media/TestearEvaluar.txt": "/glosariodeterminos/static/media/TestearEvaluar.ac0a0a810d78f6f947ad.txt",
@@ -552,10 +558,10 @@
     "static/media/unitTest.txt": "/glosariodeterminos/static/media/unitTest.31d6cfe0d16ae931b73c.txt",
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.afd3ac47.js.map": "/glosariodeterminos/static/js/main.afd3ac47.js.map"
+    "main.4d1df0cc.js.map": "/glosariodeterminos/static/js/main.4d1df0cc.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.afd3ac47.js"
+    "static/js/main.4d1df0cc.js"
   ]
 }
