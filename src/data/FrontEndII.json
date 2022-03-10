@@ -316,6 +316,33 @@
             "ejemplo2": "preventDefaultJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 36,
+            "name": "dblclick",
+            "detalle": "Se ejecuta un evento al hacer doble click en un elemento o bottom",
+            "ejemplo1": "dblclickJavaScript.jpg",
+            "ejemplo2": "dblclickJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 36,
+            "name": "mouseOver",
+            "detalle": "Se activa el elemento al pasar el mouse",
+            "ejemplo1": "mouseOverJavaScript.jpg",
+            "ejemplo2": "mouseOverJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 36,
+            "name": "mouseout",
+            "detalle": "Se activa al salir o alejarse del elemento",
+            "ejemplo1": "mouseoutJavaScript.jpg",
+            "ejemplo2": "mouseoutJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 

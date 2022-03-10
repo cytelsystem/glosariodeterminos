@@ -33,4 +33,19 @@ itemOscuro.forEach(elemento => {
   elemento.classList.add('itemOscuro')
 })
 
+//***************************************querySelectorAll con for*****************************************//
+
+window.addEventListener("load", function() {
+
+  let btn = document.querySelectorAll('.btnclass')
+
+  for (let i = 0; i < btn.length; i++) {
+
+    btn[i].addEventListener("click", function() {
+      this.style.color = 'cyan';
+    })
+
+  }
+
+})
 //*************************************************************************************************//
