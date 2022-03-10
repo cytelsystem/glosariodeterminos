@@ -1,0 +1,27 @@
+
+//****************************************************************************************************//
+
+let hipervinculo = document.querySelector('a');
+hipervinculo.addEventListener('click', function(event){  // Puede ser event o solamente la e
+ console.log('hiciste click');
+ event.preventDefault();
+});
+
+
+//****************************************************************************************************//
+
+
+window.addEventListener("load", function() {
+
+  let btnglo = document.querySelector('a');
+
+  btnglo.addEventListener("click", function(e) {
+
+    console.log(e); // Mirar en consola las posibilidades del evento click
+
+    e.preventDefault();
+
+  })
+
+})
+//****************************************************************************************************//

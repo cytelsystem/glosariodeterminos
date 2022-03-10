@@ -280,6 +280,42 @@
             "ejemplo2": "setAttributeJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 32,
+            "name": "window.onload",
+            "detalle": "Este evento permite que todo el script se ejecute cuando se haya cargado por completo el objeto document dentro del objeto window.",
+            "ejemplo1": "onloadJavaScript.jpg",
+            "ejemplo2": "onloadJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 33,
+            "name": "onclick",
+            "detalle": "Este evento nos permite ejecutar una acción cuando se haga clic sobre el elemento al cual le estamos aplicando la propiedad.",
+            "ejemplo1": "onclickJavaScript.jpg",
+            "ejemplo2": "onclickJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 34,
+            "name": "window.addEventListener",
+            "detalle": "Registra un evento a un objeto en específico, permite agregar mas de un listener a un solo evento, funciona en cualquier elemento del DOM.",
+            "ejemplo1": "addEventListenerJavaScript.jpg",
+            "ejemplo2": "addEventListenerJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 35,
+            "name": "preventDefault()",
+            "detalle": "Nos permite evitar que se ejecute el evento predeterminado —o nativo— del elemento al que se lo estemos aplicando",
+            "ejemplo1": "preventDefaultJavaScript.jpg",
+            "ejemplo2": "preventDefaultJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 

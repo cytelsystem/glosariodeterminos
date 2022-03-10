@@ -25,3 +25,12 @@ let titulo = document.querySelectorAll('.title');
 console.log(titulo);
 
 //*************************************************************************************************//
+
+
+let itemOscuro = document.querySelectorAll('.item');
+
+itemOscuro.forEach(elemento => {
+  elemento.classList.add('itemOscuro')
+})
+
+//*************************************************************************************************//
