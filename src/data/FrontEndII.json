@@ -327,7 +327,7 @@
 
         },
         {
-            "id": 36,
+            "id": 37,
             "name": "mouseOver",
             "detalle": "Se activa el elemento al pasar el mouse",
             "ejemplo1": "mouseOverJavaScript.jpg",
@@ -336,7 +336,7 @@
 
         },
         {
-            "id": 36,
+            "id": 38,
             "name": "mouseout",
             "detalle": "Se activa al salir o alejarse del elemento",
             "ejemplo1": "mouseoutJavaScript.jpg",
@@ -344,7 +344,6 @@
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
-
 
     ]
 }
