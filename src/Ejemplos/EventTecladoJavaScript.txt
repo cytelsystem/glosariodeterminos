@@ -1,0 +1,22 @@
+//************************************onkeydown*********************************************//
+
+let miInput = document.querySelector('#miInput');
+  miInput.onkeydown = function(event){
+  alert("Se presionó la tecla: "+ event.key);
+}
+
+//*************************************onkeyup**********************************************//
+
+let miInput = document.querySelector('#miInput');
+  miInput.onkeyup = function(event){
+  alert("Se soltó la tecla: "+ event.key);
+}
+
+//*************************************onkeypress***********************************************//
+
+let miInput = document.querySelector('#miInput');
+  miInput.onkeypress = function(event){
+  alert("Se presionó la tecla: "+ event.key);
+}
+
+//*********************************************************************************************//

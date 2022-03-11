@@ -28,6 +28,51 @@
             "ejemplo2": "InfraestructuraServiciosInfraestructura.pdf",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 4,
+            "name": "Middleware",
+            "detalle": "Capa de software que traduce la solicitud para que sea compendida por el servidor",
+            "ejemplo1": "MiddlewareInfraestructura.jpg",
+            "ejemplo2": "MiddlewareInfraestructura.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 5,
+            "name": "virtualización",
+            "detalle": "La virtualización permite mejorar la agilidad, la flexibilidad y la escalabilidad de la infraestructura de IT, al mismo tiempo que proporciona un importante ahorro de costos.",
+            "ejemplo1": "virtualizaciónInfraestructura.jpg",
+            "ejemplo2": "virtualizaciónInfraestructura.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 6,
+            "name": "Instalación Windows Linux Mac",
+            "detalle": "3 Ejemplos de instalacion VirtualBox y Vagrant Ejemplo1 Windows, Ejemplo2 Linux, Ejemplo3 Mac",
+            "ejemplo1": "InstalacionVirtualBVagrant(Windows).pdf",
+            "ejemplo2": "InstalacionVirtualBoxVagrant(Linux).pdf",
+            "ejemplo3": "InstalacionVirtualBoxVagrant (Mac).pdf"
+
+        },
+        {
+            "id": 7,
+            "name": "Instalación Linux debian Manualmente en virtualBox",
+            "detalle": "Instalacion paso a paso en virtualbox de debian y apache2",
+            "ejemplo1": "InstalacionCrearVMVirtualBox.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 8,
+            "name": "Maquina virtual linux con vagrant",
+            "detalle": "Automatizar la instalacion de servidor linux con vagrant",
+            "ejemplo1": "InstalacionMaquinavirtuallinuxvagrant.pdf",
+            "ejemplo2": "InstalacionMaquinavirtuallinuxvagrant.txt",
+            "ejemplo3": "InstalacionMaquinavirtuallinuxvagrant.jpg"
+
         }
 
     ]

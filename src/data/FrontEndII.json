@@ -337,10 +337,19 @@
         },
         {
             "id": 38,
-            "name": "mouseout",
-            "detalle": "Se activa al salir o alejarse del elemento",
-            "ejemplo1": "mouseoutJavaScript.jpg",
-            "ejemplo2": "mouseoutJavaScript.txt",
+            "name": "onekeypress, onekeydown, onkeyup",
+            "detalle": "Eventos de teclado onekeypress dispara al finalizar el recorrido de presión y liberación de la tecla, onekeydown se activa cuando presiona tecla, onkeyup cuando la tecla se suelta.",
+            "ejemplo1": "EventTecladoJavaScript.jpg",
+            "ejemplo2": "EventTecladoJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 39,
+            "name": "Tipos de Funciones JavaScript",
+            "detalle": "Declaradas, Expresadas, Callbacks, Closures",
+            "ejemplo1": "TiposFuncionesJavaScript.jpg",
+            "ejemplo2": "TiposFuncionesJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
