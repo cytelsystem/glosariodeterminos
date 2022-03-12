@@ -4,15 +4,263 @@
 
         {
             "id": 1,
-            "name": "cp",
-            "detalle": "Copiar o ducplicar archivo",
-            "ejemplo1": "TiposErrores.jpg",
-            "ejemplo2": "TiposErrores.txt",
+            "name": "cat",
+            "detalle": "Crear un archivo e imprimir por pantalla su contenido.",
+            "ejemplo1": "catLinux.jpg",
+            "ejemplo2": "catLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 2,
+            "name": "more",
+            "detalle": "Imprimir por pantalla el contenido de un archivo de texto",
+            "ejemplo1": "moreLinux.jpg",
+            "ejemplo2": "moreLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 3,
+            "name": "nano",
+            "detalle": "Nano es un editor de textos para la terminal",
+            "ejemplo1": "nanoLinux.jpg",
+            "ejemplo2": "nanoLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 4,
+            "name": "grep",
+            "detalle": "Se encarga de buscar un patrón que definamos en un archivo de texto",
+            "ejemplo1": "grepLinux.jpg",
+            "ejemplo2": "grepLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 5,
+            "name": "tee",
+            "detalle": "Lee una entrada estándar y la escribe en la salida estándar",
+            "ejemplo1": "teeLinux.jpg",
+            "ejemplo2": "teeLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 6,
+            "name": "curl",
+            "detalle": "El uso más simple de cURL es mostrar el contenido de una página.",
+            "ejemplo1": "curlLinux.jpg",
+            "ejemplo2": "curlLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 7,
+            "name": "jq",
+            "detalle": "jq se basa en el concepto de filtros que funcionan sobre un flujo de JSON",
+            "ejemplo1": "jqLinux.jpg",
+            "ejemplo2": "jqLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 8,
+            "name": "Commandos con Pipeline | ",
+            "detalle": "El pipeline en Linux se representa con la barra vertical (|), la cual dividirá los comandos",
+            "ejemplo1": "commandosPipelineLinux.jpg",
+            "ejemplo2": "commandosPipelineLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 9,
+            "name": "locate",
+            "detalle": "Buscar archivos en linux",
+            "ejemplo1": "locateLinux.jpg",
+            "ejemplo2": "locateLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 10,
+            "name": "find",
+            "detalle": "Buscar archivos en linux rentro de un directorio de inicio y sus subdirectorios. ",
+            "ejemplo1": "findLinux.jpg",
+            "ejemplo2": "findLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 11,
+            "name": "df",
+            "detalle": "Usá el comando df para obtener un informe sobre el uso del espacio en disco",
+            "ejemplo1": "dfLinux.jpg",
+            "ejemplo2": "dfLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 12,
+            "name": "du",
+            "detalle": "Te pemite verificar cuánto espacio ocupa un archivo o un directorio.",
+            "ejemplo1": "duLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 13,
+            "name": "heard",
+            "detalle": "Se usa para ver las primeras líneas de cualquier archivo de texto.",
+            "ejemplo1": "heardLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 14,
+            "name": "tail",
+            "detalle": "Se usa para mostrar las últimas diez líneas de cualquier archivo de texto.",
+            "ejemplo1": "tailLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 15,
+            "name": "diff",
+            "detalle": "Compara el contenido de dos archivos línea por línea.",
+            "ejemplo1": "diffLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 16,
+            "name": "tar",
+            "detalle": "Empaquetar archivos con compresión opcional. similar al ZIP",
+            "ejemplo1": "tarLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 17,
+            "name": "chmod",
+            "detalle": "Se utiliza para cambiar los permisos de lectura, escritura y ejecución de archivos y directorios.",
+            "ejemplo1": "chmodLinux.jpg",
+            "ejemplo2": "chmodLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 18,
+            "name": "jobs",
+            "detalle": "El comando jobs mostrará todos los trabajos actuales junto con sus estados.",
+            "ejemplo1": "jobsLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 19,
+            "name": "kill",
+            "detalle": "Matar programas o procesos que no responden",
+            "ejemplo1": "killLinux.jpg",
+            "ejemplo2": "killLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 20,
+            "name": "wget",
+            "detalle": "Te permite descargar archivos de Internet.",
+            "ejemplo1": "wgetLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 21,
+            "name": "uname",
+            "detalle": "Imprimirá información detallada sobre tu sistema Linux,",
+            "ejemplo1": "unameLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 22,
+            "name": "top",
+            "detalle": "Se trata de una terminal equivalente al Administrador de tareas en Windows.",
+            "ejemplo1": "topLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 23,
+            "name": "man",
+            "detalle": "Ayuda de unix linux ",
+            "ejemplo1": "manLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 24,
+            "name": "echo",
+            "detalle": "Este comando se usa para mover algunos datos a un archivo.",
+            "ejemplo1": "echoLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 25,
+            "name": "zip unzip",
+            "detalle": "Comprimir archivos",
+            "ejemplo1": "zipunzipLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 26,
+            "name": "hostname",
+            "detalle": "conocer el nombre de tu host/red y direccion IP",
+            "ejemplo1": "hostnameLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 27,
+            "name": "useradd / userdell",
+            "detalle": "Crear o eliminar usuarios en linux",
+            "ejemplo1": "useraddUserdellLinux.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 28,
+            "name": "Listar todos los servicios",
+            "detalle": "listar todos los servicios en Linux.",
+            "ejemplo1": "listarServiciosLinux.jpg",
+            "ejemplo2": "listarServiciosLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 29,
+            "name": "netstat",
+            "detalle": "Netstat es una utilidad de línea de comandos para Linux que imprime conexiones de red, tablas de enrutamiento",
+            "ejemplo1": "netstatLinux.jpg",
+            "ejemplo2": "netstatLinux.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
 
-
-
     ]
 }
+
+
