@@ -13,6 +13,7 @@ import ReactJs from '../pages/ReactJs';
 import FrontEndII from '../pages/FrontEndII';
 import InfraestructuraI from '../pages/InfraestructuraI';
 import Linux from '../pages/Linux';
+import PowerShell from '../pages/PowerShell';
 import Layout from './Layout';
 import NotFound from '../pages/NotFound';
 
@@ -35,6 +36,7 @@ function App() {
             <Route exact path="/FrontEndII" component={FrontEndII} />
             <Route exact path="/InfraestructuraI" component={InfraestructuraI} />
             <Route exact path="/Linux" component={Linux} />
+            <Route exact path="/PowerShell" component={PowerShell} />
             <Route component={NotFound} />
         </Switch>
       </Layout>

@@ -1,0 +1,65 @@
+{
+    "results": [
+
+
+        {
+            "id": 1,
+            "name": "Instalacion PowerShell Core",
+            "detalle": "En windows Trae predeterminado un PowerShell basico y podemos instalar un powerShell Core ",
+            "ejemplo1": "InstalacionPowerShellC.jpg",
+            "ejemplo2": "InstalacionPowerShellC.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Get-Help",
+            "detalle": "Lo utilizamos para obtener ayuda e información sobre cmdlets, módulos y otros.",
+            "ejemplo1": "GetHelpPowerShellC.jpg",
+            "ejemplo2": "GetHelpPowerShellC.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Update-Help",
+            "detalle": "Lo utilizamos para actualizar el repositorio de ayuda.",
+            "ejemplo1": "UpdateHelpPowerShellC.jpg",
+            "ejemplo2": "UpdateHelpPowerShellC.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Get-Command",
+            "detalle": "Lo utilizamos para buscar un cmdlet",
+            "ejemplo1": "GetCommandPowerShellC.jpg",
+            "ejemplo2": "GetCommandPowerShellC.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Get-Member",
+            "detalle": "Lo utilizamos para mostrar las propiedades y los métodos de un objeto devuelto",
+            "ejemplo1": "GetMemberPowerShellC.jpg",
+            "ejemplo2": "GetMemberPowerShellC.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 6,
+            "name": "$PSVersionTable",
+            "detalle": "Lo utilizamos para ver la variable de entorno que contiene información sobre PowerShell",
+            "ejemplo1": "PSVersionTablePowerShellC.jpg",
+            "ejemplo2": "PSVersionTablePowerShellC.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 7,
+            "name": "If",
+            "detalle": "De acuerdo con la condicion, ejecutamos un grupo u otro de sentencias (if-then-Else)",
+            "ejemplo1": "IfPowerShellC.jpg",
+            "ejemplo2": "IfPowerShellC.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        }
+
+    ]
+}
+
+
