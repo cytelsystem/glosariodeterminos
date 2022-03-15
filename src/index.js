@@ -7,6 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import App from './components/App';
 
 
-const contenedor = document.getElementById('app');
+  const contenedor = document.getElementById('app');
 
-ReactDOM.render(<App />, contenedor);
+  ReactDOM.render(<App />, contenedor);
+
