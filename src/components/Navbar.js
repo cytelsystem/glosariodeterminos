@@ -2,12 +2,15 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import data from '../data/Navbar.json';
 import './styles/navbar.scss';
-
 import * as ReactBootStrap from "react-bootstrap";
+import { useState } from "react";
 
 
   function Navbar() {
 
+    const [show, setShow] = useState(false);
+    const handleClose = () => setShow(false);
+    const toggleShow = () => setShow((s) => !s);
 
 
     return (
@@ -29,7 +32,7 @@ import * as ReactBootStrap from "react-bootstrap";
                     <ul className="row list-unstyled">
                       {data.results.map(detalle =>(
                         <li className="col-4 col-md-6 col-sm-4" key={detalle.id}>
-                            <Link to={detalle.Url} className="btn btn-secondary btn-style btnivo">{detalle.name}</Link>
+                            <Link onClick={() => this.toggleShow()} to={detalle.Url} className="btn btn-secondary btn-style btnivo">{detalle.name}</Link>
                         </li>
                       ))}
                     </ul>
