@@ -24,6 +24,21 @@ cita.classList.contains('cita'); // false
 
 let cita = document.querySelector('.italicas');
 cita.classList.contains('italicas'); // true
+
 //******************************************************************************************//
+
+
+/* ------------------- funcionalidad para cambiar el tema ------------------- */
+function alternarTema() {
+    // cambiamos el tema y nos guardamos si se agregó o no esa clase
+    const temaOscuro = body.classList.toggle('dark');
+    // chequeamos si es el tema temaOscuro, ponemos un icono de sol
+    if(temaOscuro){
+        icono.innerText = '🌞'
+    }else{
+        icono.innerText = '🌛'
+    }
+}
+
 //******************************************************************************************//
 

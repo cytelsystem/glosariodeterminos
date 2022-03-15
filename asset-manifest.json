@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.32ab995a.js",
+    "main.js": "/glosariodeterminos/static/js/main.ff1e6594.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -226,6 +226,8 @@
     "static/media/InstalacionMaquinavirtuallinuxvagrant.jpg": "/glosariodeterminos/static/media/InstalacionMaquinavirtuallinuxvagrant.b8c454a31c7bc3fe00ce.jpg",
     "static/media/DevToolsApplicationtorage.jpg": "/glosariodeterminos/static/media/DevToolsApplicationtorage.c4dcec3c05e52374556d.jpg",
     "static/media/MAX.jpg": "/glosariodeterminos/static/media/MAX.5b82ca94b08b3b5b644e.jpg",
+    "static/media/textContentJavaScript.jpg": "/glosariodeterminos/static/media/textContentJavaScript.5ec3f6b3161eecee0306.jpg",
+    "static/media/forEachJavaScript.jpg": "/glosariodeterminos/static/media/forEachJavaScript.067ca5135b264eec22cf.jpg",
     "static/media/MIN.jpg": "/glosariodeterminos/static/media/MIN.d0734e04c02659cbed32.jpg",
     "static/media/prototipo.jpg": "/glosariodeterminos/static/media/prototipo.562b74479eb1ad8a8519.jpg",
     "static/media/ExcepcionesJava2.jpg": "/glosariodeterminos/static/media/ExcepcionesJava2.1bb8de8777f7cd85c190.jpg",
@@ -346,6 +348,7 @@
     "static/media/ErrorDefectoFallo.txt": "/glosariodeterminos/static/media/ErrorDefectoFallo.026093b4ecfc6e08c307.txt",
     "static/media/sort.txt": "/glosariodeterminos/static/media/sort.aa97705bb74edafd2c40.txt",
     "static/media/equalsObject.txt": "/glosariodeterminos/static/media/equalsObject.ea939f70b277e84123b4.txt",
+    "static/media/createElementJavaScript.txt": "/glosariodeterminos/static/media/createElementJavaScript.7044582be80307407ee7.txt",
     "static/media/PROCEDURE.txt": "/glosariodeterminos/static/media/PROCEDURE.306f7591cdf36cc93d4f.txt",
     "static/media/ListaDeComponentesReactJS.txt": "/glosariodeterminos/static/media/ListaDeComponentesReactJS.02fb6e889d2c07efae7c.txt",
     "static/media/writeFileSync.txt": "/glosariodeterminos/static/media/writeFileSync.ccb7f4dbe402bedc8f0d.txt",
@@ -355,7 +358,9 @@
     "static/media/TiposFuncionesJavaScript.txt": "/glosariodeterminos/static/media/TiposFuncionesJavaScript.0c138828824f352ccae4.txt",
     "static/media/ExceptionPerJava.txt": "/glosariodeterminos/static/media/ExceptionPerJava.3440707b55d4f1b79a1f.txt",
     "static/media/ExcepcionesJava.txt": "/glosariodeterminos/static/media/ExcepcionesJava.655b9e5710d68c7613f5.txt",
+    "static/media/setAttributeJavaScript.txt": "/glosariodeterminos/static/media/setAttributeJavaScript.9af70600ef993a2c7907.txt",
     "static/media/PropsComponenteReactJS.txt": "/glosariodeterminos/static/media/PropsComponenteReactJS.c765e02709a26ec62723.txt",
+    "static/media/classListAddRemoveToggleJavaScript.txt": "/glosariodeterminos/static/media/classListAddRemoveToggleJavaScript.f1b85583c4c91f805ca6.txt",
     "static/media/gitHubDeployReactJS.txt": "/glosariodeterminos/static/media/gitHubDeployReactJS.7744b6962cca27f067ad.txt",
     "static/media/AgregarElementos.txt": "/glosariodeterminos/static/media/AgregarElementos.a6e112976be9b3f696f9.txt",
     "static/media/callback.txt": "/glosariodeterminos/static/media/callback.9a00d18787cefecfd0bb.txt",
@@ -372,7 +377,6 @@
     "static/media/ALTERTABLE.txt": "/glosariodeterminos/static/media/ALTERTABLE.b1916fae436e21a5e94e.txt",
     "static/media/InstalacionMaquinavirtuallinuxvagrant.txt": "/glosariodeterminos/static/media/InstalacionMaquinavirtuallinuxvagrant.9696b799d1aded44797e.txt",
     "static/media/find.txt": "/glosariodeterminos/static/media/find.74fffd6c2b764ee6aacb.txt",
-    "static/media/classListAddRemoveToggleJavaScript.txt": "/glosariodeterminos/static/media/classListAddRemoveToggleJavaScript.f1a8ddd773e4c57ad61e.txt",
     "static/media/ArrayJava.txt": "/glosariodeterminos/static/media/ArrayJava.b7aeffbcf16d1f250a5f.txt",
     "static/media/PatronSingleton.txt": "/glosariodeterminos/static/media/PatronSingleton.17f4ad27c830c31a30b1.txt",
     "static/media/empatia.txt": "/glosariodeterminos/static/media/empatia.f4c2aad62ad3983e46b7.txt",
@@ -382,7 +386,6 @@
     "static/media/appendChildJavaScript.txt": "/glosariodeterminos/static/media/appendChildJavaScript.25012ddde79083cae67d.txt",
     "static/media/createTextNodeJavaScript.txt": "/glosariodeterminos/static/media/createTextNodeJavaScript.25012ddde79083cae67d.txt",
     "static/media/innerHTMLJavaScript.txt": "/glosariodeterminos/static/media/innerHTMLJavaScript.68de4633a93a89ddc4e7.txt",
-    "static/media/createElementJavaScript.txt": "/glosariodeterminos/static/media/createElementJavaScript.c0eb18438738cba5b3a7.txt",
     "static/media/Generics.txt": "/glosariodeterminos/static/media/Generics.19de7ebb95d8055ba57c.txt",
     "static/media/configuracionProyectoReact.txt": "/glosariodeterminos/static/media/configuracionProyectoReact.4266271ac9e163e82c96.txt",
     "static/media/definicion.txt": "/glosariodeterminos/static/media/definicion.8f0684d37982c29479a3.txt",
@@ -396,7 +399,9 @@
     "static/media/EventTecladoJavaScript.txt": "/glosariodeterminos/static/media/EventTecladoJavaScript.07c4ebb7deb9fec88053.txt",
     "static/media/filter.txt": "/glosariodeterminos/static/media/filter.0d3563d4966ba0108754.txt",
     "static/media/ArrowFunctions.txt": "/glosariodeterminos/static/media/ArrowFunctions.f50cdc923d18a21d1f13.txt",
+    "static/media/textContentJavaScript.txt": "/glosariodeterminos/static/media/textContentJavaScript.53d4a533a88de314986e.txt",
     "static/media/jsonParse.txt": "/glosariodeterminos/static/media/jsonParse.b21a919d693d626eb07b.txt",
+    "static/media/forEachJavaScript.txt": "/glosariodeterminos/static/media/forEachJavaScript.8e94755329eda9cd9de0.txt",
     "static/media/mouseoutJavaScript.txt": "/glosariodeterminos/static/media/mouseoutJavaScript.a498150dc771a2f3c364.txt",
     "static/media/preventDefaultJavaScript.txt": "/glosariodeterminos/static/media/preventDefaultJavaScript.9831b1abbb52136a9a1e.txt",
     "static/media/StyleJavaScript.txt": "/glosariodeterminos/static/media/StyleJavaScript.17154e71d2f14bda8185.txt",
@@ -413,7 +418,6 @@
     "static/media/metodo.txt": "/glosariodeterminos/static/media/metodo.5a4cfd1bd99611c16a97.txt",
     "static/media/toString.txt": "/glosariodeterminos/static/media/toString.f34b8e5f165ded5a8cc1.txt",
     "static/media/NaNJavaScript.txt": "/glosariodeterminos/static/media/NaNJavaScript.7057349265f3ff663bc9.txt",
-    "static/media/setAttributeJavaScript.txt": "/glosariodeterminos/static/media/setAttributeJavaScript.4eee924d9d0cdd48eb54.txt",
     "index.html": "/glosariodeterminos/index.html",
     "static/media/onclickJavaScript.txt": "/glosariodeterminos/static/media/onclickJavaScript.f168b96cb4c8e232da68.txt",
     "static/media/funcionesConstructoras.txt": "/glosariodeterminos/static/media/funcionesConstructoras.5e763507f003c50ed9c2.txt",
@@ -631,10 +635,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.32ab995a.js.map": "/glosariodeterminos/static/js/main.32ab995a.js.map"
+    "main.ff1e6594.js.map": "/glosariodeterminos/static/js/main.ff1e6594.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.32ab995a.js"
+    "static/js/main.ff1e6594.js"
   ]
 }
