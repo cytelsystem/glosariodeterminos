@@ -3,15 +3,10 @@ import { Link } from 'react-router-dom';
 import data from '../data/Navbar.json';
 import './styles/navbar.scss';
 import * as ReactBootStrap from "react-bootstrap";
-import { useState } from "react";
+
 
 
   function Navbar() {
-
-    const [show, setShow] = React.useState(false);
-    const handleClose = () => setShow(false);
-    const toggleShow = () => setShow((s) => !s);
-
 
     return (
       <div className="sticky-top" >
@@ -32,7 +27,7 @@ import { useState } from "react";
                     <ul className="row list-unstyled">
                       {data.results.map(detalle =>(
                         <li className="col-4 col-md-6 col-sm-4" key={detalle.id}>
-                            <Link to={detalle.Url} className="btn btn-secondary btn-style btnivo">{detalle.name}</Link>
+                            <Link to={detalle.Url} className="btn btn-secondary btn-style">{detalle.name}</Link>
                         </li>
                       ))}
                     </ul>
@@ -47,6 +42,14 @@ import { useState } from "react";
 
       </div>
     );
+
+
+
+
+
+
+
+
   }
 
 
