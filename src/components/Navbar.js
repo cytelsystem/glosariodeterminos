@@ -32,8 +32,7 @@ import { useState } from "react";
                     <ul className="row list-unstyled">
                       {data.results.map(detalle =>(
                         <li className="col-4 col-md-6 col-sm-4" key={detalle.id}>
-                            {/* <Link onClick={() => this.toggleShow()} to={detalle.Url} className="btn btn-secondary btn-style btnivo">{detalle.name}</Link> */}
-                            <a onClick={() => this.toggleShow()} href={detalle.Url}>{detalle.name}</a>
+                            <Link to={detalle.Url} className="btn btn-secondary btn-style btnivo">{detalle.name}</Link>
                         </li>
                       ))}
                     </ul>
