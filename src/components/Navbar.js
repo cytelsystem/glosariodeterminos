@@ -8,7 +8,7 @@ import { useState } from "react";
 
   function Navbar() {
 
-    const [show, setShow] = useState(false);
+    const [show, setShow] = React.useState(false);
     const handleClose = () => setShow(false);
     const toggleShow = () => setShow((s) => !s);
 
