@@ -148,6 +148,15 @@
         },
         {
             "id": 17,
+            "name": "forEach()",
+            "detalle": "Recorre el array y nos devuelve el indice y el contenido del elemento dentro del array",
+            "ejemplo1": "forEachJavaScript.jpg",
+            "ejemplo2": "forEachJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 18,
             "name": "querySelector()",
             "detalle": "Retorna el primer elemento del DOM que cumple con la condición que buscamos.",
             "ejemplo1": "querySelectorJavaScript.jpg",
@@ -156,7 +165,7 @@
 
         },
         {
-            "id": 18,
+            "id": 19,
             "name": "querySelectorAll()",
             "detalle": "Retorna todos los elementos del DOM que cumplen con la condición que buscamos.",
             "ejemplo1": "querySelectorAllJavaScript.jpg",
@@ -165,7 +174,7 @@
 
         },
         {
-            "id": 19,
+            "id": 20,
             "name": "getElementById()",
             "detalle": "Retorna el elemento del DOM que cumpla con el id que buscamos.",
             "ejemplo1": "getElementByIdJavaScript.jpg",
@@ -174,7 +183,7 @@
 
         },
         {
-            "id": 20,
+            "id": 21,
             "name": ".innerHTML",
             "detalle": "Leer o modificar el contenido de una etiqueta HTML",
             "ejemplo1": "innerHTMLJavaScript.jpg",
@@ -183,7 +192,7 @@
 
         },
         {
-            "id": 21,
+            "id": 22,
             "name": ".innerText",
             "detalle": " leer o modificar el texto de una etiqueta HTML",
             "ejemplo1": "innerTextJavaScript.jpg",
@@ -192,7 +201,7 @@
 
         },
         {
-            "id": 22,
+            "id": 23,
             "name": "Style en Javascript",
             "detalle": "Permite leer y sobreescribir las reglas CSS que se aplican sobre un elemento que hayamos seleccionado.",
             "ejemplo1": "StyleJavaScript.jpg",
@@ -201,7 +210,7 @@
 
         },
         {
-            "id": 23,
+            "id": 24,
             "name": "Plantillas de texto 'Template literals'",
             "detalle": "Permite reutilizar la estructura html y enviarle solamente la informacio cambiante incluyendo etiquetas",
             "ejemplo1": "TemplateLiteralsJavaScript.jpg",
@@ -210,7 +219,7 @@
 
         },
         {
-            "id": 24,
+            "id": 25,
             "name": "classList.add() classList.remove() classList.toggle()",
             "detalle": "Permite adicionar, eliminar clases desde javascript en una etiqueta Html y con toggle el validad si ya esta la elimina o agrega para no utilizar add y remove",
             "ejemplo1": "classListAddRemoveToggleJavaScript.jpg",
@@ -219,7 +228,7 @@
 
         },
         {
-            "id": 25,
+            "id": 26,
             "name": "createElement()",
             "detalle": "Crea un nodo de tipo elemento según el nombre de la etiqueta de HTML que le indiquemos.",
             "ejemplo1": "createElementJavaScript.jpg",
@@ -228,7 +237,7 @@
 
         },
         {
-            "id": 26,
+            "id": 27,
             "name": "createTextNode()",
             "detalle": "Crea un nodo de texto explicitado entre comillas. No se visualiza hasta asignarlo a un elemento existente del DOM.",
             "ejemplo1": "createTextNodeJavaScript.jpg",
@@ -237,7 +246,16 @@
 
         },
         {
-            "id": 27,
+            "id": 28,
+            "name": "textContent",
+            "detalle": "Adiciona contenido a un elemento. Hay ocaciones que es mejor utilizar createTextNode()",
+            "ejemplo1": "textContentJavaScript.jpg",
+            "ejemplo2": "textContentJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 29,
             "name": "appendChild()",
             "detalle": "Adhiere dentro del DOM un elemento hijo a un elemento padre. Si el elemento padre ya existía en el documento, cambia su posición hacia el otro elemento padre indicado. Si no existe, lo creamos con createElement()",
             "ejemplo1": "appendChildJavaScript.jpg",
@@ -246,7 +264,7 @@
 
         },
         {
-            "id": 28,
+            "id": 30,
             "name": "hasAttribute()",
             "detalle": "Sirve para consultar si el elemento posee o no un determinado atributo.",
             "ejemplo1": "hasAttributeJavaScript.jpg",
@@ -255,7 +273,7 @@
 
         },
         {
-            "id": 29,
+            "id": 31,
             "name": "getAttribute()",
             "detalle": "Permite obtener el valor de un determinado atributo",
             "ejemplo1": "getAttributeJavaScript.jpg",
@@ -264,7 +282,7 @@
 
         },
         {
-            "id": 30,
+            "id": 32,
             "name": "removeAttribute()",
             "detalle": "Borra por completo el atributo y sus valores del elemento. Si no lo encuentra, no hace nada.",
             "ejemplo1": "removeAttributeJavaScript.jpg",
@@ -273,7 +291,7 @@
 
         },
         {
-            "id": 31,
+            "id": 33,
             "name": "setAttribute()",
             "detalle": "Este método nos permite agregar un atributo con su respectivo valor al elemento seleccionado.",
             "ejemplo1": "setAttributeJavaScript.jpg",
@@ -282,7 +300,7 @@
 
         },
         {
-            "id": 32,
+            "id": 34,
             "name": "window.onload",
             "detalle": "Este evento permite que todo el script se ejecute cuando se haya cargado por completo el objeto document dentro del objeto window.",
             "ejemplo1": "onloadJavaScript.jpg",
@@ -291,7 +309,7 @@
 
         },
         {
-            "id": 33,
+            "id": 35,
             "name": "onclick",
             "detalle": "Este evento nos permite ejecutar una acción cuando se haga clic sobre el elemento al cual le estamos aplicando la propiedad.",
             "ejemplo1": "onclickJavaScript.jpg",
@@ -300,7 +318,7 @@
 
         },
         {
-            "id": 34,
+            "id": 36,
             "name": "window.addEventListener",
             "detalle": "Registra un evento a un objeto en específico, permite agregar mas de un listener a un solo evento, funciona en cualquier elemento del DOM.",
             "ejemplo1": "addEventListenerJavaScript.jpg",
@@ -309,7 +327,7 @@
 
         },
         {
-            "id": 35,
+            "id": 37,
             "name": "preventDefault()",
             "detalle": "Nos permite evitar que se ejecute el evento predeterminado —o nativo— del elemento al que se lo estemos aplicando",
             "ejemplo1": "preventDefaultJavaScript.jpg",
@@ -318,7 +336,7 @@
 
         },
         {
-            "id": 36,
+            "id": 38,
             "name": "dblclick",
             "detalle": "Se ejecuta un evento al hacer doble click en un elemento o bottom",
             "ejemplo1": "dblclickJavaScript.jpg",
@@ -327,7 +345,7 @@
 
         },
         {
-            "id": 37,
+            "id": 39,
             "name": "mouseOver",
             "detalle": "Se activa el elemento al pasar el mouse",
             "ejemplo1": "mouseOverJavaScript.jpg",
@@ -336,7 +354,7 @@
 
         },
         {
-            "id": 38,
+            "id": 40,
             "name": "onekeypress, onekeydown, onkeyup",
             "detalle": "Eventos de teclado onekeypress dispara al finalizar el recorrido de presión y liberación de la tecla, onekeydown se activa cuando presiona tecla, onkeyup cuando la tecla se suelta.",
             "ejemplo1": "EventTecladoJavaScript.jpg",
@@ -345,7 +363,7 @@
 
         },
         {
-            "id": 39,
+            "id": 41,
             "name": "Tipos de Funciones JavaScript",
             "detalle": "Declaradas, Expresadas, Callbacks, Closures",
             "ejemplo1": "TiposFuncionesJavaScript.jpg",
