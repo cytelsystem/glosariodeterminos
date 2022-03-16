@@ -303,6 +303,15 @@
             "ejemplo2": "ComparacionesNACLinux.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 35,
+            "name": "cowsay",
+            "detalle": "cowsay es un programa que genera imágenes artísticas ASCII de una vaca con un mensaje. ... También puede generar imágenes utilizando imágenes prefabricadas de otros animales",
+            "ejemplo1": "cowsayLinux.jpg",
+            "ejemplo2": "cowsayLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
     ]

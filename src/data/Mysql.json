@@ -170,7 +170,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 21,
+            "id": 22,
             "name": "IN",
             "detalle": "Permite filtrar en una consulta por datos completos",
             "ejemplo1": "IN.jpg",
@@ -178,7 +178,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 22,
+            "id": 23,
             "name": "COUNT()",
             "detalle": "Devuelve un único resultado indicando la cantidad de filas/registros que cumplen con el criterio.",
             "ejemplo1": "COUNT.jpg",
@@ -186,7 +186,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 23,
+            "id": 24,
             "name": "AVG()",
             "detalle": "AVG (average) devuelve un único resultado indicando el promedio de una columna cuyo tipo de datos debe ser numérico.",
             "ejemplo1": "AVG.jpg",
@@ -194,7 +194,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 24,
+            "id": 25,
             "name": "SUM()",
             "detalle": "SUM (suma) devuelve un único resultado indicando la suma de una columna cuyo tipo de datos debe ser numérico.",
             "ejemplo1": "SUM.jpg",
@@ -202,7 +202,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 25,
+            "id": 26,
             "name": "MIN()",
             "detalle": "MIN devuelve un único resultado indicando el valor mínimo de una columna cuyo tipo de datos debe ser numérico.",
             "ejemplo1": "MIN.jpg",
@@ -210,7 +210,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 26,
+            "id": 27,
             "name": "MAX()",
             "detalle": "MAX devuelve un único resultado indicando el valor máximo de una columna cuyo tipo de datos debe ser numérico.",
             "ejemplo1": "MAX.jpg",
@@ -218,7 +218,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 27,
+            "id": 28,
             "name": "GROUP BY",
             "detalle": "GROUP BY se usa para agrupar los registros de la tabla resultante de una consulta por una o más columnas.",
             "ejemplo1": "GROUPBY.jpg",
@@ -226,7 +226,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 28,
+            "id": 29,
             "name": "HAVING",
             "detalle": "Cumple la misma función que WHERE, a diferencia de que HAVING permite la implementación de alias y funciones de agregación en las condiciones de la selección de datos.",
             "ejemplo1": "HAVING.jpg",
@@ -234,7 +234,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 29,
+            "id": 30,
             "name": "Table reference",
             "detalle": "Consultas a más de una tabla de forma sencilla",
             "ejemplo1": "TABLEREFERENCE.jpg",
@@ -242,7 +242,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 30,
+            "id": 31,
             "name": "INNER JOIN",
             "detalle": "INNER JOIN nos permite hacer consultas a distintas tablas y unir los resultados.",
             "ejemplo1": "INNERJOIN.jpg",
@@ -250,7 +250,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 31,
+            "id": 32,
             "name": "LEFT JOIN",
             "detalle": "LEFT JOIN nos permite hacer consultas a distintas tablas y unir y mostrar los resultados incluyendo campos de la tabla izquierda que esten en (null)",
             "ejemplo1": "LEFT_JOIN.jpg",
@@ -258,7 +258,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 32,
+            "id": 33,
             "name": "DISTINCT",
             "detalle": "DISTINCT devuelve un listado en donde cada fila es distinta.",
             "ejemplo1": "DISTINCT.jpg",
@@ -266,7 +266,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 33,
+            "id": 34,
             "name": "CONCAT",
             "detalle": "Usamos CONCAT para concatenar dos o más expresiones:",
             "ejemplo1": "CONCAT.jpg",
@@ -274,7 +274,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 34,
+            "id": 35,
             "name": "COALESCE",
             "detalle": "Usamos COALESCE para sustituir el valor NULL en una sucesión de expresiones o campos.",
             "ejemplo1": "COALESCE.jpg",
@@ -282,7 +282,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 35,
+            "id": 36,
             "name": "DATEDIFF",
             "detalle": "Usamos DATEDIFF para devolver la diferencia entre dos fechas, tomando como granularidad el intervalo especificado.",
             "ejemplo1": "DATEDIFF.jpg",
@@ -290,7 +290,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 36,
+            "id": 37,
             "name": "TIMEDIFF",
             "detalle": "Usamos TIMEDIFF para devolver la diferencia entre dos horarios, tomando como granularidad el intervalo especificado.",
             "ejemplo1": "TIMEDIFF.jpg",
@@ -298,7 +298,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 37,
+            "id": 38,
             "name": "EXTRACT",
             "detalle": "Usamos EXTRACT para extraer partes de una fecha:",
             "ejemplo1": "EXTRACT.jpg",
@@ -306,7 +306,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 38,
+            "id": 39,
             "name": "REPLACE",
             "detalle": "Forma compacta de crear o expresar nuestras funciones.",
             "ejemplo1": "REPLACE_MYSQL.jpg",
@@ -314,7 +314,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 39,
+            "id": 40,
             "name": "DATE_FORMAT",
             "detalle": "Usamos DATE_FORMAT para cambiar el formato de salida de una fecha según una condición dada.",
             "ejemplo1": "DATE_FORMAT.jpg",
@@ -322,7 +322,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 40,
+            "id": 41,
             "name": "DATE_ADD",
             "detalle": "Usamos DATE_ADD para sumar o agregar un período de tiempo a un valor de tipo DATE o DATETIME.",
             "ejemplo1": "DATE_ADD.jpg",
@@ -330,7 +330,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 41,
+            "id": 42,
             "name": "DATE_SUB",
             "detalle": "Usamos DATE_SUB para restar o quitar un período de tiempo a un valor de tipo DATE o DATETIME.",
             "ejemplo1": "DATE_SUB.jpg",
@@ -338,7 +338,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 42,
+            "id": 43,
             "name": "CASE",
             "detalle": "Usamos CASE para evaluar condiciones y devolver la primera condición que se cumpla. En este ejemplo, la tabla resultante tendrá 4 columnas: id, titulo, rating, calificacion. Esta última columna mostrará los valores: Mala, Regular, Buena y Excelente; según el rating de la película.",
             "ejemplo1": "CASE_MYSQL.jpg",
@@ -346,7 +346,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 43,
+            "id": 44,
             "name": "LENGTH()",
             "detalle": "Usamos LENGTH para contar la cantidad de caracteres y filtrar en el WHERE",
             "ejemplo1": "LENGTH_MYSQL.jpg",
@@ -354,7 +354,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 44,
+            "id": 45,
             "name": "LEFT()",
             "detalle": "Extrae la cantidad de caracteres indicada de una columna",
             "ejemplo1": "LEFT.jpg",
@@ -362,7 +362,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 45,
+            "id": 46,
             "name": "SEC_TO_TIME",
             "detalle": "Convertir Milisegundos a minutos",
             "ejemplo1": "SEC_TO_TIME.jpg",
@@ -370,7 +370,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 46,
+            "id": 47,
             "name": "ROUND",
             "detalle": "Redondea un numero",
             "ejemplo1": "ROUND.jpg",
@@ -378,7 +378,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 47,
+            "id": 48,
             "name": "FORMAT",
             "detalle": "Formatea un numero y se le pueden incluir la cantidad de decimales",
             "ejemplo1": "FORMAT.jpg",
@@ -386,7 +386,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 48,
+            "id": 49,
             "name": "LOCATE",
             "detalle": "Retorna el index o posición de un caractes o numero",
             "ejemplo1": "LOCATE.jpg",
@@ -394,7 +394,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 48,
+            "id": 50,
             "name": "IS NULL o IS NOT NULL",
             "detalle": "Verificar campos null y con informacion o vacios ='' ",
             "ejemplo1": "ISNULLoISNOTNULL.jpg",
@@ -402,7 +402,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 48,
+            "id": 51,
             "name": "INDICES",
             "detalle": "Un índice dentro de una base de datos es una estructura de datos que mejora la velocidad de las consultas,",
             "ejemplo1": "INDICES.jpg",
@@ -410,7 +410,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 48,
+            "id": 52,
             "name": "VISTAS",
             "detalle": "Una vista es un elemento de la base de datos que facilita el acceso a los datos de las tablas.",
             "ejemplo1": "VISTA.jpg",
@@ -418,7 +418,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 48,
+            "id": 53,
             "name": "STORED PROCEDURES",
             "detalle": "Los SP (stored procedure) son un conjunto de instrucciones en formato SQL que se almacenan",
             "ejemplo1": "PROCEDURE.jpg",
