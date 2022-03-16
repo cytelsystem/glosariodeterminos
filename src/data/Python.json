@@ -1,0 +1,33 @@
+{
+    "results": [
+
+
+        {
+            "id": 1,
+            "name": "Que es Python",
+            "detalle": "Python es un lenguaje de escritura rápida, escalable, robusto y de código abierto. Esto hace que Python sea un aliado perfecto para la inteligencia artificial, ya que permite plasmar ideas complejas con unas pocas líneas de código, lo que no es posible con otros lenguajes.",
+            "ejemplo1": "QueesPython.jpg",
+            "ejemplo2": "QueesPython.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Instalacion Python",
+            "detalle": "Instalacion en windows",
+            "ejemplo1": "InstalacionPython.jpg",
+            "ejemplo2": "InstalacionPython.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Variables en Python",
+            "detalle": "En Python las variables son 'etiquetas' que permiten hacer referencia a los datos (que se guardan en unas 'cajas' llamadas objetos).",
+            "ejemplo1": "VariablesPython.pdf",
+            "ejemplo2": "VariablesPython.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        }
+
+    ]
+}
+
+

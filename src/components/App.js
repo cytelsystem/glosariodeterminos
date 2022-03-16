@@ -15,6 +15,7 @@ import InfraestructuraI from '../pages/InfraestructuraI';
 import Linux from '../pages/Linux';
 import PowerShell from '../pages/PowerShell';
 import GitHub from '../pages/GitHub';
+import Python from '../pages/Python';
 import Layout from './Layout';
 import NotFound from '../pages/NotFound';
 
@@ -39,6 +40,7 @@ function App() {
             <Route exact path="/Linux" component={Linux} />
             <Route exact path="/PowerShell" component={PowerShell} />
             <Route exact path="/GitHub" component={GitHub} />
+            <Route exact path="/Python" component={Python} />
             <Route component={NotFound} />
         </Switch>
       </Layout>

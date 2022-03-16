@@ -390,7 +390,7 @@
 
         },
         {
-            "id": 43,
+            "id": 44,
             "name": "Patrón Observer",
             "detalle": "El patrón Composite sirve para construir objetos complejos a partir de otros más simples y similares entre sí",
             "ejemplo1": "PatronObserver.jpg",
@@ -399,7 +399,7 @@
 
         },
         {
-            "id": 43,
+            "id": 45,
             "name": "Patrón Strategy",
             "detalle": "El patrón Strategy sirve para construir objetos complejos a partir de otros más simples y similares entre sí",
             "ejemplo1": "PatronStrategy.jpg",
