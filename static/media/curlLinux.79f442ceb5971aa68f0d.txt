@@ -22,3 +22,15 @@ curl "https://nominatim.openstreetmap.org/reverse.php?lat=-34.60378&lo n=-58.381
 //**display_name y el type, y finalmente lo guarda en un archivo llamado consultapipe.txt.
 
 curl "https://nominatim.openstreetmap.org/reverse.php?lat=-34.60378&lo n=-58.38161&zoom=18&format=jsonv2" | jq ".display_name,.type" | tee consultapipe.txt
+
+
+//El Modificador -s Para que no muestre lo que se esta descargando un*********************************************************//
+
+#!/bin/bash
+nombre="Emilio"
+curl -s https://api.genderize.io/?name=$nombre | jq '.gender' | { read -r gen; echo "Gender of $nombre is: $gen"; }
+curl -s https://api.nationalize.io/?name=$nombre | jq '.country[0].country_id' | { read -r cn; echo "Country of $nombre is: $cn"; }
+
+
+//**********************************************************************************************************************************//
+
