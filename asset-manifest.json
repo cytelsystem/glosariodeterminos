@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.d3407c94.js",
+    "main.js": "/glosariodeterminos/static/js/main.d776d465.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -39,6 +39,7 @@
     "static/media/CicloVidaComponenteReactJS.jpg": "/glosariodeterminos/static/media/CicloVidaComponenteReactJS.123a30e2c1078206f327.jpg",
     "static/media/unitTest.jpg": "/glosariodeterminos/static/media/unitTest.87290326b97755ac3c9b.jpg",
     "static/media/Switch.jpg": "/glosariodeterminos/static/media/Switch.6950a1981c8508b031cc.jpg",
+    "static/media/InstalacionPython.jpg": "/glosariodeterminos/static/media/InstalacionPython.7cc69845626e556d8e96.jpg",
     "static/media/pruebasV.jpg": "/glosariodeterminos/static/media/pruebasV.3ffdc9b27224ace88729.jpg",
     "static/media/PruebasUnitariasComponente.jpg": "/glosariodeterminos/static/media/PruebasUnitariasComponente.2efbe51332c3333a7df0.jpg",
     "static/media/Generics2.jpg": "/glosariodeterminos/static/media/Generics2.5cc2f613e4f3e790c0fd.jpg",
@@ -66,6 +67,8 @@
     "static/media/MetodosCualitativos.jpg": "/glosariodeterminos/static/media/MetodosCualitativos.a49d443592ba37175c3b.jpg",
     "static/media/ComparacionesNACLinux.jpg": "/glosariodeterminos/static/media/ComparacionesNACLinux.5661028e0bc98a13ccec.jpg",
     "static/media/Selenium.jpg": "/glosariodeterminos/static/media/Selenium.7c905994eb8075be978e.jpg",
+    "static/media/VariablesPython.pdf": "/glosariodeterminos/static/media/VariablesPython.3d2959bd1c8921068892.pdf",
+    "static/media/QueesPython.jpg": "/glosariodeterminos/static/media/QueesPython.a82b7c068cd71307c978.jpg",
     "static/media/InfraestructuraServiciosInfraestructura.jpg": "/glosariodeterminos/static/media/InfraestructuraServiciosInfraestructura.4eaa1a1c5f474a1ea6a1.jpg",
     "static/media/map.jpg": "/glosariodeterminos/static/media/map.2b0930288235b0140ba7.jpg",
     "static/media/filter.jpg": "/glosariodeterminos/static/media/filter.897efdb4c2e2be27610b.jpg",
@@ -506,6 +509,7 @@
     "static/media/MathRandomJavaScript.txt": "/glosariodeterminos/static/media/MathRandomJavaScript.1f1bd78317aad6d1b541.txt",
     "static/media/IN.txt": "/glosariodeterminos/static/media/IN.51344891ecbfd00a80ee.txt",
     "static/media/parseFloatJavaScript.txt": "/glosariodeterminos/static/media/parseFloatJavaScript.fbbae7edf46af679cffb.txt",
+    "static/media/QueesPython.txt": "/glosariodeterminos/static/media/QueesPython.50867b3f7939647fc035.txt",
     "static/media/MathJavaScript.txt": "/glosariodeterminos/static/media/MathJavaScript.0648455d1949096b949f.txt",
     "static/media/MathMaxJavaScript.txt": "/glosariodeterminos/static/media/MathMaxJavaScript.2f2ae028063d000175ba.txt",
     "static/media/AS.txt": "/glosariodeterminos/static/media/AS.dc86af5a49428802f409.txt",
@@ -547,6 +551,7 @@
     "static/media/teeLinux.txt": "/glosariodeterminos/static/media/teeLinux.c23cdea1b00db610af5a.txt",
     "static/media/catLinux.txt": "/glosariodeterminos/static/media/catLinux.f02ec4f5d1ffa58eac34.txt",
     "static/media/onloadJavaScript.txt": "/glosariodeterminos/static/media/onloadJavaScript.534725e4c2dbcf914d91.txt",
+    "static/media/InstalacionPython.txt": "/glosariodeterminos/static/media/InstalacionPython.f3b6c6c6f344cf9fc97f.txt",
     "static/media/MathPIJavaScript.txt": "/glosariodeterminos/static/media/MathPIJavaScript.87edbdc66b54e7c0a8fb.txt",
     "static/media/let.txt": "/glosariodeterminos/static/media/let.38796fa49fe293e13f08.txt",
     "static/media/SystemOutPrintln.txt": "/glosariodeterminos/static/media/SystemOutPrintln.c8a22aca24f958d6ab4f.txt",
@@ -638,6 +643,7 @@
     "static/media/UMLJava.txt": "/glosariodeterminos/static/media/UMLJava.31d6cfe0d16ae931b73c.txt",
     "static/media/VariablesClase.txt": "/glosariodeterminos/static/media/VariablesClase.31d6cfe0d16ae931b73c.txt",
     "static/media/VariablesEntornoPostman.txt": "/glosariodeterminos/static/media/VariablesEntornoPostman.31d6cfe0d16ae931b73c.txt",
+    "static/media/VariablesPython.txt": "/glosariodeterminos/static/media/VariablesPython.31d6cfe0d16ae931b73c.txt",
     "static/media/casoPrueba.txt": "/glosariodeterminos/static/media/casoPrueba.31d6cfe0d16ae931b73c.txt",
     "static/media/codigosRespuestaPostman.txt": "/glosariodeterminos/static/media/codigosRespuestaPostman.31d6cfe0d16ae931b73c.txt",
     "static/media/informetesting.txt": "/glosariodeterminos/static/media/informetesting.31d6cfe0d16ae931b73c.txt",
@@ -647,10 +653,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.d3407c94.js.map": "/glosariodeterminos/static/js/main.d3407c94.js.map"
+    "main.d776d465.js.map": "/glosariodeterminos/static/js/main.d776d465.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.d3407c94.js"
+    "static/js/main.d776d465.js"
   ]
 }
