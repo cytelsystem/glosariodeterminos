@@ -1,4 +1,8 @@
+//*********************************El comando jq se debe instalar**************************************//
 
+sudo apt-get install jq
+
+//************************************************************************************//
 jq '.' resultado.json
 
 //**Para poder acceder a una propiedad específica es necesario indicarla luego del punto, con el nombre de la misma.

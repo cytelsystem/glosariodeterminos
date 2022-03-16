@@ -55,7 +55,7 @@
         {
             "id": 7,
             "name": "jq",
-            "detalle": "jq se basa en el concepto de filtros que funcionan sobre un flujo de JSON",
+            "detalle": "jq se basa en el concepto de filtros que funcionan sobre un flujo de JSON (Obtener datos json)",
             "ejemplo1": "jqLinux.jpg",
             "ejemplo2": "jqLinux.txt",
             "ejemplo3": "NoHayInformacion.jpg"
@@ -256,6 +256,51 @@
             "detalle": "Netstat es una utilidad de línea de comandos para Linux que imprime conexiones de red, tablas de enrutamiento",
             "ejemplo1": "netstatLinux.jpg",
             "ejemplo2": "netstatLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 30,
+            "name": "for",
+            "detalle": "Recorre un listado de informacion",
+            "ejemplo1": "forLinux.jpg",
+            "ejemplo2": "forLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 31,
+            "name": "if",
+            "detalle": "El condicional if es un comando que nos permite ejecutar una secuencia de comandos dependiendo de la condición especificada.",
+            "ejemplo1": "ifLinux.jpg",
+            "ejemplo2": "ifLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 32,
+            "name": "read",
+            "detalle": "El comando read, con el modificador -r, lo que permite ese comando es capturar la salida de jq. Puede funcionar como prompt",
+            "ejemplo1": "readLinux.jpg",
+            "ejemplo2": "readLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 33,
+            "name": "shuf",
+            "detalle": "El shufcomando genera permutaciones aleatorias desde las líneas de entrada hasta la salida estándar (Escoge uno al azar) ",
+            "ejemplo1": "shufLinux.jpg",
+            "ejemplo2": "shufLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 34,
+            "name": "Comparaciones",
+            "detalle": "Comparaciones Numericas, de cadena y calculos matemáticos",
+            "ejemplo1": "ComparacionesNACLinux.jpg",
+            "ejemplo2": "ComparacionesNACLinux.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
