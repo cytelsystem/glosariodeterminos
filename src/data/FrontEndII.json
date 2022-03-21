@@ -370,6 +370,96 @@
             "ejemplo2": "TiposFuncionesJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 42,
+            "name": "toLowerCase()",
+            "detalle": "Convertir caracteres de cualquier string a minuscula",
+            "ejemplo1": "toLowerCaseJavaScript.jpg",
+            "ejemplo2": "toLowerCaseJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 43,
+            "name": "toUpperCase()",
+            "detalle": "Convertir caracteres de cualquier string a Mayusculas",
+            "ejemplo1": "toUpperCaseJavaScript.jpg",
+            "ejemplo2": "toUpperCaseJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 44,
+            "name": "concat()",
+            "detalle": "Concatenar (Unir) dos o mas string en un unico valor",
+            "ejemplo1": "concatJavaScript.jpg",
+            "ejemplo2": "concatJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 45,
+            "name": "trim()",
+            "detalle": "Elimina espacios en blanco que se encuentran en ambos estremos de un string",
+            "ejemplo1": "trimJavaScript.jpg",
+            "ejemplo2": "trimJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 46,
+            "name": "replace() / replaceAll()",
+            "detalle": "Elimina o remplazar caracteres innecesarios",
+            "ejemplo1": "replaceAllJavaScript.jpg",
+            "ejemplo2": "replaceAllJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 47,
+            "name": "input",
+            "detalle": "Los input son los elementos más comunes para ingresar datos.",
+            "ejemplo1": "inputJavaScript.jpg",
+            "ejemplo2": "inputJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 48,
+            "name": "Select",
+            "detalle": "Permiten seleccionar entre una lista desplegable de opciones.",
+            "ejemplo1": "SelectJavaScript.jpg",
+            "ejemplo2": "SelectJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 49,
+            "name": "Textarea",
+            "detalle": "Se utilizan en caso de que se necesite ingresar una gran cantidad de texto.",
+            "ejemplo1": "TextareaJavaScript.jpg",
+            "ejemplo2": "TextareaJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 50,
+            "name": "Form Obtener datos",
+            "detalle": "Obtenemos los datos ingresados en un formulario gracias a los atributos de algunas etiquetas HTML para luego almacenarlos y ejecutar acciones.",
+            "ejemplo1": "FormObtenerDatosJavaScript.pdf",
+            "ejemplo2": "FormObtenerDatosJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 51,
+            "name": "split()",
+            "detalle": "Permite dividir los caracteres de un string sobre la base del criterio que deseemos, obteniendo como resultado un array que contiene cada uno de los substrings generados.",
+            "ejemplo1": "splitJavaScript.jpg",
+            "ejemplo2": "splitJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
     ]
