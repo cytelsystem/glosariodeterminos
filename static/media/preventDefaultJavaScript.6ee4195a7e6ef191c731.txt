@@ -24,4 +24,11 @@ window.addEventListener("load", function() {
   })
 
 })
+//***********************************Evitar enviar un formulario dos veces************************************//
+
+    let formulario = document.querySelector("form");
+    formulario.addEventListener("submit", function(event) {
+        event.preventDefault()
+    })
+
 //****************************************************************************************************//
