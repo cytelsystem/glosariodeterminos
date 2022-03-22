@@ -70,6 +70,55 @@ function pintarTarjetas(listado) {
 pintarTarjetas(listadoFelinos);
 
 
+//************************************Crear elementos sin duplicar las tarjetas**********************************//
+
+function recorrerListadoYRenderizarTarjetas() {
+
+  const contTarjetas = document.getElementById('fila');
+
+  contTarjetas.innerHTML = "" ;
+
+  listado.map(materias => {
+
+    const caja = document.createElement('div');
+    caja.setAttribute("class", "caja");
+
+    const imagen = document.createElement("img");
+    imagen.setAttribute("src", materias.imgUrl);
+    imagen.setAttribute("alt", ("Logo de " + materias.lenguajes));
+
+    const lenguajes = document.createElement('p');
+    const lenguajePTittle = document.createElement('span');
+    const lenguajePTexto = document.createElement('span');
+    lenguajes.setAttribute("class", "lenguajes");
+    lenguajePTittle.appendChild(document.createTextNode('Lenguajes:' + " "));
+    lenguajePTexto.appendChild(document.createTextNode(materias.lenguajes));
+
+
+    const bimestre = document.createElement('p');
+    const bimestrePTittle = document.createElement('span');
+    const bimestrePTexto = document.createElement('span');
+    bimestre.setAttribute("class", "bimestre");
+    bimestrePTittle.appendChild(document.createTextNode('Bimestre:' + " "));
+    bimestrePTexto.appendChild(document.createTextNode(materias.bimestre));
+
+    contTarjetas.appendChild(caja)
+    caja.appendChild(imagen)
+
+    caja.appendChild(lenguajes)
+    lenguajes.appendChild(lenguajePTittle)
+    lenguajes.appendChild(lenguajePTexto)
+
+    caja.appendChild(bimestre)
+    bimestre.appendChild(bimestrePTittle)
+    bimestre.appendChild(bimestrePTexto)
+
+
+  })
+
+}
+
+
 //**********************************************************************************************//
 
 

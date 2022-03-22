@@ -460,6 +460,15 @@
             "ejemplo2": "splitJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 52,
+            "name": "Manejo de fechas",
+            "detalle": "Trabajar con fechas en javaScript",
+            "ejemplo1": "ManejoFechasScript.jpg",
+            "ejemplo2": "ManejoFechasScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
     ]
