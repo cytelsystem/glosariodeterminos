@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.66130e0e.js",
+    "main.js": "/glosariodeterminos/static/js/main.b70d7ba9.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -355,6 +355,7 @@
     "static/media/PatronStrategy.txt": "/glosariodeterminos/static/media/PatronStrategy.4936516e5c63fab724c8.txt",
     "static/media/detallesPOP.txt": "/glosariodeterminos/static/media/detallesPOP.cdd81f9bfc85613dcc47.txt",
     "static/media/ReactRouterJS.txt": "/glosariodeterminos/static/media/ReactRouterJS.cb46eea3759375cf3e8a.txt",
+    "static/media/createElementJavaScript.txt": "/glosariodeterminos/static/media/createElementJavaScript.987bb1d2649c4715aacc.txt",
     "static/media/CicloVidaComponenteReactJS.txt": "/glosariodeterminos/static/media/CicloVidaComponenteReactJS.690e30124713fcdbd569.txt",
     "static/media/CrearColeccion.txt": "/glosariodeterminos/static/media/CrearColeccion.fc514a0f656c52997084.txt",
     "static/media/LevantamientoEstadoReactJS.txt": "/glosariodeterminos/static/media/LevantamientoEstadoReactJS.7c1d61a8667f519d5c36.txt",
@@ -371,7 +372,6 @@
     "static/media/ErrorDefectoFallo.txt": "/glosariodeterminos/static/media/ErrorDefectoFallo.026093b4ecfc6e08c307.txt",
     "static/media/sort.txt": "/glosariodeterminos/static/media/sort.aa97705bb74edafd2c40.txt",
     "static/media/equalsObject.txt": "/glosariodeterminos/static/media/equalsObject.ea939f70b277e84123b4.txt",
-    "static/media/createElementJavaScript.txt": "/glosariodeterminos/static/media/createElementJavaScript.7044582be80307407ee7.txt",
     "static/media/PROCEDURE.txt": "/glosariodeterminos/static/media/PROCEDURE.306f7591cdf36cc93d4f.txt",
     "static/media/ListaDeComponentesReactJS.txt": "/glosariodeterminos/static/media/ListaDeComponentesReactJS.02fb6e889d2c07efae7c.txt",
     "static/media/writeFileSync.txt": "/glosariodeterminos/static/media/writeFileSync.ccb7f4dbe402bedc8f0d.txt",
@@ -394,6 +394,7 @@
     "static/media/querySelectorAllJavaScript.txt": "/glosariodeterminos/static/media/querySelectorAllJavaScript.dc3470b4b891f10dfd44.txt",
     "static/media/array.txt": "/glosariodeterminos/static/media/array.6af7a16d45e229173a34.txt",
     "static/media/Scanner.txt": "/glosariodeterminos/static/media/Scanner.0509be9e106473c04caa.txt",
+    "static/media/EventTecladoJavaScript.txt": "/glosariodeterminos/static/media/EventTecladoJavaScript.7cf12a5e2753700ae8eb.txt",
     "static/media/Ciclovidadefecto.txt": "/glosariodeterminos/static/media/Ciclovidadefecto.1efd3d09a89d5726e4e0.txt",
     "static/media/dblclickJavaScript.txt": "/glosariodeterminos/static/media/dblclickJavaScript.086e2cd30b3255dc019d.txt",
     "static/media/InstalacionHashMd5.txt": "/glosariodeterminos/static/media/InstalacionHashMd5.f1cc732204ad3391910e.txt",
@@ -424,7 +425,6 @@
     "static/media/EXTRACT.txt": "/glosariodeterminos/static/media/EXTRACT.6655166ef77020c0182a.txt",
     "static/media/push.txt": "/glosariodeterminos/static/media/push.d04c742078cceaa7306c.txt",
     "static/media/mouseOverJavaScript.txt": "/glosariodeterminos/static/media/mouseOverJavaScript.b2de7fb2a1ff99ff129b.txt",
-    "static/media/EventTecladoJavaScript.txt": "/glosariodeterminos/static/media/EventTecladoJavaScript.07c4ebb7deb9fec88053.txt",
     "static/media/filter.txt": "/glosariodeterminos/static/media/filter.0d3563d4966ba0108754.txt",
     "static/media/ArrowFunctions.txt": "/glosariodeterminos/static/media/ArrowFunctions.f50cdc923d18a21d1f13.txt",
     "static/media/textContentJavaScript.txt": "/glosariodeterminos/static/media/textContentJavaScript.53d4a533a88de314986e.txt",
@@ -506,6 +506,7 @@
     "static/media/DROP.txt": "/glosariodeterminos/static/media/DROP.f9caa53d46167be90786.txt",
     "static/media/INDICES.txt": "/glosariodeterminos/static/media/INDICES.29a21bcfaad6430e0983.txt",
     "static/media/forInJavaScript.txt": "/glosariodeterminos/static/media/forInJavaScript.ca487b80c79672b43d49.txt",
+    "static/media/ManejoFechasScript.txt": "/glosariodeterminos/static/media/ManejoFechasScript.7a934ff21d2793d06148.txt",
     "static/media/String.txt": "/glosariodeterminos/static/media/String.fde9e5e4c7b3c6ec971b.txt",
     "static/media/chmodLinux.txt": "/glosariodeterminos/static/media/chmodLinux.4cdb99e92fd05d78af26.txt",
     "static/media/LEFT_JOIN.txt": "/glosariodeterminos/static/media/LEFT_JOIN.877009344ede670cd3b7.txt",
@@ -676,10 +677,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.66130e0e.js.map": "/glosariodeterminos/static/js/main.66130e0e.js.map"
+    "main.b70d7ba9.js.map": "/glosariodeterminos/static/js/main.b70d7ba9.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.66130e0e.js"
+    "static/js/main.b70d7ba9.js"
   ]
 }

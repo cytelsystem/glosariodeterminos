@@ -20,3 +20,20 @@ let miInput = document.querySelector('#miInput');
 }
 
 //*********************************************************************************************//
+
+window.addEventListener("keypress", function(e) {
+
+    function eliminarclass() {
+      const sobreMi = document.getElementById('sobre-mi');
+      sobreMi.classList.remove('oculto'); //Elimina la clase del elemento 'sobre-mi'
+    }
+
+    if (e.key == "F") {
+      eliminarclass()
+    }else if (e.key == "f") {
+      eliminarclass()
+    }
+
+  })
+
+//*********************************************************************************************//
