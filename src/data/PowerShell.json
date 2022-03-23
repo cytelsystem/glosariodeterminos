@@ -65,6 +65,22 @@
             "ejemplo1": "ModulosPowerShell.pdf",
             "ejemplo2": "NoHayInformacion.jpg",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 9,
+            "name": "foreach",
+            "detalle": "Recorrer un listado de informacion o array",
+            "ejemplo1": "foreachPowerShell.jpg",
+            "ejemplo2": "foreachPowerShell.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Consultar Apis",
+            "detalle": "Consultar apis con powerShell",
+            "ejemplo1": "ConsultarApisPowerShell.jpg",
+            "ejemplo2": "ConsultarApisPowerShell.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
 
     ]
