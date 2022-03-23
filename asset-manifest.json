@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.b70d7ba9.js",
+    "main.js": "/glosariodeterminos/static/js/main.5493c198.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -240,7 +240,9 @@
     "static/media/forEachJavaScript.jpg": "/glosariodeterminos/static/media/forEachJavaScript.067ca5135b264eec22cf.jpg",
     "static/media/MIN.jpg": "/glosariodeterminos/static/media/MIN.d0734e04c02659cbed32.jpg",
     "static/media/prototipo.jpg": "/glosariodeterminos/static/media/prototipo.562b74479eb1ad8a8519.jpg",
+    "static/media/ConsultarApisPowerShell.jpg": "/glosariodeterminos/static/media/ConsultarApisPowerShell.938884d23eae02b73b98.jpg",
     "static/media/ExcepcionesJava2.jpg": "/glosariodeterminos/static/media/ExcepcionesJava2.1bb8de8777f7cd85c190.jpg",
+    "static/media/foreachPowerShell.jpg": "/glosariodeterminos/static/media/foreachPowerShell.802dab853250c5858705.jpg",
     "static/media/COUNT.jpg": "/glosariodeterminos/static/media/COUNT.778888151df950ba63fc.jpg",
     "static/media/definicion.jpg": "/glosariodeterminos/static/media/definicion.1b6b383fbc3532ba7fda.jpg",
     "static/media/jsonStringify.jpg": "/glosariodeterminos/static/media/jsonStringify.e485b1375783f85cc1dd.jpg",
@@ -392,6 +394,7 @@
     "static/media/InstalacionReactJs.txt": "/glosariodeterminos/static/media/InstalacionReactJs.275007dbe0c49e5f9ba0.txt",
     "static/media/FormObtenerDatosJavaScript.txt": "/glosariodeterminos/static/media/FormObtenerDatosJavaScript.f126d7614cff08e1fe92.txt",
     "static/media/querySelectorAllJavaScript.txt": "/glosariodeterminos/static/media/querySelectorAllJavaScript.dc3470b4b891f10dfd44.txt",
+    "static/media/addEventListenerJavaScript.txt": "/glosariodeterminos/static/media/addEventListenerJavaScript.aaef37c633ee9c8f3981.txt",
     "static/media/array.txt": "/glosariodeterminos/static/media/array.6af7a16d45e229173a34.txt",
     "static/media/Scanner.txt": "/glosariodeterminos/static/media/Scanner.0509be9e106473c04caa.txt",
     "static/media/EventTecladoJavaScript.txt": "/glosariodeterminos/static/media/EventTecladoJavaScript.7cf12a5e2753700ae8eb.txt",
@@ -400,7 +403,6 @@
     "static/media/InstalacionHashMd5.txt": "/glosariodeterminos/static/media/InstalacionHashMd5.f1cc732204ad3391910e.txt",
     "static/media/forLinux.txt": "/glosariodeterminos/static/media/forLinux.dcbf365b541a4cae755f.txt",
     "static/media/prototipo.txt": "/glosariodeterminos/static/media/prototipo.8b6d67e36dddd8194ae7.txt",
-    "static/media/addEventListenerJavaScript.txt": "/glosariodeterminos/static/media/addEventListenerJavaScript.cb6b32e84739f555bc14.txt",
     "static/media/ALTERTABLE.txt": "/glosariodeterminos/static/media/ALTERTABLE.b1916fae436e21a5e94e.txt",
     "static/media/InstalacionMaquinavirtuallinuxvagrant.txt": "/glosariodeterminos/static/media/InstalacionMaquinavirtuallinuxvagrant.9696b799d1aded44797e.txt",
     "static/media/find.txt": "/glosariodeterminos/static/media/find.74fffd6c2b764ee6aacb.txt",
@@ -463,6 +465,7 @@
     "static/media/findIndex.txt": "/glosariodeterminos/static/media/findIndex.e31679c016a15c699d31.txt",
     "static/media/listarServiciosLinux.txt": "/glosariodeterminos/static/media/listarServiciosLinux.a4e6caa4372c49059db9.txt",
     "static/media/DATE_SUB.txt": "/glosariodeterminos/static/media/DATE_SUB.3a1c5731cc432ecaca38.txt",
+    "static/media/ConsultarApisPowerShell.txt": "/glosariodeterminos/static/media/ConsultarApisPowerShell.b57d9d7379191842c873.txt",
     "static/media/NivelesTipopruebas.txt": "/glosariodeterminos/static/media/NivelesTipopruebas.de3f1e8f13af2e93a61d.txt",
     "static/media/parseFloat.txt": "/glosariodeterminos/static/media/parseFloat.f31d50d6a2cbbd286c3a.txt",
     "static/media/Float.txt": "/glosariodeterminos/static/media/Float.909d843ff69c8cfb9c3e.txt",
@@ -535,6 +538,7 @@
     "static/media/pop.txt": "/glosariodeterminos/static/media/pop.4f30b5a6db38e7225b57.txt",
     "static/media/killLinux.txt": "/glosariodeterminos/static/media/killLinux.be7ad5f29fa745cbd4fe.txt",
     "static/media/ParticionEquivalencia.txt": "/glosariodeterminos/static/media/ParticionEquivalencia.cc79dbcb2ea4402d3b40.txt",
+    "static/media/foreachPowerShell.txt": "/glosariodeterminos/static/media/foreachPowerShell.2bc6a53b5550304a2f6b.txt",
     "static/media/Switch.txt": "/glosariodeterminos/static/media/Switch.b279d5375bb19dab5cc8.txt",
     "static/media/DELETE.txt": "/glosariodeterminos/static/media/DELETE.daac25998f8e7ac08bee.txt",
     "static/media/TRUNCATE.txt": "/glosariodeterminos/static/media/TRUNCATE.b27688b06a305d65425e.txt",
@@ -677,10 +681,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.b70d7ba9.js.map": "/glosariodeterminos/static/js/main.b70d7ba9.js.map"
+    "main.5493c198.js.map": "/glosariodeterminos/static/js/main.5493c198.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.b70d7ba9.js"
+    "static/js/main.5493c198.js"
   ]
 }
