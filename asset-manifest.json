@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.5eaaf4d3.js",
+    "main.js": "/glosariodeterminos/static/js/main.a8f8ab14.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -371,9 +371,9 @@
     "static/media/ifLinux.txt": "/glosariodeterminos/static/media/ifLinux.703f63a2abbc65af81f8.txt",
     "static/media/EventosReactJS.txt": "/glosariodeterminos/static/media/EventosReactJS.d00fbc6b7262b7cbe060.txt",
     "static/media/OffcanvasReact.txt": "/glosariodeterminos/static/media/OffcanvasReact.331577a35bf751fa6ca0.txt",
+    "static/media/normalizarInformacionJavaScript.txt": "/glosariodeterminos/static/media/normalizarInformacionJavaScript.7d1d5a67511ee93bf31f.txt",
     "static/media/CREATETABLE.txt": "/glosariodeterminos/static/media/CREATETABLE.d47627941ee3b3684fe3.txt",
     "static/media/ErrorDefectoFallo.txt": "/glosariodeterminos/static/media/ErrorDefectoFallo.026093b4ecfc6e08c307.txt",
-    "static/media/normalizarInformacionJavaScript.txt": "/glosariodeterminos/static/media/normalizarInformacionJavaScript.6126f8f9762388516c1f.txt",
     "static/media/sort.txt": "/glosariodeterminos/static/media/sort.aa97705bb74edafd2c40.txt",
     "static/media/equalsObject.txt": "/glosariodeterminos/static/media/equalsObject.ea939f70b277e84123b4.txt",
     "static/media/PROCEDURE.txt": "/glosariodeterminos/static/media/PROCEDURE.306f7591cdf36cc93d4f.txt",
@@ -683,10 +683,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.5eaaf4d3.js.map": "/glosariodeterminos/static/js/main.5eaaf4d3.js.map"
+    "main.a8f8ab14.js.map": "/glosariodeterminos/static/js/main.a8f8ab14.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.5eaaf4d3.js"
+    "static/js/main.a8f8ab14.js"
   ]
 }
