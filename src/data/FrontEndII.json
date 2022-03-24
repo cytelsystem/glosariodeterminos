@@ -454,6 +454,15 @@
         },
         {
             "id": 51,
+            "name": "Normalizar la informacion (Formulario)",
+            "detalle": "Obtenemos los datos ingresados en un formulario y se deben normalizar para que la informacion quede estandar",
+            "ejemplo1": "normalizarInformacionJavaScript.pdf",
+            "ejemplo2": "normalizarInformacionJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 52,
             "name": "split()",
             "detalle": "Permite dividir los caracteres de un string sobre la base del criterio que deseemos, obteniendo como resultado un array que contiene cada uno de los substrings generados.",
             "ejemplo1": "splitJavaScript.jpg",
@@ -462,7 +471,7 @@
 
         },
         {
-            "id": 52,
+            "id": 53,
             "name": "Manejo de fechas",
             "detalle": "Trabajar con fechas en javaScript",
             "ejemplo1": "ManejoFechasScript.jpg",
