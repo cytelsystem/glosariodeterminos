@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.5493c198.js",
+    "main.js": "/glosariodeterminos/static/js/main.48b148f5.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -378,8 +378,8 @@
     "static/media/ListaDeComponentesReactJS.txt": "/glosariodeterminos/static/media/ListaDeComponentesReactJS.02fb6e889d2c07efae7c.txt",
     "static/media/writeFileSync.txt": "/glosariodeterminos/static/media/writeFileSync.ccb7f4dbe402bedc8f0d.txt",
     "static/media/forEach.txt": "/glosariodeterminos/static/media/forEach.9bf9f3a2ef237179f6d0.txt",
+    "static/media/slice.txt": "/glosariodeterminos/static/media/slice.a1900f2099602a3a89cd.txt",
     "static/media/CreatComponenteReactJS.txt": "/glosariodeterminos/static/media/CreatComponenteReactJS.34d4f005fbee85377327.txt",
-    "static/media/slice.txt": "/glosariodeterminos/static/media/slice.f044778b15994167a4c7.txt",
     "static/media/TiposFuncionesJavaScript.txt": "/glosariodeterminos/static/media/TiposFuncionesJavaScript.0c138828824f352ccae4.txt",
     "static/media/ExceptionPerJava.txt": "/glosariodeterminos/static/media/ExceptionPerJava.3440707b55d4f1b79a1f.txt",
     "static/media/curlLinux.txt": "/glosariodeterminos/static/media/curlLinux.79f442ceb5971aa68f0d.txt",
@@ -681,10 +681,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.5493c198.js.map": "/glosariodeterminos/static/js/main.5493c198.js.map"
+    "main.48b148f5.js.map": "/glosariodeterminos/static/js/main.48b148f5.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.5493c198.js"
+    "static/js/main.48b148f5.js"
   ]
 }
