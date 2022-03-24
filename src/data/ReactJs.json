@@ -43,7 +43,7 @@
             "name": "Git publicación proyecto gh-pages",
             "detalle": "Deploy en producción",
             "ejemplo1": "gitHubDeployReactJS.jpg",
-            "ejemplo2": "installBootstrapReactJS.txt",
+            "ejemplo2": "gitHubDeployReactJS.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
         },

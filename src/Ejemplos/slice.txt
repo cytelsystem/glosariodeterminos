@@ -3,7 +3,7 @@ console.log(miSerie.length);
 console.log(miSerie.indexOf('Men'));
 console.log(miSerie.slice(4,7));
 
-// *****************************************
+// ****************************Pasa el primer caracter a mayuscula****************************//
 let str = {
   nombre: "carlos"
 }
