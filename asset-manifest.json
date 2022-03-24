@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.48b148f5.js",
+    "main.js": "/glosariodeterminos/static/js/main.5eaaf4d3.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -194,6 +194,7 @@
     "static/media/ControlesDebuggear.jpg": "/glosariodeterminos/static/media/ControlesDebuggear.a5c1343b9d5ed567d9c3.jpg",
     "static/media/cowsayLinux.jpg": "/glosariodeterminos/static/media/cowsayLinux.6683e08e5de73d415a1b.jpg",
     "static/media/TiposDatosJava.jpg": "/glosariodeterminos/static/media/TiposDatosJava.5535ea773add67ca1d56.jpg",
+    "static/media/normalizarInformacionJavaScript.pdf": "/glosariodeterminos/static/media/normalizarInformacionJavaScript.85bb2ea79f8e88e39003.pdf",
     "static/media/promptJavaScript.jpg": "/glosariodeterminos/static/media/promptJavaScript.57842c57d8eecd49f3cc.jpg",
     "static/media/HerenciaJava.jpg": "/glosariodeterminos/static/media/HerenciaJava.78d7a09da3964c39911e.jpg",
     "static/media/setAttributeJavaScript.jpg": "/glosariodeterminos/static/media/setAttributeJavaScript.f267dff6ca1e05d1fda0.jpg",
@@ -372,6 +373,7 @@
     "static/media/OffcanvasReact.txt": "/glosariodeterminos/static/media/OffcanvasReact.331577a35bf751fa6ca0.txt",
     "static/media/CREATETABLE.txt": "/glosariodeterminos/static/media/CREATETABLE.d47627941ee3b3684fe3.txt",
     "static/media/ErrorDefectoFallo.txt": "/glosariodeterminos/static/media/ErrorDefectoFallo.026093b4ecfc6e08c307.txt",
+    "static/media/normalizarInformacionJavaScript.txt": "/glosariodeterminos/static/media/normalizarInformacionJavaScript.6126f8f9762388516c1f.txt",
     "static/media/sort.txt": "/glosariodeterminos/static/media/sort.aa97705bb74edafd2c40.txt",
     "static/media/equalsObject.txt": "/glosariodeterminos/static/media/equalsObject.ea939f70b277e84123b4.txt",
     "static/media/PROCEDURE.txt": "/glosariodeterminos/static/media/PROCEDURE.306f7591cdf36cc93d4f.txt",
@@ -681,10 +683,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.48b148f5.js.map": "/glosariodeterminos/static/js/main.48b148f5.js.map"
+    "main.5eaaf4d3.js.map": "/glosariodeterminos/static/js/main.5eaaf4d3.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.48b148f5.js"
+    "static/js/main.5eaaf4d3.js"
   ]
 }
