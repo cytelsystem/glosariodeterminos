@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.a8f8ab14.js",
+    "main.js": "/glosariodeterminos/static/js/main.b2d3cf74.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -302,9 +302,11 @@
     "static/media/indexOf.jpg": "/glosariodeterminos/static/media/indexOf.3c859c0d9dfbb52a2050.jpg",
     "static/media/replace.jpg": "/glosariodeterminos/static/media/replace.b70d8b69645ed5435f98.jpg",
     "static/media/netstatLinux.jpg": "/glosariodeterminos/static/media/netstatLinux.2075bf0d991367950fb2.jpg",
+    "static/media/submitFormScript.jpg": "/glosariodeterminos/static/media/submitFormScript.ed54d85f5a438925cd4f.jpg",
     "static/media/DROP.jpg": "/glosariodeterminos/static/media/DROP.062eef0c343afdeb7394.jpg",
     "static/media/FORMAT.jpg": "/glosariodeterminos/static/media/FORMAT.9b8f3e529fa5b73d5700.jpg",
     "static/media/BETWEEN.jpg": "/glosariodeterminos/static/media/BETWEEN.8273f59004a8aff8f644.jpg",
+    "static/media/changeFormScript.jpg": "/glosariodeterminos/static/media/changeFormScript.691c36bcefc48bb924cd.jpg",
     "static/media/tarLinux.jpg": "/glosariodeterminos/static/media/tarLinux.7fefad00a6682909f1c0.jpg",
     "static/media/length.jpg": "/glosariodeterminos/static/media/length.68e3ada3c1348539fe39.jpg",
     "static/media/parseIntJavaScript.jpg": "/glosariodeterminos/static/media/parseIntJavaScript.a1c7aa4f59353ee2ef3f.jpg",
@@ -312,6 +314,7 @@
     "static/media/topLinux.jpg": "/glosariodeterminos/static/media/topLinux.7d9c0fb9e28e0626541a.jpg",
     "static/media/AS.jpg": "/glosariodeterminos/static/media/AS.42eb3f17be5c8a6eddd1.jpg",
     "static/media/replaceAllJavaScript.jpg": "/glosariodeterminos/static/media/replaceAllJavaScript.76de1647415d93ae9b3d.jpg",
+    "static/media/blurFormScript.jpg": "/glosariodeterminos/static/media/blurFormScript.db1687071c0331423397.jpg",
     "static/media/ROUND.jpg": "/glosariodeterminos/static/media/ROUND.df23037fb93e2cbda5b1.jpg",
     "static/media/trim.jpg": "/glosariodeterminos/static/media/trim.751ec6edeb9f3fd57e8a.jpg",
     "static/media/split.jpg": "/glosariodeterminos/static/media/split.50d75280e680b56f6bb5.jpg",
@@ -331,6 +334,7 @@
     "static/media/push.jpg": "/glosariodeterminos/static/media/push.4d3f73aa12246f47704f.jpg",
     "static/media/includes.jpg": "/glosariodeterminos/static/media/includes.9a478a31943c52873b59.jpg",
     "static/media/echoLinux.jpg": "/glosariodeterminos/static/media/echoLinux.efc8030e0ceb2b817af0.jpg",
+    "static/media/FocusFormScript.jpg": "/glosariodeterminos/static/media/FocusFormScript.2c1f0ead76e421930ae6.jpg",
     "static/media/join.jpg": "/glosariodeterminos/static/media/join.4722a8a68665daa5191f.jpg",
     "static/media/unameLinux.jpg": "/glosariodeterminos/static/media/unameLinux.4f3e7abfadaab4a88ff9.jpg",
     "static/media/CREATEDATABASE.jpg": "/glosariodeterminos/static/media/CREATEDATABASE.50ba80c3bab1a4ddbfe6.jpg",
@@ -393,12 +397,14 @@
     "static/media/AgregarElementos.txt": "/glosariodeterminos/static/media/AgregarElementos.a6e112976be9b3f696f9.txt",
     "static/media/callback.txt": "/glosariodeterminos/static/media/callback.9a00d18787cefecfd0bb.txt",
     "static/media/toUpperCase.txt": "/glosariodeterminos/static/media/toUpperCase.69a094393e7e4d3416a0.txt",
+    "static/media/submitFormScript.txt": "/glosariodeterminos/static/media/submitFormScript.a702a515c1a6ae3d3dc1.txt",
     "static/media/InstalacionReactJs.txt": "/glosariodeterminos/static/media/InstalacionReactJs.275007dbe0c49e5f9ba0.txt",
     "static/media/FormObtenerDatosJavaScript.txt": "/glosariodeterminos/static/media/FormObtenerDatosJavaScript.f126d7614cff08e1fe92.txt",
     "static/media/querySelectorAllJavaScript.txt": "/glosariodeterminos/static/media/querySelectorAllJavaScript.dc3470b4b891f10dfd44.txt",
     "static/media/addEventListenerJavaScript.txt": "/glosariodeterminos/static/media/addEventListenerJavaScript.aaef37c633ee9c8f3981.txt",
     "static/media/array.txt": "/glosariodeterminos/static/media/array.6af7a16d45e229173a34.txt",
     "static/media/Scanner.txt": "/glosariodeterminos/static/media/Scanner.0509be9e106473c04caa.txt",
+    "static/media/changeFormScript.txt": "/glosariodeterminos/static/media/changeFormScript.01b6e0552546da975603.txt",
     "static/media/EventTecladoJavaScript.txt": "/glosariodeterminos/static/media/EventTecladoJavaScript.7cf12a5e2753700ae8eb.txt",
     "static/media/Ciclovidadefecto.txt": "/glosariodeterminos/static/media/Ciclovidadefecto.1efd3d09a89d5726e4e0.txt",
     "static/media/dblclickJavaScript.txt": "/glosariodeterminos/static/media/dblclickJavaScript.086e2cd30b3255dc019d.txt",
@@ -418,6 +424,7 @@
     "static/media/createTextNodeJavaScript.txt": "/glosariodeterminos/static/media/createTextNodeJavaScript.25012ddde79083cae67d.txt",
     "static/media/innerHTMLJavaScript.txt": "/glosariodeterminos/static/media/innerHTMLJavaScript.68de4633a93a89ddc4e7.txt",
     "static/media/inputJavaScript.txt": "/glosariodeterminos/static/media/inputJavaScript.6df4030096eb00370ed5.txt",
+    "static/media/blurFormScript.txt": "/glosariodeterminos/static/media/blurFormScript.d511e51c996289d52111.txt",
     "static/media/Generics.txt": "/glosariodeterminos/static/media/Generics.19de7ebb95d8055ba57c.txt",
     "static/media/jqLinux.txt": "/glosariodeterminos/static/media/jqLinux.a61a96f0a64fd767e688.txt",
     "static/media/configuracionProyectoReact.txt": "/glosariodeterminos/static/media/configuracionProyectoReact.4266271ac9e163e82c96.txt",
@@ -426,6 +433,7 @@
     "static/media/InstalacionPowerShellC.txt": "/glosariodeterminos/static/media/InstalacionPowerShellC.0cf36cb4281bc3f4115c.txt",
     "static/media/reduce.txt": "/glosariodeterminos/static/media/reduce.85704360f74bcd4ee928.txt",
     "static/media/MetodoMain.txt": "/glosariodeterminos/static/media/MetodoMain.39d31293a30f9c287ba5.txt",
+    "static/media/FocusFormScript.txt": "/glosariodeterminos/static/media/FocusFormScript.b4d4670039270b90ae36.txt",
     "static/media/EXTRACT.txt": "/glosariodeterminos/static/media/EXTRACT.6655166ef77020c0182a.txt",
     "static/media/push.txt": "/glosariodeterminos/static/media/push.d04c742078cceaa7306c.txt",
     "static/media/mouseOverJavaScript.txt": "/glosariodeterminos/static/media/mouseOverJavaScript.b2de7fb2a1ff99ff129b.txt",
@@ -673,6 +681,7 @@
     "static/media/codigosRespuestaPostman.txt": "/glosariodeterminos/static/media/codigosRespuestaPostman.31d6cfe0d16ae931b73c.txt",
     "static/media/concatJavaScript.txt": "/glosariodeterminos/static/media/concatJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/informetesting.txt": "/glosariodeterminos/static/media/informetesting.31d6cfe0d16ae931b73c.txt",
+    "static/media/locationScript.txt": "/glosariodeterminos/static/media/locationScript.31d6cfe0d16ae931b73c.txt",
     "static/media/pruebasV.txt": "/glosariodeterminos/static/media/pruebasV.31d6cfe0d16ae931b73c.txt",
     "static/media/replaceAllJavaScript.txt": "/glosariodeterminos/static/media/replaceAllJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/tecnicasPrueba.txt": "/glosariodeterminos/static/media/tecnicasPrueba.31d6cfe0d16ae931b73c.txt",
@@ -680,13 +689,14 @@
     "static/media/toUpperCaseJavaScript.txt": "/glosariodeterminos/static/media/toUpperCaseJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/trimJavaScript.txt": "/glosariodeterminos/static/media/trimJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/unitTest.txt": "/glosariodeterminos/static/media/unitTest.31d6cfe0d16ae931b73c.txt",
+    "static/media/valueFormScript.txt": "/glosariodeterminos/static/media/valueFormScript.31d6cfe0d16ae931b73c.txt",
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.a8f8ab14.js.map": "/glosariodeterminos/static/js/main.a8f8ab14.js.map"
+    "main.b2d3cf74.js.map": "/glosariodeterminos/static/js/main.b2d3cf74.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.a8f8ab14.js"
+    "static/js/main.b2d3cf74.js"
   ]
 }
