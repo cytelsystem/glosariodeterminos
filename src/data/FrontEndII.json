@@ -478,6 +478,60 @@
             "ejemplo2": "ManejoFechasScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 54,
+            "name": "focus",
+            "detalle": "Cuando el cursor ingresa a un campo input",
+            "ejemplo1": "FocusFormScript.jpg",
+            "ejemplo2": "FocusFormScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 55,
+            "name": "blur",
+            "detalle": "Cuando el cursor abandona un campo input",
+            "ejemplo1": "blurFormScript.jpg",
+            "ejemplo2": "blurFormScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 56,
+            "name": "change",
+            "detalle": "Permite identificar cuando el valor de un campo cambio (Funciona en cualquier elemento o todo el formulario)",
+            "ejemplo1": "changeFormScript.jpg",
+            "ejemplo2": "changeFormScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 57,
+            "name": "submit",
+            "detalle": "Permite identificar cuando se hace click en un button o campo input ambos de tipo submit",
+            "ejemplo1": "submitFormScript.jpg",
+            "ejemplo2": "submitFormScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 58,
+            "name": "this.value",
+            "detalle": "Para saber que datos esta colocando el usuario en cada campo se identifica el elemento",
+            "ejemplo1": "valueFormScript.jpg",
+            "ejemplo2": "valueFormScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 59,
+            "name": "location url",
+            "detalle": "Para saber que datos esta colocando el usuario en cada campo se identifica el elemento",
+            "ejemplo1": "locationScript.jpg",
+            "ejemplo2": "locationScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
     ]
