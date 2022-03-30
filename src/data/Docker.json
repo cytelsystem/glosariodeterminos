@@ -1,0 +1,80 @@
+{
+    "results": [
+
+
+        {
+            "id": 1,
+            "name": "Docker Instalacion",
+            "detalle": "Instalar Doker",
+            "ejemplo1": "DockerLinux.pdf",
+            "ejemplo2": "DockerWindows.pdf",
+            "ejemplo3": "DockerMac.pdf"
+        },
+        {
+            "id": 2,
+            "name": "Vocabulario de Docker y otros",
+            "detalle": "Conceptos que serán importantes que reconozcas para que te familiarices con ellos",
+            "ejemplo1": "DockerVocabulario.jpg",
+            "ejemplo2": "DockerVocabulario.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Docker Registry",
+            "detalle": "El registro es como una estantería donde las imágenes se almacenan y están disponibles para extraerlas con el fin de compilar contenedores que ejecuten servicios o aplicaciones web",
+            "ejemplo1": "DockerRegistry.jpg",
+            "ejemplo2": "DockerRegistry.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Dockerfile",
+            "detalle": "Es un archivo de texto simple con un conjunto de comandos o instrucciones. Se ejecutan sucesivamente para realizar acciones en la imagen base y crear una nueva imagen de la ventana acoplable",
+            "ejemplo1": "Dockerfile.pdf",
+            "ejemplo2": "Dockerfile.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Docker Hub",
+            "detalle": "Nos permite extraer y enviar imágenes de la ventana acoplable hacia y desde Docker Hub. P",
+            "ejemplo1": "DockerHub.pdf",
+            "ejemplo2": "DockerHub.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Docker Networking",
+            "detalle": "Nos vamos a enfocar en el driver llamado bridge, ya que con el nuevo enfoque de Docker orientado a habilitar a los desarrolladores es el que mayoritariamente le darán uso en sus computadoras",
+            "ejemplo1": "DockerNetworking.pdf",
+            "ejemplo2": "DockerNetworking.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Docker Compose",
+            "detalle": "Docker Compose es una herramienta que permite simplificar el uso de Docker. A partir de archivos YAML es más sencillo crear contendores, conectarlos, habilitar puertos, volúmenes, etc. ",
+            "ejemplo1": "DockerCompose.jpg",
+            "ejemplo2": "DockerCompose.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Docker Swarm",
+            "detalle": "Docker Compose es una herramienta que permite simplificar el uso de Docker. A partir de archivos YAML es más sencillo crear contendores, conectarlos, habilitar puertos, volúmenes, etc. ",
+            "ejemplo1": "DockerSwarm.jpg",
+            "ejemplo2": "DockerSwarm.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Mejores practicas en Docker",
+            "detalle": "Docker es una tecnología compleja y, como tal, hay muchísimos lugares en donde podemos implementar prácticas para mejorar la seguridad, performance o hasta hacernos la vida más sencilla. A continuación vamos a enfocarnos en algunas de las prácticas que nos van a beneficiar en nuestro rol como desarrolladores.",
+            "ejemplo1": "MejoresPracticasDocker.jpg",
+            "ejemplo2": "MejoresPracticasDocker.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        }
+    ]
+}
+
+

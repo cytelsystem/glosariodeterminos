@@ -481,6 +481,15 @@
         },
         {
             "id": 54,
+            "name": "Form",
+            "detalle": "Manejo de Formularios",
+            "ejemplo1": "formFormScript.jpg",
+            "ejemplo2": "formFormScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 55,
             "name": "focus",
             "detalle": "Cuando el cursor ingresa a un campo input",
             "ejemplo1": "FocusFormScript.jpg",
@@ -489,7 +498,7 @@
 
         },
         {
-            "id": 55,
+            "id": 56,
             "name": "blur",
             "detalle": "Cuando el cursor abandona un campo input",
             "ejemplo1": "blurFormScript.jpg",
@@ -498,7 +507,7 @@
 
         },
         {
-            "id": 56,
+            "id": 57,
             "name": "change",
             "detalle": "Permite identificar cuando el valor de un campo cambio (Funciona en cualquier elemento o todo el formulario)",
             "ejemplo1": "changeFormScript.jpg",
@@ -507,7 +516,7 @@
 
         },
         {
-            "id": 57,
+            "id": 58,
             "name": "submit",
             "detalle": "Permite identificar cuando se hace click en un button o campo input ambos de tipo submit",
             "ejemplo1": "submitFormScript.jpg",
@@ -516,7 +525,7 @@
 
         },
         {
-            "id": 58,
+            "id": 59,
             "name": "this.value",
             "detalle": "Para saber que datos esta colocando el usuario en cada campo se identifica el elemento",
             "ejemplo1": "valueFormScript.jpg",
@@ -525,13 +534,62 @@
 
         },
         {
-            "id": 59,
+            "id": 60,
             "name": "location url",
             "detalle": "Para saber que datos esta colocando el usuario en cada campo se identifica el elemento",
             "ejemplo1": "locationScript.jpg",
             "ejemplo2": "locationScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 61,
+            "name": "Errores Formulario",
+            "detalle": "Almacenar y mostrar los errores de forma organizada en <ul> <li>",
+            "ejemplo1": "AlmacenarErrorFormScript.jpg",
+            "ejemplo2": "AlmacenarErrorFormScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 62,
+            "name": "Json",
+            "detalle": "Formato de texto sencillo utilizado para el intercambio de datos entre distintos sistemas",
+            "ejemplo1": "json.jpg",
+            "ejemplo2": "json.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 63,
+            "name": "json.parse()",
+            "detalle": "Convierte un texto con formato JSON a tipo de dato equivalente de javaScript.",
+            "ejemplo1": "jsonParse.jpg",
+            "ejemplo2": "jsonParse.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 64,
+            "name": "json.stringify()",
+            "detalle": "Convierte un tipo de dato de JavaScript en un texto en formato JSON.",
+            "ejemplo1": "jsonStringify.jpg",
+            "ejemplo2": "jsonStringify.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 64,
+            "name": "json.stringify()",
+            "detalle": "Convierte un tipo de dato de JavaScript en un texto en formato JSON.",
+            "ejemplo1": "jsonStringify.jpg",
+            "ejemplo2": "jsonStringify.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 64,
+            "name": "localStorage / sessionStorage",
+            "detalle": "localStorage guarda informacion en el navegador hasta que se elimine y sessionStorage guarda la informacion temporalmente y se elimina al cerrar el navegador",
+            "ejemplo1": "localStorageSessionStoragejavaScript.jpg",
+            "ejemplo2": "localStorageSessionStoragejavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
 
     ]

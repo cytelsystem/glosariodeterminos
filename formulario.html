@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,26 +7,28 @@
   <title>formulario</title>
 </head>
 <body>
+  <div class="errores">
+    <ul></ul>
+  </div>
+
+  <div class="bienvenida"></div>
 
   <form action="" class="reservation">
     <label>nombre<input type="text" class="nombre" name="nombre" id="nombre" autocomplete="off"></label>
     <label>Apellido<input type="text" class="apellido" name="apellido" id="apellido" autocomplete="off"></label>
-
     <p>
-      <select name="people" id="people" class="people">
-        <option value="1">1</option>
-        <option value="2">2</option>
-        <option value="3">3</option>
-        <option value="4">4</option>
-        <option value="5">5</option>
-        <option value="6">6</option>
+      <select class="people" name="people" id="people" >
+        <option value="1">1 Persona</option>
+        <option value="2">2 Persona</option>
+        <option value="3">3 Persona</option>
       </select>
     </p>
-
+    <p><input class="fecha" type="datetime-local" placeholder="Fecha" name="date"></p>
+    <p><input class="message" type="text" placeholder="Mensaje quereimientos" name="Message"></p>
     <p><button type="submit">Enviar formulario</button></p>
 
   </form>
-<script src="script.js"></script>
+<script src="storage.js"></script>
 </body>
 </html>
 
