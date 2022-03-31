@@ -582,6 +582,46 @@
             "ejemplo1": "localStorageSessionStoragejavaScript.jpg",
             "ejemplo2": "localStorageSessionStoragejavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 66,
+            "name": "Ajax",
+            "detalle": "AJAX (Asynchronous JavaScript and XML) es un conjunto de tecnologías que se utilizan para crear aplicaciones web asíncronas. Esto las vuelve más rápidas y con mejor respuesta a las acciones del usuario.",
+            "ejemplo1": "AjaxJavaScript.jpg",
+            "ejemplo2": "AjaxJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 67,
+            "name": "Ajax Request y Response",
+            "detalle": "AJAX (Asynchronous JavaScript and XML) es un conjunto de tecnologías que se utilizan para crear aplicaciones web asíncronas. Esto las vuelve más rápidas y con mejor respuesta a las acciones del usuario.",
+            "ejemplo1": "AjaxRequestResponseJavaScript.jpg",
+            "ejemplo2": "AjaxRequestResponseJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 68,
+            "name": "Conformacion protocolo HTTP",
+            "detalle": "HyperText Transfer Protocol, o en castellano: protocolo de transferencia de hipertexto, es un protocolo que sirve para gestionar la comunicación entre dos máquinas conectadas a una red.",
+            "ejemplo1": "ConformacionProtocoloHTTPJavaScript.jpg",
+            "ejemplo2": "ConformacionProtocoloHTTPJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 69,
+            "name": "Que es una Api",
+            "detalle": "Es una interfaz que permite la comunicación entre 2 aplicaciones",
+            "ejemplo1": "ApisQueEsJavaScript.jpg",
+            "ejemplo2": "ApisQueEsJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 70,
+            "name": "Rest",
+            "detalle": "REST es un tipo de arquitectura de servicios que proporciona estándares entre sistemas informáticos para establecer cómo se van a comunicar entre sí",
+            "ejemplo1": "RestJavaScript.jpg",
+            "ejemplo2": "RestJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
 
     ]
