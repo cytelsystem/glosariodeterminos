@@ -22,6 +22,11 @@
 let titulo = document.querySelector('h1');
 titulo.innerHTML = 'Carlos cifuentes';
 
+//***********************************Reset element****************************************//
+
+  let contenedor = document.querySelector('.main-contenedor')
+  contenedor.innerHTML = "" ;
+
 //******************************************************************************************//
 
 document.querySelector('div.nombre').innerHTML ;
@@ -30,6 +35,7 @@ document.querySelector('div.nombre').innerHTML = 'Darío';
 
 document.querySelector('div.nombre').innerHTML += 'Papitas';
 
+//******************************************************************************************//
 
 
 

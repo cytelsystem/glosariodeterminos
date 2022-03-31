@@ -46,4 +46,52 @@ window.addEventListener("load", function() {
 
 })
 
+//***************************Otro ejemplo 2********************************//
+
+document.querySelector('form').addEventListener('submit', (e) => {
+  e.preventDefault();
+
+  let comentario = document.querySelector('#comentario').value;
+
+  addHistory(comentario);
+  adicionarcomentarioDiv()
+
+});
+
+const key = 'elementoComentario';
+
+function addHistory(comentario) {
+
+  let historialComentarios = [];
+  if (sessionStorage.getItem(key) != null) {
+    historialComentarios = JSON.parse(sessionStorage.getItem(key));
+  }
+
+  historialComentarios.push(comentario);
+
+  let json = JSON.stringify(historialComentarios);
+  sessionStorage.setItem(key, json);
+
+}
+
+function adicionarcomentarioDiv() {
+  let historialComentarios = [];
+
+  if (sessionStorage.getItem(key) != null) {
+    historialComentarios = JSON.parse(sessionStorage.getItem(key));
+  }
+
+  document.querySelector(".comentarios").innerHTML = "" ;
+
+  historialComentarios.forEach(comentario => {
+    let contenedor = document.querySelector(".comentarios")
+
+    let p = document.createElement("p");
+    var texto = document.createTextNode(comentario);
+    p.appendChild(texto);
+
+    contenedor.appendChild(p);
+  })
+}
+
 //***********************************************************************//

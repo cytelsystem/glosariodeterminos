@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.a522edd4.js",
+    "main.js": "/glosariodeterminos/static/js/main.cd3428bb.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -388,6 +388,7 @@
     "static/media/InicialializarProyecto.txt": "/glosariodeterminos/static/media/InicialializarProyecto.1f20140d6c7d1bc3bb02.txt",
     "static/media/CreatElementReactJS.txt": "/glosariodeterminos/static/media/CreatElementReactJS.caeed8b6273f948d411a.txt",
     "static/media/ManejoEstadosReactJS.txt": "/glosariodeterminos/static/media/ManejoEstadosReactJS.f0c36861b821a1441b54.txt",
+    "static/media/localStorageSessionStoragejavaScript.txt": "/glosariodeterminos/static/media/localStorageSessionStoragejavaScript.ff41a2eb7253cbe33722.txt",
     "static/media/ifLinux.txt": "/glosariodeterminos/static/media/ifLinux.703f63a2abbc65af81f8.txt",
     "static/media/EventosReactJS.txt": "/glosariodeterminos/static/media/EventosReactJS.d00fbc6b7262b7cbe060.txt",
     "static/media/OffcanvasReact.txt": "/glosariodeterminos/static/media/OffcanvasReact.331577a35bf751fa6ca0.txt",
@@ -419,11 +420,11 @@
     "static/media/InstalacionReactJs.txt": "/glosariodeterminos/static/media/InstalacionReactJs.275007dbe0c49e5f9ba0.txt",
     "static/media/FormObtenerDatosJavaScript.txt": "/glosariodeterminos/static/media/FormObtenerDatosJavaScript.f126d7614cff08e1fe92.txt",
     "static/media/querySelectorAllJavaScript.txt": "/glosariodeterminos/static/media/querySelectorAllJavaScript.dc3470b4b891f10dfd44.txt",
-    "static/media/localStorageSessionStoragejavaScript.txt": "/glosariodeterminos/static/media/localStorageSessionStoragejavaScript.0aed5a6368da8652d632.txt",
     "static/media/addEventListenerJavaScript.txt": "/glosariodeterminos/static/media/addEventListenerJavaScript.aaef37c633ee9c8f3981.txt",
     "static/media/array.txt": "/glosariodeterminos/static/media/array.6af7a16d45e229173a34.txt",
     "static/media/Scanner.txt": "/glosariodeterminos/static/media/Scanner.0509be9e106473c04caa.txt",
     "static/media/changeFormScript.txt": "/glosariodeterminos/static/media/changeFormScript.01b6e0552546da975603.txt",
+    "static/media/innerHTMLJavaScript.txt": "/glosariodeterminos/static/media/innerHTMLJavaScript.fc81f568a7d5775c88aa.txt",
     "static/media/EventTecladoJavaScript.txt": "/glosariodeterminos/static/media/EventTecladoJavaScript.7cf12a5e2753700ae8eb.txt",
     "static/media/Ciclovidadefecto.txt": "/glosariodeterminos/static/media/Ciclovidadefecto.1efd3d09a89d5726e4e0.txt",
     "static/media/dblclickJavaScript.txt": "/glosariodeterminos/static/media/dblclickJavaScript.086e2cd30b3255dc019d.txt",
@@ -441,7 +442,6 @@
     "static/media/for.txt": "/glosariodeterminos/static/media/for.fb69606c28eda650c3a9.txt",
     "static/media/appendChildJavaScript.txt": "/glosariodeterminos/static/media/appendChildJavaScript.25012ddde79083cae67d.txt",
     "static/media/createTextNodeJavaScript.txt": "/glosariodeterminos/static/media/createTextNodeJavaScript.25012ddde79083cae67d.txt",
-    "static/media/innerHTMLJavaScript.txt": "/glosariodeterminos/static/media/innerHTMLJavaScript.68de4633a93a89ddc4e7.txt",
     "static/media/inputJavaScript.txt": "/glosariodeterminos/static/media/inputJavaScript.6df4030096eb00370ed5.txt",
     "static/media/blurFormScript.txt": "/glosariodeterminos/static/media/blurFormScript.d511e51c996289d52111.txt",
     "static/media/Generics.txt": "/glosariodeterminos/static/media/Generics.19de7ebb95d8055ba57c.txt",
@@ -719,10 +719,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.a522edd4.js.map": "/glosariodeterminos/static/js/main.a522edd4.js.map"
+    "main.cd3428bb.js.map": "/glosariodeterminos/static/js/main.cd3428bb.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.a522edd4.js"
+    "static/js/main.cd3428bb.js"
   ]
 }
