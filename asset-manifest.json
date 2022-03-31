@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.cd3428bb.js",
+    "main.js": "/glosariodeterminos/static/js/main.0ee09ce8.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -15,6 +15,7 @@
     "static/media/virtualizaciónInfraestructura.jpg": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.cbd00bb3c79866804998.jpg",
     "static/media/PatronStrategy.jpg": "/glosariodeterminos/static/media/PatronStrategy.cba7328f8754486068f3.jpg",
     "static/media/CvidaPsoftware.jpg": "/glosariodeterminos/static/media/CvidaPsoftware.659d4d8406ab4628e660.jpg",
+    "static/media/ConformacionProtocoloHTTPJavaScript.jpg": "/glosariodeterminos/static/media/ConformacionProtocoloHTTPJavaScript.cae135962fbcd5a02492.jpg",
     "static/media/curlLinux.jpg": "/glosariodeterminos/static/media/curlLinux.7f1ceaee84753876603f.jpg",
     "static/media/SeleniumIDE.jpg": "/glosariodeterminos/static/media/SeleniumIDE.a2f8585df89bd59ad489.jpg",
     "static/media/APICreacionPruebasJS.jpg": "/glosariodeterminos/static/media/APICreacionPruebasJS.77e8c764f0cbd62658b9.jpg",
@@ -22,6 +23,7 @@
     "static/media/ExcepcionesJava.jpg": "/glosariodeterminos/static/media/ExcepcionesJava.f9e1fd1d1f8dde54db91.jpg",
     "static/media/PatronObserver.jpg": "/glosariodeterminos/static/media/PatronObserver.119bd0f9b17096641945.jpg",
     "static/media/InfraestructuraServiciosInfraestructura.pdf": "/glosariodeterminos/static/media/InfraestructuraServiciosInfraestructura.fda5131e367814aa62fd.pdf",
+    "static/media/RestJavaScript.jpg": "/glosariodeterminos/static/media/RestJavaScript.1853359607cddfd1f429.jpg",
     "static/media/ManejoEstadosReactJS.jpg": "/glosariodeterminos/static/media/ManejoEstadosReactJS.904c22f5763fecb27772.jpg",
     "static/media/AgregarElementos.jpg": "/glosariodeterminos/static/media/AgregarElementos.4f0d4eec64d86fe92516.jpg",
     "static/media/PatronFactory1.jpg": "/glosariodeterminos/static/media/PatronFactory1.56622b6ebeedd943dd53.jpg",
@@ -86,6 +88,7 @@
     "static/media/InicialializarProyecto.jpg": "/glosariodeterminos/static/media/InicialializarProyecto.c794c277b04ee7848060.jpg",
     "static/media/reduce.jpg": "/glosariodeterminos/static/media/reduce.d0ee7393a897ea04cff6.jpg",
     "static/media/MetodosClase.jpg": "/glosariodeterminos/static/media/MetodosClase.0bbe133cbae66885067f.jpg",
+    "static/media/AjaxRequestResponseJavaScript.jpg": "/glosariodeterminos/static/media/AjaxRequestResponseJavaScript.a68a08a7706187fd6ace.jpg",
     "static/media/funcionesConstructoras.jpg": "/glosariodeterminos/static/media/funcionesConstructoras.1372c0d5292b7e0570d8.jpg",
     "static/media/Scanner.jpg": "/glosariodeterminos/static/media/Scanner.6cd65eb37646a4caa2d4.jpg",
     "static/media/EncapsulamientoJava.jpg": "/glosariodeterminos/static/media/EncapsulamientoJava.b3d68144160f63ad8b65.jpg",
@@ -177,6 +180,7 @@
     "static/media/Integer.jpg": "/glosariodeterminos/static/media/Integer.e72feaefa6c429fd4989.jpg",
     "static/media/DockerWindows.pdf": "/glosariodeterminos/static/media/DockerWindows.43d7006ac0164ad9d948.pdf",
     "static/media/ArrayJava.jpg": "/glosariodeterminos/static/media/ArrayJava.becd146385f3fe497c23.jpg",
+    "static/media/AjaxJavaScript.jpg": "/glosariodeterminos/static/media/AjaxJavaScript.a4ca967bf89a7c09abd8.jpg",
     "static/media/SobreEscritura.jpg": "/glosariodeterminos/static/media/SobreEscritura.f6f365de389bb98a8352.jpg",
     "static/media/GetCommandPowerShellC.jpg": "/glosariodeterminos/static/media/GetCommandPowerShellC.d5f8dd2ed11be05ca34f.jpg",
     "static/media/do_while.jpg": "/glosariodeterminos/static/media/do_while.85eb12f8c9389daf2a92.jpg",
@@ -185,6 +189,7 @@
     "static/media/gitHubDeployReactJS.jpg": "/glosariodeterminos/static/media/gitHubDeployReactJS.6ffbcd6783536ac37d6a.jpg",
     "static/media/COALESCE.jpg": "/glosariodeterminos/static/media/COALESCE.650dc58cdfc42fae54bd.jpg",
     "static/media/PropsComponenteReactJS.jpg": "/glosariodeterminos/static/media/PropsComponenteReactJS.93e9114693bc442eba97.jpg",
+    "static/media/ApisQueEsJavaScript.jpg": "/glosariodeterminos/static/media/ApisQueEsJavaScript.cc72cafcd095b2d63b22.jpg",
     "static/media/TablaConceptosPOPMica.jpg": "/glosariodeterminos/static/media/TablaConceptosPOPMica.6e0faf8eff7dc1854a80.jpg",
     "static/media/FormObtenerDatosJavaScript.pdf": "/glosariodeterminos/static/media/FormObtenerDatosJavaScript.754ce3ec21599da799d1.pdf",
     "static/media/DISTINCT.jpg": "/glosariodeterminos/static/media/DISTINCT.9e8e3577845c773e816b.jpg",
@@ -638,11 +643,15 @@
     "static/media/dfLinux.txt": "/glosariodeterminos/static/media/dfLinux.6283feb0df1f15689ade.txt",
     "static/media/FrameworksUnit.txt": "/glosariodeterminos/static/media/FrameworksUnit.89312ccc70f1fe0ca2e1.txt",
     "static/media/7principiostesting.txt": "/glosariodeterminos/static/media/7principiostesting.31d6cfe0d16ae931b73c.txt",
+    "static/media/AjaxJavaScript.txt": "/glosariodeterminos/static/media/AjaxJavaScript.31d6cfe0d16ae931b73c.txt",
+    "static/media/AjaxRequestResponseJavaScript.txt": "/glosariodeterminos/static/media/AjaxRequestResponseJavaScript.31d6cfe0d16ae931b73c.txt",
+    "static/media/ApisQueEsJavaScript.txt": "/glosariodeterminos/static/media/ApisQueEsJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/Breakpoints.txt": "/glosariodeterminos/static/media/Breakpoints.31d6cfe0d16ae931b73c.txt",
     "static/media/CaracteristicasDesignThinkerEfectivo.txt": "/glosariodeterminos/static/media/CaracteristicasDesignThinkerEfectivo.31d6cfe0d16ae931b73c.txt",
     "static/media/Casting.txt": "/glosariodeterminos/static/media/Casting.31d6cfe0d16ae931b73c.txt",
     "static/media/ColeccionesPOP.txt": "/glosariodeterminos/static/media/ColeccionesPOP.31d6cfe0d16ae931b73c.txt",
     "static/media/ColeccionesPostman.txt": "/glosariodeterminos/static/media/ColeccionesPostman.31d6cfe0d16ae931b73c.txt",
+    "static/media/ConformacionProtocoloHTTPJavaScript.txt": "/glosariodeterminos/static/media/ConformacionProtocoloHTTPJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/ControlesDebuggear.txt": "/glosariodeterminos/static/media/ControlesDebuggear.31d6cfe0d16ae931b73c.txt",
     "static/media/CreacionInstancia.txt": "/glosariodeterminos/static/media/CreacionInstancia.31d6cfe0d16ae931b73c.txt",
     "static/media/DebuggingVSTesting.txt": "/glosariodeterminos/static/media/DebuggingVSTesting.31d6cfe0d16ae931b73c.txt",
@@ -687,6 +696,7 @@
     "static/media/PruebasEstaticas.txt": "/glosariodeterminos/static/media/PruebasEstaticas.31d6cfe0d16ae931b73c.txt",
     "static/media/PruebasUnitariasComponente.txt": "/glosariodeterminos/static/media/PruebasUnitariasComponente.31d6cfe0d16ae931b73c.txt",
     "static/media/PutTesting.txt": "/glosariodeterminos/static/media/PutTesting.31d6cfe0d16ae931b73c.txt",
+    "static/media/RestJavaScript.txt": "/glosariodeterminos/static/media/RestJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/RunnerPostman.txt": "/glosariodeterminos/static/media/RunnerPostman.31d6cfe0d16ae931b73c.txt",
     "static/media/Selenium.txt": "/glosariodeterminos/static/media/Selenium.31d6cfe0d16ae931b73c.txt",
     "static/media/SeleniumWebDriver.txt": "/glosariodeterminos/static/media/SeleniumWebDriver.31d6cfe0d16ae931b73c.txt",
@@ -719,10 +729,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.cd3428bb.js.map": "/glosariodeterminos/static/js/main.cd3428bb.js.map"
+    "main.0ee09ce8.js.map": "/glosariodeterminos/static/js/main.0ee09ce8.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.cd3428bb.js"
+    "static/js/main.0ee09ce8.js"
   ]
 }
