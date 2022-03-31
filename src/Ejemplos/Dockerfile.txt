@@ -15,16 +15,25 @@ CMD echo "My first image created."
 
 docker build ./ -t asadali08527/first-repo
 
+//**************************Buscar imagenes dockerHub**********************************//
+
+  docker search mysql
+
+//****************************docker pull*************************************//
+//**Descargar imagenes de dockerHub
+
+  docker pull mysql
+
 //*******************************************************************************//
 //** Podemos verificar que la imagen está creada con la siguiente línea de código:
 
   docker image ls
 
-//*******************************************************************************//
+//*****************************docker push**************************************//
 //**Una vez que nuestra imagen se ha creado correctamente y se está ejecutando,
 //**podemos enviarla a Docker Hub mediante el comando push.
 
   docker push asadali08527/first-repo
-  
+
 //*******************************************************************************//
 
