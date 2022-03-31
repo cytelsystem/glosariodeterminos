@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.5e2d4729.js",
+    "main.js": "/glosariodeterminos/static/js/main.a522edd4.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -411,6 +411,7 @@
     "static/media/PropsComponenteReactJS.txt": "/glosariodeterminos/static/media/PropsComponenteReactJS.c765e02709a26ec62723.txt",
     "static/media/classListAddRemoveToggleJavaScript.txt": "/glosariodeterminos/static/media/classListAddRemoveToggleJavaScript.f1b85583c4c91f805ca6.txt",
     "static/media/gitHubDeployReactJS.txt": "/glosariodeterminos/static/media/gitHubDeployReactJS.7744b6962cca27f067ad.txt",
+    "static/media/Dockerfile.txt": "/glosariodeterminos/static/media/Dockerfile.7aba63fac4f8dcb78243.txt",
     "static/media/AgregarElementos.txt": "/glosariodeterminos/static/media/AgregarElementos.a6e112976be9b3f696f9.txt",
     "static/media/callback.txt": "/glosariodeterminos/static/media/callback.9a00d18787cefecfd0bb.txt",
     "static/media/toUpperCase.txt": "/glosariodeterminos/static/media/toUpperCase.69a094393e7e4d3416a0.txt",
@@ -654,7 +655,6 @@
     "static/media/DockerRegistry.txt": "/glosariodeterminos/static/media/DockerRegistry.31d6cfe0d16ae931b73c.txt",
     "static/media/DockerSwarm.txt": "/glosariodeterminos/static/media/DockerSwarm.31d6cfe0d16ae931b73c.txt",
     "static/media/DockerVocabulario.txt": "/glosariodeterminos/static/media/DockerVocabulario.31d6cfe0d16ae931b73c.txt",
-    "static/media/Dockerfile.txt": "/glosariodeterminos/static/media/Dockerfile.31d6cfe0d16ae931b73c.txt",
     "static/media/EncapsulamientoJava.txt": "/glosariodeterminos/static/media/EncapsulamientoJava.31d6cfe0d16ae931b73c.txt",
     "static/media/EnviarDatosPOSTReactJs.txt": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.31d6cfe0d16ae931b73c.txt",
     "static/media/FacesDesignthinking.txt": "/glosariodeterminos/static/media/FacesDesignthinking.31d6cfe0d16ae931b73c.txt",
@@ -719,10 +719,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.5e2d4729.js.map": "/glosariodeterminos/static/js/main.5e2d4729.js.map"
+    "main.a522edd4.js.map": "/glosariodeterminos/static/js/main.a522edd4.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.5e2d4729.js"
+    "static/js/main.a522edd4.js"
   ]
 }
