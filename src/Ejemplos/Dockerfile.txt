@@ -1,0 +1,30 @@
+//****************************Dockerfile**********************************//
+
+FROM ubuntu:16.04
+ENV DEBIAN_FRONTEND noninteractive
+MAINTAINER someuser@somedomain.com
+RUN apt-get update
+RUN apt-get install mysql-server -y
+CMD echo "My first image created."
+
+//****************************Ejecutar Dockerfile************************************//
+  //** Una vez que nuestro Dockerfile se ha creado correctamente, debemos ejecutar docker**//
+  //** build para “armar” nuestra imagen localmente, para luego enviarla a Docker Hub. Este**//
+  //** comando debemos ejecutarlo dentro de la carpeta donde se encuentra el Dockerfile.**//
+
+
+docker build ./ -t asadali08527/first-repo
+
+//*******************************************************************************//
+//** Podemos verificar que la imagen está creada con la siguiente línea de código:
+
+  docker image ls
+
+//*******************************************************************************//
+//**Una vez que nuestra imagen se ha creado correctamente y se está ejecutando,
+//**podemos enviarla a Docker Hub mediante el comando push.
+
+  docker push asadali08527/first-repo
+  
+//*******************************************************************************//
+

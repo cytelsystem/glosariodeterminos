@@ -32,7 +32,7 @@
             "detalle": "Es un archivo de texto simple con un conjunto de comandos o instrucciones. Se ejecutan sucesivamente para realizar acciones en la imagen base y crear una nueva imagen de la ventana acoplable",
             "ejemplo1": "Dockerfile.pdf",
             "ejemplo2": "Dockerfile.txt",
-            "ejemplo3": "NoHayInformacion.jpg"
+            "ejemplo3": "DockerHub.pdf"
         },
         {
             "id": 5,

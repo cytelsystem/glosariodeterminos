@@ -576,15 +576,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 64,
-            "name": "json.stringify()",
-            "detalle": "Convierte un tipo de dato de JavaScript en un texto en formato JSON.",
-            "ejemplo1": "jsonStringify.jpg",
-            "ejemplo2": "jsonStringify.txt",
-            "ejemplo3": "NoHayInformacion.jpg"
-        },
-        {
-            "id": 64,
+            "id": 65,
             "name": "localStorage / sessionStorage",
             "detalle": "localStorage guarda informacion en el navegador hasta que se elimine y sessionStorage guarda la informacion temporalmente y se elimina al cerrar el navegador",
             "ejemplo1": "localStorageSessionStoragejavaScript.jpg",
