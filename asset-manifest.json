@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.0ee09ce8.js",
+    "main.js": "/glosariodeterminos/static/js/main.9846fe85.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -269,6 +269,7 @@
     "static/media/COUNT.jpg": "/glosariodeterminos/static/media/COUNT.778888151df950ba63fc.jpg",
     "static/media/definicion.jpg": "/glosariodeterminos/static/media/definicion.1b6b383fbc3532ba7fda.jpg",
     "static/media/jsonStringify.jpg": "/glosariodeterminos/static/media/jsonStringify.e485b1375783f85cc1dd.jpg",
+    "static/media/CheckedScript.jpg": "/glosariodeterminos/static/media/CheckedScript.c2ba22ecc5c23a3a8b4f.jpg",
     "static/media/BeneficiosAutomatizarInfraestructura.jpg": "/glosariodeterminos/static/media/BeneficiosAutomatizarInfraestructura.45cc03434c54a81b40b3.jpg",
     "static/media/CONCAT.jpg": "/glosariodeterminos/static/media/CONCAT.ad7f5282d161e656ab76.jpg",
     "static/media/DevToolsLighthouse.jpg": "/glosariodeterminos/static/media/DevToolsLighthouse.0c4b421eec66462636f9.jpg",
@@ -458,6 +459,7 @@
     "static/media/reduce.txt": "/glosariodeterminos/static/media/reduce.85704360f74bcd4ee928.txt",
     "static/media/MetodoMain.txt": "/glosariodeterminos/static/media/MetodoMain.39d31293a30f9c287ba5.txt",
     "static/media/FocusFormScript.txt": "/glosariodeterminos/static/media/FocusFormScript.b4d4670039270b90ae36.txt",
+    "static/media/CheckedScript.txt": "/glosariodeterminos/static/media/CheckedScript.3546cb095b9ac2cb9d60.txt",
     "static/media/EXTRACT.txt": "/glosariodeterminos/static/media/EXTRACT.6655166ef77020c0182a.txt",
     "static/media/push.txt": "/glosariodeterminos/static/media/push.d04c742078cceaa7306c.txt",
     "static/media/mouseOverJavaScript.txt": "/glosariodeterminos/static/media/mouseOverJavaScript.b2de7fb2a1ff99ff129b.txt",
@@ -729,10 +731,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.0ee09ce8.js.map": "/glosariodeterminos/static/js/main.0ee09ce8.js.map"
+    "main.9846fe85.js.map": "/glosariodeterminos/static/js/main.9846fe85.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.0ee09ce8.js"
+    "static/js/main.9846fe85.js"
   ]
 }
