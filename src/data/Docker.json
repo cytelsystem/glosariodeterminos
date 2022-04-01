@@ -1,7 +1,6 @@
 {
     "results": [
 
-
         {
             "id": 1,
             "name": "Docker Instalacion",
@@ -72,6 +71,30 @@
             "detalle": "Docker es una tecnología compleja y, como tal, hay muchísimos lugares en donde podemos implementar prácticas para mejorar la seguridad, performance o hasta hacernos la vida más sencilla. A continuación vamos a enfocarnos en algunas de las prácticas que nos van a beneficiar en nuestro rol como desarrolladores.",
             "ejemplo1": "MejoresPracticasDocker.jpg",
             "ejemplo2": "MejoresPracticasDocker.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 10,
+            "name": "docker search",
+            "detalle": "buscar imágenes y repositorios públicos desde Docker Hub",
+            "ejemplo1": "searchDocker.jpg",
+            "ejemplo2": "searchDocker.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 11,
+            "name": "docker search",
+            "detalle": "buscar imágenes y repositorios públicos desde Docker Hub",
+            "ejemplo1": "searchDocker.jpg",
+            "ejemplo2": "searchDocker.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 12,
+            "name": "docker search",
+            "detalle": "Descargar imágenes de repositorios públicos Docker Hub",
+            "ejemplo1": "pullDocker.jpg",
+            "ejemplo2": "pullDocker.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         }
     ]
