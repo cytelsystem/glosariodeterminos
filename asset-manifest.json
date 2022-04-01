@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.9846fe85.js",
+    "main.js": "/glosariodeterminos/static/js/main.204f0567.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -379,6 +379,7 @@
     "static/media/forLinux.jpg": "/glosariodeterminos/static/media/forLinux.a727a2fa3af314bb09fb.jpg",
     "static/media/prueba.docx": "/glosariodeterminos/static/media/prueba.8409096c718904a6be43.docx",
     "static/media/ServPruebasApiReactJs.txt": "/glosariodeterminos/static/media/ServPruebasApiReactJs.85fb6b196c721810c2fb.txt",
+    "static/media/localStorageSessionStoragejavaScript.txt": "/glosariodeterminos/static/media/localStorageSessionStoragejavaScript.e445ae2f491fcf3f89fe.txt",
     "static/media/ApiReactJS.txt": "/glosariodeterminos/static/media/ApiReactJS.289568d2707dfcc07fd3.txt",
     "static/media/PatronStrategy.txt": "/glosariodeterminos/static/media/PatronStrategy.4936516e5c63fab724c8.txt",
     "static/media/detallesPOP.txt": "/glosariodeterminos/static/media/detallesPOP.cdd81f9bfc85613dcc47.txt",
@@ -394,7 +395,6 @@
     "static/media/InicialializarProyecto.txt": "/glosariodeterminos/static/media/InicialializarProyecto.1f20140d6c7d1bc3bb02.txt",
     "static/media/CreatElementReactJS.txt": "/glosariodeterminos/static/media/CreatElementReactJS.caeed8b6273f948d411a.txt",
     "static/media/ManejoEstadosReactJS.txt": "/glosariodeterminos/static/media/ManejoEstadosReactJS.f0c36861b821a1441b54.txt",
-    "static/media/localStorageSessionStoragejavaScript.txt": "/glosariodeterminos/static/media/localStorageSessionStoragejavaScript.ff41a2eb7253cbe33722.txt",
     "static/media/ifLinux.txt": "/glosariodeterminos/static/media/ifLinux.703f63a2abbc65af81f8.txt",
     "static/media/EventosReactJS.txt": "/glosariodeterminos/static/media/EventosReactJS.d00fbc6b7262b7cbe060.txt",
     "static/media/OffcanvasReact.txt": "/glosariodeterminos/static/media/OffcanvasReact.331577a35bf751fa6ca0.txt",
@@ -731,10 +731,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.9846fe85.js.map": "/glosariodeterminos/static/js/main.9846fe85.js.map"
+    "main.204f0567.js.map": "/glosariodeterminos/static/js/main.204f0567.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.9846fe85.js"
+    "static/js/main.204f0567.js"
   ]
 }
