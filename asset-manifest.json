@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.204f0567.js",
+    "main.js": "/glosariodeterminos/static/js/main.b61d2896.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -185,6 +185,7 @@
     "static/media/GetCommandPowerShellC.jpg": "/glosariodeterminos/static/media/GetCommandPowerShellC.d5f8dd2ed11be05ca34f.jpg",
     "static/media/do_while.jpg": "/glosariodeterminos/static/media/do_while.85eb12f8c9389daf2a92.jpg",
     "static/media/TemplateLiteralsJavaScript.jpg": "/glosariodeterminos/static/media/TemplateLiteralsJavaScript.69025d53df90c66cc841.jpg",
+    "static/media/searchDocker.jpg": "/glosariodeterminos/static/media/searchDocker.97c62c8b12e0868477e6.jpg",
     "static/media/INNERJOIN.jpg": "/glosariodeterminos/static/media/INNERJOIN.a7309fcd6e553fda45f1.jpg",
     "static/media/gitHubDeployReactJS.jpg": "/glosariodeterminos/static/media/gitHubDeployReactJS.6ffbcd6783536ac37d6a.jpg",
     "static/media/COALESCE.jpg": "/glosariodeterminos/static/media/COALESCE.650dc58cdfc42fae54bd.jpg",
@@ -248,6 +249,7 @@
     "static/media/PlanificacionPrueba2.jpg": "/glosariodeterminos/static/media/PlanificacionPrueba2.c286ee7919b9f0fb6492.jpg",
     "static/media/confirmJavaScript.jpg": "/glosariodeterminos/static/media/confirmJavaScript.4c978536deee4bb22500.jpg",
     "static/media/exports.jpg": "/glosariodeterminos/static/media/exports.730d9b99e905e48ce6b9.jpg",
+    "static/media/pullDocker.jpg": "/glosariodeterminos/static/media/pullDocker.4602a50b297682798e04.jpg",
     "static/media/MathRandomJavaScript.jpg": "/glosariodeterminos/static/media/MathRandomJavaScript.78205b7a987aebc56536.jpg",
     "static/media/MetodosCuantitativos.jpg": "/glosariodeterminos/static/media/MetodosCuantitativos.ea6001bc79cba762e258.jpg",
     "static/media/submitFormScript.jpg": "/glosariodeterminos/static/media/submitFormScript.1105b6f58df7fd034bc0.jpg",
@@ -622,9 +624,11 @@
     "static/media/nanoLinux.txt": "/glosariodeterminos/static/media/nanoLinux.112151972be5158e4d9e.txt",
     "static/media/GetHelpPowerShellC.txt": "/glosariodeterminos/static/media/GetHelpPowerShellC.9fa4411173a9e156e79a.txt",
     "static/media/moreLinux.txt": "/glosariodeterminos/static/media/moreLinux.05d9a8bd2c0382958ca0.txt",
+    "static/media/searchDocker.txt": "/glosariodeterminos/static/media/searchDocker.a85f9473d00d78abd76f.txt",
     "static/media/PSVersionTablePowerShellC.txt": "/glosariodeterminos/static/media/PSVersionTablePowerShellC.96a1cd781403104db4ff.txt",
     "static/media/SELECTDATABASE.txt": "/glosariodeterminos/static/media/SELECTDATABASE.5e5f3d27628ae3259b48.txt",
     "static/media/locateLinux.txt": "/glosariodeterminos/static/media/locateLinux.e3eaec3a9d0829c1007d.txt",
+    "static/media/pullDocker.txt": "/glosariodeterminos/static/media/pullDocker.e2963e49eab706698270.txt",
     "static/media/GetCommandPowerShellC.txt": "/glosariodeterminos/static/media/GetCommandPowerShellC.e19a8ef436fe887ae52a.txt",
     "static/media/Generics2.txt": "/glosariodeterminos/static/media/Generics2.ec63d62f34f7eb38b904.txt",
     "static/media/GetMemberPowerShellC.txt": "/glosariodeterminos/static/media/GetMemberPowerShellC.ec63d62f34f7eb38b904.txt",
@@ -731,10 +735,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.204f0567.js.map": "/glosariodeterminos/static/js/main.204f0567.js.map"
+    "main.b61d2896.js.map": "/glosariodeterminos/static/js/main.b61d2896.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.204f0567.js"
+    "static/js/main.b61d2896.js"
   ]
 }
