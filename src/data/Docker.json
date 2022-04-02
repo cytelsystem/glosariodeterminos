@@ -75,26 +75,66 @@
         },
         {
             "id": 10,
-            "name": "docker search",
-            "detalle": "buscar imágenes y repositorios públicos desde Docker Hub",
-            "ejemplo1": "searchDocker.jpg",
-            "ejemplo2": "searchDocker.txt",
+            "name": "docker login",
+            "detalle": "iniciar sesión en Docker Hub mediante un comando",
+            "ejemplo1": "loginDocker.jpg",
+            "ejemplo2": "loginDocker.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 11,
             "name": "docker search",
-            "detalle": "buscar imágenes y repositorios públicos desde Docker Hub",
+            "detalle": "Buscar imágenes y repositorios públicos desde Docker Hub",
             "ejemplo1": "searchDocker.jpg",
             "ejemplo2": "searchDocker.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
             "id": 12,
-            "name": "docker search",
+            "name": "docker pull",
             "detalle": "Descargar imágenes de repositorios públicos Docker Hub",
             "ejemplo1": "pullDocker.jpg",
             "ejemplo2": "pullDocker.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Crear una imagen",
+            "detalle": "Docker lee las instrucciones de un Dockerfile y crea imágenes automáticamente.",
+            "ejemplo1": "createImagenDocker.jpg",
+            "ejemplo2": "createImagenDocker.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 14,
+            "name": "docker image ls",
+            "detalle": "Podemos verificar que la imagen está creada con la siguiente línea de código:",
+            "ejemplo1": "ImagelsDocker.jpg",
+            "ejemplo2": "ImagelsDocker.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 15,
+            "name": "docker push",
+            "detalle": "Subir imagenes a Docker Hub",
+            "ejemplo1": "pushDocker.jpg",
+            "ejemplo2": "pushDocker.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Imagen certificada por docker",
+            "detalle": "Una imagen solo puede ser certificada por Docker Hub si su contenido cumple con las reglas, estándares y leyes proporcionadas por Docker Hub.",
+            "ejemplo1": "imgCertificadaDocker.jpg",
+            "ejemplo2": "imgCertificadaDocker.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Imágenes populares en Docker Hub",
+            "detalle": "Hay muchas imágenes seleccionadas y optimizadas disponibles en Docker Hub. La popularidad de estas imágenes depende de varios factores, presencia en el mercado, calificaciones, puntajes de satisfacción, entre otros.",
+            "ejemplo1": "imgPopularesDocker.jpg",
+            "ejemplo2": "imgPopularesDocker.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         }
     ]
