@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.b61d2896.js",
+    "main.js": "/glosariodeterminos/static/js/main.697464fe.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -84,6 +84,7 @@
     "static/media/LayoutReactJS.jpg": "/glosariodeterminos/static/media/LayoutReactJS.504597ea005076d26751.jpg",
     "static/media/OffcanvasReact.jpg": "/glosariodeterminos/static/media/OffcanvasReact.9262925a26047e216d26.jpg",
     "static/media/tecnicasPrueba2.jpg": "/glosariodeterminos/static/media/tecnicasPrueba2.b129a981c463e03e28c2.jpg",
+    "static/media/createImagenDocker.jpg": "/glosariodeterminos/static/media/createImagenDocker.3a8744163986151edeb3.jpg",
     "static/media/classListAddRemoveToggleJavaScript.jpg": "/glosariodeterminos/static/media/classListAddRemoveToggleJavaScript.a5a7e177405fd0215757.jpg",
     "static/media/InicialializarProyecto.jpg": "/glosariodeterminos/static/media/InicialializarProyecto.c794c277b04ee7848060.jpg",
     "static/media/reduce.jpg": "/glosariodeterminos/static/media/reduce.d0ee7393a897ea04cff6.jpg",
@@ -164,6 +165,7 @@
     "static/media/EliminarElementosColeccion.jpg": "/glosariodeterminos/static/media/EliminarElementosColeccion.2999ad58430838b6c3f5.jpg",
     "static/media/inputJavaScript.jpg": "/glosariodeterminos/static/media/inputJavaScript.a2fa1cd896d1a528fc37.jpg",
     "static/media/listarServiciosLinux.jpg": "/glosariodeterminos/static/media/listarServiciosLinux.6b1ebded95c26dadb474.jpg",
+    "static/media/imgPopularesDocker.jpg": "/glosariodeterminos/static/media/imgPopularesDocker.94d81a0a217345785f42.jpg",
     "static/media/getElementByIdJavaScript.jpg": "/glosariodeterminos/static/media/getElementByIdJavaScript.442b3dc788a19f7b0732.jpg",
     "static/media/7principiostesting.jpg": "/glosariodeterminos/static/media/7principiostesting.f1a086fddbcf171cbf78.jpg",
     "static/media/createElementJavaScript.jpg": "/glosariodeterminos/static/media/createElementJavaScript.455e7b8cec9401c2af2d.jpg",
@@ -211,6 +213,7 @@
     "static/media/testing.jpg": "/glosariodeterminos/static/media/testing.e5b2845b2c38e9302fa3.jpg",
     "static/media/PageObjectModel.jpg": "/glosariodeterminos/static/media/PageObjectModel.4f75aafa4975c7398029.jpg",
     "static/media/Float.jpg": "/glosariodeterminos/static/media/Float.fbbbe237866f5767fac0.jpg",
+    "static/media/imgCertificadaDocker.jpg": "/glosariodeterminos/static/media/imgCertificadaDocker.70ad8aea638f4e511c0b.jpg",
     "static/media/ControlesDebuggear.jpg": "/glosariodeterminos/static/media/ControlesDebuggear.a5c1343b9d5ed567d9c3.jpg",
     "static/media/cowsayLinux.jpg": "/glosariodeterminos/static/media/cowsayLinux.6683e08e5de73d415a1b.jpg",
     "static/media/TiposDatosJava.jpg": "/glosariodeterminos/static/media/TiposDatosJava.5535ea773add67ca1d56.jpg",
@@ -238,6 +241,7 @@
     "static/media/INSERT.jpg": "/glosariodeterminos/static/media/INSERT.dbd9f959397722c4f40d.jpg",
     "static/media/UpdateHelpPowerShellC.jpg": "/glosariodeterminos/static/media/UpdateHelpPowerShellC.5b6487a3eeaa571f8dd1.jpg",
     "static/media/StyleJavaScript.jpg": "/glosariodeterminos/static/media/StyleJavaScript.941218b16e8d8c66f525.jpg",
+    "static/media/pushDocker.jpg": "/glosariodeterminos/static/media/pushDocker.f495e9ccad08754821e4.jpg",
     "static/media/parseFloat.jpg": "/glosariodeterminos/static/media/parseFloat.fde549c2a456e9047964.jpg",
     "static/media/AVG.jpg": "/glosariodeterminos/static/media/AVG.118b7c04dc92a9c834a7.jpg",
     "static/media/SUM.jpg": "/glosariodeterminos/static/media/SUM.118b7c04dc92a9c834a7.jpg",
@@ -348,6 +352,7 @@
     "static/media/trimJavaScript.jpg": "/glosariodeterminos/static/media/trimJavaScript.fd7b95b64be6ade02e87.jpg",
     "static/media/heardLinux.jpg": "/glosariodeterminos/static/media/heardLinux.f5828abb0f032fe8ed78.jpg",
     "static/media/charAt.jpg": "/glosariodeterminos/static/media/charAt.d5c7f84511a2ac94f853.jpg",
+    "static/media/loginDocker.jpg": "/glosariodeterminos/static/media/loginDocker.f9e0ccb3e020bc42e6c0.jpg",
     "static/media/manLinux.jpg": "/glosariodeterminos/static/media/manLinux.36634b139542258a0844.jpg",
     "static/media/SELECT.jpg": "/glosariodeterminos/static/media/SELECT.ab5911ec8db8c10f395b.jpg",
     "static/media/SelectJavaScript.jpg": "/glosariodeterminos/static/media/SelectJavaScript.01967e827fbc6e500cbb.jpg",
@@ -371,6 +376,7 @@
     "static/media/zipunzipLinux.jpg": "/glosariodeterminos/static/media/zipunzipLinux.2678c599c5615ee2497d.jpg",
     "static/media/toUpperCase.jpg": "/glosariodeterminos/static/media/toUpperCase.21533179f14e274bec0b.jpg",
     "static/media/hostnameLinux.jpg": "/glosariodeterminos/static/media/hostnameLinux.e79c386c5465a2592492.jpg",
+    "static/media/ImagelsDocker.jpg": "/glosariodeterminos/static/media/ImagelsDocker.0715469780e6d220ba7e.jpg",
     "static/media/MathRound.jpg": "/glosariodeterminos/static/media/MathRound.2190d480ef9478efa6cc.jpg",
     "static/media/wgetLinux.jpg": "/glosariodeterminos/static/media/wgetLinux.7df3218e75e8a839cd72.jpg",
     "static/media/ApiGetReactJS.txt": "/glosariodeterminos/static/media/ApiGetReactJS.6155b24d11a788cc67e9.txt",
@@ -455,6 +461,7 @@
     "static/media/Generics.txt": "/glosariodeterminos/static/media/Generics.19de7ebb95d8055ba57c.txt",
     "static/media/jqLinux.txt": "/glosariodeterminos/static/media/jqLinux.a61a96f0a64fd767e688.txt",
     "static/media/configuracionProyectoReact.txt": "/glosariodeterminos/static/media/configuracionProyectoReact.4266271ac9e163e82c96.txt",
+    "static/media/createImagenDocker.txt": "/glosariodeterminos/static/media/createImagenDocker.48ade9780658290267eb.txt",
     "static/media/definicion.txt": "/glosariodeterminos/static/media/definicion.8f0684d37982c29479a3.txt",
     "static/media/ideacion.txt": "/glosariodeterminos/static/media/ideacion.2d4a44d7e7786c02249f.txt",
     "static/media/InstalacionPowerShellC.txt": "/glosariodeterminos/static/media/InstalacionPowerShellC.0cf36cb4281bc3f4115c.txt",
@@ -622,6 +629,7 @@
     "static/media/equals.txt": "/glosariodeterminos/static/media/equals.4d4f4ec81319741e9d9f.txt",
     "static/media/SHOWCOLUMNS.txt": "/glosariodeterminos/static/media/SHOWCOLUMNS.7ccb32b7f699c131411e.txt",
     "static/media/nanoLinux.txt": "/glosariodeterminos/static/media/nanoLinux.112151972be5158e4d9e.txt",
+    "static/media/pushDocker.txt": "/glosariodeterminos/static/media/pushDocker.6499364907c48363d76e.txt",
     "static/media/GetHelpPowerShellC.txt": "/glosariodeterminos/static/media/GetHelpPowerShellC.9fa4411173a9e156e79a.txt",
     "static/media/moreLinux.txt": "/glosariodeterminos/static/media/moreLinux.05d9a8bd2c0382958ca0.txt",
     "static/media/searchDocker.txt": "/glosariodeterminos/static/media/searchDocker.a85f9473d00d78abd76f.txt",
@@ -630,8 +638,10 @@
     "static/media/locateLinux.txt": "/glosariodeterminos/static/media/locateLinux.e3eaec3a9d0829c1007d.txt",
     "static/media/pullDocker.txt": "/glosariodeterminos/static/media/pullDocker.e2963e49eab706698270.txt",
     "static/media/GetCommandPowerShellC.txt": "/glosariodeterminos/static/media/GetCommandPowerShellC.e19a8ef436fe887ae52a.txt",
+    "static/media/loginDocker.txt": "/glosariodeterminos/static/media/loginDocker.641ff90d081053ddd457.txt",
     "static/media/Generics2.txt": "/glosariodeterminos/static/media/Generics2.ec63d62f34f7eb38b904.txt",
     "static/media/GetMemberPowerShellC.txt": "/glosariodeterminos/static/media/GetMemberPowerShellC.ec63d62f34f7eb38b904.txt",
+    "static/media/ImagelsDocker.txt": "/glosariodeterminos/static/media/ImagelsDocker.31ff01cdc4c6a6f4cbe3.txt",
     "static/media/TablaConceptosPOPMica.txt": "/glosariodeterminos/static/media/TablaConceptosPOPMica.ec63d62f34f7eb38b904.txt",
     "static/media/UpdateHelpPowerShellC.txt": "/glosariodeterminos/static/media/UpdateHelpPowerShellC.80d404ec4c05b99d8675.txt",
     "static/media/AVG.txt": "/glosariodeterminos/static/media/AVG.7e5af7156bc83019e54b.txt",
@@ -647,6 +657,7 @@
     "static/media/SHOWTABLES.txt": "/glosariodeterminos/static/media/SHOWTABLES.2bc822687fc0416729a5.txt",
     "static/media/InstalacionMysql.txt": "/glosariodeterminos/static/media/InstalacionMysql.430756517c0691fd2afb.txt",
     "static/media/dfLinux.txt": "/glosariodeterminos/static/media/dfLinux.6283feb0df1f15689ade.txt",
+    "static/media/imgCertificadaDocker.txt": "/glosariodeterminos/static/media/imgCertificadaDocker.972b4ccedae2ee35cc0f.txt",
     "static/media/FrameworksUnit.txt": "/glosariodeterminos/static/media/FrameworksUnit.89312ccc70f1fe0ca2e1.txt",
     "static/media/7principiostesting.txt": "/glosariodeterminos/static/media/7principiostesting.31d6cfe0d16ae931b73c.txt",
     "static/media/AjaxJavaScript.txt": "/glosariodeterminos/static/media/AjaxJavaScript.31d6cfe0d16ae931b73c.txt",
@@ -723,6 +734,7 @@
     "static/media/casoPrueba.txt": "/glosariodeterminos/static/media/casoPrueba.31d6cfe0d16ae931b73c.txt",
     "static/media/codigosRespuestaPostman.txt": "/glosariodeterminos/static/media/codigosRespuestaPostman.31d6cfe0d16ae931b73c.txt",
     "static/media/concatJavaScript.txt": "/glosariodeterminos/static/media/concatJavaScript.31d6cfe0d16ae931b73c.txt",
+    "static/media/imgPopularesDocker.txt": "/glosariodeterminos/static/media/imgPopularesDocker.31d6cfe0d16ae931b73c.txt",
     "static/media/informetesting.txt": "/glosariodeterminos/static/media/informetesting.31d6cfe0d16ae931b73c.txt",
     "static/media/pruebasV.txt": "/glosariodeterminos/static/media/pruebasV.31d6cfe0d16ae931b73c.txt",
     "static/media/replaceAllJavaScript.txt": "/glosariodeterminos/static/media/replaceAllJavaScript.31d6cfe0d16ae931b73c.txt",
@@ -735,10 +747,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.b61d2896.js.map": "/glosariodeterminos/static/js/main.b61d2896.js.map"
+    "main.697464fe.js.map": "/glosariodeterminos/static/js/main.697464fe.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.b61d2896.js"
+    "static/js/main.697464fe.js"
   ]
 }
