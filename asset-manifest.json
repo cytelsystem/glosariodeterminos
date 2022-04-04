@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.697464fe.js",
+    "main.js": "/glosariodeterminos/static/js/main.6ad5d82a.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -46,6 +46,7 @@
     "static/media/PruebasUnitariasComponente.jpg": "/glosariodeterminos/static/media/PruebasUnitariasComponente.2efbe51332c3333a7df0.jpg",
     "static/media/Generics2.jpg": "/glosariodeterminos/static/media/Generics2.5cc2f613e4f3e790c0fd.jpg",
     "static/media/locationScript.jpg": "/glosariodeterminos/static/media/locationScript.893ddfaf504fb83033e4.jpg",
+    "static/media/ServerlessInfraestructura.jpg": "/glosariodeterminos/static/media/ServerlessInfraestructura.0c319f0386b3d3d366c9.jpg",
     "static/media/json.jpg": "/glosariodeterminos/static/media/json.4444003ee13fca9563ca.jpg",
     "static/media/ServPruebasApiReactJs.jpg": "/glosariodeterminos/static/media/ServPruebasApiReactJs.5df613e1b15e8ce9b7c8.jpg",
     "static/media/Generics.jpg": "/glosariodeterminos/static/media/Generics.faa6a67ebc133d743e39.jpg",
@@ -180,6 +181,7 @@
     "static/media/Date.jpg": "/glosariodeterminos/static/media/Date.892ae39743c139c0b384.jpg",
     "static/media/forOfJavaScript.jpg": "/glosariodeterminos/static/media/forOfJavaScript.b1d090a0858ea7eaaeab.jpg",
     "static/media/Integer.jpg": "/glosariodeterminos/static/media/Integer.e72feaefa6c429fd4989.jpg",
+    "static/media/NubeHibrida.pdf": "/glosariodeterminos/static/media/NubeHibrida.988ad53fb84919eaa632.pdf",
     "static/media/DockerWindows.pdf": "/glosariodeterminos/static/media/DockerWindows.43d7006ac0164ad9d948.pdf",
     "static/media/ArrayJava.jpg": "/glosariodeterminos/static/media/ArrayJava.becd146385f3fe497c23.jpg",
     "static/media/AjaxJavaScript.jpg": "/glosariodeterminos/static/media/AjaxJavaScript.a4ca967bf89a7c09abd8.jpg",
@@ -301,6 +303,7 @@
     "static/media/PatronDisenoObject.jpg": "/glosariodeterminos/static/media/PatronDisenoObject.8168f058aa318c439f17.jpg",
     "static/media/LEFT.jpg": "/glosariodeterminos/static/media/LEFT.7f979c0bf2aca5c16768.jpg",
     "static/media/onclickJavaScript.jpg": "/glosariodeterminos/static/media/onclickJavaScript.f2ffe0bef362cb88c156.jpg",
+    "static/media/containerRunDocker.jpg": "/glosariodeterminos/static/media/containerRunDocker.5bb90a2744d0ea513521.jpg",
     "static/media/NaNJavaScript.jpg": "/glosariodeterminos/static/media/NaNJavaScript.81388d0821c694035687.jpg",
     "static/media/DATEDIFF.jpg": "/glosariodeterminos/static/media/DATEDIFF.4d9093e286b3fb1be68d.jpg",
     "static/media/DELETE.jpg": "/glosariodeterminos/static/media/DELETE.84791eda75bfd6d2e625.jpg",
@@ -467,6 +470,7 @@
     "static/media/InstalacionPowerShellC.txt": "/glosariodeterminos/static/media/InstalacionPowerShellC.0cf36cb4281bc3f4115c.txt",
     "static/media/reduce.txt": "/glosariodeterminos/static/media/reduce.85704360f74bcd4ee928.txt",
     "static/media/MetodoMain.txt": "/glosariodeterminos/static/media/MetodoMain.39d31293a30f9c287ba5.txt",
+    "static/media/containerRunDocker.txt": "/glosariodeterminos/static/media/containerRunDocker.2ec1dafd73211bd8be2e.txt",
     "static/media/FocusFormScript.txt": "/glosariodeterminos/static/media/FocusFormScript.b4d4670039270b90ae36.txt",
     "static/media/CheckedScript.txt": "/glosariodeterminos/static/media/CheckedScript.3546cb095b9ac2cb9d60.txt",
     "static/media/EXTRACT.txt": "/glosariodeterminos/static/media/EXTRACT.6655166ef77020c0182a.txt",
@@ -697,6 +701,7 @@
     "static/media/MetodosCuantitativos.txt": "/glosariodeterminos/static/media/MetodosCuantitativos.31d6cfe0d16ae931b73c.txt",
     "static/media/MindsetDesignThinking.txt": "/glosariodeterminos/static/media/MindsetDesignThinking.31d6cfe0d16ae931b73c.txt",
     "static/media/ModelosDesingThinking.txt": "/glosariodeterminos/static/media/ModelosDesingThinking.31d6cfe0d16ae931b73c.txt",
+    "static/media/NubeHibrida.txt": "/glosariodeterminos/static/media/NubeHibrida.31d6cfe0d16ae931b73c.txt",
     "static/media/OPERADORES.txt": "/glosariodeterminos/static/media/OPERADORES.31d6cfe0d16ae931b73c.txt",
     "static/media/PageObjectModel.txt": "/glosariodeterminos/static/media/PageObjectModel.31d6cfe0d16ae931b73c.txt",
     "static/media/PatronComposite.txt": "/glosariodeterminos/static/media/PatronComposite.31d6cfe0d16ae931b73c.txt",
@@ -717,6 +722,7 @@
     "static/media/RunnerPostman.txt": "/glosariodeterminos/static/media/RunnerPostman.31d6cfe0d16ae931b73c.txt",
     "static/media/Selenium.txt": "/glosariodeterminos/static/media/Selenium.31d6cfe0d16ae931b73c.txt",
     "static/media/SeleniumWebDriver.txt": "/glosariodeterminos/static/media/SeleniumWebDriver.31d6cfe0d16ae931b73c.txt",
+    "static/media/ServerlessInfraestructura.txt": "/glosariodeterminos/static/media/ServerlessInfraestructura.31d6cfe0d16ae931b73c.txt",
     "static/media/SobreCarga.txt": "/glosariodeterminos/static/media/SobreCarga.31d6cfe0d16ae931b73c.txt",
     "static/media/SobreEscritura.txt": "/glosariodeterminos/static/media/SobreEscritura.31d6cfe0d16ae931b73c.txt",
     "static/media/TablaDecision.txt": "/glosariodeterminos/static/media/TablaDecision.31d6cfe0d16ae931b73c.txt",
@@ -747,10 +753,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.697464fe.js.map": "/glosariodeterminos/static/js/main.697464fe.js.map"
+    "main.6ad5d82a.js.map": "/glosariodeterminos/static/js/main.6ad5d82a.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.697464fe.js"
+    "static/js/main.6ad5d82a.js"
   ]
 }
