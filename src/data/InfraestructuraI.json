@@ -91,6 +91,78 @@
             "ejemplo2": "NubeHibrida.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 11,
+            "name": "VPN",
+            "detalle": "La nube híbrida es una arquitectura de IT que incorpora cierto grado de gestión, organización y portabilidad de las cargas de trabajo en dos o más entornos.",
+            "ejemplo1": "VPNInfraestruturaI.jpg",
+            "ejemplo2": "VPNInfraestruturaI.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 12,
+            "name": "IaaS (infraestructura como servicio)",
+            "detalle": "El proveedor nos da la posibilidad de instanciar máquinas virtuales en su centro de cómputos sin que nosotros tengamos la necesidad de administrar la infraestructura subyacente.",
+            "ejemplo1": "IaaSInfraestruturaI.jpg",
+            "ejemplo2": "IaaSInfraestruturaI.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 13,
+            "name": "PaaS (Plataforma como servicio)",
+            "detalle": "El proveedor nos ofrece una tecnología específica, expuesta por medio de interfaces definidas, ya sean gráficas o APIs, y nos abstrae de toda la gestión de los recursos subyacentes.",
+            "ejemplo1": "PaaSInfraestruturaI.jpg",
+            "ejemplo2": "PaaSInfraestruturaI.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 14,
+            "name": "SaaS (Software como servicio)",
+            "detalle": "El proveedor nos ofrece una aplicación.",
+            "ejemplo1": "SaaSInfraestruturaI.jpg",
+            "ejemplo2": "SaaSInfraestruturaI.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 15,
+            "name": "Máquinas virtuales en la nube",
+            "detalle": "servicio para crear una máquina virtual en la nube, que podría actuar como servidor y a la cual solo tendrías que subir tus bases de datos y programas usados para operar tus negocios.",
+            "ejemplo1": "MaquinasVirtualesNubeInfraestruturaI.jpg",
+            "ejemplo2": "MaquinasVirtualesNubeInfraestruturaI.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 16,
+            "name": "Amazon EC2 (Amazon Elastic Compute Cloud)",
+            "detalle": "Es un servicio web que proporciona capacidad informática segura y de tamaño modificable en la nube.",
+            "ejemplo1": "AmazonEC2InfraestruturaI.jpg",
+            "ejemplo2": "AmazonEC2InfraestruturaI.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 17,
+            "name": "Microsoft Azure",
+            "detalle": "Es un servicio web que proporciona capacidad informática segura y de tamaño modificable en la nube.",
+            "ejemplo1": "MicrosoftAzureInfraestruturaI.jpg",
+            "ejemplo2": "MicrosoftAzureInfraestruturaI.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 18,
+            "name": "Microsoft Azure",
+            "detalle": "Es un servicio web que proporciona capacidad informática segura y de tamaño modificable en la nube.",
+            "ejemplo1": "MicrosoftAzureInfraestruturaI.jpg",
+            "ejemplo2": "MicrosoftAzureInfraestruturaI.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
     ]
