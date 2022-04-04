@@ -73,6 +73,24 @@
             "ejemplo2": "InstalacionMaquinavirtuallinuxvagrant.txt",
             "ejemplo3": "InstalacionMaquinavirtuallinuxvagrant.jpg"
 
+        },
+        {
+            "id": 9,
+            "name": "Serverless (Informatica sin servidor)",
+            "detalle": "Automatizar la instalacion de servidor linux con vagrant",
+            "ejemplo1": "ServerlessInfraestructura.jpg",
+            "ejemplo2": "ServerlessInfraestructura.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 10,
+            "name": "Nube híbrida",
+            "detalle": "La nube híbrida es una arquitectura de IT que incorpora cierto grado de gestión, organización y portabilidad de las cargas de trabajo en dos o más entornos.",
+            "ejemplo1": "NubeHibrida.pdf",
+            "ejemplo2": "NubeHibrida.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
     ]

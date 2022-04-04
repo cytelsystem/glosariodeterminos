@@ -1,0 +1,18 @@
+
+//*******************************************************************************************//
+
+Tip: Esto es lo que realizó nuestro comando:
+● docker container run: Le estamos diciendo al Daemon que ejecute un
+contenedor.
+● -d ó --detach: Ejecuta nuestro container en segundo plano.
+● --name: Le damos un nombre al container, de lo contrario le asignará un
+nombre aleatorio.
+● -p ó --publish: Mapea los puertos del host al puerto del container.
+● davidpigna/spaghettidocker: Es la dirección en la cual se encuentra este
+container en Docker Hub (Registry).
+
+//*******************************************************************************************//
+
+docker container run -d --name spaghettidocker -p 80:80 davidpigna/spaghettidocker
+
+//*******************************************************************************************//

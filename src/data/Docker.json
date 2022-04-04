@@ -136,6 +136,14 @@
             "ejemplo1": "imgPopularesDocker.jpg",
             "ejemplo2": "imgPopularesDocker.txt",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 18,
+            "name": "docker container run",
+            "detalle": "Le estamos diciendo al Daemon que ejecute un contenedor.",
+            "ejemplo1": "containerRunDocker.jpg",
+            "ejemplo2": "containerRunDocker.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
     ]
 }
