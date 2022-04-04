@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.8d9b78b2.js",
+    "main.js": "/glosariodeterminos/static/js/main.e90d15e4.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -106,6 +106,7 @@
     "static/media/TiposFuncionesJavaScript.jpg": "/glosariodeterminos/static/media/TiposFuncionesJavaScript.59cd8684c8f97f39702c.jpg",
     "static/media/MaquinasVirtualesNubeInfraestruturaI.pdf": "/glosariodeterminos/static/media/MaquinasVirtualesNubeInfraestruturaI.175d6477596067bf92b9.pdf",
     "static/media/PruebasDinamicas.jpg": "/glosariodeterminos/static/media/PruebasDinamicas.2ca6d346bd10c09679f2.jpg",
+    "static/media/GoogleCloudInfraestruturaI.jpg": "/glosariodeterminos/static/media/GoogleCloudInfraestruturaI.55e2ef55c521dd7a27de.jpg",
     "static/media/hashCode.jpg": "/glosariodeterminos/static/media/hashCode.6142a609d50d4605cae7.jpg",
     "static/media/1.jpg": "/glosariodeterminos/static/media/1.1578c5400d39df44efdd.jpg",
     "static/media/appendChildJavaScript.jpg": "/glosariodeterminos/static/media/appendChildJavaScript.ad3512e93ae89715c904.jpg",
@@ -698,6 +699,7 @@
     "static/media/EnviarDatosPOSTReactJs.txt": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.31d6cfe0d16ae931b73c.txt",
     "static/media/FacesDesignthinking.txt": "/glosariodeterminos/static/media/FacesDesignthinking.31d6cfe0d16ae931b73c.txt",
     "static/media/GetTesting.txt": "/glosariodeterminos/static/media/GetTesting.31d6cfe0d16ae931b73c.txt",
+    "static/media/GoogleCloudInfraestruturaI.txt": "/glosariodeterminos/static/media/GoogleCloudInfraestruturaI.31d6cfe0d16ae931b73c.txt",
     "static/media/Happypathtesting.txt": "/glosariodeterminos/static/media/Happypathtesting.31d6cfe0d16ae931b73c.txt",
     "static/media/HerenciaJava.txt": "/glosariodeterminos/static/media/HerenciaJava.31d6cfe0d16ae931b73c.txt",
     "static/media/IaaSInfraestruturaI.txt": "/glosariodeterminos/static/media/IaaSInfraestruturaI.31d6cfe0d16ae931b73c.txt",
@@ -768,10 +770,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.8d9b78b2.js.map": "/glosariodeterminos/static/js/main.8d9b78b2.js.map"
+    "main.e90d15e4.js.map": "/glosariodeterminos/static/js/main.e90d15e4.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.8d9b78b2.js"
+    "static/js/main.e90d15e4.js"
   ]
 }
