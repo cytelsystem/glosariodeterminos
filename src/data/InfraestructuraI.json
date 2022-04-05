@@ -157,15 +157,6 @@
         },
         {
             "id": 18,
-            "name": "Microsoft Azure",
-            "detalle": "Es un servicio web que proporciona capacidad informática segura y de tamaño modificable en la nube.",
-            "ejemplo1": "MicrosoftAzureInfraestruturaI.jpg",
-            "ejemplo2": "MicrosoftAzureInfraestruturaI.txt",
-            "ejemplo3": "NoHayInformacion.jpg"
-
-        },
-        {
-            "id": 19,
             "name": "Google Cloud",
             "detalle": "Es un conjunto de servicios de computación en la nube que se ejecuta en la misma infraestructura que Google usa internamente para sus productos para usuarios finales",
             "ejemplo1": "GoogleCloudInfraestruturaI.jpg",
