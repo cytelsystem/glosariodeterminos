@@ -647,6 +647,14 @@
             "ejemplo1": "TryCatchFinallyScript.jpg",
             "ejemplo2": "TryCatchFinallyScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 72,
+            "name": "fetch (AJAX Fetch - Post)",
+            "detalle": "Envio de informacion a una api por POST",
+            "ejemplo1": "fetchPostScript.jpg",
+            "ejemplo2": "fetchPostScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
 
     ]
