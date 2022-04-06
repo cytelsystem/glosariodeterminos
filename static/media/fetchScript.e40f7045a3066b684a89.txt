@@ -2,7 +2,7 @@
 //**************************************Link********************************************//
 https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch
 https://lenguajejs.com/javascript/peticiones-http/fetch/
-
+https://apis.datos.gob.ar/georef/api/provincias   //** consultar api
 
 //**************************************index.html********************************************//
 
