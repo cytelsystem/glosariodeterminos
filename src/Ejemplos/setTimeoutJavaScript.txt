@@ -1,0 +1,36 @@
+//*********************************Ejemplo 1****************************************//
+
+window.onload = function() {
+
+  setTimeout(function() {
+
+    alert("prueba")
+
+  }, 15000)
+
+}
+
+//*********************************Ejemplo 2*****************************************//
+
+window.onload = function() {
+
+  setTimeout(() => {
+
+    alert("Prueba Arro")
+
+  }, 15000)
+
+}
+//********************************Ejemplo 3****************************************//
+
+const myTimeout = setTimeout(myGreeting, 5000);
+
+function myGreeting() {
+  document.getElementById("demo").innerHTML = "Happy Birthday!"
+}
+
+function myStopFunction() {
+  clearTimeout(myTimeout);
+}
+
+//**************************************************************************************//

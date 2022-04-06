@@ -633,7 +633,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 71,
+            "id": 72,
             "name": "fetch (AJAX Fetch - Get)",
             "detalle": "API para Javascript con la cuál podemos realizar peticiones HTTP asíncronas utilizando promesas y de forma que el código sea un poco más sencillo y menos verbose.",
             "ejemplo1": "fetchScript.jpg",
@@ -641,21 +641,22 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 72,
-            "name": "Manejo Errores con (Try, Catch y Finally)",
-            "detalle": "Los errores que se producen en un programa pueden ocurrir debido a nuestros descuidos, una entrada inesperada del usuario, una respuesta errónea del servidor,",
-            "ejemplo1": "TryCatchFinallyScript.jpg",
-            "ejemplo2": "TryCatchFinallyScript.txt",
-            "ejemplo3": "NoHayInformacion.jpg"
-        },
-        {
-            "id": 72,
+            "id": 73,
             "name": "fetch (AJAX Fetch - Post)",
             "detalle": "Envio de informacion a una api por POST",
             "ejemplo1": "fetchPostScript.jpg",
             "ejemplo2": "fetchPostScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 74,
+            "name": "Manejo Errores con (Try, Catch y Finally)",
+            "detalle": "Los errores que se producen en un programa pueden ocurrir debido a nuestros descuidos, una entrada inesperada del usuario, una respuesta errónea del servidor,",
+            "ejemplo1": "TryCatchFinallyScript.jpg",
+            "ejemplo2": "TryCatchFinallyScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
+
 
     ]
 }

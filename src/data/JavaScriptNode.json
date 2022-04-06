@@ -394,6 +394,14 @@
             "ejemplo1": "findIndex.jpg",
             "ejemplo2": "findIndex.txt",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 50,
+            "name": "setTimeout",
+            "detalle": "Temporizador para ejecutar deteminada funcion o codigo dependiendo de los milisegundos dados",
+            "ejemplo1": "setTimeoutJavaScript.jpg",
+            "ejemplo2": "setTimeoutJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
 
 
