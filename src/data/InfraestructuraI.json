@@ -163,6 +163,15 @@
             "ejemplo2": "GoogleCloudInfraestruturaI.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 19,
+            "name": "AWS (Amazon Web Services)",
+            "detalle": "Acceso a la nube de Amazon Web Services",
+            "ejemplo1": "AWSEducateInfraestructuraI.pdf",
+            "ejemplo2": "AWSEducateInfraestructuraI.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
     ]
