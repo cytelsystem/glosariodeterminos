@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.9e60798c.js",
+    "main.js": "/glosariodeterminos/static/js/main.6658271f.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -99,6 +99,7 @@
     "static/media/Scanner.jpg": "/glosariodeterminos/static/media/Scanner.6cd65eb37646a4caa2d4.jpg",
     "static/media/EncapsulamientoJava.jpg": "/glosariodeterminos/static/media/EncapsulamientoJava.b3d68144160f63ad8b65.jpg",
     "static/media/toString.jpg": "/glosariodeterminos/static/media/toString.133ebef4978d103a23fb.jpg",
+    "static/media/AWSEducateInfraestructuraI.pdf": "/glosariodeterminos/static/media/AWSEducateInfraestructuraI.9bbb81b298649eb314ca.pdf",
     "static/media/CrearColeccion.jpg": "/glosariodeterminos/static/media/CrearColeccion.b4a26b8d1a5a52ffaff8.jpg",
     "static/media/RecorrerColecciones.jpg": "/glosariodeterminos/static/media/RecorrerColecciones.dc702096250abceaddae.jpg",
     "static/media/objetoLiteral.jpg": "/glosariodeterminos/static/media/objetoLiteral.8bd33803263826fb497d.jpg",
@@ -681,6 +682,7 @@
     "static/media/imgCertificadaDocker.txt": "/glosariodeterminos/static/media/imgCertificadaDocker.972b4ccedae2ee35cc0f.txt",
     "static/media/FrameworksUnit.txt": "/glosariodeterminos/static/media/FrameworksUnit.89312ccc70f1fe0ca2e1.txt",
     "static/media/7principiostesting.txt": "/glosariodeterminos/static/media/7principiostesting.31d6cfe0d16ae931b73c.txt",
+    "static/media/AWSEducateInfraestructuraI.txt": "/glosariodeterminos/static/media/AWSEducateInfraestructuraI.31d6cfe0d16ae931b73c.txt",
     "static/media/AjaxJavaScript.txt": "/glosariodeterminos/static/media/AjaxJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/AjaxRequestResponseJavaScript.txt": "/glosariodeterminos/static/media/AjaxRequestResponseJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/AmazonEC2InfraestruturaI.txt": "/glosariodeterminos/static/media/AmazonEC2InfraestruturaI.31d6cfe0d16ae931b73c.txt",
@@ -778,10 +780,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.9e60798c.js.map": "/glosariodeterminos/static/js/main.9e60798c.js.map"
+    "main.6658271f.js.map": "/glosariodeterminos/static/js/main.6658271f.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.9e60798c.js"
+    "static/js/main.6658271f.js"
   ]
 }
