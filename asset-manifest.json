@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.3de5c1e8.js",
+    "main.js": "/glosariodeterminos/static/js/main.56d9163d.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -193,6 +193,7 @@
     "static/media/NubeHibrida.pdf": "/glosariodeterminos/static/media/NubeHibrida.988ad53fb84919eaa632.pdf",
     "static/media/DockerWindows.pdf": "/glosariodeterminos/static/media/DockerWindows.43d7006ac0164ad9d948.pdf",
     "static/media/ArrayJava.jpg": "/glosariodeterminos/static/media/ArrayJava.becd146385f3fe497c23.jpg",
+    "static/media/fetchPostScript.jpg": "/glosariodeterminos/static/media/fetchPostScript.95b00dd35b822ae6f734.jpg",
     "static/media/AjaxJavaScript.jpg": "/glosariodeterminos/static/media/AjaxJavaScript.a4ca967bf89a7c09abd8.jpg",
     "static/media/SobreEscritura.jpg": "/glosariodeterminos/static/media/SobreEscritura.f6f365de389bb98a8352.jpg",
     "static/media/GetCommandPowerShellC.jpg": "/glosariodeterminos/static/media/GetCommandPowerShellC.d5f8dd2ed11be05ca34f.jpg",
@@ -451,6 +452,7 @@
     "static/media/FormObtenerDatosJavaScript.txt": "/glosariodeterminos/static/media/FormObtenerDatosJavaScript.f126d7614cff08e1fe92.txt",
     "static/media/querySelectorAllJavaScript.txt": "/glosariodeterminos/static/media/querySelectorAllJavaScript.dc3470b4b891f10dfd44.txt",
     "static/media/addEventListenerJavaScript.txt": "/glosariodeterminos/static/media/addEventListenerJavaScript.aaef37c633ee9c8f3981.txt",
+    "static/media/fetchPostScript.txt": "/glosariodeterminos/static/media/fetchPostScript.d5921865982c0cc2ae5c.txt",
     "static/media/array.txt": "/glosariodeterminos/static/media/array.6af7a16d45e229173a34.txt",
     "static/media/Scanner.txt": "/glosariodeterminos/static/media/Scanner.0509be9e106473c04caa.txt",
     "static/media/changeFormScript.txt": "/glosariodeterminos/static/media/changeFormScript.01b6e0552546da975603.txt",
@@ -774,10 +776,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.3de5c1e8.js.map": "/glosariodeterminos/static/js/main.3de5c1e8.js.map"
+    "main.56d9163d.js.map": "/glosariodeterminos/static/js/main.56d9163d.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.3de5c1e8.js"
+    "static/js/main.56d9163d.js"
   ]
 }
