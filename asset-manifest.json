@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.fa642161.js",
+    "main.js": "/glosariodeterminos/static/js/main.3de5c1e8.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -119,6 +119,7 @@
     "static/media/informetesting.jpg": "/glosariodeterminos/static/media/informetesting.9e46a697a80f61e31c4a.jpg",
     "static/media/ParticionEquivalencia.jpg": "/glosariodeterminos/static/media/ParticionEquivalencia.57fc7592e5d16eef29d0.jpg",
     "static/media/installBootstrapReactJS.jpg": "/glosariodeterminos/static/media/installBootstrapReactJS.9b0ed677e419c6466777.jpg",
+    "static/media/TryCatchFinallyScript.jpg": "/glosariodeterminos/static/media/TryCatchFinallyScript.a5d785fb3646df5a8836.jpg",
     "static/media/SobreCarga.jpg": "/glosariodeterminos/static/media/SobreCarga.002b1b3bbc65f6cfe1b2.jpg",
     "static/media/PilaresDesignThinking.jpg": "/glosariodeterminos/static/media/PilaresDesignThinking.85b8e45fc95cc2aef210.jpg",
     "static/media/empatia.jpg": "/glosariodeterminos/static/media/empatia.db0bbc12e7ff4cca6205.jpg",
@@ -134,6 +135,7 @@
     "static/media/require.jpg": "/glosariodeterminos/static/media/require.28bee5fbf529e3eb871f.jpg",
     "static/media/innerHTMLJavaScript.jpg": "/glosariodeterminos/static/media/innerHTMLJavaScript.a1771aa58a104b270322.jpg",
     "static/media/localStorageSessionStoragejavaScript.jpg": "/glosariodeterminos/static/media/localStorageSessionStoragejavaScript.5eeda95626e57fd9dc45.jpg",
+    "static/media/fetchScript.jpg": "/glosariodeterminos/static/media/fetchScript.d2ee8fef63963ff92077.jpg",
     "static/media/installSeleniumWebDriver.jpg": "/glosariodeterminos/static/media/installSeleniumWebDriver.4cb8b64acb38abca424e.jpg",
     "static/media/useraddUserdellLinux.jpg": "/glosariodeterminos/static/media/useraddUserdellLinux.55b2ae3e63e2e84024eb.jpg",
     "static/media/find.jpg": "/glosariodeterminos/static/media/find.39eefbea6126ae270f9b.jpg",
@@ -423,6 +425,8 @@
     "static/media/ErrorDefectoFallo.txt": "/glosariodeterminos/static/media/ErrorDefectoFallo.026093b4ecfc6e08c307.txt",
     "static/media/sort.txt": "/glosariodeterminos/static/media/sort.aa97705bb74edafd2c40.txt",
     "static/media/equalsObject.txt": "/glosariodeterminos/static/media/equalsObject.ea939f70b277e84123b4.txt",
+    "static/media/fetchScript.txt": "/glosariodeterminos/static/media/fetchScript.0ce03499544f96132093.txt",
+    "static/media/TryCatchFinallyScript.txt": "/glosariodeterminos/static/media/TryCatchFinallyScript.42ca91bf1cbcbdbc1548.txt",
     "static/media/json.txt": "/glosariodeterminos/static/media/json.7b38cc60ca329a229357.txt",
     "static/media/PROCEDURE.txt": "/glosariodeterminos/static/media/PROCEDURE.306f7591cdf36cc93d4f.txt",
     "static/media/ListaDeComponentesReactJS.txt": "/glosariodeterminos/static/media/ListaDeComponentesReactJS.02fb6e889d2c07efae7c.txt",
@@ -770,10 +774,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.fa642161.js.map": "/glosariodeterminos/static/js/main.fa642161.js.map"
+    "main.3de5c1e8.js.map": "/glosariodeterminos/static/js/main.3de5c1e8.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.fa642161.js"
+    "static/js/main.3de5c1e8.js"
   ]
 }
