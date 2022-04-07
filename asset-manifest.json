@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.6658271f.js",
+    "main.js": "/glosariodeterminos/static/js/main.a24e0d63.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -465,6 +465,7 @@
     "static/media/InstalacionHashMd5.txt": "/glosariodeterminos/static/media/InstalacionHashMd5.f1cc732204ad3391910e.txt",
     "static/media/forLinux.txt": "/glosariodeterminos/static/media/forLinux.dcbf365b541a4cae755f.txt",
     "static/media/prototipo.txt": "/glosariodeterminos/static/media/prototipo.8b6d67e36dddd8194ae7.txt",
+    "static/media/StyleJavaScript.txt": "/glosariodeterminos/static/media/StyleJavaScript.5500915f7351a9b077f5.txt",
     "static/media/ALTERTABLE.txt": "/glosariodeterminos/static/media/ALTERTABLE.b1916fae436e21a5e94e.txt",
     "static/media/InstalacionMaquinavirtuallinuxvagrant.txt": "/glosariodeterminos/static/media/InstalacionMaquinavirtuallinuxvagrant.9696b799d1aded44797e.txt",
     "static/media/find.txt": "/glosariodeterminos/static/media/find.74fffd6c2b764ee6aacb.txt",
@@ -501,7 +502,6 @@
     "static/media/shufLinux.txt": "/glosariodeterminos/static/media/shufLinux.8f9c0edbfd80e39f57ea.txt",
     "static/media/ComparacionesNACLinux.txt": "/glosariodeterminos/static/media/ComparacionesNACLinux.abe4bc806e668baa673d.txt",
     "static/media/mouseoutJavaScript.txt": "/glosariodeterminos/static/media/mouseoutJavaScript.a498150dc771a2f3c364.txt",
-    "static/media/StyleJavaScript.txt": "/glosariodeterminos/static/media/StyleJavaScript.17154e71d2f14bda8185.txt",
     "static/media/IfPowerShellC.txt": "/glosariodeterminos/static/media/IfPowerShellC.5b4ec8e7ab70be6c075f.txt",
     "static/media/TestearEvaluar.txt": "/glosariodeterminos/static/media/TestearEvaluar.ac0a0a810d78f6f947ad.txt",
     "static/media/setTimeoutJavaScript.txt": "/glosariodeterminos/static/media/setTimeoutJavaScript.184ad09e81220d9942ba.txt",
@@ -780,10 +780,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.6658271f.js.map": "/glosariodeterminos/static/js/main.6658271f.js.map"
+    "main.a24e0d63.js.map": "/glosariodeterminos/static/js/main.a24e0d63.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.6658271f.js"
+    "static/js/main.a24e0d63.js"
   ]
 }
