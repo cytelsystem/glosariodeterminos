@@ -655,6 +655,14 @@
             "ejemplo1": "TryCatchFinallyScript.jpg",
             "ejemplo2": "TryCatchFinallyScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 75,
+            "name": "Buenas prácticas (Principios)",
+            "detalle": "Principio de responsabilidad única, Keep it simple Stupid! (KisS), Don’t repeat yourself (DRY)",
+            "ejemplo1": "BuenasPracticasPrincipiosScript.jpg",
+            "ejemplo2": "BuenasPracticasPrincipiosScript.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
 
 
