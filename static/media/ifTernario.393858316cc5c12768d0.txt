@@ -1,2 +1,0 @@
-let valor = 10<5? "si se cumple": "No se cumple"
-console.log(valor)

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.a24e0d63.js",
+    "main.js": "/glosariodeterminos/static/js/main.8f23fe2c.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -36,6 +36,7 @@
     "static/media/equalsObject.jpg": "/glosariodeterminos/static/media/equalsObject.30e1cf5a1d435ca4b56b.jpg",
     "static/media/casoPrueba.jpg": "/glosariodeterminos/static/media/casoPrueba.7a33c1e9ac754d2cf0b3.jpg",
     "static/media/InstalacionPowerShellC.jpg": "/glosariodeterminos/static/media/InstalacionPowerShellC.d37765b5f40b85a06742.jpg",
+    "static/media/BuenasPracticasPrincipiosScript.jpg": "/glosariodeterminos/static/media/BuenasPracticasPrincipiosScript.df0aa201beecf357ba5f.jpg",
     "static/media/PatronComposite2.jpg": "/glosariodeterminos/static/media/PatronComposite2.bf852cc7cdbedcc6f7fe.jpg",
     "static/media/ColeccionesPOP.jpg": "/glosariodeterminos/static/media/ColeccionesPOP.a086b6270991b5dc686d.jpg",
     "static/media/ifLinux.jpg": "/glosariodeterminos/static/media/ifLinux.59d1936a876c9d6c3d8d.jpg",
@@ -184,6 +185,7 @@
     "static/media/writeFileSync.jpg": "/glosariodeterminos/static/media/writeFileSync.7e544e78dc8e84d6adcc.jpg",
     "static/media/TablaDecision.jpg": "/glosariodeterminos/static/media/TablaDecision.3e307a1250ff5e67f62c.jpg",
     "static/media/TransicionEstado.jpg": "/glosariodeterminos/static/media/TransicionEstado.df86eb90d37dd3396b38.jpg",
+    "static/media/BuenasPracticasPrincipiosScript.pdf": "/glosariodeterminos/static/media/BuenasPracticasPrincipiosScript.9b8346cda26818a2f678.pdf",
     "static/media/SeleniumWebDriver.jpg": "/glosariodeterminos/static/media/SeleniumWebDriver.188e9b06d7f0607fb31b.jpg",
     "static/media/querySelectorAllJavaScript.jpg": "/glosariodeterminos/static/media/querySelectorAllJavaScript.1c7a50716f545b854c6f.jpg",
     "static/media/Iterator.jpg": "/glosariodeterminos/static/media/Iterator.6c7273e42886b2d84b3f.jpg",
@@ -238,6 +240,7 @@
     "static/media/teeLinux.jpg": "/glosariodeterminos/static/media/teeLinux.de0298195272411dce90.jpg",
     "static/media/TiposPruebasPostman.jpg": "/glosariodeterminos/static/media/TiposPruebasPostman.72214da93abb95875d4d.jpg",
     "static/media/MiddlewareInfraestructura.jpg": "/glosariodeterminos/static/media/MiddlewareInfraestructura.49c245900912f813a443.jpg",
+    "static/media/ifTernario.jpg": "/glosariodeterminos/static/media/ifTernario.1e857af13005ca6d0773.jpg",
     "static/media/HAVING.jpg": "/glosariodeterminos/static/media/HAVING.8ada174c9137eb602e69.jpg",
     "static/media/MathJavaScript.jpg": "/glosariodeterminos/static/media/MathJavaScript.7e0b651eed18018d3747.jpg",
     "static/media/DockerCompose.jpg": "/glosariodeterminos/static/media/DockerCompose.5be94e47d0198402704c.jpg",
@@ -331,7 +334,6 @@
     "static/media/toLowerCaseJavaScript.jpg": "/glosariodeterminos/static/media/toLowerCaseJavaScript.1c8df4a91feada2463a5.jpg",
     "static/media/LOCATE.jpg": "/glosariodeterminos/static/media/LOCATE.45406c60948c6498bf75.jpg",
     "static/media/for.jpg": "/glosariodeterminos/static/media/for.38f46c506d8e61279fca.jpg",
-    "static/media/ifTernario.jpg": "/glosariodeterminos/static/media/ifTernario.046677135383f544fad8.jpg",
     "static/media/SystemOutPrintln.jpg": "/glosariodeterminos/static/media/SystemOutPrintln.72c543ebbe3707846feb.jpg",
     "static/media/REPLACE_MYSQL.jpg": "/glosariodeterminos/static/media/REPLACE_MYSQL.662f7c84becd995b37c0.jpg",
     "static/media/DATE_ADD.jpg": "/glosariodeterminos/static/media/DATE_ADD.2d8f699d2743f98afab7.jpg",
@@ -451,6 +453,7 @@
     "static/media/toUpperCase.txt": "/glosariodeterminos/static/media/toUpperCase.69a094393e7e4d3416a0.txt",
     "static/media/submitFormScript.txt": "/glosariodeterminos/static/media/submitFormScript.a702a515c1a6ae3d3dc1.txt",
     "static/media/InstalacionReactJs.txt": "/glosariodeterminos/static/media/InstalacionReactJs.275007dbe0c49e5f9ba0.txt",
+    "static/media/Ejemplos.lnk": "/glosariodeterminos/static/media/Ejemplos.9eb5c340969c59661ea6.lnk",
     "static/media/FormObtenerDatosJavaScript.txt": "/glosariodeterminos/static/media/FormObtenerDatosJavaScript.f126d7614cff08e1fe92.txt",
     "static/media/querySelectorAllJavaScript.txt": "/glosariodeterminos/static/media/querySelectorAllJavaScript.dc3470b4b891f10dfd44.txt",
     "static/media/addEventListenerJavaScript.txt": "/glosariodeterminos/static/media/addEventListenerJavaScript.aaef37c633ee9c8f3981.txt",
@@ -539,6 +542,7 @@
     "static/media/Float.txt": "/glosariodeterminos/static/media/Float.909d843ff69c8cfb9c3e.txt",
     "static/media/ObtenerElementosColeccion.txt": "/glosariodeterminos/static/media/ObtenerElementosColeccion.905704d9d5a6264db2d9.txt",
     "static/media/MiddlewareInfraestructura.txt": "/glosariodeterminos/static/media/MiddlewareInfraestructura.04f13d30f2a135c4b4c9.txt",
+    "static/media/ifTernario.txt": "/glosariodeterminos/static/media/ifTernario.aaad4e02c03ac08b2e18.txt",
     "static/media/RecorrerColecciones.txt": "/glosariodeterminos/static/media/RecorrerColecciones.1c5d4b10f86943135244.txt",
     "static/media/DATEDIFF.txt": "/glosariodeterminos/static/media/DATEDIFF.c5de8e6e109569390732.txt",
     "static/media/objetoLiteral.txt": "/glosariodeterminos/static/media/objetoLiteral.010c475f0923bbc5aa25.txt",
@@ -639,7 +643,6 @@
     "static/media/BETWEEN.txt": "/glosariodeterminos/static/media/BETWEEN.235a6bcdb29c80b7774e.txt",
     "static/media/forEachJava.txt": "/glosariodeterminos/static/media/forEachJava.84a7336de93071a5a3d0.txt",
     "static/media/OFFSET.txt": "/glosariodeterminos/static/media/OFFSET.f57a7d01fd2ef86df3e5.txt",
-    "static/media/ifTernario.txt": "/glosariodeterminos/static/media/ifTernario.393858316cc5c12768d0.txt",
     "static/media/teeLinux.txt": "/glosariodeterminos/static/media/teeLinux.c23cdea1b00db610af5a.txt",
     "static/media/catLinux.txt": "/glosariodeterminos/static/media/catLinux.f02ec4f5d1ffa58eac34.txt",
     "static/media/onloadJavaScript.txt": "/glosariodeterminos/static/media/onloadJavaScript.534725e4c2dbcf914d91.txt",
@@ -780,10 +783,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.a24e0d63.js.map": "/glosariodeterminos/static/js/main.a24e0d63.js.map"
+    "main.8f23fe2c.js.map": "/glosariodeterminos/static/js/main.8f23fe2c.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.a24e0d63.js"
+    "static/js/main.8f23fe2c.js"
   ]
 }
