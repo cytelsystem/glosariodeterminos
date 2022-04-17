@@ -7,9 +7,12 @@ import * as ReactBootStrap from "react-bootstrap";
 window.addEventListener("load", Navbar())
 function Navbar() {
 
-  function cerrarOffcanvas() {
-    alert("prueba5");
-    this.Show = false;
+  function cerrarOffcanvas(e) {
+    e.preventDefault();
+    // alert("prueba5");
+    // this.Show = false;
+    // console.log(e.this.Show)
+
 
   }
 
