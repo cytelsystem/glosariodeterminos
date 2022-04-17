@@ -25,7 +25,7 @@ function Navbar() {
                           <ul className="row list-unstyled">
                             {data.results.map(detalle =>(
                               <li className="col-4 col-md-6 col-sm-4" key={detalle.id}>
-                                  <Link to={detalle.Url} onClick={() => this.toggleShow()} className="btn btn-secondary btn-style linkjavier">{detalle.name}</Link>
+                                  <Link to={detalle.Url} onClick={() => this.Show = true} className="btn btn-secondary btn-style linkjavier">{detalle.name}</Link>
                               </li>
                             ))}
                           </ul>
