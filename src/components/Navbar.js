@@ -9,7 +9,7 @@ function Navbar() {
 
   function cerrarOffcanvas() {
     alert("prueba5");
-    this.toggleShow()
+    this.Show = false;
 
   }
 
