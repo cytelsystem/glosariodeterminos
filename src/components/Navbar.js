@@ -7,14 +7,6 @@ import * as ReactBootStrap from "react-bootstrap";
 window.addEventListener("load", Navbar())
 function Navbar() {
 
-  function cerrarOffcanvas(e) {
-    e.preventDefault();
-    // alert("prueba5");
-    // this.Show = false;
-    // console.log(e.this.Show)
-
-
-  }
 
     return (
 
@@ -36,7 +28,7 @@ function Navbar() {
                           <ul className="row list-unstyled">
                             {data.results.map(detalle =>(
                               <li className="col-4 col-md-6 col-sm-4" key={detalle.id}>
-                                  <Link to={detalle.Url} onClick={() => cerrarOffcanvas()}  className="btn btn-secondary btn-style linkjavier">{detalle.name}</Link>
+                                  <Link to={detalle.Url} onClick={() => this.toggleShow()} className="btn btn-secondary btn-style linkjavier">{detalle.name}</Link>
                               </li>
                             ))}
                           </ul>
