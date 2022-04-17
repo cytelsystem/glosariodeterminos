@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.f8e219b7.js",
+    "main.js": "/glosariodeterminos/static/js/main.493badef.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -515,12 +515,12 @@
     "static/media/promptJavaScript.txt": "/glosariodeterminos/static/media/promptJavaScript.a403a981e63863c14177.txt",
     "static/media/hashCode.txt": "/glosariodeterminos/static/media/hashCode.29b7d0d5ece2208fbe23.txt",
     "static/media/RuntimeExceptionJava.txt": "/glosariodeterminos/static/media/RuntimeExceptionJava.6544b07847a5b29c0c9b.txt",
+    "index.html": "/glosariodeterminos/index.html",
     "static/media/querySelectorJavaScript.txt": "/glosariodeterminos/static/media/querySelectorJavaScript.d43624cf4d3b228db0ed.txt",
     "static/media/compareTo.txt": "/glosariodeterminos/static/media/compareTo.3ded274946fdea713b57.txt",
     "static/media/metodo.txt": "/glosariodeterminos/static/media/metodo.5a4cfd1bd99611c16a97.txt",
     "static/media/toString.txt": "/glosariodeterminos/static/media/toString.f34b8e5f165ded5a8cc1.txt",
     "static/media/NaNJavaScript.txt": "/glosariodeterminos/static/media/NaNJavaScript.7057349265f3ff663bc9.txt",
-    "index.html": "/glosariodeterminos/index.html",
     "static/media/onclickJavaScript.txt": "/glosariodeterminos/static/media/onclickJavaScript.f168b96cb4c8e232da68.txt",
     "static/media/funcionesConstructoras.txt": "/glosariodeterminos/static/media/funcionesConstructoras.5e763507f003c50ed9c2.txt",
     "static/media/SELECT.txt": "/glosariodeterminos/static/media/SELECT.2d9103f43d43b0974714.txt",
@@ -783,10 +783,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.f8e219b7.js.map": "/glosariodeterminos/static/js/main.f8e219b7.js.map"
+    "main.493badef.js.map": "/glosariodeterminos/static/js/main.493badef.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.f8e219b7.js"
+    "static/js/main.493badef.js"
   ]
 }
