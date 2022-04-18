@@ -20,7 +20,7 @@ function PaginaPrincipal() {
                                                             }}>
 
       <h1>PaginaPrincipal</h1>
-      <p>En el menú hamburguesa se encuentran las materias de la versión moderna, algunas no tiene información todavía 4. </p>
+      <p>En el menú hamburguesa se encuentran las materias de la versión moderna, algunas no tiene información todavía. </p>
 
 
 

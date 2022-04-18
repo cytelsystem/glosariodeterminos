@@ -663,6 +663,30 @@
             "ejemplo1": "BuenasPracticasPrincipiosScript.jpg",
             "ejemplo2": "BuenasPracticasPrincipiosScript.pdf",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 76,
+            "name": "JWT (JSON Web Token)",
+            "detalle": "Es un estándar abierto de codificación, utilizado para transmitir información de manera segura entre dos partes",
+            "ejemplo1": "JWTScript.jpg",
+            "ejemplo2": "JWTScript.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 77,
+            "name": "CRUD",
+            "detalle": "Create, Read, Update y Delete",
+            "ejemplo1": "CRUDJavaScript.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 78,
+            "name": "Animaciones (Barra de carga)",
+            "detalle": "Barra de carga nos mostrara una animacion que dara la sensación de fluidez y dinamismo mientras se procesa la peticion,  ",
+            "ejemplo1": "AnimacionesBarraCargaJavaScript.jpg",
+            "ejemplo2": "AnimacionesBarraCargaJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
 
 
