@@ -3,10 +3,14 @@ import { Link } from 'react-router-dom';
 import data from '../data/Navbar.json';
 import './styles/navbar.scss';
 import * as ReactBootStrap from "react-bootstrap";
+// import Offcanvas from 'react-bootstrap/Offcanvas'
+// import { useState } from "react";
+
+
+
 
 window.addEventListener("load", Navbar())
 function Navbar() {
-
 
     return (
 
@@ -17,7 +21,7 @@ function Navbar() {
                     <ReactBootStrap.Navbar.Brand href="/glosariodeterminos">Glosario de terminos</ReactBootStrap.Navbar.Brand>
                     <ReactBootStrap.Navbar.Toggle aria-controls="offcanvasNavbar" id="btnhector" />
 
-                    <ReactBootStrap.Navbar.Offcanvas id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel" placement="end">
+                    <ReactBootStrap.Navbar.Offcanvas  id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel" placement="end">
                       <ReactBootStrap.Offcanvas.Header closeButton>
                         <ReactBootStrap.Offcanvas.Title id="offcanvasNavbarLabel"></ReactBootStrap.Offcanvas.Title>
                       </ReactBootStrap.Offcanvas.Header>
@@ -28,7 +32,7 @@ function Navbar() {
                           <ul className="row list-unstyled">
                             {data.results.map(detalle =>(
                               <li className="col-4 col-md-6 col-sm-4" key={detalle.id}>
-                                  <Link to={detalle.Url} onClick={() => this.toggleShow()} className="btn btn-secondary btn-style linkjavier">{detalle.name}</Link>
+                                  <Link  to={detalle.Url} className="btn btn-secondary btn-style">{detalle.name}</Link>
                               </li>
                             ))}
                           </ul>
@@ -50,15 +54,7 @@ function Navbar() {
 
 
 
-
-
 export default Navbar;
-
-
-
-
-
-
 
 
 
