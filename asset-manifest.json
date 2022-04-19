@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.4f864dff.js",
+    "main.js": "/glosariodeterminos/static/js/main.756beca2.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -129,6 +129,7 @@
     "static/media/preventDefaultJavaScript.jpg": "/glosariodeterminos/static/media/preventDefaultJavaScript.82e4cd8c2aef9f184340.jpg",
     "static/media/while.jpg": "/glosariodeterminos/static/media/while.844aad3ffa9e22d894f0.jpg",
     "static/media/GROUPBY.jpg": "/glosariodeterminos/static/media/GROUPBY.362d9478cb4e110a0482.jpg",
+    "static/media/DockerNetworkingAmbiente.pdf": "/glosariodeterminos/static/media/DockerNetworkingAmbiente.6f4e40b086af30b8fcc5.pdf",
     "static/media/createTextNodeJavaScript.jpg": "/glosariodeterminos/static/media/createTextNodeJavaScript.8a4cce872415bf9fa409.jpg",
     "static/media/MicrosoftAzureInfraestruturaI.jpg": "/glosariodeterminos/static/media/MicrosoftAzureInfraestruturaI.5b726a98a8fa24b19524.jpg",
     "static/media/callback.jpg": "/glosariodeterminos/static/media/callback.436ea8f337ac7668f76e.jpg",
@@ -788,10 +789,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.4f864dff.js.map": "/glosariodeterminos/static/js/main.4f864dff.js.map"
+    "main.756beca2.js.map": "/glosariodeterminos/static/js/main.756beca2.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.4f864dff.js"
+    "static/js/main.756beca2.js"
   ]
 }
