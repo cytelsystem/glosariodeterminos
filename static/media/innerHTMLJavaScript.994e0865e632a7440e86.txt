@@ -37,9 +37,14 @@ document.querySelector('div.nombre').innerHTML += 'Papitas';
 
 //******************************************************************************************//
 
+let app = document.querySelector(".app");
 
+app.innerHTML +=
+  `
+    <div id="container">
+    <h1>prueba hector</h1>
+    <p>texto de prueba template literal</p>
+    </div>
 
-
-
-
+  `
 //******************************************************************************************//
