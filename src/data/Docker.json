@@ -46,7 +46,7 @@
             "name": "Docker Networking",
             "detalle": "Nos vamos a enfocar en el driver llamado bridge, ya que con el nuevo enfoque de Docker orientado a habilitar a los desarrolladores es el que mayoritariamente le darán uso en sus computadoras",
             "ejemplo1": "DockerNetworking.pdf",
-            "ejemplo2": "DockerNetworking.txt",
+            "ejemplo2": "DockerNetworkingAmbiente.pdf",
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
