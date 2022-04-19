@@ -212,7 +212,7 @@
         {
             "id": 24,
             "name": "Plantillas de texto 'Template literals'",
-            "detalle": "Permite reutilizar la estructura html y enviarle solamente la informacio cambiante incluyendo etiquetas",
+            "detalle": "Permite reutilizar la estructura html y enviarle solamente la informacio cambiante incluyendo etiquetas. todo lo que esta en comillas invertidas se puede sumar al HTML `` ",
             "ejemplo1": "TemplateLiteralsJavaScript.jpg",
             "ejemplo2": "TemplateLiteralsJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"

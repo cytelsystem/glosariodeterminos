@@ -1,4 +1,4 @@
-
+//************************************************************************************************************//
 function escribirHTML(titulo, texto) {
   const body = document.getElementById('body');
   const miTemplate = `<h1>${titulo}</h1> <p>${texto}</p>`;
@@ -10,3 +10,33 @@ function escribirHTML(titulo, texto) {
  escribirHTML('Es dinámico', 'Podemos insertar elementos HTML mediante <b>JavaScript</b>');
  escribirHTML('Facilita la programación', 'Evita escribir mucho código y reutilizar el que si escribamos.');
  escribirHTML('En este ejemplo', 'Hemos utilizado una única función para poder escribir 4 veces en HTML');
+
+//******************************************Ejemplo 2 index.html***************************************************//
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div class="app"></div>
+  <script src="./script.js"></script>
+</body>
+</html>
+
+//**********************************************Ejemplo 2 script.js***********************************************//
+
+let app = document.querySelector(".app");
+
+app.innerHTML +=
+  `
+    <div id="container">
+    <h1>prueba hector</h1>
+    <p>texto de prueba template literal</p>
+    </div>
+
+  `
+//*****************************************************************************************************************//
