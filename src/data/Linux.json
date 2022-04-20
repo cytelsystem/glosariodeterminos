@@ -108,7 +108,7 @@
         },
         {
             "id": 13,
-            "name": "heard",
+            "name": "head",
             "detalle": "Se usa para ver las primeras líneas de cualquier archivo de texto.",
             "ejemplo1": "heardLinux.jpg",
             "ejemplo2": "NoHayInformacion.jpg",
@@ -310,6 +310,51 @@
             "detalle": "cowsay es un programa que genera imágenes artísticas ASCII de una vaca con un mensaje. ... También puede generar imágenes utilizando imágenes prefabricadas de otros animales",
             "ejemplo1": "cowsayLinux.jpg",
             "ejemplo2": "cowsayLinux.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 36,
+            "name": "sudo (SuperUser Do).",
+            "detalle": "Este comando te permite realizar tareas que requieren permisos administrativos o raíz. Sirve para elevar privilegios y ejecutar acciones como usuario root",
+            "ejemplo1": "NoHayInformacion.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 37,
+            "name": "chown",
+            "detalle": "Este comando te permite cambiar o transferir la propiedad de un archivo al nombre de usuario especificado.",
+            "ejemplo1": "NoHayInformacion.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 38,
+            "name": "ping",
+            "detalle": "Usa el comando ping para verificar tu estado de conectividad a un servidor.",
+            "ejemplo1": "NoHayInformacion.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 39,
+            "name": "history",
+            "detalle": "Este comando te permite revisar los comandos que ingresaste anteriormente y ejecutarlos de nuevo.",
+            "ejemplo1": "NoHayInformacion.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 40,
+            "name": "Comandos de linux",
+            "detalle": "Archivo con varios comandos de linux incluyendo los de esta pagina",
+            "ejemplo1": "CommandosDeLinux.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
