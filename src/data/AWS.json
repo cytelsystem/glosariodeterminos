@@ -120,11 +120,47 @@
         },
         {
             "id": 14,
+            "name": "Almacenamiento en la nube",
+            "detalle": "El almacenamiento en la nube —en inglés cloud storage— permite guardar cualquier tipo de archivo en una infraestructura digital con la comodidad de la administración y backup remotos.",
+            "ejemplo1": "AlmacenamientoNubefraestructuraI.jpg",
+            "ejemplo2": "AlmacenamientoNube-1fraestructuraI.pdf",
+            "ejemplo3": "AlmacenamientoNube-2fraestructuraI.pdf"
+
+        },
+        {
+            "id": 15,
             "name": "S3 AWS (Almacenamiento en la nube)",
             "detalle": "Amazon Simple Storage Service (Amazon S3)",
             "ejemplo1": "S3AWSfraestructuraI.pdf",
             "ejemplo2": "S3AWS-fraestructuraI.pdf",
             "ejemplo3": "S3AWS-EjerciciofraestructuraI.pdf"
+
+        },
+        {
+            "id": 16,
+            "name": "Base de datos en la nube",
+            "detalle": "Existen numerosos tipos de bases de datos en la nube y todas están destinadas a satisfacer necesidades específicas y manejar tipos específicos de cargas de trabajo.",
+            "ejemplo1": "BaseDatosNubefraestructuraI.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 17,
+            "name": "RDS Base de datos en la nube",
+            "detalle": "Amazon RDS es un servicio web que facilita el establecimiento, la utilización y el escalado de bases de datos relacionales en la nube.",
+            "ejemplo1": "RDSBaseDatosNubefraestructuraI.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 18,
+            "name": "Amazon DynamoDB Base de datos en la nube",
+            "detalle": "Amazon DynamoDB es una base de datos de clave-valor y documentos que ofrecen rendimiento en milisegundos de un solo dígito a cualquier escala.",
+            "ejemplo1": "AWSDynamoDBBaseDatosNubefraestructuraI.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
 
         }
 
