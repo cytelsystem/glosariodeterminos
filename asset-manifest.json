@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.0f21ba16.js",
+    "main.js": "/glosariodeterminos/static/js/main.16086ccc.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -70,6 +70,7 @@
     "static/media/ModulosPowerShell.pdf": "/glosariodeterminos/static/media/ModulosPowerShell.8ab472577687cefe7816.pdf",
     "static/media/FrameworksUnit.jpg": "/glosariodeterminos/static/media/FrameworksUnit.5d1963b5c75d0a99d3e2.jpg",
     "static/media/DebuggingVisualSC.jpg": "/glosariodeterminos/static/media/DebuggingVisualSC.330ed9d56a3c8e12d346.jpg",
+    "static/media/AWSDynamoDBBaseDatosNubefraestructuraI.jpg": "/glosariodeterminos/static/media/AWSDynamoDBBaseDatosNubefraestructuraI.e32f2f79e221ac397dea.jpg",
     "static/media/ArrowFunctions.jpg": "/glosariodeterminos/static/media/ArrowFunctions.60891114755063e505ad.jpg",
     "static/media/INDICES.jpg": "/glosariodeterminos/static/media/INDICES.cf5e9a570663f842168c.jpg",
     "static/media/GetTesting.jpg": "/glosariodeterminos/static/media/GetTesting.640a640069bb5cc60042.jpg",
@@ -104,11 +105,14 @@
     "static/media/Scanner.jpg": "/glosariodeterminos/static/media/Scanner.6cd65eb37646a4caa2d4.jpg",
     "static/media/EncapsulamientoJava.jpg": "/glosariodeterminos/static/media/EncapsulamientoJava.b3d68144160f63ad8b65.jpg",
     "static/media/toString.jpg": "/glosariodeterminos/static/media/toString.133ebef4978d103a23fb.jpg",
+    "static/media/BaseDatosNubefraestructuraI.jpg": "/glosariodeterminos/static/media/BaseDatosNubefraestructuraI.7c9c33d9ef7acd97694d.jpg",
     "static/media/AWSEducateInfraestructuraI.pdf": "/glosariodeterminos/static/media/AWSEducateInfraestructuraI.9bbb81b298649eb314ca.pdf",
     "static/media/AmazonEC2InfraestruturaI.pdf": "/glosariodeterminos/static/media/AmazonEC2InfraestruturaI.9bbb81b298649eb314ca.pdf",
     "static/media/CrearColeccion.jpg": "/glosariodeterminos/static/media/CrearColeccion.b4a26b8d1a5a52ffaff8.jpg",
     "static/media/RecorrerColecciones.jpg": "/glosariodeterminos/static/media/RecorrerColecciones.dc702096250abceaddae.jpg",
     "static/media/objetoLiteral.jpg": "/glosariodeterminos/static/media/objetoLiteral.8bd33803263826fb497d.jpg",
+    "static/media/AlmacenamientoNubefraestructuraI.jpg": "/glosariodeterminos/static/media/AlmacenamientoNubefraestructuraI.e80d294be292637122c9.jpg",
+    "static/media/AlmacenamientoNube-1fraestructuraI.pdf": "/glosariodeterminos/static/media/AlmacenamientoNube-1fraestructuraI.4ac1039bf442fc770fd4.pdf",
     "static/media/LoadBalancerAWSImplementacionInfraestructuraI.pdf": "/glosariodeterminos/static/media/LoadBalancerAWSImplementacionInfraestructuraI.6d2310405aafe94eae53.pdf",
     "static/media/VariablesEntornoPostman.jpg": "/glosariodeterminos/static/media/VariablesEntornoPostman.b90e63f69269de7da5b1.jpg",
     "static/media/TiposFuncionesJavaScript.jpg": "/glosariodeterminos/static/media/TiposFuncionesJavaScript.59cd8684c8f97f39702c.jpg",
@@ -224,6 +228,7 @@
     "static/media/TablaConceptosPOPMica.jpg": "/glosariodeterminos/static/media/TablaConceptosPOPMica.6e0faf8eff7dc1854a80.jpg",
     "static/media/FormObtenerDatosJavaScript.pdf": "/glosariodeterminos/static/media/FormObtenerDatosJavaScript.754ce3ec21599da799d1.pdf",
     "static/media/DISTINCT.jpg": "/glosariodeterminos/static/media/DISTINCT.9e8e3577845c773e816b.jpg",
+    "static/media/AlmacenamientoNube-2fraestructuraI.pdf": "/glosariodeterminos/static/media/AlmacenamientoNube-2fraestructuraI.ab97e05f87308c012c8b.pdf",
     "static/media/GetHelpPowerShellC.jpg": "/glosariodeterminos/static/media/GetHelpPowerShellC.1a5abfa8fa8209164429.jpg",
     "static/media/PrincipiosSOLID.jpg": "/glosariodeterminos/static/media/PrincipiosSOLID.36d82f3d2663c26fe7cd.jpg",
     "static/media/Dockerfile.pdf": "/glosariodeterminos/static/media/Dockerfile.718a58bfff6e73da9e5d.pdf",
@@ -234,6 +239,7 @@
     "static/media/onloadJavaScript.jpg": "/glosariodeterminos/static/media/onloadJavaScript.6933c572099324e25e21.jpg",
     "static/media/chmodLinux.jpg": "/glosariodeterminos/static/media/chmodLinux.e390d4271c4fef1c4d7e.jpg",
     "static/media/killLinux.jpg": "/glosariodeterminos/static/media/killLinux.cd0e8e8401fe71ea422f.jpg",
+    "static/media/RDSBaseDatosNubefraestructuraI.jpg": "/glosariodeterminos/static/media/RDSBaseDatosNubefraestructuraI.f0872cd754efd6e41536.jpg",
     "static/media/moreLinux.jpg": "/glosariodeterminos/static/media/moreLinux.6ff7cf788cfa5b0b117f.jpg",
     "static/media/AmazonEC2InfraestruturaI.jpg": "/glosariodeterminos/static/media/AmazonEC2InfraestruturaI.072bb2986befe7a02040.jpg",
     "static/media/TrabajoFinalIntegradorDesignThinking.pdf": "/glosariodeterminos/static/media/TrabajoFinalIntegradorDesignThinking.169f26a6cc705ea26a3c.pdf",
@@ -801,10 +807,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.0f21ba16.js.map": "/glosariodeterminos/static/js/main.0f21ba16.js.map"
+    "main.16086ccc.js.map": "/glosariodeterminos/static/js/main.16086ccc.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.0f21ba16.js"
+    "static/js/main.16086ccc.js"
   ]
 }
