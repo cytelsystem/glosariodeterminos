@@ -69,8 +69,8 @@
             "name": "Amazon EC2 (Amazon Elastic Compute Cloud)",
             "detalle": "Es un servicio web que proporciona capacidad informática segura y de tamaño modificable en la nube.",
             "ejemplo1": "AmazonEC2InfraestruturaI.jpg",
-            "ejemplo2": "AmazonEC2InfraestruturaI.txt",
-            "ejemplo3": "NoHayInformacion.jpg"
+            "ejemplo2": "AmazonEC2InfraestruturaI.pdf",
+            "ejemplo3": "AmazonEC2UbuntuInfraestruturaI.pdf"
 
         },
         {
@@ -93,11 +93,38 @@
         },
         {
             "id": 11,
-            "name": "AWS (Amazon Web Services)",
-            "detalle": "Acceso a la nube de Amazon Web Services",
-            "ejemplo1": "AWSEducateInfraestructuraI.pdf",
-            "ejemplo2": "AWSEducateInfraestructuraI.txt",
+            "name": "VPC (Nube virtual privada)",
+            "detalle": "Una nube virtual privada (VPC) es una nube privada que se ubica dentro de una nube pública que le permite aprovechar los beneficios de una red virtualizada, a la vez que utiliza los recursos de la nube pública.",
+            "ejemplo1": "VpcAWSInfraestructuraI.pdf",
+            "ejemplo2": "VpcAWS-InfraestructuraI.pdf",
+            "ejemplo3": "VpcAWSCreateInfraestructuraI.pdf"
+
+        },
+        {
+            "id": 12,
+            "name": "Escalabilidad y Elasticidad",
+            "detalle": "Escalabilidad, capacidad de los recursos para aumentar o disminuir en tamaño o cantidad y Elasticidad capacidad de incrementar la infraestructura.",
+            "ejemplo1": "EscalabilidadElasticidadAWSInfraestructuraI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
             "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 13,
+            "name": "Load balancer AWS",
+            "detalle": "Un load balancer (balanceador de carga) es un sistema muy utilizado cuando se tiene que atender mucho tráfico en una aplicación o sitio web.",
+            "ejemplo1": "LoadBalancerAWSInfraestructuraI.jpg",
+            "ejemplo2": "LoadBalancerAWSInfraestructuraI.pdf",
+            "ejemplo3": "LoadBalancerAWSImplementacionInfraestructuraI.pdf"
+
+        },
+        {
+            "id": 14,
+            "name": "S3 AWS (Almacenamiento en la nube)",
+            "detalle": "Amazon Simple Storage Service (Amazon S3)",
+            "ejemplo1": "S3AWSfraestructuraI.pdf",
+            "ejemplo2": "S3AWS-fraestructuraI.pdf",
+            "ejemplo3": "S3AWS-EjerciciofraestructuraI.pdf"
 
         }
 
