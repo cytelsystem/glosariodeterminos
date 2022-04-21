@@ -60,7 +60,7 @@
         {
             "id": 8,
             "name": "Docker Swarm",
-            "detalle": "Docker Compose es una herramienta que permite simplificar el uso de Docker. A partir de archivos YAML es más sencillo crear contendores, conectarlos, habilitar puertos, volúmenes, etc. ",
+            "detalle": "Docker Swarm es una herramienta de orquestación de contenedores , lo que significa que permite al usuario administrar múltiples contenedores implementados en múltiples máquinas host.",
             "ejemplo1": "DockerSwarm.jpg",
             "ejemplo2": "DockerSwarm.txt",
             "ejemplo3": "NoHayInformacion.jpg"

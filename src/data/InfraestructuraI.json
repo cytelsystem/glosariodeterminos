@@ -73,6 +73,42 @@
             "ejemplo2": "InstalacionMaquinavirtuallinuxvagrant.txt",
             "ejemplo3": "InstalacionMaquinavirtuallinuxvagrant.jpg"
 
+        },
+        {
+            "id": 9,
+            "name": "Configuration management",
+            "detalle": "Es el proceso que permite gestionar los cambios de configuración de nuestros activos informáticos —ya sean de software o hardware—, permitiendo a la organización mantener un registro histórico y a su vez aplicar controles —como un proceso de aprobación para cambios que cumplan con determinadas características—.",
+            "ejemplo1": "ConfigurationManagementInfraestructuraI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 10,
+            "name": "Herramientas de Configuration management",
+            "detalle": "Es el proceso que permite gestionar los cambios de configuración de nuestros activos informáticos —ya sean de software o hardware—, permitiendo a la organización mantener un registro histórico y a su vez aplicar controles —como un proceso de aprobación para cambios que cumplan con determinadas características—.",
+            "ejemplo1": "ConfigurationManagementInfraestructuraI.jpg",
+            "ejemplo2": "ConfigurationManagementInfraestructuraI.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 11,
+            "name": "Ansible",
+            "detalle": "Ansible es una herramienta open source de configuration management y de aprovisionamiento, similar a Chef, Puppet o Salt",
+            "ejemplo1": "AnsibleInfraestructuraI.jpg",
+            "ejemplo2": "AnsibleInfraestructuraI.pdf",
+            "ejemplo3": "AnsibleEnAccionInfraestructuraI.pdf"
+
+        },
+        {
+            "id": 12,
+            "name": "Configuración de IP en MV",
+            "detalle": "Por defecto, los servidores dedicados están configurados para llevar a cabo una configuración automática de la red a través de DHCP.",
+            "ejemplo1": "ConfiguracionIPMVInfraestructuraI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 
