@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.6fb19434.js",
+    "main.js": "/glosariodeterminos/static/js/main.9b57f9ae.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -96,6 +96,7 @@
     "static/media/tecnicasPrueba2.jpg": "/glosariodeterminos/static/media/tecnicasPrueba2.b129a981c463e03e28c2.jpg",
     "static/media/createImagenDocker.jpg": "/glosariodeterminos/static/media/createImagenDocker.3a8744163986151edeb3.jpg",
     "static/media/S3AWSfraestructuraI.pdf": "/glosariodeterminos/static/media/S3AWSfraestructuraI.2adc5fcd93a77a85d009.pdf",
+    "static/media/AnsibleInfraestructuraI.pdf": "/glosariodeterminos/static/media/AnsibleInfraestructuraI.d06a22bed8b86b62e9ed.pdf",
     "static/media/classListAddRemoveToggleJavaScript.jpg": "/glosariodeterminos/static/media/classListAddRemoveToggleJavaScript.a5a7e177405fd0215757.jpg",
     "static/media/InicialializarProyecto.jpg": "/glosariodeterminos/static/media/InicialializarProyecto.c794c277b04ee7848060.jpg",
     "static/media/reduce.jpg": "/glosariodeterminos/static/media/reduce.d0ee7393a897ea04cff6.jpg",
@@ -129,6 +130,7 @@
     "static/media/ApiGetReactJS.jpg": "/glosariodeterminos/static/media/ApiGetReactJS.c4093d1dd4da443b9924.jpg",
     "static/media/RunnerPostman.jpg": "/glosariodeterminos/static/media/RunnerPostman.34e1db17f76db6e76b73.jpg",
     "static/media/Casting.jpg": "/glosariodeterminos/static/media/Casting.aabe6c1958490cf08777.jpg",
+    "static/media/AnsibleEnAccionInfraestructuraI.pdf": "/glosariodeterminos/static/media/AnsibleEnAccionInfraestructuraI.8ae344ddbf1468da5ca8.pdf",
     "static/media/informetesting.jpg": "/glosariodeterminos/static/media/informetesting.9e46a697a80f61e31c4a.jpg",
     "static/media/ParticionEquivalencia.jpg": "/glosariodeterminos/static/media/ParticionEquivalencia.57fc7592e5d16eef29d0.jpg",
     "static/media/installBootstrapReactJS.jpg": "/glosariodeterminos/static/media/installBootstrapReactJS.9b0ed677e419c6466777.jpg",
@@ -195,7 +197,9 @@
     "static/media/listarServiciosLinux.jpg": "/glosariodeterminos/static/media/listarServiciosLinux.6b1ebded95c26dadb474.jpg",
     "static/media/imgPopularesDocker.jpg": "/glosariodeterminos/static/media/imgPopularesDocker.94d81a0a217345785f42.jpg",
     "static/media/getElementByIdJavaScript.jpg": "/glosariodeterminos/static/media/getElementByIdJavaScript.442b3dc788a19f7b0732.jpg",
+    "static/media/ConfigurationManagementInfraestructuraI.pdf": "/glosariodeterminos/static/media/ConfigurationManagementInfraestructuraI.0767d62e62882f4bd3f4.pdf",
     "static/media/7principiostesting.jpg": "/glosariodeterminos/static/media/7principiostesting.f1a086fddbcf171cbf78.jpg",
+    "static/media/ConfigurationManagementInfraestructuraI.jpg": "/glosariodeterminos/static/media/ConfigurationManagementInfraestructuraI.8a903ed58848f55eff38.jpg",
     "static/media/createElementJavaScript.jpg": "/glosariodeterminos/static/media/createElementJavaScript.455e7b8cec9401c2af2d.jpg",
     "static/media/slice.jpg": "/glosariodeterminos/static/media/slice.13089b7dfe0a981a8868.jpg",
     "static/media/writeFileSync.jpg": "/glosariodeterminos/static/media/writeFileSync.7e544e78dc8e84d6adcc.jpg",
@@ -203,6 +207,7 @@
     "static/media/TransicionEstado.jpg": "/glosariodeterminos/static/media/TransicionEstado.df86eb90d37dd3396b38.jpg",
     "static/media/BuenasPracticasPrincipiosScript.pdf": "/glosariodeterminos/static/media/BuenasPracticasPrincipiosScript.9b8346cda26818a2f678.pdf",
     "static/media/SeleniumWebDriver.jpg": "/glosariodeterminos/static/media/SeleniumWebDriver.188e9b06d7f0607fb31b.jpg",
+    "static/media/AnsibleInfraestructuraI.jpg": "/glosariodeterminos/static/media/AnsibleInfraestructuraI.cee2b7a3093073e6c8fe.jpg",
     "static/media/querySelectorAllJavaScript.jpg": "/glosariodeterminos/static/media/querySelectorAllJavaScript.1c7a50716f545b854c6f.jpg",
     "static/media/Iterator.jpg": "/glosariodeterminos/static/media/Iterator.6c7273e42886b2d84b3f.jpg",
     "static/media/CREATETABLE.jpg": "/glosariodeterminos/static/media/CREATETABLE.f33ef54f2d341ff38edd.jpg",
@@ -216,6 +221,7 @@
     "static/media/AjaxJavaScript.jpg": "/glosariodeterminos/static/media/AjaxJavaScript.a4ca967bf89a7c09abd8.jpg",
     "static/media/SobreEscritura.jpg": "/glosariodeterminos/static/media/SobreEscritura.f6f365de389bb98a8352.jpg",
     "static/media/GetCommandPowerShellC.jpg": "/glosariodeterminos/static/media/GetCommandPowerShellC.d5f8dd2ed11be05ca34f.jpg",
+    "static/media/ConfiguracionIPMVInfraestructuraI.pdf": "/glosariodeterminos/static/media/ConfiguracionIPMVInfraestructuraI.25e418f5aa268e6455b3.pdf",
     "static/media/do_while.jpg": "/glosariodeterminos/static/media/do_while.85eb12f8c9389daf2a92.jpg",
     "static/media/TemplateLiteralsJavaScript.jpg": "/glosariodeterminos/static/media/TemplateLiteralsJavaScript.69025d53df90c66cc841.jpg",
     "static/media/searchDocker.jpg": "/glosariodeterminos/static/media/searchDocker.97c62c8b12e0868477e6.jpg",
@@ -808,10 +814,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.6fb19434.js.map": "/glosariodeterminos/static/js/main.6fb19434.js.map"
+    "main.9b57f9ae.js.map": "/glosariodeterminos/static/js/main.9b57f9ae.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.6fb19434.js"
+    "static/js/main.9b57f9ae.js"
   ]
 }
