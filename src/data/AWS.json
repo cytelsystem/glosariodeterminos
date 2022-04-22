@@ -22,7 +22,7 @@
         {
             "id": 3,
             "name": "VPN",
-            "detalle": "La nube híbrida es una arquitectura de IT que incorpora cierto grado de gestión, organización y portabilidad de las cargas de trabajo en dos o más entornos.",
+            "detalle": "Una red privada a través de una red pública y permite a los usuarios enviar y recibir datos a través de redes públicas o compartidas como si sus dispositivos informáticos estuvieran conectados directamente a la red privada",
             "ejemplo1": "VPNInfraestruturaI.jpg",
             "ejemplo2": "VPNInfraestruturaI.txt",
             "ejemplo3": "NoHayInformacion.jpg"
@@ -76,7 +76,7 @@
         {
             "id": 9,
             "name": "Microsoft Azure",
-            "detalle": "Es un servicio web que proporciona capacidad informática segura y de tamaño modificable en la nube.",
+            "detalle": "Es un servicio web de microsoft que proporciona capacidad informática segura y de tamaño modificable en la nube.",
             "ejemplo1": "MicrosoftAzureInfraestruturaI.jpg",
             "ejemplo2": "MicrosoftAzureInfraestruturaI.txt",
             "ejemplo3": "NoHayInformacion.jpg"
