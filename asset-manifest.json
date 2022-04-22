@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.9b57f9ae.js",
+    "main.js": "/glosariodeterminos/static/js/main.57ead058.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -453,6 +453,7 @@
     "static/media/CreatElementReactJS.txt": "/glosariodeterminos/static/media/CreatElementReactJS.caeed8b6273f948d411a.txt",
     "static/media/ManejoEstadosReactJS.txt": "/glosariodeterminos/static/media/ManejoEstadosReactJS.f0c36861b821a1441b54.txt",
     "static/media/ifLinux.txt": "/glosariodeterminos/static/media/ifLinux.703f63a2abbc65af81f8.txt",
+    "static/media/fetchScript.txt": "/glosariodeterminos/static/media/fetchScript.37af45e860de9c9b62ce.txt",
     "static/media/AnimacionesBarraCargaJavaScript.txt": "/glosariodeterminos/static/media/AnimacionesBarraCargaJavaScript.fac6b564c53eb6af42e4.txt",
     "static/media/EventosReactJS.txt": "/glosariodeterminos/static/media/EventosReactJS.d00fbc6b7262b7cbe060.txt",
     "static/media/OffcanvasReact.txt": "/glosariodeterminos/static/media/OffcanvasReact.331577a35bf751fa6ca0.txt",
@@ -461,7 +462,6 @@
     "static/media/ErrorDefectoFallo.txt": "/glosariodeterminos/static/media/ErrorDefectoFallo.026093b4ecfc6e08c307.txt",
     "static/media/sort.txt": "/glosariodeterminos/static/media/sort.aa97705bb74edafd2c40.txt",
     "static/media/equalsObject.txt": "/glosariodeterminos/static/media/equalsObject.ea939f70b277e84123b4.txt",
-    "static/media/fetchScript.txt": "/glosariodeterminos/static/media/fetchScript.e40f7045a3066b684a89.txt",
     "static/media/TryCatchFinallyScript.txt": "/glosariodeterminos/static/media/TryCatchFinallyScript.42ca91bf1cbcbdbc1548.txt",
     "static/media/json.txt": "/glosariodeterminos/static/media/json.7b38cc60ca329a229357.txt",
     "static/media/PROCEDURE.txt": "/glosariodeterminos/static/media/PROCEDURE.306f7591cdf36cc93d4f.txt",
@@ -814,10 +814,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.9b57f9ae.js.map": "/glosariodeterminos/static/js/main.9b57f9ae.js.map"
+    "main.57ead058.js.map": "/glosariodeterminos/static/js/main.57ead058.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.9b57f9ae.js"
+    "static/js/main.57ead058.js"
   ]
 }
