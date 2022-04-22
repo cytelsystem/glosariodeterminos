@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.57ead058.js",
+    "main.js": "/glosariodeterminos/static/js/main.13a26dd4.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -478,6 +478,7 @@
     "static/media/setAttributeJavaScript.txt": "/glosariodeterminos/static/media/setAttributeJavaScript.9af70600ef993a2c7907.txt",
     "static/media/PropsComponenteReactJS.txt": "/glosariodeterminos/static/media/PropsComponenteReactJS.c765e02709a26ec62723.txt",
     "static/media/classListAddRemoveToggleJavaScript.txt": "/glosariodeterminos/static/media/classListAddRemoveToggleJavaScript.f1b85583c4c91f805ca6.txt",
+    "static/media/containerRunDocker.txt": "/glosariodeterminos/static/media/containerRunDocker.6408ba114f7c0c69ff94.txt",
     "static/media/gitHubDeployReactJS.txt": "/glosariodeterminos/static/media/gitHubDeployReactJS.7744b6962cca27f067ad.txt",
     "static/media/Dockerfile.txt": "/glosariodeterminos/static/media/Dockerfile.7aba63fac4f8dcb78243.txt",
     "static/media/AgregarElementos.txt": "/glosariodeterminos/static/media/AgregarElementos.a6e112976be9b3f696f9.txt",
@@ -524,7 +525,6 @@
     "static/media/InstalacionPowerShellC.txt": "/glosariodeterminos/static/media/InstalacionPowerShellC.0cf36cb4281bc3f4115c.txt",
     "static/media/reduce.txt": "/glosariodeterminos/static/media/reduce.85704360f74bcd4ee928.txt",
     "static/media/MetodoMain.txt": "/glosariodeterminos/static/media/MetodoMain.39d31293a30f9c287ba5.txt",
-    "static/media/containerRunDocker.txt": "/glosariodeterminos/static/media/containerRunDocker.2ec1dafd73211bd8be2e.txt",
     "static/media/FocusFormScript.txt": "/glosariodeterminos/static/media/FocusFormScript.b4d4670039270b90ae36.txt",
     "static/media/CheckedScript.txt": "/glosariodeterminos/static/media/CheckedScript.3546cb095b9ac2cb9d60.txt",
     "static/media/EXTRACT.txt": "/glosariodeterminos/static/media/EXTRACT.6655166ef77020c0182a.txt",
@@ -814,10 +814,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.57ead058.js.map": "/glosariodeterminos/static/js/main.57ead058.js.map"
+    "main.13a26dd4.js.map": "/glosariodeterminos/static/js/main.13a26dd4.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.57ead058.js"
+    "static/js/main.13a26dd4.js"
   ]
 }
