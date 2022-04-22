@@ -12,7 +12,19 @@ nombre aleatorio.
 container en Docker Hub (Registry).
 
 //*******************************************************************************************//
+//**Si es una imagen original como nginx, mysql no hay nececidad de anteponerle el nombre de la persona que la creo
 
 docker container run -d --name spaghettidocker -p 80:80 davidpigna/spaghettidocker
+docker run -d --name proxy -p 80:80 nginx
+docker run -d --name proxy -p 8080:80 nginx
+
+//*******************************Trabajar con un contenedor que esta corriendo*********************//
+
+docker ps             Consultar en nombre de contenedores en ejecuccion ejm: nombre proxy
+docker stop proxy     Detener el contenedores en ejecucion
+docker ps -a          Mirar contenedores detenidos
+docker rm proxy       Eliminar el contenedor primero debe estar detenidos en
+docker exec -it proxy bash   Entrar dentro un contenedor en ejecuccion
 
 //*******************************************************************************************//
+
