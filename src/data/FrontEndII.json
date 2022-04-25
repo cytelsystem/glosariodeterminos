@@ -687,6 +687,14 @@
             "ejemplo1": "AnimacionesBarraCargaJavaScript.jpg",
             "ejemplo2": "AnimacionesBarraCargaJavaScript.txt",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 79,
+            "name": "Animaciones (Spinner)",
+            "detalle": "Un spinner es un tipo de preloader que puede ser muy útil para un sitio web. Brinda información al usuario sobre el estado de nuestra página al realizar la primera carga, priorizando la interfaz (DOM) y luego la funcionalidad.",
+            "ejemplo1": "AnimacionesSpinnerCargaJavaScript.jpg",
+            "ejemplo2": "AnimacionesSpinnerCargaJavaScript.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
 
 
