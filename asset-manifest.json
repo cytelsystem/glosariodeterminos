@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.6f2b847f.js",
+    "main.js": "/glosariodeterminos/static/js/main.aebf2c81.js",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -336,6 +336,7 @@
     "static/media/TestearEvaluar.jpg": "/glosariodeterminos/static/media/TestearEvaluar.0afaf205f814b5e61131.jpg",
     "static/media/array.jpg": "/glosariodeterminos/static/media/array.1dfc142fc8a1fe545016.jpg",
     "static/media/PruebasRegresion.jpg": "/glosariodeterminos/static/media/PruebasRegresion.c02f728acd6dc008d2f9.jpg",
+    "static/media/AnimacionesSpinnerCargaJavaScript.jpg": "/glosariodeterminos/static/media/AnimacionesSpinnerCargaJavaScript.0fbc937045eec2d2c702.jpg",
     "static/media/splitJavaScript.jpg": "/glosariodeterminos/static/media/splitJavaScript.f0c90c000fe3370de43f.jpg",
     "static/media/mouseOverJavaScript.jpg": "/glosariodeterminos/static/media/mouseOverJavaScript.8206b02b7dc7753d2d3c.jpg",
     "static/media/VariablesClase.jpg": "/glosariodeterminos/static/media/VariablesClase.627af1ae98c6612d3317.jpg",
@@ -474,6 +475,7 @@
     "static/media/TiposFuncionesJavaScript.txt": "/glosariodeterminos/static/media/TiposFuncionesJavaScript.0c138828824f352ccae4.txt",
     "static/media/ExceptionPerJava.txt": "/glosariodeterminos/static/media/ExceptionPerJava.3440707b55d4f1b79a1f.txt",
     "static/media/curlLinux.txt": "/glosariodeterminos/static/media/curlLinux.79f442ceb5971aa68f0d.txt",
+    "static/media/AnimacionesSpinnerCargaJavaScript.txt": "/glosariodeterminos/static/media/AnimacionesSpinnerCargaJavaScript.a6ec57122aacd655f35e.txt",
     "static/media/TemplateLiteralsJavaScript.txt": "/glosariodeterminos/static/media/TemplateLiteralsJavaScript.62e010c0f531a0c6fdea.txt",
     "static/media/ExcepcionesJava.txt": "/glosariodeterminos/static/media/ExcepcionesJava.655b9e5710d68c7613f5.txt",
     "static/media/setAttributeJavaScript.txt": "/glosariodeterminos/static/media/setAttributeJavaScript.9af70600ef993a2c7907.txt",
@@ -722,6 +724,7 @@
     "static/media/AjaxJavaScript.txt": "/glosariodeterminos/static/media/AjaxJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/AjaxRequestResponseJavaScript.txt": "/glosariodeterminos/static/media/AjaxRequestResponseJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/AmazonEC2InfraestruturaI.txt": "/glosariodeterminos/static/media/AmazonEC2InfraestruturaI.31d6cfe0d16ae931b73c.txt",
+    "static/media/AnimacionesSpinnerCargaJavaScript": "/glosariodeterminos/static/media/AnimacionesSpinnerCargaJavaScript.31d6cfe0d16ae931b73c",
     "static/media/ApisQueEsJavaScript.txt": "/glosariodeterminos/static/media/ApisQueEsJavaScript.31d6cfe0d16ae931b73c.txt",
     "static/media/Breakpoints.txt": "/glosariodeterminos/static/media/Breakpoints.31d6cfe0d16ae931b73c.txt",
     "static/media/CaracteristicasDesignThinkerEfectivo.txt": "/glosariodeterminos/static/media/CaracteristicasDesignThinkerEfectivo.31d6cfe0d16ae931b73c.txt",
@@ -816,10 +819,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.6f2b847f.js.map": "/glosariodeterminos/static/js/main.6f2b847f.js.map"
+    "main.aebf2c81.js.map": "/glosariodeterminos/static/js/main.aebf2c81.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.6f2b847f.js"
+    "static/js/main.aebf2c81.js"
   ]
 }
