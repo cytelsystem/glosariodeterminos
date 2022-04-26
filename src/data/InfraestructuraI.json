@@ -109,7 +109,17 @@
             "ejemplo2": "NoHayInformacion.jpg",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 13,
+            "name": "Crear un certificado SSL",
+            "detalle": "Crear certificado SSL gratis y asignarselo a un dominio",
+            "ejemplo1": "CertificadoSSLInfraestructuraI.jpg",
+            "ejemplo2": "CertificadoSSLInfraestructuraI.txt",
+            "ejemplo3": "CertificadoSSLInfraestructuraI.pdf"
+
         }
+
 
 
     ]
