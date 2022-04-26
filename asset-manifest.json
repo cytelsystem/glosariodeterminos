@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.aebf2c81.js",
+    "main.js": "/glosariodeterminos/static/js/main.e5a963df.js",
+    "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
     "static/media/CreatComponenteReactJS.jpg": "/glosariodeterminos/static/media/CreatComponenteReactJS.86e60f32ace3c48b70d1.jpg",
@@ -10,6 +11,7 @@
     "static/media/PruebasHumo.jpg": "/glosariodeterminos/static/media/PruebasHumo.2ba91dc3234003bbba30.jpg",
     "static/media/InstalacionFrameworksJest.jpg": "/glosariodeterminos/static/media/InstalacionFrameworksJest.8d30de48b43114d72c1e.jpg",
     "static/media/PlanificacionPrueba.jpg": "/glosariodeterminos/static/media/PlanificacionPrueba.af4ad2c19d096b8553dc.jpg",
+    "static/media/certificadossl.jpg": "/glosariodeterminos/static/media/certificadossl.2a134a30f4cabf38e8bd.jpg",
     "static/media/tecnicasPrueba.jpg": "/glosariodeterminos/static/media/tecnicasPrueba.6475f22681274a8daf39.jpg",
     "static/media/SELECTDATABASE.jpg": "/glosariodeterminos/static/media/SELECTDATABASE.66fec1b2b923f2fb7327.jpg",
     "static/media/virtualizaciónInfraestructura.jpg": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.cbd00bb3c79866804998.jpg",
@@ -24,6 +26,7 @@
     "static/media/ExcepcionesJava.jpg": "/glosariodeterminos/static/media/ExcepcionesJava.f9e1fd1d1f8dde54db91.jpg",
     "static/media/PatronObserver.jpg": "/glosariodeterminos/static/media/PatronObserver.119bd0f9b17096641945.jpg",
     "static/media/InfraestructuraServiciosInfraestructura.pdf": "/glosariodeterminos/static/media/InfraestructuraServiciosInfraestructura.fda5131e367814aa62fd.pdf",
+    "static/media/CertificadoSSLInfraestructuraI.pdf": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.c126217355c57bf5765a.pdf",
     "static/media/RestJavaScript.jpg": "/glosariodeterminos/static/media/RestJavaScript.1853359607cddfd1f429.jpg",
     "static/media/ManejoEstadosReactJS.jpg": "/glosariodeterminos/static/media/ManejoEstadosReactJS.904c22f5763fecb27772.jpg",
     "static/media/AgregarElementos.jpg": "/glosariodeterminos/static/media/AgregarElementos.4f0d4eec64d86fe92516.jpg",
@@ -589,6 +592,7 @@
     "static/media/InstalacionSassReact.txt": "/glosariodeterminos/static/media/InstalacionSassReact.d5c8f85a5ed74647cd4f.txt",
     "static/media/ORDER_BY.txt": "/glosariodeterminos/static/media/ORDER_BY.7251ac2c8d939143a30b.txt",
     "static/media/readFileSync.txt": "/glosariodeterminos/static/media/readFileSync.f513bd5a5d0ace850ae8.txt",
+    "static/media/CertificadoSSLInfraestructuraI.txt": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.20cfb82ff6641c48e9df.txt",
     "static/media/Nivelespruebas.txt": "/glosariodeterminos/static/media/Nivelespruebas.8ec08429849a34722ad6.txt",
     "static/media/CREATEDATABASE.txt": "/glosariodeterminos/static/media/CREATEDATABASE.9d3527ad000b210a7e7c.txt",
     "static/media/TextareaJavaScript.txt": "/glosariodeterminos/static/media/TextareaJavaScript.8d175e72189e9cb95023.txt",
@@ -819,10 +823,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.aebf2c81.js.map": "/glosariodeterminos/static/js/main.aebf2c81.js.map"
+    "main.e5a963df.js.map": "/glosariodeterminos/static/js/main.e5a963df.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.aebf2c81.js"
+    "static/js/main.e5a963df.js"
   ]
 }
