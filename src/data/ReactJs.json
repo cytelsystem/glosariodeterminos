@@ -217,6 +217,24 @@
             "ejemplo2": "OffcanvasReact.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 25,
+            "name": "style",
+            "detalle": "Poner stylos directamente en el html",
+            "ejemplo1": "styleReact.jpg",
+            "ejemplo2": "styleReact.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 26,
+            "name": "require",
+            "detalle": "Icluir imagenes y texto sin import",
+            "ejemplo1": "requireReact.jpg",
+            "ejemplo2": "requireReact.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 

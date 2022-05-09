@@ -18,6 +18,7 @@ import GitHub from '../pages/GitHub';
 import Python from '../pages/Python';
 import Docker from '../pages/Docker';
 import AWS from '../pages/AWS';
+import Vagrant from '../pages/Vagrant';
 import Layout from './Layout';
 import NotFound from '../pages/NotFound';
 
@@ -45,6 +46,7 @@ function App() {
             <Route exact path="/Python" component={Python} />
             <Route exact path="/Docker" component={Docker} />
             <Route exact path="/aws" component={AWS} />
+            <Route exact path="/Vagrant" component={Vagrant} />
             <Route component={NotFound} />
         </Switch>
       </Layout>

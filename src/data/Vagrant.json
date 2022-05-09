@@ -1,0 +1,27 @@
+{
+    "results": [
+
+
+        {
+            "id": 1,
+            "name": "Maquina virtual linux con vagrant",
+            "detalle": "Automatizar la instalacion de servidor linux con vagrant",
+            "ejemplo1": "InstalacionMaquinavirtuallinuxvagrant.pdf",
+            "ejemplo2": "InstalacionMaquinavirtuallinuxvagrant.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "Vagrantfile",
+            "detalle": "Archivo de instalacion de maquinas",
+            "ejemplo1": "vagrantfile.jpg",
+            "ejemplo2": "vagrantfile.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        }
+
+
+
+    ]
+}

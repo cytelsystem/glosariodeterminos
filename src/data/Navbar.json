@@ -84,6 +84,11 @@
             "id": 17,
             "name": "AWS",
             "Url": "aws"
+        },
+        {
+            "id": 18,
+            "name": "Vagrant",
+            "Url": "Vagrant"
         }
 
     ]
