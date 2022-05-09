@@ -1,0 +1,6 @@
+
+
+style={{fontSize: `${detalle.tamanoletraH2}`}}
+
+style={{color: `${comunicaciones.color}`}}
+

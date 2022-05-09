@@ -1,0 +1,8 @@
+
+
+<a href={require(`../Ejemplos/${detalle.ejemplo1}`)} target="_blank">Ejemplo1</a>
+
+<div className="card-imagen" style={{backgroundImage: `url(${require(`../images/${detalle.imagen}`)})`}}></div>
+
+<img src={require(`../images/${Placetime.PlaceTime.url}`)} alt="" />
+
