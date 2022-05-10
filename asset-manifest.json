@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.6f0940a9.js",
+    "main.js": "/glosariodeterminos/static/js/main.14b6ed48.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -429,6 +429,7 @@
     "static/media/shift.jpg": "/glosariodeterminos/static/media/shift.ee92097a09859fb9da4f.jpg",
     "static/media/tailLinux.jpg": "/glosariodeterminos/static/media/tailLinux.a8131ccf2c38996b82b8.jpg",
     "static/media/instanciar.jpg": "/glosariodeterminos/static/media/instanciar.db060b79d7af3beaa965.jpg",
+    "static/media/MediaQueryCss.jpg": "/glosariodeterminos/static/media/MediaQueryCss.0874e6a4bd799adf75b2.jpg",
     "static/media/jobsLinux.jpg": "/glosariodeterminos/static/media/jobsLinux.894541707ad2f6cac0a3.jpg",
     "static/media/zipunzipLinux.jpg": "/glosariodeterminos/static/media/zipunzipLinux.2678c599c5615ee2497d.jpg",
     "static/media/toUpperCase.jpg": "/glosariodeterminos/static/media/toUpperCase.21533179f14e274bec0b.jpg",
@@ -655,6 +656,7 @@
     "static/media/ParticionEquivalencia.txt": "/glosariodeterminos/static/media/ParticionEquivalencia.cc79dbcb2ea4402d3b40.txt",
     "static/media/foreachPowerShell.txt": "/glosariodeterminos/static/media/foreachPowerShell.2bc6a53b5550304a2f6b.txt",
     "static/media/Switch.txt": "/glosariodeterminos/static/media/Switch.b279d5375bb19dab5cc8.txt",
+    "static/media/MediaQueryCss.txt": "/glosariodeterminos/static/media/MediaQueryCss.aae398b17301ee7fa83d.txt",
     "static/media/DELETE.txt": "/glosariodeterminos/static/media/DELETE.daac25998f8e7ac08bee.txt",
     "static/media/TRUNCATE.txt": "/glosariodeterminos/static/media/TRUNCATE.b27688b06a305d65425e.txt",
     "static/media/ReactRouterInstalacion.txt": "/glosariodeterminos/static/media/ReactRouterInstalacion.0f18aecea3959d8d0f2d.txt",
@@ -829,10 +831,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.6f0940a9.js.map": "/glosariodeterminos/static/js/main.6f0940a9.js.map"
+    "main.14b6ed48.js.map": "/glosariodeterminos/static/js/main.14b6ed48.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.6f0940a9.js"
+    "static/js/main.14b6ed48.js"
   ]
 }
