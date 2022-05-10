@@ -4,10 +4,10 @@
 
         {
             "id": 1,
-            "name": "var",
-            "detalle": "Las otras materias Sí tiene información",
-            "ejemplo1": "var.jpg",
-            "ejemplo2": "var.txt",
+            "name": "Media Query",
+            "detalle": "Responsive Web Design @media",
+            "ejemplo1": "MediaQueryCss.jpg",
+            "ejemplo2": "MediaQueryCss.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
