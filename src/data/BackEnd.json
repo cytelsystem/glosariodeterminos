@@ -1,0 +1,28 @@
+{
+    "results": [
+
+
+        {
+            "id": 1,
+            "name": "Trabajo integrador",
+            "detalle": "Durante la materia vamos a realizar un trabajo integrador sobre un sistema de reservas en una clínica odontológica",
+            "ejemplo1": "TrabajoIntegradorBackEnd-I.jpg",
+            "ejemplo2": "TrabajoIntegradorBackEnd.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "¿Qué es back end? ¿Porqué back end?",
+            "detalle": "Básicamente, cuando hablamos de 'detrás de escena', es decir, el servidor y la base de datos que ayudan a entregar información del usuario desde una interfaz, hablamos del back end.",
+            "ejemplo1": "QueEsBackEnd-I.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        }
+
+
+
+
+    ]
+}

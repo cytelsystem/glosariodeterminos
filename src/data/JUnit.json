@@ -1,0 +1,79 @@
+{
+    "results": [
+
+
+        {
+            "id": 1,
+            "name": "Test Unitarios y de Integracion",
+            "detalle": "Pruebas Unitarias y de Integracion para comprobar que nuestro codigo funciona en todos los escenarios",
+            "ejemplo1": "TestUnitarioIntegracionJUnit.jpg",
+            "ejemplo2": "TestUnitarioIntegracionJUnit.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "Principio",
+            "detalle": "FIRST",
+            "ejemplo1": "FIRSTJUnit.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 3,
+            "name": "Arquitectura de JUnit5",
+            "detalle": "Arquitectura de JUnit5",
+            "ejemplo1": "ArquitecturaJUnit5JUnit.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 4,
+            "name": "Configuracion Libreria",
+            "detalle": "Para configurar la librería de JUnit en nuestro entorno de desarrollo (IntelliJ IDEA) debemos seguir los siguientes pasos:",
+            "ejemplo1": "ConfiguracionLibreriaJUnit.jpg",
+            "ejemplo2": "ConfiguracionLibreriaJUnit.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 5,
+            "name": "Testeo Parametrizado y Test Suite",
+            "detalle": "En nuestros test se realizan múltiples comprobaciones simplemente para probar diferentes casos. y JUnit test suite nos permite agrupar y ejecutar los tests en grupo.",
+            "ejemplo1": "TesteoParametrizadoTestSuiteJUnit.jpg",
+            "ejemplo2": "TesteoParametrizadoTestSuiteJUnit.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 6,
+            "name": "Ejemplo java Test",
+            "detalle": "En nuestros test se realizan múltiples comprobaciones simplemente para probar diferentes casos. y JUnit test suite nos permite agrupar y ejecutar los tests en grupo.",
+            "ejemplo1": "EjemploJavaTestJUnit.jpg",
+            "ejemplo2": "EjemploJavaTestJUnit.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 6,
+            "name": "TDD (Test Driven Development)",
+            "detalle": "TDD significa que usamos las pruebas (tests) para orientar o dirigir la forma en la que escribimos nuestro código. Normalmente, el flujo de trabajo se describe como Red, Green, Refactor.",
+            "ejemplo1": "TDDJUnit.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 7,
+            "name": "Instalacion y configuracion libreria Junit",
+            "detalle": "Configurar la librería de JUnit en nuestro entorno de desarrollo (IntelliJ IDEA) para realizar test",
+            "ejemplo1": "InstalacionLibreriaJUnit.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        }
+
+    ]
+}

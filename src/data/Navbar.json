@@ -89,6 +89,21 @@
             "id": 18,
             "name": "Vagrant",
             "Url": "Vagrant"
+        },
+        {
+            "id": 19,
+            "name": "BackEnd",
+            "Url": "BackEnd"
+        },
+        {
+            "id": 20,
+            "name": "DiseñoUXUI",
+            "Url": "DiseñoUXUI"
+        },
+        {
+            "id": 21,
+            "name": "JUnit",
+            "Url": "JUnit"
         }
 
     ]

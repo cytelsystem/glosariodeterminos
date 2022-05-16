@@ -19,6 +19,9 @@ import Python from '../pages/Python';
 import Docker from '../pages/Docker';
 import AWS from '../pages/AWS';
 import Vagrant from '../pages/Vagrant';
+import DiseñoUXUI from '../pages/DiseñoUXUI';
+import BackEnd from '../pages/BackEnd';
+import JUnit from '../pages/JUnit';
 import Layout from './Layout';
 import NotFound from '../pages/NotFound';
 
@@ -47,6 +50,9 @@ function App() {
             <Route exact path="/Docker" component={Docker} />
             <Route exact path="/aws" component={AWS} />
             <Route exact path="/Vagrant" component={Vagrant} />
+            <Route exact path="/DiseñoUXUI" component={DiseñoUXUI} />
+            <Route exact path="/BackEnd" component={BackEnd} />
+            <Route exact path="/JUnit" component={JUnit} />
             <Route component={NotFound} />
         </Switch>
       </Layout>
