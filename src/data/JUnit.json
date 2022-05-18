@@ -57,7 +57,7 @@
 
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "TDD (Test Driven Development)",
             "detalle": "TDD significa que usamos las pruebas (tests) para orientar o dirigir la forma en la que escribimos nuestro código. Normalmente, el flujo de trabajo se describe como Red, Green, Refactor.",
             "ejemplo1": "TDDJUnit.jpg",
@@ -66,14 +66,15 @@
 
         },
         {
-            "id": 7,
-            "name": "Instalacion y configuracion libreria Junit",
-            "detalle": "Configurar la librería de JUnit en nuestro entorno de desarrollo (IntelliJ IDEA) para realizar test",
-            "ejemplo1": "InstalacionLibreriaJUnit.pdf",
-            "ejemplo2": "NoHayInformacion.jpg",
+            "id": 8,
+            "name": "assertEquals",
+            "detalle": "Compara si 2 valores son iguales",
+            "ejemplo1": "assertEqualsJUnit.jpg",
+            "ejemplo2": "assertEqualsJUnit.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
-        }
+        },
+
 
     ]
 }

@@ -1,18 +1,13 @@
 {
-    "results": [
+  "results": [
+    {
+      "id": 1,
+      "name": "Media Query",
+      "detalle": "Responsive Web Design @media",
+      "ejemplo1": "MediaQueryCss.jpg",
+      "ejemplo2": "MediaQueryCss.txt",
+      "ejemplo3": "NoHayInformacion.jpg"
+    }
 
-
-        {
-            "id": 1,
-            "name": "Media Query",
-            "detalle": "Responsive Web Design @media",
-            "ejemplo1": "MediaQueryCss.jpg",
-            "ejemplo2": "MediaQueryCss.txt",
-            "ejemplo3": "NoHayInformacion.jpg"
-
-        }
-
-
-
-    ]
+  ]
 }

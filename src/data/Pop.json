@@ -406,6 +406,24 @@
             "ejemplo2": "PatronStrategy.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 46,
+            "name": "Patrón Cadena de responsabilidad",
+            "detalle": "El patrón cadena de responsabilidad permite pasar la responsabilidad a los diferente actores para que el que tenga la posibilidad la resuelva",
+            "ejemplo1": "PatronCadenaResponsabilidad.jpg",
+            "ejemplo2": "PatronCadenaResponsabilidad.txt",
+            "ejemplo3": "PatronCadenaResponsabilidad.pdf"
+
+        },
+        {
+            "id": 47,
+            "name": "Patrón Proxy",
+            "detalle": "El patrón proxy es un intermediario que agrega funcionalidad a una clase sin modificarla",
+            "ejemplo1": "PatronProxy.jpg",
+            "ejemplo2": "PatronProxy.txt",
+            "ejemplo3": "PatronProxy.pdf"
+
         }
 
 
