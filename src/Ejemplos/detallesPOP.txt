@@ -57,3 +57,17 @@ Cuando un dueño tiene muchas mascotas se debe colocar la cardinalidad en el UML
 # Sirve para atributo o metodo protegido y solamente lo pueden usar las clases hijas
 
 Si se crea una interface en UML colocar encima <<Interface>> y nombre debajo Vendible o terminados able, ible
+
+Public 	= se puede aceder desde cualquier parte
+void	= no devuelve ningun valor
+
+una Funcion es = public int numeroPrimo(int num) {}
+Descripcion de la function anterior
+	public 		= publica
+	int		= devuelve un valor int
+	numeroPrimo	= Nombre de la function
+	(int num)	= Recibe por parametro un dato num de tipo int (enviarle datos a esa function para que los pueda procesar)
+	{}		= donde se procesa la informacion y se retorna algo o se imprime
+
+
+

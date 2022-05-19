@@ -103,6 +103,15 @@
         },
         {
             "id": 12,
+            "name": "Programa Numeros Primos",
+            "detalle": "Genera los numeros primos al recibir por consola la cantidad que se requiere",
+            "ejemplo1": "NumerosPrimosJava.jpg",
+            "ejemplo2": "NumerosPrimosJava.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 13,
             "name": "Array",
             "detalle": "Estructuras de datos estáticas que permiten guardar elementos",
             "ejemplo1": "ArrayJava.jpg",
@@ -111,7 +120,7 @@
 
         },
         {
-            "id": 13,
+            "id": 14,
             "name": "Objetos",
             "detalle": "OJO",
             "ejemplo1": "EncapsulamientoJava.jpg",
@@ -120,7 +129,7 @@
 
         },
         {
-            "id": 14,
+            "id": 15,
             "name": "Encapsulamiento",
             "detalle": "Limitar el acceso a las variables de nuestras clases Java de tal forma que podamos tener un mayor control sobre ellas",
             "ejemplo1": "EncapsulamientoJava.jpg",
@@ -129,7 +138,7 @@
 
         },
         {
-            "id": 15,
+            "id": 16,
             "name": "UML",
             "detalle": "Lenguaje de modelado unificado (Unified Modeling Language)",
             "ejemplo1": "UMLJava.jpg",
@@ -138,7 +147,7 @@
 
         },
         {
-            "id": 16,
+            "id": 17,
             "name": "Herencia en Java",
             "detalle": "Heredar la informacion de la clase padre",
             "ejemplo1": "HerenciaJava.jpg",
@@ -147,7 +156,7 @@
 
         },
         {
-            "id": 17,
+            "id": 18,
             "name": "Creacion de una instancia",
             "detalle": "Creacion y UML de una clase instanciada",
             "ejemplo1": "CreacionInstancia.jpg",
@@ -156,7 +165,7 @@
 
         },
         {
-            "id": 18,
+            "id": 19,
             "name": "Sobre Carga",
             "detalle": "Duplicar un metodo con el mismo nombre y distinto comportamiento",
             "ejemplo1": "SobreCarga.jpg",
@@ -165,7 +174,7 @@
 
         },
         {
-            "id": 19,
+            "id": 20,
             "name": "Sobre Escritura",
             "detalle": "Utiliza el metodo o firma de una interface o clase abstract y lo sobreEscribe",
             "ejemplo1": "SobreEscritura.jpg",
@@ -174,7 +183,7 @@
 
         },
         {
-            "id": 20,
+            "id": 21,
             "name": "Variables de Clase",
             "detalle": "Variables de Clase",
             "ejemplo1": "VariablesClase.jpg",
@@ -183,7 +192,7 @@
 
         },
         {
-            "id": 21,
+            "id": 22,
             "name": "Metodos de Clase",
             "detalle": "Metodos de Clase",
             "ejemplo1": "MetodosClase.jpg",
@@ -192,7 +201,7 @@
 
         },
         {
-            "id": 22,
+            "id": 23,
             "name": "Detalles POP",
             "detalle": "Tetalles para tener en cuenta",
             "ejemplo1": "detallesPOP.jpg",
@@ -201,7 +210,7 @@
 
         },
         {
-            "id": 23,
+            "id": 24,
             "name": "Tabla de Conceptos",
             "detalle": "Detalles para tener en cuenta sobre UML",
             "ejemplo1": "TablaConceptosPOPMica.jpg",
@@ -210,7 +219,7 @@
 
         },
         {
-            "id": 24,
+            "id": 25,
             "name": ".toString()",
             "detalle": "toString()método devuelve una cadena que representa el objeto",
             "ejemplo1": "toString.jpg",
@@ -219,7 +228,7 @@
 
         },
         {
-            "id": 25,
+            "id": 26,
             "name": ".hashCode()",
             "detalle": "Devuelve un numero unico que identifica al objeto",
             "ejemplo1": "hashCode.jpg",
@@ -228,7 +237,7 @@
 
         },
         {
-            "id": 26,
+            "id": 27,
             "name": ".equals(Object o)",
             "detalle": "Método se usa para probar la igualdad entre los tipos de referencia (objetos) en Java",
             "ejemplo1": "equalsObject.jpg",
@@ -237,7 +246,7 @@
 
         },
         {
-            "id": 27,
+            "id": 28,
             "name": "Casting",
             "detalle": "Transforma el objeto de un tipo a otro",
             "ejemplo1": "Casting.jpg",
@@ -246,7 +255,7 @@
 
         },
         {
-            "id": 28,
+            "id": 29,
             "name": "Colecciones",
             "detalle": "Grupo de objetos(Elementos) que se almacenan y contiene metodos",
             "ejemplo1": "ColeccionesPOP.jpg",
@@ -255,7 +264,7 @@
 
         },
         {
-            "id": 29,
+            "id": 30,
             "name": "Recorrer Colecciones con FOR y WHILE",
             "detalle": "Maneras de recorrer una colección.",
             "ejemplo1": "RecorrerColecciones.jpg",
@@ -264,7 +273,7 @@
 
         },
         {
-            "id": 30,
+            "id": 31,
             "name": "Iterator",
             "detalle": "Maneras de recorrer una colección.",
             "ejemplo1": "Iterator.jpg",
@@ -273,7 +282,7 @@
 
         },
         {
-            "id": 31,
+            "id": 32,
             "name": "for each Java",
             "detalle": "Maneras de recorrer una colección.",
             "ejemplo1": "forEachJava.jpg",
@@ -282,7 +291,7 @@
 
         },
         {
-            "id": 32,
+            "id": 33,
             "name": "Crear coleccion",
             "detalle": "Crear una collecion en java.",
             "ejemplo1": "CrearColeccion.jpg",
@@ -291,7 +300,7 @@
 
         },
         {
-            "id": 33,
+            "id": 34,
             "name": "Agregar Elementos coleccion",
             "detalle": "Adicionar elementos a una collecion en java.",
             "ejemplo1": "AgregarElementos.jpg",
@@ -300,7 +309,7 @@
 
         },
         {
-            "id": 34,
+            "id": 35,
             "name": "Eliminar Elementos coleccion",
             "detalle": "Adicionar elementos a una collecion en java.",
             "ejemplo1": "EliminarElementosColeccion.jpg",
@@ -309,7 +318,7 @@
 
         },
         {
-            "id": 35,
+            "id": 36,
             "name": "Obtener o buscar Elementos coleccion",
             "detalle": "Obtener o buscar elementos a una collecion en java.",
             "ejemplo1": "ObtenerElementosColeccion.jpg",
@@ -318,7 +327,7 @@
 
         },
         {
-            "id": 36,
+            "id": 37,
             "name": "Generics",
             "detalle": "Programación paramétrica java.",
             "ejemplo1": "Generics.jpg",
@@ -327,7 +336,7 @@
 
         },
         {
-            "id": 37,
+            "id": 38,
             "name": "Excepciones try catch",
             "detalle": "Cuando en nuestro código se produce un error por una situación excepcional.",
             "ejemplo1": "ExcepcionesJava.jpg",
@@ -336,7 +345,7 @@
 
         },
         {
-            "id": 38,
+            "id": 39,
             "name": "Excepciones RuntimeException",
             "detalle": "Cuando en nuestro código se produce un error por una situación excepcional.",
             "ejemplo1": "RuntimeExceptionJava1.jpg",
@@ -345,7 +354,7 @@
 
         },
         {
-            "id": 39,
+            "id": 40,
             "name": "Excepciones Personalizadas",
             "detalle": "Cuando en nuestro código se produce un error por una situación excepcional.",
             "ejemplo1": "ExceptionPerJava1.jpg",
@@ -354,7 +363,7 @@
 
         },
         {
-            "id": 40,
+            "id": 41,
             "name": "Patrón Singleton",
             "detalle": "Administra su propia instancia y evita que cualquier otra clase cree una instancia de ella.",
             "ejemplo1": "PatronSingleton.jpg",
@@ -363,7 +372,7 @@
 
         },
         {
-            "id": 41,
+            "id": 42,
             "name": "Patrón State",
             "detalle": "El patrón de diseño State se utiliza cuando el comportamiento de un objeto cambia dependiendo del estado del mismo",
             "ejemplo1": "PatronState1.jpg",
@@ -372,7 +381,7 @@
 
         },
         {
-            "id": 42,
+            "id": 43,
             "name": "Patrón Factory",
             "detalle": "El propósito del patrón Factory es crear objetos, por lo que se considera un patrón de creación",
             "ejemplo1": "PatronFactory1.jpg",
@@ -381,7 +390,7 @@
 
         },
         {
-            "id": 43,
+            "id": 44,
             "name": "Patrón Composite",
             "detalle": "El patrón Composite sirve para construir objetos complejos a partir de otros más simples y similares entre sí",
             "ejemplo1": "PatronComposite.jpg",
@@ -390,7 +399,7 @@
 
         },
         {
-            "id": 44,
+            "id": 45,
             "name": "Patrón Observer",
             "detalle": "El patrón Composite sirve para construir objetos complejos a partir de otros más simples y similares entre sí",
             "ejemplo1": "PatronObserver.jpg",
@@ -399,7 +408,7 @@
 
         },
         {
-            "id": 45,
+            "id": 46,
             "name": "Patrón Strategy",
             "detalle": "El patrón Strategy sirve para construir objetos complejos a partir de otros más simples y similares entre sí",
             "ejemplo1": "PatronStrategy.jpg",
@@ -408,7 +417,7 @@
 
         },
         {
-            "id": 46,
+            "id": 47,
             "name": "Patrón Cadena de responsabilidad",
             "detalle": "El patrón cadena de responsabilidad permite pasar la responsabilidad a los diferente actores para que el que tenga la posibilidad la resuelva",
             "ejemplo1": "PatronCadenaResponsabilidad.jpg",
@@ -417,7 +426,7 @@
 
         },
         {
-            "id": 47,
+            "id": 48,
             "name": "Patrón Proxy",
             "detalle": "El patrón proxy es un intermediario que agrega funcionalidad a una clase sin modificarla",
             "ejemplo1": "PatronProxy.jpg",
