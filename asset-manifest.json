@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.90323302.js",
+    "main.js": "/glosariodeterminos/static/js/main.5fc69341.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -219,6 +219,7 @@
     "static/media/SeleniumWebDriver.jpg": "/glosariodeterminos/static/media/SeleniumWebDriver.188e9b06d7f0607fb31b.jpg",
     "static/media/AnsibleInfraestructuraI.jpg": "/glosariodeterminos/static/media/AnsibleInfraestructuraI.cee2b7a3093073e6c8fe.jpg",
     "static/media/querySelectorAllJavaScript.jpg": "/glosariodeterminos/static/media/querySelectorAllJavaScript.1c7a50716f545b854c6f.jpg",
+    "static/media/NumerosPrimosJava.jpg": "/glosariodeterminos/static/media/NumerosPrimosJava.7c7f7a223c63a88e37d2.jpg",
     "static/media/Iterator.jpg": "/glosariodeterminos/static/media/Iterator.6c7273e42886b2d84b3f.jpg",
     "static/media/CREATETABLE.jpg": "/glosariodeterminos/static/media/CREATETABLE.f33ef54f2d341ff38edd.jpg",
     "static/media/Date.jpg": "/glosariodeterminos/static/media/Date.892ae39743c139c0b384.jpg",
@@ -465,8 +466,8 @@
     "static/media/localStorageSessionStoragejavaScript.txt": "/glosariodeterminos/static/media/localStorageSessionStoragejavaScript.e445ae2f491fcf3f89fe.txt",
     "static/media/ApiReactJS.txt": "/glosariodeterminos/static/media/ApiReactJS.289568d2707dfcc07fd3.txt",
     "static/media/vagrantfile.txt": "/glosariodeterminos/static/media/vagrantfile.164b04c3a7afd6f6deb2.txt",
+    "static/media/detallesPOP.txt": "/glosariodeterminos/static/media/detallesPOP.d15095e543d67f17792e.txt",
     "static/media/PatronStrategy.txt": "/glosariodeterminos/static/media/PatronStrategy.4936516e5c63fab724c8.txt",
-    "static/media/detallesPOP.txt": "/glosariodeterminos/static/media/detallesPOP.cdd81f9bfc85613dcc47.txt",
     "static/media/ReactRouterJS.txt": "/glosariodeterminos/static/media/ReactRouterJS.cb46eea3759375cf3e8a.txt",
     "static/media/AlmacenarErrorFormScript.txt": "/glosariodeterminos/static/media/AlmacenarErrorFormScript.3be22bddaaefde902bfb.txt",
     "static/media/createElementJavaScript.txt": "/glosariodeterminos/static/media/createElementJavaScript.987bb1d2649c4715aacc.txt",
@@ -489,6 +490,7 @@
     "static/media/CREATETABLE.txt": "/glosariodeterminos/static/media/CREATETABLE.d47627941ee3b3684fe3.txt",
     "static/media/ErrorDefectoFallo.txt": "/glosariodeterminos/static/media/ErrorDefectoFallo.026093b4ecfc6e08c307.txt",
     "static/media/sort.txt": "/glosariodeterminos/static/media/sort.aa97705bb74edafd2c40.txt",
+    "static/media/NumerosPrimosJava.txt": "/glosariodeterminos/static/media/NumerosPrimosJava.5df72fa5ec237e70768d.txt",
     "static/media/equalsObject.txt": "/glosariodeterminos/static/media/equalsObject.ea939f70b277e84123b4.txt",
     "static/media/PatronProxy.txt": "/glosariodeterminos/static/media/PatronProxy.a95e4cbec6384ff2d7ae.txt",
     "static/media/TryCatchFinallyScript.txt": "/glosariodeterminos/static/media/TryCatchFinallyScript.42ca91bf1cbcbdbc1548.txt",
@@ -852,10 +854,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.90323302.js.map": "/glosariodeterminos/static/js/main.90323302.js.map"
+    "main.5fc69341.js.map": "/glosariodeterminos/static/js/main.5fc69341.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.90323302.js"
+    "static/js/main.5fc69341.js"
   ]
 }
