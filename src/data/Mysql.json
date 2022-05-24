@@ -26,7 +26,7 @@
             "ejemplo3": "NoHayInformacion.jpg"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "SHOW TABLES",
             "detalle": "Lista las tablas de la base de datos por consola",
             "ejemplo1": "SHOWTABLES.jpg",

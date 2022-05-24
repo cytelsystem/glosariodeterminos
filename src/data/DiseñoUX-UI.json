@@ -4,15 +4,45 @@
 
         {
             "id": 1,
-            "name": "var",
-            "detalle": "diseño ux",
-            "ejemplo1": "var.jpg",
-            "ejemplo2": "var.txt",
+            "name": "Iceberg de UX (UX = User Experience)",
+            "detalle": "Iceberg de UX",
+            "ejemplo1": "IcebergUX-UI.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 2,
+            "name": "brief (Breve)",
+            "detalle": "El brief es la condensación de toda la investigación (Un documento corto)",
+            "ejemplo1": "briefUX-UI.jpg",
+            "ejemplo2": "briefUX-UI.pdf",
+            "ejemplo3": "briefLightUX-UI.pdf"
+        },
+        {
+            "id": 3,
+            "name": "Convergencia y Divergencia",
+            "detalle": "Una herramienta para pensar ideas",
+            "ejemplo1": "ConvergenciaDivergenciaUX-UI.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 4,
+            "name": "Que es ideaciòn",
+            "detalle": "Una herramienta para pensar ideas",
+            "ejemplo1": "QueEsIdeacionUX-UI.jpg",
+            "ejemplo2": "QueEsIdeacionUX-UI.pdf",
+            "ejemplo3": "TheBeatlesQueEsIdeacionUX-UI.pdf"
+        },
+        {
+            "id": 5,
+            "name": "interfaz",
+            "detalle": "Forma como el usuario final consume nuestro producto de una forma mas amigable",
+            "ejemplo1": "interfazUX-UI.jpg",
+            "ejemplo2": "interfazUX-UI.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
-
-
 
     ]
 }

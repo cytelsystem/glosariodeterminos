@@ -136,17 +136,7 @@
             "ejemplo2": "CaracteristicasDesignThinkerEfectivo.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
-        },
-        {
-            "id": 16,
-            "name": "var",
-            "detalle": "falta",
-            "ejemplo1": "var.jpg",
-            "ejemplo2": "var.txt",
-            "ejemplo3": "NoHayInformacion.jpg"
-
         }
-
 
     ]
 }
