@@ -451,6 +451,33 @@
             "ejemplo2": "PatronFlyweight.txt",
             "ejemplo3": "PatronFlyweight.pdf"
 
+        },
+        {
+            "id": 51,
+            "name": "Patrón facade",
+            "detalle": "El patrón proxy es un intermediario que agrega funcionalidad a una clase sin modificarla",
+            "ejemplo1": "PatronFacadePOP.jpg",
+            "ejemplo2": "PatronFacadePOP.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 52,
+            "name": "Instalacion Libreria Log4j (Crear archivo de logs)",
+            "detalle": "Permite tener un registro de lo que está pasando en nuestros sistemas, lo que nos posibilita entender mejor los errores.",
+            "ejemplo1": "InstalacionLibreriaLog4jPOP.pdf",
+            "ejemplo2": "InstalacionLibreriaLog4jPOP.jpg",
+            "ejemplo3": "log4j.properties.txt"
+
+        },
+        {
+            "id": 53,
+            "name": "Libreria Log4j (Crear archivo de logs)",
+            "detalle": "Permite tener un registro de lo que está pasando en nuestros sistemas, lo que nos posibilita entender mejor los errores.",
+            "ejemplo1": "LibreriaLog4jPOP.jpg",
+            "ejemplo2": "LibreriaLog4jPOP.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 
