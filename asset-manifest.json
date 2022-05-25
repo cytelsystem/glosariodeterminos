@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.858aca22.js",
+    "main.js": "/glosariodeterminos/static/js/main.d55b6144.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -151,6 +151,7 @@
     "static/media/PilaresDesignThinking.jpg": "/glosariodeterminos/static/media/PilaresDesignThinking.85b8e45fc95cc2aef210.jpg",
     "static/media/empatia.jpg": "/glosariodeterminos/static/media/empatia.db0bbc12e7ff4cca6205.jpg",
     "static/media/IfPowerShellC.jpg": "/glosariodeterminos/static/media/IfPowerShellC.9ab5ebdcdd09676bd231.jpg",
+    "static/media/InstalacionLibreriaLog4jPOP.pdf": "/glosariodeterminos/static/media/InstalacionLibreriaLog4jPOP.4689c1882144235c2c86.pdf",
     "static/media/VpcAWSInfraestructuraI.pdf": "/glosariodeterminos/static/media/VpcAWSInfraestructuraI.bc1ac992a92f70c2e02c.pdf",
     "static/media/preventDefaultJavaScript.jpg": "/glosariodeterminos/static/media/preventDefaultJavaScript.82e4cd8c2aef9f184340.jpg",
     "static/media/while.jpg": "/glosariodeterminos/static/media/while.844aad3ffa9e22d894f0.jpg",
@@ -162,6 +163,7 @@
     "static/media/MapaActores.jpg": "/glosariodeterminos/static/media/MapaActores.c7e1aa2928968237e633.jpg",
     "static/media/ImplementacionPrueba.jpg": "/glosariodeterminos/static/media/ImplementacionPrueba.b0fb9715bbeadc3da405.jpg",
     "static/media/require.jpg": "/glosariodeterminos/static/media/require.28bee5fbf529e3eb871f.jpg",
+    "static/media/LibreriaLog4jPOP.jpg": "/glosariodeterminos/static/media/LibreriaLog4jPOP.2430854063cf016643c2.jpg",
     "static/media/S3AWS-EjerciciofraestructuraI.pdf": "/glosariodeterminos/static/media/S3AWS-EjerciciofraestructuraI.c922b645c2cb2dc5c79a.pdf",
     "static/media/innerHTMLJavaScript.jpg": "/glosariodeterminos/static/media/innerHTMLJavaScript.a1771aa58a104b270322.jpg",
     "static/media/localStorageSessionStoragejavaScript.jpg": "/glosariodeterminos/static/media/localStorageSessionStoragejavaScript.5eeda95626e57fd9dc45.jpg",
@@ -184,6 +186,7 @@
     "static/media/CasoUso.jpg": "/glosariodeterminos/static/media/CasoUso.f67f63bf4fc6f58f6fe4.jpg",
     "static/media/MindsetDesignThinking.jpg": "/glosariodeterminos/static/media/MindsetDesignThinking.6aa0c7074ab08e449397.jpg",
     "static/media/ReactRouterJS.jpg": "/glosariodeterminos/static/media/ReactRouterJS.4fa84e4a42bc4f02a815.jpg",
+    "static/media/InstalacionLibreriaLog4jPOP.jpg": "/glosariodeterminos/static/media/InstalacionLibreriaLog4jPOP.c6c7f5feb6ecede14319.jpg",
     "static/media/ListaDeComponentesReactJS.jpg": "/glosariodeterminos/static/media/ListaDeComponentesReactJS.fa8f55d287ca834f9db0.jpg",
     "static/media/DockerMac.pdf": "/glosariodeterminos/static/media/DockerMac.47dbaa10713750744bc4.pdf",
     "static/media/EventTecladoJavaScript.jpg": "/glosariodeterminos/static/media/EventTecladoJavaScript.f1badf919b047fe382c6.jpg",
@@ -269,6 +272,7 @@
     "static/media/readFileSync.jpg": "/glosariodeterminos/static/media/readFileSync.447ca574137bcf79cfd5.jpg",
     "static/media/InstalacionMaquinavirtuallinuxvagrant.pdf": "/glosariodeterminos/static/media/InstalacionMaquinavirtuallinuxvagrant.9b737851e580b8418730.pdf",
     "static/media/briefUX-UI.jpg": "/glosariodeterminos/static/media/briefUX-UI.3489094ed5723b096826.jpg",
+    "static/media/LibreriaLog4jPOP.pdf": "/glosariodeterminos/static/media/LibreriaLog4jPOP.40afd40de2a30258248f.pdf",
     "static/media/onloadJavaScript.jpg": "/glosariodeterminos/static/media/onloadJavaScript.6933c572099324e25e21.jpg",
     "static/media/chmodLinux.jpg": "/glosariodeterminos/static/media/chmodLinux.e390d4271c4fef1c4d7e.jpg",
     "static/media/killLinux.jpg": "/glosariodeterminos/static/media/killLinux.cd0e8e8401fe71ea422f.jpg",
@@ -586,6 +590,7 @@
     "static/media/mouseoutJavaScript.txt": "/glosariodeterminos/static/media/mouseoutJavaScript.a498150dc771a2f3c364.txt",
     "static/media/IfPowerShellC.txt": "/glosariodeterminos/static/media/IfPowerShellC.5b4ec8e7ab70be6c075f.txt",
     "static/media/TestearEvaluar.txt": "/glosariodeterminos/static/media/TestearEvaluar.ac0a0a810d78f6f947ad.txt",
+    "static/media/log4j.properties.txt": "/glosariodeterminos/static/media/log4j.properties.e37c521964a302006fc3.txt",
     "static/media/readLinux.txt": "/glosariodeterminos/static/media/readLinux.14f24eeb81f2d1f567d2.txt",
     "static/media/confirmJavaScript.txt": "/glosariodeterminos/static/media/confirmJavaScript.e57ea100f84555042551.txt",
     "static/media/splitJavaScript.txt": "/glosariodeterminos/static/media/splitJavaScript.b45b9bf5a88e406c89c3.txt",
@@ -800,8 +805,10 @@
     "static/media/HerenciaJava.txt": "/glosariodeterminos/static/media/HerenciaJava.31d6cfe0d16ae931b73c.txt",
     "static/media/IaaSInfraestruturaI.txt": "/glosariodeterminos/static/media/IaaSInfraestruturaI.31d6cfe0d16ae931b73c.txt",
     "static/media/ImplementacionPrueba.txt": "/glosariodeterminos/static/media/ImplementacionPrueba.31d6cfe0d16ae931b73c.txt",
+    "static/media/InstalacionLibreriaLog4jPOP.txt": "/glosariodeterminos/static/media/InstalacionLibreriaLog4jPOP.31d6cfe0d16ae931b73c.txt",
     "static/media/InstalacionMaquinavirtuallinuxvagrant.txt": "/glosariodeterminos/static/media/InstalacionMaquinavirtuallinuxvagrant.31d6cfe0d16ae931b73c.txt",
     "static/media/InstalacionPop.txt": "/glosariodeterminos/static/media/InstalacionPop.31d6cfe0d16ae931b73c.txt",
+    "static/media/LibreriaLog4jPOP.txt": "/glosariodeterminos/static/media/LibreriaLog4jPOP.31d6cfe0d16ae931b73c.txt",
     "static/media/MaquinasVirtualesNubeInfraestruturaI.txt": "/glosariodeterminos/static/media/MaquinasVirtualesNubeInfraestruturaI.31d6cfe0d16ae931b73c.txt",
     "static/media/MatchersJest.txt": "/glosariodeterminos/static/media/MatchersJest.31d6cfe0d16ae931b73c.txt",
     "static/media/MejoresPracticasDocker.txt": "/glosariodeterminos/static/media/MejoresPracticasDocker.31d6cfe0d16ae931b73c.txt",
@@ -819,6 +826,7 @@
     "static/media/PatronComposite.txt": "/glosariodeterminos/static/media/PatronComposite.31d6cfe0d16ae931b73c.txt",
     "static/media/PatronDisenoObject.txt": "/glosariodeterminos/static/media/PatronDisenoObject.31d6cfe0d16ae931b73c.txt",
     "static/media/PatronDisenoScreenplay.txt": "/glosariodeterminos/static/media/PatronDisenoScreenplay.31d6cfe0d16ae931b73c.txt",
+    "static/media/PatronFacadePOP.txt": "/glosariodeterminos/static/media/PatronFacadePOP.31d6cfe0d16ae931b73c.txt",
     "static/media/PatronFactory4.txt": "/glosariodeterminos/static/media/PatronFactory4.31d6cfe0d16ae931b73c.txt",
     "static/media/PatronFlyweight.pdf": "/glosariodeterminos/static/media/PatronFlyweight.31d6cfe0d16ae931b73c.pdf",
     "static/media/PatronFlyweight.txt": "/glosariodeterminos/static/media/PatronFlyweight.31d6cfe0d16ae931b73c.txt",
@@ -870,10 +878,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.858aca22.js.map": "/glosariodeterminos/static/js/main.858aca22.js.map"
+    "main.d55b6144.js.map": "/glosariodeterminos/static/js/main.d55b6144.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.858aca22.js"
+    "static/js/main.d55b6144.js"
   ]
 }
