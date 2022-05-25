@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.d55b6144.js",
+    "main.js": "/glosariodeterminos/static/js/main.563abe27.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -109,6 +109,7 @@
     "static/media/reduce.jpg": "/glosariodeterminos/static/media/reduce.d0ee7393a897ea04cff6.jpg",
     "static/media/MetodosClase.jpg": "/glosariodeterminos/static/media/MetodosClase.0bbe133cbae66885067f.jpg",
     "static/media/AjaxRequestResponseJavaScript.jpg": "/glosariodeterminos/static/media/AjaxRequestResponseJavaScript.a68a08a7706187fd6ace.jpg",
+    "static/media/InstalacionLibreriaLog4jPOP.jpg": "/glosariodeterminos/static/media/InstalacionLibreriaLog4jPOP.f4e1b400c9f03f3584f1.jpg",
     "static/media/funcionesConstructoras.jpg": "/glosariodeterminos/static/media/funcionesConstructoras.1372c0d5292b7e0570d8.jpg",
     "static/media/Scanner.jpg": "/glosariodeterminos/static/media/Scanner.6cd65eb37646a4caa2d4.jpg",
     "static/media/EncapsulamientoJava.jpg": "/glosariodeterminos/static/media/EncapsulamientoJava.b3d68144160f63ad8b65.jpg",
@@ -186,7 +187,6 @@
     "static/media/CasoUso.jpg": "/glosariodeterminos/static/media/CasoUso.f67f63bf4fc6f58f6fe4.jpg",
     "static/media/MindsetDesignThinking.jpg": "/glosariodeterminos/static/media/MindsetDesignThinking.6aa0c7074ab08e449397.jpg",
     "static/media/ReactRouterJS.jpg": "/glosariodeterminos/static/media/ReactRouterJS.4fa84e4a42bc4f02a815.jpg",
-    "static/media/InstalacionLibreriaLog4jPOP.jpg": "/glosariodeterminos/static/media/InstalacionLibreriaLog4jPOP.c6c7f5feb6ecede14319.jpg",
     "static/media/ListaDeComponentesReactJS.jpg": "/glosariodeterminos/static/media/ListaDeComponentesReactJS.fa8f55d287ca834f9db0.jpg",
     "static/media/DockerMac.pdf": "/glosariodeterminos/static/media/DockerMac.47dbaa10713750744bc4.pdf",
     "static/media/EventTecladoJavaScript.jpg": "/glosariodeterminos/static/media/EventTecladoJavaScript.f1badf919b047fe382c6.jpg",
@@ -878,10 +878,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.d55b6144.js.map": "/glosariodeterminos/static/js/main.d55b6144.js.map"
+    "main.563abe27.js.map": "/glosariodeterminos/static/js/main.563abe27.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.d55b6144.js"
+    "static/js/main.563abe27.js"
   ]
 }
