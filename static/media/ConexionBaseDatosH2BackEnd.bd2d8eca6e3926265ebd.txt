@@ -1,0 +1,48 @@
+//***********************************************************************************//
+DROP TABLE IF EXISTS TEST;
+
+CREATE TABLE TEST(ID INT PRIMARY KEY, NAME VARCHAR(255));
+
+//***********************************************************************************//
+
+package ConexionBaseDatos;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
+public class TestLog {
+    public static void main(String[] args) throws Exception {
+
+        //Crear la conexion a la base de datos
+        Class.forName("org.h2.Driver").newInstance(); // instancia del driver
+        Connection con = DriverManager.getConnection("jdbc:h2:" + "./Database/my", "root", "myPassword"); //objeto conexion
+        Statement stmt = con.createStatement(); // Crear objetos Statement
+
+        //Código para crear una tabla. Elimina la tabla si esta ya existe y la vuelve a crear
+        String createtable = "DROP TABLE IF EXISTS TEST; CREATE TABLE TEST(ID INT PRIMARY KEY, NAME VARCHAR(255))";
+        stmt.execute(createtable); //Ejecutar SQL
+
+        //Insertar datos a la tabla creada previamente
+        String insertarFila1 = "INSERT INTO TEST VALUES(1, 'Hello')";
+        String insertarFila2 = "INSERT INTO TEST VALUES(2, 'World')";
+        stmt.execute(insertarFila1); //Ejecutar SQL
+        stmt.execute(insertarFila2); //Ejecutar SQL
+
+
+        //Codigo para consultar todos los registros de la tabla TEST
+        String sql = "select * from TEST";
+        ResultSet resultado = stmt.executeQuery(sql); // nos devuelve un objeto de tipo ResultSet
+
+        //Código para recorrer el resultado de la consulta
+        while(resultado.next()) {
+            System.out.println(resultado.getInt(1) + resultado.getString(2));
+        }
+
+
+    }
+}
+
+//***********************************************************************************//
+//***********************************************************************************//
