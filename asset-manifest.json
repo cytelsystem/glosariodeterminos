@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.afaa3a26.js",
+    "main.js": "/glosariodeterminos/static/js/main.293aadeb.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -515,7 +515,7 @@
     "static/media/NumerosPrimosJava.txt": "/glosariodeterminos/static/media/NumerosPrimosJava.5df72fa5ec237e70768d.txt",
     "static/media/equalsObject.txt": "/glosariodeterminos/static/media/equalsObject.ea939f70b277e84123b4.txt",
     "static/media/PatronProxy.txt": "/glosariodeterminos/static/media/PatronProxy.a95e4cbec6384ff2d7ae.txt",
-    "static/media/ConexionBaseDatosH2BackEnd.txt": "/glosariodeterminos/static/media/ConexionBaseDatosH2BackEnd.bd2d8eca6e3926265ebd.txt",
+    "static/media/ConexionBaseDatosH2BackEnd.txt": "/glosariodeterminos/static/media/ConexionBaseDatosH2BackEnd.d8ddf75ed7276e2afea1.txt",
     "static/media/TryCatchFinallyScript.txt": "/glosariodeterminos/static/media/TryCatchFinallyScript.42ca91bf1cbcbdbc1548.txt",
     "static/media/json.txt": "/glosariodeterminos/static/media/json.7b38cc60ca329a229357.txt",
     "static/media/PROCEDURE.txt": "/glosariodeterminos/static/media/PROCEDURE.306f7591cdf36cc93d4f.txt",
@@ -884,10 +884,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.afaa3a26.js.map": "/glosariodeterminos/static/js/main.afaa3a26.js.map"
+    "main.293aadeb.js.map": "/glosariodeterminos/static/js/main.293aadeb.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.afaa3a26.js"
+    "static/js/main.293aadeb.js"
   ]
 }
