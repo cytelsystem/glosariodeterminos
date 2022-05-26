@@ -49,7 +49,7 @@
             "name": "Conexion a base de datos H2 relacional",
             "detalle": "Instalacion de base de datos h2 en windows",
             "ejemplo1": "ConexionBaseDatosH2BackEnd.jpg",
-            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo2": "ConexionBaseDatosH2BackEnd.txt",
             "ejemplo3": "NoHayInformacion.jpg"
         }
 
