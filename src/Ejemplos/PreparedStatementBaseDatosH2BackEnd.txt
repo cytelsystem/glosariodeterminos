@@ -1,0 +1,52 @@
+//********************************************************************************************//
+
+Update
+Ahora veremos cómo ejecutar un update.
+
+Para ello debemos preparar una query y agregarle el símbolo ? donde vamos a reemplazar el dato. El método executeUpdate() devuelve un entero indicando el número de filas afectadas por la modificación. Por ejemplo:
+
+UPDATE PERSONAS SET NOMBRE=? WHERE APELLIDO=?
+
+
+//********************************Update*******************************************//
+
+String query = ("UPDATE PERSONAS SET NOMBRE=? WHERE APELLIDO=?”);
+try (PreparedStatement pstmt = con.prepareStatement(query)) {
+
+pstmt.setString(1, Mariano");
+pstmt.setString(2, "Martinez");
+pstmt.executeUpdate();
+
+}
+catch (SQLException ex) {
+
+}
+
+//*******************************Insert*****************************************************//
+
+String query = ("INSERT INTO PERSONAS (NOMBRE, APELLIDO) VALUES (?,?));
+try (PreparedStatement pstmt = con.prepareStatement(query)) {
+
+pstmt.setString(1, Mariano");
+pstmt.setString(2, "Martinez");
+pstmt.executeUpdate();
+
+}
+catch (SQLException ex) {
+
+}
+
+//**********************************Delete*********************************************//
+
+String query = ("DELETE FROM PERSONAS WHERE APELLIDO=?);
+try (PreparedStatement pstmt = con.prepareStatement(query)) {
+
+pstmt.setString(1, Mariano");
+pstmt.executeUpdate();
+
+}
+catch (SQLException ex) {
+
+}
+
+//********************************************************************************************//

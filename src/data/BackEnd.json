@@ -51,6 +51,46 @@
             "ejemplo1": "ConexionBaseDatosH2BackEnd.jpg",
             "ejemplo2": "ConexionBaseDatosH2BackEnd.txt",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Consulta Sencilla base de datos",
+            "detalle": "Consulta basica a base de datos h2",
+            "ejemplo1": "ConsultaSencillaBaseDatosH2BackEnd.jpg",
+            "ejemplo2": "ConsultaSencillaBaseDatosH2BackEnd.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Transaccion",
+            "detalle": "Conjunto de operaciones en una base de datos que deben ejecutarse como una unidad. Si una de las operaciones tiene un error obtenemos un rollback() volviendo al estado anterior  ",
+            "ejemplo1": "TransaccionBaseDatosH2BackEnd.jpg",
+            "ejemplo2": "TransaccionBaseDatosH2BackEnd.txt",
+            "ejemplo3": "TransaccionBaseDatosH2BackEnd.pdf"
+        },
+        {
+            "id": 9,
+            "name": "Statement",
+            "detalle": "Statement",
+            "ejemplo1": "StatementBaseDatosH2BackEnd.jpg",
+            "ejemplo2": "StatementBaseDatosH2BackEnd.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 10,
+            "name": "PreparedStatement",
+            "detalle": "PreparedStatement",
+            "ejemplo1": "PreparedStatementBaseDatosH2BackEnd.jpg",
+            "ejemplo2": "PreparedStatementBaseDatosH2BackEnd.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 11,
+            "name": "stored procedures",
+            "detalle": "Procedimiento almacenado en JDBC",
+            "ejemplo1": "storedProceduresBaseDatosH2BackEnd.jpg",
+            "ejemplo2": "storedProceduresBaseDatosH2BackEnd.txt",
+            "ejemplo3": "storedProceduresBaseDatosH2BackEnd.pdf"
         }
 
 
