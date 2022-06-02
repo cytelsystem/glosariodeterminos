@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.65899fee.js",
+    "main.js": "/glosariodeterminos/static/js/main.89e9b542.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -130,6 +130,7 @@
     "static/media/LoadBalancerAWSImplementacionInfraestructuraI.pdf": "/glosariodeterminos/static/media/LoadBalancerAWSImplementacionInfraestructuraI.6d2310405aafe94eae53.pdf",
     "static/media/VariablesEntornoPostman.jpg": "/glosariodeterminos/static/media/VariablesEntornoPostman.b90e63f69269de7da5b1.jpg",
     "static/media/TiposFuncionesJavaScript.jpg": "/glosariodeterminos/static/media/TiposFuncionesJavaScript.59cd8684c8f97f39702c.jpg",
+    "static/media/ConfiguracionLibreriaJUnit.jpg": "/glosariodeterminos/static/media/ConfiguracionLibreriaJUnit.19a155963ef4458142a2.jpg",
     "static/media/MaquinasVirtualesNubeInfraestruturaI.pdf": "/glosariodeterminos/static/media/MaquinasVirtualesNubeInfraestruturaI.175d6477596067bf92b9.pdf",
     "static/media/PruebasDinamicas.jpg": "/glosariodeterminos/static/media/PruebasDinamicas.2ca6d346bd10c09679f2.jpg",
     "static/media/GoogleCloudInfraestruturaI.jpg": "/glosariodeterminos/static/media/GoogleCloudInfraestruturaI.55e2ef55c521dd7a27de.jpg",
@@ -491,6 +492,7 @@
     "static/media/forLinux.jpg": "/glosariodeterminos/static/media/forLinux.a727a2fa3af314bb09fb.jpg",
     "static/media/prueba.docx": "/glosariodeterminos/static/media/prueba.8409096c718904a6be43.docx",
     "static/media/ServPruebasApiReactJs.txt": "/glosariodeterminos/static/media/ServPruebasApiReactJs.85fb6b196c721810c2fb.txt",
+    "static/media/PreparedStatementBaseDatosH2BackEnd.txt": "/glosariodeterminos/static/media/PreparedStatementBaseDatosH2BackEnd.74b54d14d8291456b07b.txt",
     "static/media/localStorageSessionStoragejavaScript.txt": "/glosariodeterminos/static/media/localStorageSessionStoragejavaScript.e445ae2f491fcf3f89fe.txt",
     "static/media/ApiReactJS.txt": "/glosariodeterminos/static/media/ApiReactJS.289568d2707dfcc07fd3.txt",
     "static/media/vagrantfile.txt": "/glosariodeterminos/static/media/vagrantfile.164b04c3a7afd6f6deb2.txt",
@@ -541,7 +543,6 @@
     "static/media/TemplateLiteralsJavaScript.txt": "/glosariodeterminos/static/media/TemplateLiteralsJavaScript.62e010c0f531a0c6fdea.txt",
     "static/media/ExcepcionesJava.txt": "/glosariodeterminos/static/media/ExcepcionesJava.655b9e5710d68c7613f5.txt",
     "static/media/setAttributeJavaScript.txt": "/glosariodeterminos/static/media/setAttributeJavaScript.9af70600ef993a2c7907.txt",
-    "static/media/PreparedStatementBaseDatosH2BackEnd.txt": "/glosariodeterminos/static/media/PreparedStatementBaseDatosH2BackEnd.c397b2788c0f3ee10ee4.txt",
     "static/media/PropsComponenteReactJS.txt": "/glosariodeterminos/static/media/PropsComponenteReactJS.c765e02709a26ec62723.txt",
     "static/media/classListAddRemoveToggleJavaScript.txt": "/glosariodeterminos/static/media/classListAddRemoveToggleJavaScript.f1b85583c4c91f805ca6.txt",
     "static/media/containerRunDocker.txt": "/glosariodeterminos/static/media/containerRunDocker.6408ba114f7c0c69ff94.txt",
@@ -896,10 +897,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.65899fee.js.map": "/glosariodeterminos/static/js/main.65899fee.js.map"
+    "main.89e9b542.js.map": "/glosariodeterminos/static/js/main.89e9b542.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.65899fee.js"
+    "static/js/main.89e9b542.js"
   ]
 }
