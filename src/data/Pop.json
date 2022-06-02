@@ -478,6 +478,15 @@
             "ejemplo2": "LibreriaLog4jPOP.pdf",
             "ejemplo3": "LibreriaLog4jPOP.txt"
 
+        },
+        {
+            "id": 54,
+            "name": "Patrón Dao (data Access object)",
+            "detalle": "El patrón Data Access Object (DAO) pretende principalmente independizar la aplicación de la forma de acceder a la base de datos",
+            "ejemplo1": "PatronDaoPOP.jpg",
+            "ejemplo2": "PatronDaoPOP.txt",
+            "ejemplo3": "LibreriaLog4jPOP.txt"
+
         }
 
 
