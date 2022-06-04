@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.89e9b542.js",
+    "main.js": "/glosariodeterminos/static/js/main.fafbbc26.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -842,6 +842,7 @@
     "static/media/PaaSInfraestruturaI.txt": "/glosariodeterminos/static/media/PaaSInfraestruturaI.31d6cfe0d16ae931b73c.txt",
     "static/media/PageObjectModel.txt": "/glosariodeterminos/static/media/PageObjectModel.31d6cfe0d16ae931b73c.txt",
     "static/media/PatronComposite.txt": "/glosariodeterminos/static/media/PatronComposite.31d6cfe0d16ae931b73c.txt",
+    "static/media/PatronDaoPOP.txt": "/glosariodeterminos/static/media/PatronDaoPOP.31d6cfe0d16ae931b73c.txt",
     "static/media/PatronDisenoObject.txt": "/glosariodeterminos/static/media/PatronDisenoObject.31d6cfe0d16ae931b73c.txt",
     "static/media/PatronDisenoScreenplay.txt": "/glosariodeterminos/static/media/PatronDisenoScreenplay.31d6cfe0d16ae931b73c.txt",
     "static/media/PatronFacadePOP.txt": "/glosariodeterminos/static/media/PatronFacadePOP.31d6cfe0d16ae931b73c.txt",
@@ -897,10 +898,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.89e9b542.js.map": "/glosariodeterminos/static/js/main.89e9b542.js.map"
+    "main.fafbbc26.js.map": "/glosariodeterminos/static/js/main.fafbbc26.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.89e9b542.js"
+    "static/js/main.fafbbc26.js"
   ]
 }
