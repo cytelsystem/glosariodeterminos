@@ -487,6 +487,60 @@
             "ejemplo2": "PatronDaoPOP.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 55,
+            "name": "ORM (Conexion Bases de datos)",
+            "detalle": "ORM es un mecanismo que permite interactuar con nuestra base de datos sin la necesidad de conocer SQL.",
+            "ejemplo1": "ORMPOP.jpg",
+            "ejemplo2": "ORMPOP.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 56,
+            "name": "JPA (Java persistence API)",
+            "detalle": "Colección de clases y métodos que almacenan de forma persistente grandes cantidades de datos en una BD",
+            "ejemplo1": "JPAPOP.jpg",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 57,
+            "name": "Hibernate (framework ORM) Configuracion",
+            "detalle": "Hibernate es un framework ORM que ayuda a lograr la persistencia de datos",
+            "ejemplo1": "HibernatePOP.jpg",
+            "ejemplo2": "ConfiguracionHibernatePOP.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 58,
+            "name": "Hibernate Anotaciones",
+            "detalle": "@Entity, @Table, @Id, @GeneratedValue y @Columm",
+            "ejemplo1": "HibernateAnotacionesPOP.pdf",
+            "ejemplo2": "HibernateAnotacionesPOP.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 59,
+            "name": "Hibernate Mapeo de Relaciones",
+            "detalle": "Tipos de relaciones y como se representan en Hibernate",
+            "ejemplo1": "HibernateMapeoRelacionesPOP.jpg",
+            "ejemplo2": "HibernateMapeoRelacionesPOP.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 60,
+            "name": "Hibernate JoinColumn, Cascade y Fetch type",
+            "detalle": "tipos de anotaciones importantes en Hibernate",
+            "ejemplo1": "HibernateJoinColumnCascadeFetchPOP.jpg",
+            "ejemplo2": "HibernateJoinColumnCascadeFetchPOP.txt",
+            "ejemplo3": "HibernateJoinColumnCascadeFetchPOP.pdf"
+
         }
 
 
