@@ -42,6 +42,86 @@
             "ejemplo1": "interfazUX-UI.jpg",
             "ejemplo2": "interfazUX-UI.pdf",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Diseño Visual (UI)",
+            "detalle": "Diseñar es resolver problemas",
+            "ejemplo1": "DiseñoVisualUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Estructura",
+            "detalle": "Diseñar implica organizar diferentes elementos gráficos en un espacio determinado. Por eso, hablamos de organizaciones formales.",
+            "ejemplo1": "EstructuraUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 8,
+            "name": "La percepción (Principios de la Gestalt)",
+            "detalle": "teoría de la Gestalt. Hace casi un siglo un equipo de psicólogos alemanes se propuso estudiar cómo nuestra mente percibe las formas",
+            "ejemplo1": "percepcionUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Composicion",
+            "detalle": "La composición es la subordinación interior funcional de los elementos aislados y la construcción, al objetivo pictórico total.",
+            "ejemplo1": "ComposicionUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Color",
+            "detalle": "Existe una relación entre los colores y las sensaciones que transmiten. Esta asociación está basada en factores culturales.",
+            "ejemplo1": "ColorUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Tipografía",
+            "detalle": "componente visual de la palabra escrita",
+            "ejemplo1": "TipografiaUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Diseñar experiencias accesibles",
+            "detalle": "Al poner en práctica el diseño centrado en los usuarios tenemos que asegurarnos de incluir a todo tipo de personas.",
+            "ejemplo1": "DiseñarExperienciasUX-UI.jpg",
+            "ejemplo2": "DiseñarExperienciasUX-UI.pdf",
+            "ejemplo3": "DiseñarExperiencias2UX-UI.pdf"
+        },
+        {
+            "id": 13,
+            "name": "Diseñar una interfaz accesible (Colores y medidas de fuente)",
+            "detalle": "Al poner en práctica el diseño centrado en los usuarios tenemos que asegurarnos de incluir a todo tipo de personas.",
+            "ejemplo1": "DiseñarInterfazAccesibleUX-UI.jpg",
+            "ejemplo2": "DiseñarInterfazAccesibleUX-UI.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Moodboard",
+            "detalle": "Es una colección de elementos y materiales, con la intención de comunicar el estilo, tono, carácter y dirección visual de un proyecto en particular.",
+            "ejemplo1": "MoodboardUX-UI.jpg",
+            "ejemplo2": "MoodboardUX-UI.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Hando ff",
+            "detalle": "Es una colección de elementos y materiales, con la intención de comunicar el estilo, tono, carácter y dirección visual de un proyecto en particular.",
+            "ejemplo1": "HandoffUX-UI.jpg",
+            "ejemplo2": "Handoff1UX-UI.pdf",
+            "ejemplo3": "Handoff2UX-UI.pdf"
         }
 
     ]

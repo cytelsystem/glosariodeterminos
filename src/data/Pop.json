@@ -541,6 +541,15 @@
             "ejemplo2": "HibernateJoinColumnCascadeFetchPOP.txt",
             "ejemplo3": "HibernateJoinColumnCascadeFetchPOP.pdf"
 
+        },
+        {
+            "id": 60,
+            "name": "HQL (Hibernate Query Language)",
+            "detalle": "HQL o Hibernate Query Language es un lenguaje de consultas que proporciona Hibernate similar a SQL Standard.",
+            "ejemplo1": "HQLPOP.jpg",
+            "ejemplo2": "HQLPOP.txt",
+            "ejemplo3": "HQLPOP.pdf"
+
         }
 
 
