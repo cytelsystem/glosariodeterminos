@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.837862ee.js",
+    "main.js": "/glosariodeterminos/static/js/main.a1a6aa01.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -266,6 +266,7 @@
     "static/media/CREATETABLE.jpg": "/glosariodeterminos/static/media/CREATETABLE.f33ef54f2d341ff38edd.jpg",
     "static/media/Date.jpg": "/glosariodeterminos/static/media/Date.892ae39743c139c0b384.jpg",
     "static/media/forOfJavaScript.jpg": "/glosariodeterminos/static/media/forOfJavaScript.b1d090a0858ea7eaaeab.jpg",
+    "static/media/MongoDBdesdeSpringMongoDB.pdf": "/glosariodeterminos/static/media/MongoDBdesdeSpringMongoDB.1e0b79d2e0a719bdcb10.pdf",
     "static/media/Integer.jpg": "/glosariodeterminos/static/media/Integer.e72feaefa6c429fd4989.jpg",
     "static/media/NubeHibrida.pdf": "/glosariodeterminos/static/media/NubeHibrida.988ad53fb84919eaa632.pdf",
     "static/media/DockerWindows.pdf": "/glosariodeterminos/static/media/DockerWindows.43d7006ac0164ad9d948.pdf",
@@ -316,6 +317,7 @@
     "static/media/LibreriaLog4jPOP.pdf": "/glosariodeterminos/static/media/LibreriaLog4jPOP.40afd40de2a30258248f.pdf",
     "static/media/onloadJavaScript.jpg": "/glosariodeterminos/static/media/onloadJavaScript.6933c572099324e25e21.jpg",
     "static/media/chmodLinux.jpg": "/glosariodeterminos/static/media/chmodLinux.e390d4271c4fef1c4d7e.jpg",
+    "static/media/CrearBaseDatosMongoDB.pdf": "/glosariodeterminos/static/media/CrearBaseDatosMongoDB.0e31e0d75c35e1794cb5.pdf",
     "static/media/killLinux.jpg": "/glosariodeterminos/static/media/killLinux.cd0e8e8401fe71ea422f.jpg",
     "static/media/CommandosDeLinux.pdf": "/glosariodeterminos/static/media/CommandosDeLinux.3aa973d353855a8d7891.pdf",
     "static/media/RDSBaseDatosNubefraestructuraI.jpg": "/glosariodeterminos/static/media/RDSBaseDatosNubefraestructuraI.f0872cd754efd6e41536.jpg",
@@ -945,10 +947,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.837862ee.js.map": "/glosariodeterminos/static/js/main.837862ee.js.map"
+    "main.a1a6aa01.js.map": "/glosariodeterminos/static/js/main.a1a6aa01.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.837862ee.js"
+    "static/js/main.a1a6aa01.js"
   ]
 }
