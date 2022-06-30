@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Instalacion MongoDB con Spring Windows",
-      "detalle": "MongoDB es un sistema de base de datos NoSQL orientado a documentos open source.",
+      "detalle": "MongoDB Instalacion en windows y ROBO 3T",
       "ejemplo1": "InstalacionMongoDB.jpg",
       "ejemplo2": "InstalacionMongoDB.txt",
       "ejemplo3": "InstalacionMongoDB.pdf"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "Instalacion MongoDB con Spring linux y Mac",
-      "detalle": "MongoDB es un sistema de base de datos NoSQL orientado a documentos open source.",
+      "detalle": "Instalacion Mongo en Linux y Mac",
       "ejemplo1": "InstalacionLinuxMongoDB.pdf",
       "ejemplo2": "InstalacionMacMongoDB.pdf",
       "ejemplo3": "InstalacionMongoDB.pdf"
@@ -27,9 +27,25 @@
     {
       "id": 4,
       "name": "Anotaciones MongoDB con Spring",
-      "detalle": "MongoDB es un sistema de base de datos NoSQL orientado a documentos open source.",
+      "detalle": "Anotaciones que puedo utilizar en MongoDB",
       "ejemplo1": "AnotacionesMongoDB.jpg",
       "ejemplo2": "AnotacionesMongoDB.txt",
+      "ejemplo3": "NoHayInformacion.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Crear una Base de datos",
+      "detalle": "Crear una base de datos MongoDB",
+      "ejemplo1": "CrearBaseDatosMongoDB.pdf",
+      "ejemplo2": "CrearBaseDatosMongoDB.txt",
+      "ejemplo3": "NoHayInformacion.jpg"
+    },
+    {
+      "id": 6,
+      "name": "MongoDB desde Spring",
+      "detalle": "Trabajar con java e intelliJ desde spring",
+      "ejemplo1": "MongoDBdesdeSpringMongoDB.pdf",
+      "ejemplo2": "CrearBaseDatosMongoDB.txt",
       "ejemplo3": "NoHayInformacion.jpg"
     }
 
