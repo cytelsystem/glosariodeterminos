@@ -22,6 +22,7 @@ import Vagrant from '../pages/Vagrant';
 import DiseñoUXUI from '../pages/DiseñoUXUI';
 import BackEnd from '../pages/BackEnd';
 import JUnit from '../pages/JUnit';
+import MongoDB from '../pages/MongoDB';
 import Layout from './Layout';
 import NotFound from '../pages/NotFound';
 
@@ -53,6 +54,7 @@ function App() {
             <Route exact path="/DiseñoUXUI" component={DiseñoUXUI} />
             <Route exact path="/BackEnd" component={BackEnd} />
             <Route exact path="/JUnit" component={JUnit} />
+            <Route exact path="/MongoDB" component={MongoDB} />
             <Route component={NotFound} />
         </Switch>
       </Layout>

@@ -543,7 +543,7 @@
 
         },
         {
-            "id": 60,
+            "id": 61,
             "name": "HQL (Hibernate Query Language)",
             "detalle": "HQL o Hibernate Query Language es un lenguaje de consultas que proporciona Hibernate similar a SQL Standard.",
             "ejemplo1": "HQLPOP.jpg",
@@ -552,7 +552,7 @@
 
         },
         {
-            "id": 61,
+            "id": 62,
             "name": "Api rest (Anotaciones en el controller)",
             "detalle": "Anotaciones parta manejo del crud en el controller",
             "ejemplo1": "AnotacionesControllerSpringPOP.PDF",
@@ -561,7 +561,7 @@
 
         },
         {
-            "id": 62,
+            "id": 63,
             "name": "Api rest (ResponseEntity)",
             "detalle": "Extiende o hereda de la clase HttpEntity y agrega un HttpStatus código de estado.",
             "ejemplo1": "ResponseEntitySpringPOP.PDF",
@@ -570,7 +570,7 @@
 
         },
         {
-            "id": 63,
+            "id": 64,
             "name": "Tipos de Relaciones DER",
             "detalle": "Al mapear debemos tener en consideración el tipo de datos y sus relaciones. Por defecto, el nombre del objeto persistido se convierte en el nombre de la tabla y los atributos se convierten en columnas. Una vez que la tabla está creada, cada registro corresponde a un objeto.",
             "ejemplo1": "TiposRelacionesDERSpringPOP.jpg",
