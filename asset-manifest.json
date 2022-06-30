@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.bb98ed93.js",
+    "main.js": "/glosariodeterminos/static/js/main.837862ee.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -55,6 +55,7 @@
     "static/media/jqLinux.jpg": "/glosariodeterminos/static/media/jqLinux.93e3dce16e486778378c.jpg",
     "static/media/CicloVidaComponenteReactJS.jpg": "/glosariodeterminos/static/media/CicloVidaComponenteReactJS.123a30e2c1078206f327.jpg",
     "static/media/unitTest.jpg": "/glosariodeterminos/static/media/unitTest.87290326b97755ac3c9b.jpg",
+    "static/media/InstalacionLinuxMongoDB.pdf": "/glosariodeterminos/static/media/InstalacionLinuxMongoDB.c2acabcb97e138a26e4b.pdf",
     "static/media/LoadBalancerAWSInfraestructuraI.jpg": "/glosariodeterminos/static/media/LoadBalancerAWSInfraestructuraI.bfe3f9aa8870c39a0326.jpg",
     "static/media/Switch.jpg": "/glosariodeterminos/static/media/Switch.6950a1981c8508b031cc.jpg",
     "static/media/InstalacionPython.jpg": "/glosariodeterminos/static/media/InstalacionPython.7cc69845626e556d8e96.jpg",
@@ -85,6 +86,7 @@
     "static/media/FrameworksUnit.jpg": "/glosariodeterminos/static/media/FrameworksUnit.5d1963b5c75d0a99d3e2.jpg",
     "static/media/DebuggingVisualSC.jpg": "/glosariodeterminos/static/media/DebuggingVisualSC.330ed9d56a3c8e12d346.jpg",
     "static/media/PatronCadenaResponsabilidad.jpg": "/glosariodeterminos/static/media/PatronCadenaResponsabilidad.41bb1890915b0fc44716.jpg",
+    "static/media/InstalacionMacMongoDB.pdf": "/glosariodeterminos/static/media/InstalacionMacMongoDB.01a01eef7df9297bd9d1.pdf",
     "static/media/AWSDynamoDBBaseDatosNubefraestructuraI.jpg": "/glosariodeterminos/static/media/AWSDynamoDBBaseDatosNubefraestructuraI.e32f2f79e221ac397dea.jpg",
     "static/media/ArrowFunctions.jpg": "/glosariodeterminos/static/media/ArrowFunctions.60891114755063e505ad.jpg",
     "static/media/INDICES.jpg": "/glosariodeterminos/static/media/INDICES.cf5e9a570663f842168c.jpg",
@@ -197,6 +199,7 @@
     "static/media/ObtenerElementosColeccion.jpg": "/glosariodeterminos/static/media/ObtenerElementosColeccion.b246435abe0baf5eee36.jpg",
     "static/media/innerTextJavaScript.jpg": "/glosariodeterminos/static/media/innerTextJavaScript.877fdea6c07a6657df64.jpg",
     "static/media/String.jpg": "/glosariodeterminos/static/media/String.a4c18a201b823a673dbc.jpg",
+    "static/media/MongoDB.jpg": "/glosariodeterminos/static/media/MongoDB.1a1539c42fb8d8f066df.jpg",
     "static/media/nanoLinux.jpg": "/glosariodeterminos/static/media/nanoLinux.41842f7f978f308f2261.jpg",
     "static/media/storedProceduresBaseDatosH2BackEnd.jpg": "/glosariodeterminos/static/media/storedProceduresBaseDatosH2BackEnd.d0105894af347bf15b50.jpg",
     "static/media/formFormScript.jpg": "/glosariodeterminos/static/media/formFormScript.69ea5b9cf000176ba270.jpg",
@@ -219,10 +222,12 @@
     "static/media/interfazUX-UI.jpg": "/glosariodeterminos/static/media/interfazUX-UI.e49d5a6494233e690642.jpg",
     "static/media/InstalacionVirtualBVagrant(Windows).pdf": "/glosariodeterminos/static/media/InstalacionVirtualBVagrant(Windows).9f5dd72f8aa16326f427.pdf",
     "static/media/Sin título.jpg": "/glosariodeterminos/static/media/Sin título.9d87ae3847e08ae58aae.jpg",
+    "static/media/InstalacionMongoDB.jpg": "/glosariodeterminos/static/media/InstalacionMongoDB.c0bc72667707d47f0985.jpg",
     "static/media/DebuggingVSTesting.jpg": "/glosariodeterminos/static/media/DebuggingVSTesting.3c10b3d19fb4e18f06c6.jpg",
     "static/media/VISTA.jpg": "/glosariodeterminos/static/media/VISTA.a0913f44ec5152159eb8.jpg",
     "static/media/InstalacionVirtualBoxVagrant(Linux).pdf": "/glosariodeterminos/static/media/InstalacionVirtualBoxVagrant(Linux).27023cd44d9166111ef5.pdf",
     "static/media/InstalacionCrearVMVirtualBox.pdf": "/glosariodeterminos/static/media/InstalacionCrearVMVirtualBox.46f65b35fdbc70a013e4.pdf",
+    "static/media/InstalacionMongoDB.pdf": "/glosariodeterminos/static/media/InstalacionMongoDB.905fefbba13332680525.pdf",
     "static/media/VpcAWS-InfraestructuraI.pdf": "/glosariodeterminos/static/media/VpcAWS-InfraestructuraI.1956e633ce4ac3299949.pdf",
     "static/media/UnitTestcoverage.pdf": "/glosariodeterminos/static/media/UnitTestcoverage.79acb8640027adf14292.pdf",
     "static/media/DockerNetworking.pdf": "/glosariodeterminos/static/media/DockerNetworking.525b63d3b9d42008ca1a.pdf",
@@ -345,6 +350,7 @@
     "static/media/HAVING.jpg": "/glosariodeterminos/static/media/HAVING.8ada174c9137eb602e69.jpg",
     "static/media/MathJavaScript.jpg": "/glosariodeterminos/static/media/MathJavaScript.7e0b651eed18018d3747.jpg",
     "static/media/DockerCompose.jpg": "/glosariodeterminos/static/media/DockerCompose.5be94e47d0198402704c.jpg",
+    "static/media/AnotacionesMongoDB.jpg": "/glosariodeterminos/static/media/AnotacionesMongoDB.374b0af5f9801833d15f.jpg",
     "static/media/getAttributeJavaScript.jpg": "/glosariodeterminos/static/media/getAttributeJavaScript.33c2347051e8257aadc4.jpg",
     "static/media/codigosRespuestaPostman.jpg": "/glosariodeterminos/static/media/codigosRespuestaPostman.fd0c5aca3fe09a099497.jpg",
     "static/media/TemplateTesting.jpg": "/glosariodeterminos/static/media/TemplateTesting.e90808ae380882023893.jpg",
@@ -599,6 +605,7 @@
     "static/media/changeFormScript.txt": "/glosariodeterminos/static/media/changeFormScript.01b6e0552546da975603.txt",
     "static/media/EventTecladoJavaScript.txt": "/glosariodeterminos/static/media/EventTecladoJavaScript.7cf12a5e2753700ae8eb.txt",
     "static/media/Ciclovidadefecto.txt": "/glosariodeterminos/static/media/Ciclovidadefecto.1efd3d09a89d5726e4e0.txt",
+    "static/media/AnotacionesMongoDB.txt": "/glosariodeterminos/static/media/AnotacionesMongoDB.2c7bdecfe6ade2b74aca.txt",
     "static/media/dblclickJavaScript.txt": "/glosariodeterminos/static/media/dblclickJavaScript.086e2cd30b3255dc019d.txt",
     "static/media/InstalacionHashMd5.txt": "/glosariodeterminos/static/media/InstalacionHashMd5.f1cc732204ad3391910e.txt",
     "static/media/forLinux.txt": "/glosariodeterminos/static/media/forLinux.dcbf365b541a4cae755f.txt",
@@ -730,6 +737,7 @@
     "static/media/CvidaPsoftware.txt": "/glosariodeterminos/static/media/CvidaPsoftware.4c2b67b0b95468022f0b.txt",
     "static/media/join.txt": "/glosariodeterminos/static/media/join.efc52e9b59fd7f753d67.txt",
     "static/media/includes.txt": "/glosariodeterminos/static/media/includes.e29c88089a0126f5be91.txt",
+    "static/media/InstalacionMongoDB.txt": "/glosariodeterminos/static/media/InstalacionMongoDB.557d1c000f19c6665c3e.txt",
     "static/media/PruebasHumo.txt": "/glosariodeterminos/static/media/PruebasHumo.83bc75c2a0753532ca0e.txt",
     "static/media/CONCAT.txt": "/glosariodeterminos/static/media/CONCAT.6256e09cfee3ad5b4b30.txt",
     "static/media/formFormScript.txt": "/glosariodeterminos/static/media/formFormScript.e380863caccabce75a75.txt",
@@ -937,10 +945,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.bb98ed93.js.map": "/glosariodeterminos/static/js/main.bb98ed93.js.map"
+    "main.837862ee.js.map": "/glosariodeterminos/static/js/main.837862ee.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.bb98ed93.js"
+    "static/js/main.837862ee.js"
   ]
 }
