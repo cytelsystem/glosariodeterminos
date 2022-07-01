@@ -47,6 +47,14 @@
       "ejemplo1": "MongoDBdesdeSpringMongoDB.pdf",
       "ejemplo2": "CrearBaseDatosMongoDB.txt",
       "ejemplo3": "NoHayInformacion.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Proyecto Paqueteria Java y MongoDB",
+      "detalle": "Paqueteria con java Spring base de datos MongoDB",
+      "ejemplo1": "PomProPaqueteriaMongoDB.txt",
+      "ejemplo2": "ProPaqueteriaMongoDB.txt",
+      "ejemplo3": "NoHayInformacion.jpg"
     }
 
   ]

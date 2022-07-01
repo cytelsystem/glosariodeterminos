@@ -122,6 +122,38 @@
             "ejemplo1": "HandoffUX-UI.jpg",
             "ejemplo2": "Handoff1UX-UI.pdf",
             "ejemplo3": "Handoff2UX-UI.pdf"
+        },
+        {
+            "id": 16,
+            "name": "Usabilidad",
+            "detalle": "La usabilidad es un atributo de calidad que evalúa la facilidad de uso de las interfaces de usuario. La palabra “usabilidad” también se refiere a métodos para mejorar la facilidad de uso durante el proceso de diseño.",
+            "ejemplo1": "UsabilidadUX-UI.jpg",
+            "ejemplo2": "UsabilidadUX-UI.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Usabilidad verbal",
+            "detalle": "La usabilidad es un atributo de calidad que evalúa la facilidad de uso de las interfaces de usuario. La palabra “usabilidad” también se refiere a métodos para mejorar la facilidad de uso durante el proceso de diseño.",
+            "ejemplo1": "UsabilidadverbalUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Usabilidad Affordances",
+            "detalle": "La usabilidad es un atributo de calidad que evalúa la facilidad de uso de las interfaces de usuario. La palabra “usabilidad” también se refiere a métodos para mejorar la facilidad de uso durante el proceso de diseño.",
+            "ejemplo1": "UsabilidadAffordancesUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Usabilidad Comunicación visual",
+            "detalle": "La usabilidad es un atributo de calidad que evalúa la facilidad de uso de las interfaces de usuario. La palabra “usabilidad” también se refiere a métodos para mejorar la facilidad de uso durante el proceso de diseño.",
+            "ejemplo1": "UsabilidadComunicacionvisualUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
         }
 
     ]
