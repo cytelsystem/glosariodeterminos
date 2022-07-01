@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.a1a6aa01.js",
+    "main.js": "/glosariodeterminos/static/js/main.6b0c9c60.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -24,6 +24,7 @@
     "static/media/MoodboardUX-UI.pdf": "/glosariodeterminos/static/media/MoodboardUX-UI.fccb4e0d8b1ab6e1f413.pdf",
     "static/media/PaaSInfraestruturaI.jpg": "/glosariodeterminos/static/media/PaaSInfraestruturaI.5cab320e8f74b692b92e.jpg",
     "static/media/SeleniumIDE.jpg": "/glosariodeterminos/static/media/SeleniumIDE.a2f8585df89bd59ad489.jpg",
+    "static/media/UsabilidadAffordancesUX-UI.pdf": "/glosariodeterminos/static/media/UsabilidadAffordancesUX-UI.127ee6a06a0c87e084ed.pdf",
     "static/media/APICreacionPruebasJS.jpg": "/glosariodeterminos/static/media/APICreacionPruebasJS.77e8c764f0cbd62658b9.jpg",
     "static/media/PruebasEstaticas.jpg": "/glosariodeterminos/static/media/PruebasEstaticas.682efead656c71b52518.jpg",
     "static/media/ExcepcionesJava.jpg": "/glosariodeterminos/static/media/ExcepcionesJava.f9e1fd1d1f8dde54db91.jpg",
@@ -131,6 +132,8 @@
     "static/media/EncapsulamientoJava.jpg": "/glosariodeterminos/static/media/EncapsulamientoJava.b3d68144160f63ad8b65.jpg",
     "static/media/toString.jpg": "/glosariodeterminos/static/media/toString.133ebef4978d103a23fb.jpg",
     "static/media/BaseDatosNubefraestructuraI.jpg": "/glosariodeterminos/static/media/BaseDatosNubefraestructuraI.7c9c33d9ef7acd97694d.jpg",
+    "static/media/UsabilidadComunicacionvisualUX-UI.pdf": "/glosariodeterminos/static/media/UsabilidadComunicacionvisualUX-UI.d294b160bc0d96e05d77.pdf",
+    "static/media/UsabilidadUX-UI.pdf": "/glosariodeterminos/static/media/UsabilidadUX-UI.4db780774b4369bd66a7.pdf",
     "static/media/ConvergenciaDivergenciaUX-UI.jpg": "/glosariodeterminos/static/media/ConvergenciaDivergenciaUX-UI.d2553aca7a2a20ff102c.jpg",
     "static/media/AWSEducateInfraestructuraI.pdf": "/glosariodeterminos/static/media/AWSEducateInfraestructuraI.9bbb81b298649eb314ca.pdf",
     "static/media/AmazonEC2InfraestruturaI.pdf": "/glosariodeterminos/static/media/AmazonEC2InfraestruturaI.9bbb81b298649eb314ca.pdf",
@@ -164,6 +167,7 @@
     "static/media/AnsibleEnAccionInfraestructuraI.pdf": "/glosariodeterminos/static/media/AnsibleEnAccionInfraestructuraI.8ae344ddbf1468da5ca8.pdf",
     "static/media/informetesting.jpg": "/glosariodeterminos/static/media/informetesting.9e46a697a80f61e31c4a.jpg",
     "static/media/ParticionEquivalencia.jpg": "/glosariodeterminos/static/media/ParticionEquivalencia.57fc7592e5d16eef29d0.jpg",
+    "static/media/UsabilidadverbalUX-UI.pdf": "/glosariodeterminos/static/media/UsabilidadverbalUX-UI.a1f592a52c6d6666563b.pdf",
     "static/media/installBootstrapReactJS.jpg": "/glosariodeterminos/static/media/installBootstrapReactJS.9b0ed677e419c6466777.jpg",
     "static/media/TryCatchFinallyScript.jpg": "/glosariodeterminos/static/media/TryCatchFinallyScript.a5d785fb3646df5a8836.jpg",
     "static/media/SobreCarga.jpg": "/glosariodeterminos/static/media/SobreCarga.002b1b3bbc65f6cfe1b2.jpg",
@@ -431,6 +435,7 @@
     "static/media/VariablesClase.jpg": "/glosariodeterminos/static/media/VariablesClase.627af1ae98c6612d3317.jpg",
     "static/media/typeof.jpg": "/glosariodeterminos/static/media/typeof.fb2da2228a90632052e0.jpg",
     "static/media/mouseoutJavaScript.jpg": "/glosariodeterminos/static/media/mouseoutJavaScript.b7fc8525497b259beac5.jpg",
+    "static/media/UsabilidadUX-UI.jpg": "/glosariodeterminos/static/media/UsabilidadUX-UI.5b4369abfb33e76468e0.jpg",
     "static/media/TextareaJavaScript.jpg": "/glosariodeterminos/static/media/TextareaJavaScript.c71563e6d544dcc7b41d.jpg",
     "static/media/Ciclovidadefecto.jpg": "/glosariodeterminos/static/media/Ciclovidadefecto.02c77667b1d92d3b6eeb.jpg",
     "static/media/TiposErrores.jpg": "/glosariodeterminos/static/media/TiposErrores.d128048394901951a246.jpg",
@@ -531,6 +536,7 @@
     "static/media/TRUNCATE.jpg": "/glosariodeterminos/static/media/TRUNCATE.0a19007d95f0f126cf08.jpg",
     "static/media/forLinux.jpg": "/glosariodeterminos/static/media/forLinux.a727a2fa3af314bb09fb.jpg",
     "static/media/prueba.docx": "/glosariodeterminos/static/media/prueba.8409096c718904a6be43.docx",
+    "static/media/ProPaqueteriaMongoDB.txt": "/glosariodeterminos/static/media/ProPaqueteriaMongoDB.212469abb448983f9bbb.txt",
     "static/media/ServPruebasApiReactJs.txt": "/glosariodeterminos/static/media/ServPruebasApiReactJs.85fb6b196c721810c2fb.txt",
     "static/media/PreparedStatementBaseDatosH2BackEnd.txt": "/glosariodeterminos/static/media/PreparedStatementBaseDatosH2BackEnd.74b54d14d8291456b07b.txt",
     "static/media/localStorageSessionStoragejavaScript.txt": "/glosariodeterminos/static/media/localStorageSessionStoragejavaScript.e445ae2f491fcf3f89fe.txt",
@@ -545,6 +551,7 @@
     "static/media/createElementJavaScript.txt": "/glosariodeterminos/static/media/createElementJavaScript.987bb1d2649c4715aacc.txt",
     "static/media/CicloVidaComponenteReactJS.txt": "/glosariodeterminos/static/media/CicloVidaComponenteReactJS.690e30124713fcdbd569.txt",
     "static/media/CrearColeccion.txt": "/glosariodeterminos/static/media/CrearColeccion.fc514a0f656c52997084.txt",
+    "static/media/PomProPaqueteriaMongoDB.txt": "/glosariodeterminos/static/media/PomProPaqueteriaMongoDB.60128d3b08c1ed95abdd.txt",
     "static/media/LevantamientoEstadoReactJS.txt": "/glosariodeterminos/static/media/LevantamientoEstadoReactJS.7c1d61a8667f519d5c36.txt",
     "static/media/installBootstrapReactJS.txt": "/glosariodeterminos/static/media/installBootstrapReactJS.d0f089538805b4db8c8b.txt",
     "static/media/PatronObserver.txt": "/glosariodeterminos/static/media/PatronObserver.7bbeb9613ac5244a93a4.txt",
@@ -947,10 +954,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.a1a6aa01.js.map": "/glosariodeterminos/static/js/main.a1a6aa01.js.map"
+    "main.6b0c9c60.js.map": "/glosariodeterminos/static/js/main.6b0c9c60.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.a1a6aa01.js"
+    "static/js/main.6b0c9c60.js"
   ]
 }
