@@ -577,6 +577,15 @@
             "ejemplo2": "TiposRelacionesDERSpringPOP.pdf",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 65,
+            "name": "Excepciones con Spring Boot",
+            "detalle": "Manejar errores en tiempo de ejecucion",
+            "ejemplo1": "ExcepcionesSpringBootPOP.jpg",
+            "ejemplo2": "ExcepcionesSpringBootPOP.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 
