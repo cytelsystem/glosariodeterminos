@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.6b0c9c60.js",
+    "main.js": "/glosariodeterminos/static/js/main.3cb2fbcb.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -9,6 +9,7 @@
     "static/media/TipsEncuesta.jpg": "/glosariodeterminos/static/media/TipsEncuesta.fa9ba730b4f17c6f892e.jpg",
     "static/media/AnalisisValoresLimites.jpg": "/glosariodeterminos/static/media/AnalisisValoresLimites.aa303e8967f96edcf9c4.jpg",
     "static/media/PruebasHumo.jpg": "/glosariodeterminos/static/media/PruebasHumo.2ba91dc3234003bbba30.jpg",
+    "static/media/ExcepcionesSpringBootPOP.jpg": "/glosariodeterminos/static/media/ExcepcionesSpringBootPOP.680598d0f57b0d2b7676.jpg",
     "static/media/InstalacionFrameworksJest.jpg": "/glosariodeterminos/static/media/InstalacionFrameworksJest.8d30de48b43114d72c1e.jpg",
     "static/media/PlanificacionPrueba.jpg": "/glosariodeterminos/static/media/PlanificacionPrueba.af4ad2c19d096b8553dc.jpg",
     "static/media/certificadossl.jpg": "/glosariodeterminos/static/media/certificadossl.2a134a30f4cabf38e8bd.jpg",
@@ -278,6 +279,7 @@
     "static/media/QueEsBackEnd-I.jpg": "/glosariodeterminos/static/media/QueEsBackEnd-I.711d5c1d45750e1a1a54.jpg",
     "static/media/briefUX-UI.pdf": "/glosariodeterminos/static/media/briefUX-UI.5ffa14827ab1096cecb2.pdf",
     "static/media/fetchPostScript.jpg": "/glosariodeterminos/static/media/fetchPostScript.95b00dd35b822ae6f734.jpg",
+    "static/media/ExcepcionesSpringBootPOP.pdf": "/glosariodeterminos/static/media/ExcepcionesSpringBootPOP.f2de8d7019d9716fe3ce.pdf",
     "static/media/AjaxJavaScript.jpg": "/glosariodeterminos/static/media/AjaxJavaScript.a4ca967bf89a7c09abd8.jpg",
     "static/media/SobreEscritura.jpg": "/glosariodeterminos/static/media/SobreEscritura.f6f365de389bb98a8352.jpg",
     "static/media/GetCommandPowerShellC.jpg": "/glosariodeterminos/static/media/GetCommandPowerShellC.d5f8dd2ed11be05ca34f.jpg",
@@ -954,10 +956,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.6b0c9c60.js.map": "/glosariodeterminos/static/js/main.6b0c9c60.js.map"
+    "main.3cb2fbcb.js.map": "/glosariodeterminos/static/js/main.3cb2fbcb.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.6b0c9c60.js"
+    "static/js/main.3cb2fbcb.js"
   ]
 }
