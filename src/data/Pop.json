@@ -586,6 +586,24 @@
             "ejemplo2": "ExcepcionesSpringBootPOP.pdf",
             "ejemplo3": "NoHayInformacion.jpg"
 
+        },
+        {
+            "id": 66,
+            "name": "Spring Security con Spring Boot",
+            "detalle": "Manejo de seguridad, login y autorizaciones",
+            "ejemplo1": "SpringSecuritySpringBootPOP.jpg",
+            "ejemplo2": "SpringSecuritySpringBootPOP.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 67,
+            "name": "Cookies Spring Boot",
+            "detalle": "Manejo de seguridad, login y autorizaciones",
+            "ejemplo1": "CookiesSpringBootPOP.jpg",
+            "ejemplo2": "CookiesSpringBootPOP.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 
