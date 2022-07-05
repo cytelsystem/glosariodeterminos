@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.3cb2fbcb.js",
+    "main.js": "/glosariodeterminos/static/js/main.a6f7108e.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -247,9 +247,11 @@
     "static/media/listarServiciosLinux.jpg": "/glosariodeterminos/static/media/listarServiciosLinux.6b1ebded95c26dadb474.jpg",
     "static/media/DiseñoVisualUX-UI.pdf": "/glosariodeterminos/static/media/DiseñoVisualUX-UI.47c38668b25c593b4e39.pdf",
     "static/media/imgPopularesDocker.jpg": "/glosariodeterminos/static/media/imgPopularesDocker.94d81a0a217345785f42.jpg",
+    "static/media/SpringSecuritySpringBootPOP.jpg": "/glosariodeterminos/static/media/SpringSecuritySpringBootPOP.6982f499c9c5bba60e2a.jpg",
     "static/media/DiseñarExperienciasUX-UI.jpg": "/glosariodeterminos/static/media/DiseñarExperienciasUX-UI.466755fa4546e75c7213.jpg",
     "static/media/HibernatePOP.jpg": "/glosariodeterminos/static/media/HibernatePOP.77c3d4c65153e8b20808.jpg",
     "static/media/TheBeatlesQueEsIdeacionUX-UI.pdf": "/glosariodeterminos/static/media/TheBeatlesQueEsIdeacionUX-UI.7e8b730cf65b1b2668ec.pdf",
+    "static/media/CookiesSpringBootPOP.jpg": "/glosariodeterminos/static/media/CookiesSpringBootPOP.29cba2e9e984d9f9a74d.jpg",
     "static/media/getElementByIdJavaScript.jpg": "/glosariodeterminos/static/media/getElementByIdJavaScript.442b3dc788a19f7b0732.jpg",
     "static/media/ConfigurationManagementInfraestructuraI.pdf": "/glosariodeterminos/static/media/ConfigurationManagementInfraestructuraI.0767d62e62882f4bd3f4.pdf",
     "static/media/7principiostesting.jpg": "/glosariodeterminos/static/media/7principiostesting.f1a086fddbcf171cbf78.jpg",
@@ -284,6 +286,7 @@
     "static/media/SobreEscritura.jpg": "/glosariodeterminos/static/media/SobreEscritura.f6f365de389bb98a8352.jpg",
     "static/media/GetCommandPowerShellC.jpg": "/glosariodeterminos/static/media/GetCommandPowerShellC.d5f8dd2ed11be05ca34f.jpg",
     "static/media/ConfiguracionIPMVInfraestructuraI.pdf": "/glosariodeterminos/static/media/ConfiguracionIPMVInfraestructuraI.25e418f5aa268e6455b3.pdf",
+    "static/media/SpringSecuritySpringBootPOP.pdf": "/glosariodeterminos/static/media/SpringSecuritySpringBootPOP.a4188b3f05f78c8eae6f.pdf",
     "static/media/HQLPOP.pdf": "/glosariodeterminos/static/media/HQLPOP.7266b1e1415d608a259c.pdf",
     "static/media/do_while.jpg": "/glosariodeterminos/static/media/do_while.85eb12f8c9389daf2a92.jpg",
     "static/media/TemplateLiteralsJavaScript.jpg": "/glosariodeterminos/static/media/TemplateLiteralsJavaScript.69025d53df90c66cc841.jpg",
@@ -641,6 +644,7 @@
     "static/media/configuracionProyectoReact.txt": "/glosariodeterminos/static/media/configuracionProyectoReact.4266271ac9e163e82c96.txt",
     "static/media/createImagenDocker.txt": "/glosariodeterminos/static/media/createImagenDocker.48ade9780658290267eb.txt",
     "static/media/definicion.txt": "/glosariodeterminos/static/media/definicion.8f0684d37982c29479a3.txt",
+    "static/media/CookiesSpringBootPOP.txt": "/glosariodeterminos/static/media/CookiesSpringBootPOP.550b8cbdfe929986d166.txt",
     "static/media/ideacion.txt": "/glosariodeterminos/static/media/ideacion.2d4a44d7e7786c02249f.txt",
     "static/media/HibernateAnotacionesPOP.txt": "/glosariodeterminos/static/media/HibernateAnotacionesPOP.169a2c4f125dfd842c0c.txt",
     "static/media/InstalacionPowerShellC.txt": "/glosariodeterminos/static/media/InstalacionPowerShellC.0cf36cb4281bc3f4115c.txt",
@@ -956,10 +960,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.3cb2fbcb.js.map": "/glosariodeterminos/static/js/main.3cb2fbcb.js.map"
+    "main.a6f7108e.js.map": "/glosariodeterminos/static/js/main.a6f7108e.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.3cb2fbcb.js"
+    "static/js/main.a6f7108e.js"
   ]
 }
