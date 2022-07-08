@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.e3b80200.js",
+    "main.js": "/glosariodeterminos/static/js/main.9c35459c.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -416,6 +416,7 @@
     "static/media/DevToolsApplicationtorage.jpg": "/glosariodeterminos/static/media/DevToolsApplicationtorage.c4dcec3c05e52374556d.jpg",
     "static/media/CRUDJavaScript.jpg": "/glosariodeterminos/static/media/CRUDJavaScript.3ac99d8ccb15f70ed648.jpg",
     "static/media/MAX.jpg": "/glosariodeterminos/static/media/MAX.5b82ca94b08b3b5b644e.jpg",
+    "static/media/GuionRoles2UX-UI.pdf": "/glosariodeterminos/static/media/GuionRoles2UX-UI.37e0652cb16568cca5cb.pdf",
     "static/media/textContentJavaScript.jpg": "/glosariodeterminos/static/media/textContentJavaScript.5ec3f6b3161eecee0306.jpg",
     "static/media/forEachJavaScript.jpg": "/glosariodeterminos/static/media/forEachJavaScript.067ca5135b264eec22cf.jpg",
     "static/media/MIN.jpg": "/glosariodeterminos/static/media/MIN.d0734e04c02659cbed32.jpg",
@@ -970,10 +971,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.e3b80200.js.map": "/glosariodeterminos/static/js/main.e3b80200.js.map"
+    "main.9c35459c.js.map": "/glosariodeterminos/static/js/main.9c35459c.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.e3b80200.js"
+    "static/js/main.9c35459c.js"
   ]
 }
