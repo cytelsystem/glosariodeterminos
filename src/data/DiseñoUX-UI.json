@@ -154,6 +154,46 @@
             "ejemplo1": "UsabilidadComunicacionvisualUX-UI.pdf",
             "ejemplo2": "NoHayInformacion.jpg",
             "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Pruebas de usabilidad",
+            "detalle": "Es una técnica usada en el diseño centrado en el usuario. Permite medir y relevar la experiencia que tiene una persona cuando interactúa con un producto o servicio.",
+            "ejemplo1": "PruebasUsabilidadUX-UI.jpg",
+            "ejemplo2": "PruebasUsabilidadUX-UI.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Definir una tarea",
+            "detalle": "Hay que generar un escenario hipotético para emplazar al usuario en la necesidad principal de uso del producto/servicio.",
+            "ejemplo1": "DefinirTareaUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Ciclo iterativo",
+            "detalle": "Definir tarea, dibujar y probar",
+            "ejemplo1": "CicloIterativoUX-UI.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Guion y roles",
+            "detalle": "Definir tarea, dibujar y probar",
+            "ejemplo1": "GuionRolesUX-UI.jpg",
+            "ejemplo2": "GuionRolesUX-UI.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Realizando pruebas de usabilidad",
+            "detalle": "Definir tarea, dibujar y probar",
+            "ejemplo1": "RealizandoPruebasUsabilidadUX-UI.jpg",
+            "ejemplo2": "RealizandoPruebasUsabilidadUX-UI.pdf",
+            "ejemplo3": "RealizandoPruebasUsabilidadUX-UI.txt"
         }
 
     ]

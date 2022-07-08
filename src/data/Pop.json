@@ -605,6 +605,15 @@
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
+        {
+            "id": 68,
+            "name": "Autenticación de APIs basada en tokens con Spring y JWT Spring Boot",
+            "detalle": "Autenticar una API mediante tokens para poder garantizar que los usuarios que consumen nuestros servicios tienen permiso para hacerlo y son quienes dicen ser",
+            "ejemplo1": "tokensJWTSpringBootPOP.jpg",
+            "ejemplo2": "tokensJWTSpringBootPOP.pdf",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        }
 
 
     ]
