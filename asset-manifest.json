@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.a6f7108e.js",
+    "main.js": "/glosariodeterminos/static/js/main.e3b80200.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -12,6 +12,7 @@
     "static/media/ExcepcionesSpringBootPOP.jpg": "/glosariodeterminos/static/media/ExcepcionesSpringBootPOP.680598d0f57b0d2b7676.jpg",
     "static/media/InstalacionFrameworksJest.jpg": "/glosariodeterminos/static/media/InstalacionFrameworksJest.8d30de48b43114d72c1e.jpg",
     "static/media/PlanificacionPrueba.jpg": "/glosariodeterminos/static/media/PlanificacionPrueba.af4ad2c19d096b8553dc.jpg",
+    "static/media/PruebasUsabilidadUX-UI.pdf": "/glosariodeterminos/static/media/PruebasUsabilidadUX-UI.0c5a417680d87211139c.pdf",
     "static/media/certificadossl.jpg": "/glosariodeterminos/static/media/certificadossl.2a134a30f4cabf38e8bd.jpg",
     "static/media/tecnicasPrueba.jpg": "/glosariodeterminos/static/media/tecnicasPrueba.6475f22681274a8daf39.jpg",
     "static/media/SELECTDATABASE.jpg": "/glosariodeterminos/static/media/SELECTDATABASE.66fec1b2b923f2fb7327.jpg",
@@ -36,6 +37,7 @@
     "static/media/CertificadoSSLInfraestructuraI.pdf": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.c126217355c57bf5765a.pdf",
     "static/media/RestJavaScript.jpg": "/glosariodeterminos/static/media/RestJavaScript.1853359607cddfd1f429.jpg",
     "static/media/ColorUX-UI.pdf": "/glosariodeterminos/static/media/ColorUX-UI.e27ba3da6b858c21e608.pdf",
+    "static/media/CicloIterativoUX-UI.pdf": "/glosariodeterminos/static/media/CicloIterativoUX-UI.139e8b2c40eb9adfa193.pdf",
     "static/media/JPAPOP.jpg": "/glosariodeterminos/static/media/JPAPOP.fb1746d5611e6acc2eb9.jpg",
     "static/media/ManejoEstadosReactJS.jpg": "/glosariodeterminos/static/media/ManejoEstadosReactJS.904c22f5763fecb27772.jpg",
     "static/media/AgregarElementos.jpg": "/glosariodeterminos/static/media/AgregarElementos.4f0d4eec64d86fe92516.jpg",
@@ -63,6 +65,7 @@
     "static/media/InstalacionPython.jpg": "/glosariodeterminos/static/media/InstalacionPython.7cc69845626e556d8e96.jpg",
     "static/media/MaquinasVirtualesNubeInfraestruturaI.jpg": "/glosariodeterminos/static/media/MaquinasVirtualesNubeInfraestruturaI.5a849cb8892b24655603.jpg",
     "static/media/pruebasV.jpg": "/glosariodeterminos/static/media/pruebasV.3ffdc9b27224ace88729.jpg",
+    "static/media/RealizandoPruebasUsabilidadUX-UI.pdf": "/glosariodeterminos/static/media/RealizandoPruebasUsabilidadUX-UI.55c3259386e024105dac.pdf",
     "static/media/PruebasUnitariasComponente.jpg": "/glosariodeterminos/static/media/PruebasUnitariasComponente.2efbe51332c3333a7df0.jpg",
     "static/media/Generics2.jpg": "/glosariodeterminos/static/media/Generics2.5cc2f613e4f3e790c0fd.jpg",
     "static/media/HQLPOP.jpg": "/glosariodeterminos/static/media/HQLPOP.6304a86e98c62c46921a.jpg",
@@ -103,8 +106,10 @@
     "static/media/JsonReactJS.jpg": "/glosariodeterminos/static/media/JsonReactJS.42375b8dc5327e4c8d7a.jpg",
     "static/media/ConfiguracionLibreriaJUnit.pdf": "/glosariodeterminos/static/media/ConfiguracionLibreriaJUnit.8c8f91decc8c8f367449.pdf",
     "static/media/InstalacionLibreriaJUnit.pdf": "/glosariodeterminos/static/media/InstalacionLibreriaJUnit.240de8da15ac6dbfb177.pdf",
+    "static/media/tokensJWTSpringBootPOP.jpg": "/glosariodeterminos/static/media/tokensJWTSpringBootPOP.738e1979e074d778600b.jpg",
     "static/media/MetodosCualitativos.jpg": "/glosariodeterminos/static/media/MetodosCualitativos.a49d443592ba37175c3b.jpg",
     "static/media/DockerVocabulario.jpg": "/glosariodeterminos/static/media/DockerVocabulario.77abaa773209af2c4aac.jpg",
+    "static/media/GuionRolesUX-UI.jpg": "/glosariodeterminos/static/media/GuionRolesUX-UI.6145d56fa686f6d26e4b.jpg",
     "static/media/MejoresPracticasDocker.jpg": "/glosariodeterminos/static/media/MejoresPracticasDocker.57f3d2d0d788aa98a9d1.jpg",
     "static/media/ComparacionesNACLinux.jpg": "/glosariodeterminos/static/media/ComparacionesNACLinux.5661028e0bc98a13ccec.jpg",
     "static/media/Selenium.jpg": "/glosariodeterminos/static/media/Selenium.7c905994eb8075be978e.jpg",
@@ -228,6 +233,7 @@
     "static/media/InstalacionVirtualBVagrant(Windows).pdf": "/glosariodeterminos/static/media/InstalacionVirtualBVagrant(Windows).9f5dd72f8aa16326f427.pdf",
     "static/media/Sin título.jpg": "/glosariodeterminos/static/media/Sin título.9d87ae3847e08ae58aae.jpg",
     "static/media/InstalacionMongoDB.jpg": "/glosariodeterminos/static/media/InstalacionMongoDB.c0bc72667707d47f0985.jpg",
+    "static/media/RealizandoPruebasUsabilidadUX-UI.jpg": "/glosariodeterminos/static/media/RealizandoPruebasUsabilidadUX-UI.754994f1bccd4a518e3b.jpg",
     "static/media/DebuggingVSTesting.jpg": "/glosariodeterminos/static/media/DebuggingVSTesting.3c10b3d19fb4e18f06c6.jpg",
     "static/media/VISTA.jpg": "/glosariodeterminos/static/media/VISTA.a0913f44ec5152159eb8.jpg",
     "static/media/InstalacionVirtualBoxVagrant(Linux).pdf": "/glosariodeterminos/static/media/InstalacionVirtualBoxVagrant(Linux).27023cd44d9166111ef5.pdf",
@@ -277,6 +283,7 @@
     "static/media/Integer.jpg": "/glosariodeterminos/static/media/Integer.e72feaefa6c429fd4989.jpg",
     "static/media/NubeHibrida.pdf": "/glosariodeterminos/static/media/NubeHibrida.988ad53fb84919eaa632.pdf",
     "static/media/DockerWindows.pdf": "/glosariodeterminos/static/media/DockerWindows.43d7006ac0164ad9d948.pdf",
+    "static/media/GuionRolesUX-UI.pdf": "/glosariodeterminos/static/media/GuionRolesUX-UI.e68fc6f8e7d70067b51c.pdf",
     "static/media/ArrayJava.jpg": "/glosariodeterminos/static/media/ArrayJava.becd146385f3fe497c23.jpg",
     "static/media/QueEsBackEnd-I.jpg": "/glosariodeterminos/static/media/QueEsBackEnd-I.711d5c1d45750e1a1a54.jpg",
     "static/media/briefUX-UI.pdf": "/glosariodeterminos/static/media/briefUX-UI.5ffa14827ab1096cecb2.pdf",
@@ -319,6 +326,7 @@
     "static/media/Dockerfile.pdf": "/glosariodeterminos/static/media/Dockerfile.718a58bfff6e73da9e5d.pdf",
     "static/media/catLinux.jpg": "/glosariodeterminos/static/media/catLinux.214205ffdeb0506b6a74.jpg",
     "static/media/grepLinux.jpg": "/glosariodeterminos/static/media/grepLinux.7f8491a76b62d0f413ec.jpg",
+    "static/media/DefinirTareaUX-UI.pdf": "/glosariodeterminos/static/media/DefinirTareaUX-UI.911c57a586df1239a736.pdf",
     "static/media/PatronCadenaResponsabilidad.pdf": "/glosariodeterminos/static/media/PatronCadenaResponsabilidad.e7f06238c88ae1c66684.pdf",
     "static/media/readFileSync.jpg": "/glosariodeterminos/static/media/readFileSync.447ca574137bcf79cfd5.jpg",
     "static/media/InstalacionMaquinavirtuallinuxvagrant.pdf": "/glosariodeterminos/static/media/InstalacionMaquinavirtuallinuxvagrant.9b737851e580b8418730.pdf",
@@ -414,6 +422,7 @@
     "static/media/prototipo.jpg": "/glosariodeterminos/static/media/prototipo.562b74479eb1ad8a8519.jpg",
     "static/media/DockerSwarm.jpg": "/glosariodeterminos/static/media/DockerSwarm.eac7077b0009cf975c53.jpg",
     "static/media/ConsultarApisPowerShell.jpg": "/glosariodeterminos/static/media/ConsultarApisPowerShell.938884d23eae02b73b98.jpg",
+    "static/media/PruebasUsabilidadUX-UI.jpg": "/glosariodeterminos/static/media/PruebasUsabilidadUX-UI.0b173f175fdec4dd033d.jpg",
     "static/media/ExcepcionesJava2.jpg": "/glosariodeterminos/static/media/ExcepcionesJava2.1bb8de8777f7cd85c190.jpg",
     "static/media/foreachPowerShell.jpg": "/glosariodeterminos/static/media/foreachPowerShell.802dab853250c5858705.jpg",
     "static/media/COUNT.jpg": "/glosariodeterminos/static/media/COUNT.778888151df950ba63fc.jpg",
@@ -689,6 +698,7 @@
     "static/media/INSERT.txt": "/glosariodeterminos/static/media/INSERT.bb83a4c34ed8e30d54b6.txt",
     "static/media/require.txt": "/glosariodeterminos/static/media/require.dba9e89ce380ca56d419.txt",
     "static/media/ISNULLoISNOTNULL.txt": "/glosariodeterminos/static/media/ISNULLoISNOTNULL.0865ee3c267d4c8dd8ba.txt",
+    "static/media/RealizandoPruebasUsabilidadUX-UI.txt": "/glosariodeterminos/static/media/RealizandoPruebasUsabilidadUX-UI.fa4c27caab54e0faeecb.txt",
     "static/media/commandosPipelineLinux.txt": "/glosariodeterminos/static/media/commandosPipelineLinux.b632e1b1f580fc09ba8d.txt",
     "static/media/Debugging.txt": "/glosariodeterminos/static/media/Debugging.0796e49c3418c874dd3d.txt",
     "static/media/findIndex.txt": "/glosariodeterminos/static/media/findIndex.e31679c016a15c699d31.txt",
@@ -960,10 +970,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.a6f7108e.js.map": "/glosariodeterminos/static/js/main.a6f7108e.js.map"
+    "main.e3b80200.js.map": "/glosariodeterminos/static/js/main.e3b80200.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.a6f7108e.js"
+    "static/js/main.e3b80200.js"
   ]
 }
