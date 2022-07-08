@@ -604,7 +604,7 @@
             "ejemplo2": "CookiesSpringBootPOP.txt",
             "ejemplo3": "NoHayInformacion.jpg"
 
-        }
+        },
         {
             "id": 68,
             "name": "Autenticación de APIs basada en tokens con Spring y JWT Spring Boot",
