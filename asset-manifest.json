@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.9c35459c.js",
+    "main.js": "/glosariodeterminos/static/js/main.66bcec4b.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -137,6 +137,7 @@
     "static/media/Scanner.jpg": "/glosariodeterminos/static/media/Scanner.6cd65eb37646a4caa2d4.jpg",
     "static/media/EncapsulamientoJava.jpg": "/glosariodeterminos/static/media/EncapsulamientoJava.b3d68144160f63ad8b65.jpg",
     "static/media/toString.jpg": "/glosariodeterminos/static/media/toString.133ebef4978d103a23fb.jpg",
+    "static/media/ApiGeneracionTokensJWTSpringBootPOP.jpg": "/glosariodeterminos/static/media/ApiGeneracionTokensJWTSpringBootPOP.3895a63c486c4eea673b.jpg",
     "static/media/BaseDatosNubefraestructuraI.jpg": "/glosariodeterminos/static/media/BaseDatosNubefraestructuraI.7c9c33d9ef7acd97694d.jpg",
     "static/media/UsabilidadComunicacionvisualUX-UI.pdf": "/glosariodeterminos/static/media/UsabilidadComunicacionvisualUX-UI.d294b160bc0d96e05d77.pdf",
     "static/media/UsabilidadUX-UI.pdf": "/glosariodeterminos/static/media/UsabilidadUX-UI.4db780774b4369bd66a7.pdf",
@@ -314,6 +315,7 @@
     "static/media/InterfaceJava.pdf": "/glosariodeterminos/static/media/InterfaceJava.50df478c174a038a0c13.pdf",
     "static/media/TablaConceptosPOPMica.jpg": "/glosariodeterminos/static/media/TablaConceptosPOPMica.6e0faf8eff7dc1854a80.jpg",
     "static/media/FormObtenerDatosJavaScript.pdf": "/glosariodeterminos/static/media/FormObtenerDatosJavaScript.754ce3ec21599da799d1.pdf",
+    "static/media/ApiGeneracionTokensJWTSpringBootPOP.pdf": "/glosariodeterminos/static/media/ApiGeneracionTokensJWTSpringBootPOP.ba6b4b18c955cb01ca33.pdf",
     "static/media/PatronProxy.pdf": "/glosariodeterminos/static/media/PatronProxy.a97079f80ba99db614a8.pdf",
     "static/media/DriverJDBCBaseDatosH2BackEnd.pdf": "/glosariodeterminos/static/media/DriverJDBCBaseDatosH2BackEnd.6e378598c4ccb597aaea.pdf",
     "static/media/DISTINCT.jpg": "/glosariodeterminos/static/media/DISTINCT.9e8e3577845c773e816b.jpg",
@@ -548,6 +550,7 @@
     "static/media/parseFloatJavaScript.jpg": "/glosariodeterminos/static/media/parseFloatJavaScript.13ae6052ef4341d1b662.jpg",
     "static/media/PaginaPrincipal.webp": "/glosariodeterminos/static/media/PaginaPrincipal.1db7c91fa5a29508c96e.webp",
     "static/media/JsonReactJS.txt": "/glosariodeterminos/static/media/JsonReactJS.48fa145ac878fffc474c.txt",
+    "static/media/ApiGeneracionTokensJWTSpringBootPOP.txt": "/glosariodeterminos/static/media/ApiGeneracionTokensJWTSpringBootPOP.c306c05ad1ca4355e050.txt",
     "static/media/TRUNCATE.jpg": "/glosariodeterminos/static/media/TRUNCATE.0a19007d95f0f126cf08.jpg",
     "static/media/forLinux.jpg": "/glosariodeterminos/static/media/forLinux.a727a2fa3af314bb09fb.jpg",
     "static/media/prueba.docx": "/glosariodeterminos/static/media/prueba.8409096c718904a6be43.docx",
@@ -971,10 +974,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.9c35459c.js.map": "/glosariodeterminos/static/js/main.9c35459c.js.map"
+    "main.66bcec4b.js.map": "/glosariodeterminos/static/js/main.66bcec4b.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.9c35459c.js"
+    "static/js/main.66bcec4b.js"
   ]
 }
