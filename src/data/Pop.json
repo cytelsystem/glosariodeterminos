@@ -610,11 +610,19 @@
             "name": "Autenticación de APIs basada en tokens con Spring y JWT Spring Boot",
             "detalle": "Autenticar una API mediante tokens para poder garantizar que los usuarios que consumen nuestros servicios tienen permiso para hacerlo y son quienes dicen ser",
             "ejemplo1": "tokensJWTSpringBootPOP.jpg",
-            "ejemplo2": "tokensJWTSpringBootPOP.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
             "ejemplo3": "NoHayInformacion.jpg"
 
-        }
+        },
+        {
+            "id": 69,
+            "name": "Construcción de una API de generación de token",
+            "detalle": "Pasos para construir una API de generación de token y como utilizar el token",
+            "ejemplo1": "ApiGeneracionTokensJWTSpringBootPOP.jpg",
+            "ejemplo2": "ApiGeneracionTokensJWTSpringBootPOP.txt",
+            "ejemplo3": "ApiGeneracionTokensJWTSpringBootPOP.pdf"
 
+        }
 
     ]
 }
