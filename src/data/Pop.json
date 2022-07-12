@@ -622,6 +622,15 @@
             "ejemplo2": "ApiGeneracionTokensJWTSpringBootPOP.txt",
             "ejemplo3": "ApiGeneracionTokensJWTSpringBootPOP.pdf"
 
+        },
+        {
+            "id": 70,
+            "name": "Swagger (Documentacion de Apis)",
+            "detalle": "Swagger nos ayudará a crear la documentación de nuestras APIs, para que todo el mundo entienda cómo usarla.",
+            "ejemplo1": "SwaggerpringBootPOP.jpg",
+            "ejemplo2": "SwaggerpringBootPOP.txt",
+            "ejemplo3": "SwaggerpringBootPOP.pdf"
+
         }
 
     ]
