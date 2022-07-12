@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.e33391fb.js",
+    "main.js": "/glosariodeterminos/static/js/main.a095d153.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -946,6 +946,7 @@
     "static/media/SobreCarga.txt": "/glosariodeterminos/static/media/SobreCarga.31d6cfe0d16ae931b73c.txt",
     "static/media/SobreEscritura.txt": "/glosariodeterminos/static/media/SobreEscritura.31d6cfe0d16ae931b73c.txt",
     "static/media/StatementBaseDatosH2BackEnd.txt": "/glosariodeterminos/static/media/StatementBaseDatosH2BackEnd.31d6cfe0d16ae931b73c.txt",
+    "static/media/SwaggerpringBootPOP.txt": "/glosariodeterminos/static/media/SwaggerpringBootPOP.31d6cfe0d16ae931b73c.txt",
     "static/media/TablaDecision.txt": "/glosariodeterminos/static/media/TablaDecision.31d6cfe0d16ae931b73c.txt",
     "static/media/TemplateTesting.txt": "/glosariodeterminos/static/media/TemplateTesting.31d6cfe0d16ae931b73c.txt",
     "static/media/TiposDatosJava.txt": "/glosariodeterminos/static/media/TiposDatosJava.31d6cfe0d16ae931b73c.txt",
@@ -976,10 +977,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.e33391fb.js.map": "/glosariodeterminos/static/js/main.e33391fb.js.map"
+    "main.a095d153.js.map": "/glosariodeterminos/static/js/main.a095d153.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.e33391fb.js"
+    "static/js/main.a095d153.js"
   ]
 }
