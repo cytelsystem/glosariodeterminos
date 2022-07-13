@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.a095d153.js",
+    "main.js": "/glosariodeterminos/static/js/main.be8fd12c.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -106,6 +106,7 @@
     "static/media/JsonReactJS.jpg": "/glosariodeterminos/static/media/JsonReactJS.42375b8dc5327e4c8d7a.jpg",
     "static/media/ConfiguracionLibreriaJUnit.pdf": "/glosariodeterminos/static/media/ConfiguracionLibreriaJUnit.8c8f91decc8c8f367449.pdf",
     "static/media/InstalacionLibreriaJUnit.pdf": "/glosariodeterminos/static/media/InstalacionLibreriaJUnit.240de8da15ac6dbfb177.pdf",
+    "static/media/SwaggerpringBootPOP.jpg": "/glosariodeterminos/static/media/SwaggerpringBootPOP.56195235a6eff33283b8.jpg",
     "static/media/tokensJWTSpringBootPOP.jpg": "/glosariodeterminos/static/media/tokensJWTSpringBootPOP.738e1979e074d778600b.jpg",
     "static/media/MetodosCualitativos.jpg": "/glosariodeterminos/static/media/MetodosCualitativos.a49d443592ba37175c3b.jpg",
     "static/media/DockerVocabulario.jpg": "/glosariodeterminos/static/media/DockerVocabulario.77abaa773209af2c4aac.jpg",
@@ -311,7 +312,6 @@
     "static/media/InstalacionBaseDatosH2BackEnd.jpg": "/glosariodeterminos/static/media/InstalacionBaseDatosH2BackEnd.1c57a109442ce7b88eae.jpg",
     "static/media/HandoffUX-UI.jpg": "/glosariodeterminos/static/media/HandoffUX-UI.84982e7eec266af2f3fe.jpg",
     "static/media/TestUnitarioIntegracionJUnit.pdf": "/glosariodeterminos/static/media/TestUnitarioIntegracionJUnit.7a1c3309f447bf17e19d.pdf",
-    "static/media/SwaggerpringBootPOP.jpg": "/glosariodeterminos/static/media/SwaggerpringBootPOP.b7c1def3c8842b568d8d.jpg",
     "static/media/HibernateJoinColumnCascadeFetchPOP.pdf": "/glosariodeterminos/static/media/HibernateJoinColumnCascadeFetchPOP.9da3a9e470cbef1918f8.pdf",
     "static/media/TiposRelacionesDERSpringPOP.pdf": "/glosariodeterminos/static/media/TiposRelacionesDERSpringPOP.9da3a9e470cbef1918f8.pdf",
     "static/media/InterfaceJava.pdf": "/glosariodeterminos/static/media/InterfaceJava.50df478c174a038a0c13.pdf",
@@ -652,6 +652,7 @@
     "static/media/appendChildJavaScript.txt": "/glosariodeterminos/static/media/appendChildJavaScript.25012ddde79083cae67d.txt",
     "static/media/createTextNodeJavaScript.txt": "/glosariodeterminos/static/media/createTextNodeJavaScript.25012ddde79083cae67d.txt",
     "static/media/InterfaceJava.txt": "/glosariodeterminos/static/media/InterfaceJava.b8ab58b49ae005adfc58.txt",
+    "static/media/SwaggerpringBootPOP.txt": "/glosariodeterminos/static/media/SwaggerpringBootPOP.253afab7a94930fbc867.txt",
     "static/media/inputJavaScript.txt": "/glosariodeterminos/static/media/inputJavaScript.6df4030096eb00370ed5.txt",
     "static/media/blurFormScript.txt": "/glosariodeterminos/static/media/blurFormScript.d511e51c996289d52111.txt",
     "static/media/Generics.txt": "/glosariodeterminos/static/media/Generics.19de7ebb95d8055ba57c.txt",
@@ -946,7 +947,6 @@
     "static/media/SobreCarga.txt": "/glosariodeterminos/static/media/SobreCarga.31d6cfe0d16ae931b73c.txt",
     "static/media/SobreEscritura.txt": "/glosariodeterminos/static/media/SobreEscritura.31d6cfe0d16ae931b73c.txt",
     "static/media/StatementBaseDatosH2BackEnd.txt": "/glosariodeterminos/static/media/StatementBaseDatosH2BackEnd.31d6cfe0d16ae931b73c.txt",
-    "static/media/SwaggerpringBootPOP.txt": "/glosariodeterminos/static/media/SwaggerpringBootPOP.31d6cfe0d16ae931b73c.txt",
     "static/media/TablaDecision.txt": "/glosariodeterminos/static/media/TablaDecision.31d6cfe0d16ae931b73c.txt",
     "static/media/TemplateTesting.txt": "/glosariodeterminos/static/media/TemplateTesting.31d6cfe0d16ae931b73c.txt",
     "static/media/TiposDatosJava.txt": "/glosariodeterminos/static/media/TiposDatosJava.31d6cfe0d16ae931b73c.txt",
@@ -977,10 +977,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.a095d153.js.map": "/glosariodeterminos/static/js/main.a095d153.js.map"
+    "main.be8fd12c.js.map": "/glosariodeterminos/static/js/main.be8fd12c.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.a095d153.js"
+    "static/js/main.be8fd12c.js"
   ]
 }
