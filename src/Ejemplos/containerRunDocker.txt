@@ -18,6 +18,8 @@ docker container run -d --name spaghettidocker -p 80:80 davidpigna/spaghettidock
 docker run -d --name proxy -p 80:80 nginx
 docker run -d --name proxy -p 8080:80 nginx
 
+docker run --publish 8080:8080 paqueteria:1.0 //Exponemos del puerto 8080 del contenedor al puerto 8080 del equipo local para comunicarnos con la aplicacion y a lo ultimo colocamos el nombre de la image con su tag paqueteria:1.0
+
 //*******************************Trabajar con un contenedor que esta corriendo*********************//
 
 docker ps             Consultar en nombre de contenedores en ejecuccion ejm: nombre proxy
