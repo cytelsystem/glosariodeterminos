@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.7c189c15.js",
+    "main.js": "/glosariodeterminos/static/js/main.d3ab470b.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -576,13 +576,14 @@
     "static/media/installBootstrapReactJS.txt": "/glosariodeterminos/static/media/installBootstrapReactJS.d0f089538805b4db8c8b.txt",
     "static/media/PatronObserver.txt": "/glosariodeterminos/static/media/PatronObserver.7bbeb9613ac5244a93a4.txt",
     "static/media/LibreriaLog4jPOP.txt": "/glosariodeterminos/static/media/LibreriaLog4jPOP.de11892f1684d641acde.txt",
+    "static/media/Dockerfile.txt": "/glosariodeterminos/static/media/Dockerfile.f9df46dcab8ea80374c6.txt",
     "static/media/storedProceduresBaseDatosH2BackEnd.txt": "/glosariodeterminos/static/media/storedProceduresBaseDatosH2BackEnd.8cd59ca3e208fc048aea.txt",
     "static/media/LayoutReactJS.txt": "/glosariodeterminos/static/media/LayoutReactJS.d80be9f13735946cb710.txt",
     "static/media/PatronCadenaResponsabilidad.txt": "/glosariodeterminos/static/media/PatronCadenaResponsabilidad.7b0e455d00776f9c46e5.txt",
     "static/media/InicialializarProyecto.txt": "/glosariodeterminos/static/media/InicialializarProyecto.1f20140d6c7d1bc3bb02.txt",
     "static/media/CreatElementReactJS.txt": "/glosariodeterminos/static/media/CreatElementReactJS.caeed8b6273f948d411a.txt",
     "static/media/ManejoEstadosReactJS.txt": "/glosariodeterminos/static/media/ManejoEstadosReactJS.f0c36861b821a1441b54.txt",
-    "static/media/Dockerfile.txt": "/glosariodeterminos/static/media/Dockerfile.cc35eaa54de1e375c5ce.txt",
+    "static/media/DockerCompose.txt": "/glosariodeterminos/static/media/DockerCompose.44bc072f012c5a70ecb7.txt",
     "static/media/ConsultaSencillaBaseDatosH2BackEnd.txt": "/glosariodeterminos/static/media/ConsultaSencillaBaseDatosH2BackEnd.b2a0dea77dc905dd836a.txt",
     "static/media/ifLinux.txt": "/glosariodeterminos/static/media/ifLinux.703f63a2abbc65af81f8.txt",
     "static/media/fetchScript.txt": "/glosariodeterminos/static/media/fetchScript.37af45e860de9c9b62ce.txt",
@@ -640,9 +641,9 @@
     "static/media/forLinux.txt": "/glosariodeterminos/static/media/forLinux.dcbf365b541a4cae755f.txt",
     "static/media/EjemploJavaTestJUnit.txt": "/glosariodeterminos/static/media/EjemploJavaTestJUnit.108310286aee96511494.txt",
     "static/media/prototipo.txt": "/glosariodeterminos/static/media/prototipo.8b6d67e36dddd8194ae7.txt",
+    "static/media/createImagenDocker.txt": "/glosariodeterminos/static/media/createImagenDocker.de20d46b971e9803a23a.txt",
     "static/media/StyleJavaScript.txt": "/glosariodeterminos/static/media/StyleJavaScript.5500915f7351a9b077f5.txt",
     "static/media/ALTERTABLE.txt": "/glosariodeterminos/static/media/ALTERTABLE.b1916fae436e21a5e94e.txt",
-    "static/media/DockerCompose.txt": "/glosariodeterminos/static/media/DockerCompose.7f98100247d4dcc0894e.txt",
     "static/media/find.txt": "/glosariodeterminos/static/media/find.74fffd6c2b764ee6aacb.txt",
     "static/media/ArrayJava.txt": "/glosariodeterminos/static/media/ArrayJava.b7aeffbcf16d1f250a5f.txt",
     "static/media/PatronSingleton.txt": "/glosariodeterminos/static/media/PatronSingleton.17f4ad27c830c31a30b1.txt",
@@ -659,7 +660,6 @@
     "static/media/Generics.txt": "/glosariodeterminos/static/media/Generics.19de7ebb95d8055ba57c.txt",
     "static/media/jqLinux.txt": "/glosariodeterminos/static/media/jqLinux.a61a96f0a64fd767e688.txt",
     "static/media/configuracionProyectoReact.txt": "/glosariodeterminos/static/media/configuracionProyectoReact.4266271ac9e163e82c96.txt",
-    "static/media/createImagenDocker.txt": "/glosariodeterminos/static/media/createImagenDocker.48ade9780658290267eb.txt",
     "static/media/definicion.txt": "/glosariodeterminos/static/media/definicion.8f0684d37982c29479a3.txt",
     "static/media/CookiesSpringBootPOP.txt": "/glosariodeterminos/static/media/CookiesSpringBootPOP.550b8cbdfe929986d166.txt",
     "static/media/ideacion.txt": "/glosariodeterminos/static/media/ideacion.2d4a44d7e7786c02249f.txt",
@@ -977,10 +977,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.7c189c15.js.map": "/glosariodeterminos/static/js/main.7c189c15.js.map"
+    "main.d3ab470b.js.map": "/glosariodeterminos/static/js/main.d3ab470b.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.7c189c15.js"
+    "static/js/main.d3ab470b.js"
   ]
 }

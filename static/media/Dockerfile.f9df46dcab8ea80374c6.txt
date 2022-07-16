@@ -7,9 +7,9 @@ RUN apt-get update
 RUN apt-get install mysql-server -y
 CMD echo "My first image created."
 
-//*********************************otro Dockerfile ***************************//
+//*********************************Otro Dockerfile ***************************//
 
-FROM adoptopenjdk/openjdk16  //Imagen de JDK para poder correr la aplicacion de java 
+FROM adoptopenjdk/openjdk16  //Imagen de JDK para poder correr la aplicacion de java
 
 ARG JAR_FILE=target/Odontologica-0.0.1-SNAPSHOT.jar
 
@@ -19,7 +19,6 @@ ENTRYPOINT ["java", "-jar", "app.jar"]  //En el contenedor ejecuta este comando
 
 EXPOSE 8080 // Lo expone en el puerto 8080 cuando este corriendo el contenedor
 
-//*************************************************************************//
 
 //****************************Ejecutar Dockerfile************************************//
   //** Una vez que nuestro Dockerfile se ha creado correctamente, debemos ejecutar docker**//
@@ -55,5 +54,14 @@ docker run --publish 8080:8080 paqueteria:1.0 //Exponemos del puerto 8080 del co
 
   docker push asadali08527/first-repo
 
-//*******************************************************************************//
+
+//*******************************Trabajar con un contenedor que esta corriendo*********************//
+
+docker ps             Consultar en nombre de contenedores en ejecuccion ejm: nombre proxy
+docker stop proxy     Detener el contenedores en ejecucion
+docker ps -a          Mirar contenedores detenidos
+docker rm proxy       Eliminar el contenedor primero debe estar detenidos en
+docker exec -it proxy bash   Entrar dentro un contenedor en ejecuccion
+
+//*******************************************************************************************//
 
