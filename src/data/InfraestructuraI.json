@@ -109,6 +109,15 @@
             "ejemplo2": "CertificadoSSLInfraestructuraI.txt",
             "ejemplo3": "CertificadoSSLInfraestructuraI.pdf"
 
+        },
+        {
+            "id": 13,
+            "name": "Crear llaves SSH keys",
+            "detalle": "Creación de la pareja de claves SSH",
+            "ejemplo1": "SSHkeysInfraestructuraI.jpg",
+            "ejemplo2": "SSHkeysInfraestructuraI.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
         }
 
 

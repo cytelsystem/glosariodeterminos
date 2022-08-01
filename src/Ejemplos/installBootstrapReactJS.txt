@@ -3,6 +3,8 @@
 
 https://react-bootstrap.netlify.app/
 
+https://icons.getbootstrap.com/
+
 //**Instalacion**//
 https://react-bootstrap.netlify.app/getting-started/introduction/
 

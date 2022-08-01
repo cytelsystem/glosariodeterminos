@@ -45,7 +45,7 @@ class Badge extends React.Component {
 export default Badge;
 
 
-// ************************************estructura del componente*************************//
+// ************************************Estructura del componente 1*************************//
 
 import React from 'react';
 
@@ -57,4 +57,17 @@ class nombreComponente extends React.Component {
 
 export default NombreComponente;
 
+// ***********************************Estructura del componente 2 function**************************//
+
+import React from 'react';
+
+function Modal() {
+  return (
+    <div> <h1>carlos</h1></div>
+  )
+}
+
+export default Modal;
+
 // ***************************************************************************************//
+
