@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glosariodeterminos/static/css/main.8df7d6e7.css",
-    "main.js": "/glosariodeterminos/static/js/main.d3ab470b.js",
+    "main.js": "/glosariodeterminos/static/js/main.d56e7429.js",
     "static/media/CertificadoSSLInfraestructuraI.jpg": "/glosariodeterminos/static/media/CertificadoSSLInfraestructuraI.010453c7baf179dfb6c1.jpg",
     "static/media/EnviarDatosPOSTReactJs.jpg": "/glosariodeterminos/static/media/EnviarDatosPOSTReactJs.b160b09ea915d771bca8.jpg",
     "static/media/UMLJava.jpg": "/glosariodeterminos/static/media/UMLJava.a0fb4a0369de1c83d29d.jpg",
@@ -446,6 +446,7 @@
     "static/media/jsonParse.jpg": "/glosariodeterminos/static/media/jsonParse.c632bcefe001bf85161b.jpg",
     "static/media/TestearEvaluar.jpg": "/glosariodeterminos/static/media/TestearEvaluar.0afaf205f814b5e61131.jpg",
     "static/media/array.jpg": "/glosariodeterminos/static/media/array.1dfc142fc8a1fe545016.jpg",
+    "static/media/SSHkeysInfraestructuraI.jpg": "/glosariodeterminos/static/media/SSHkeysInfraestructuraI.ca9f19cd4c300bda5594.jpg",
     "static/media/PruebasRegresion.jpg": "/glosariodeterminos/static/media/PruebasRegresion.c02f728acd6dc008d2f9.jpg",
     "static/media/AnimacionesSpinnerCargaJavaScript.jpg": "/glosariodeterminos/static/media/AnimacionesSpinnerCargaJavaScript.0fbc937045eec2d2c702.jpg",
     "static/media/splitJavaScript.jpg": "/glosariodeterminos/static/media/splitJavaScript.f0c90c000fe3370de43f.jpg",
@@ -571,9 +572,9 @@
     "static/media/createElementJavaScript.txt": "/glosariodeterminos/static/media/createElementJavaScript.987bb1d2649c4715aacc.txt",
     "static/media/CicloVidaComponenteReactJS.txt": "/glosariodeterminos/static/media/CicloVidaComponenteReactJS.690e30124713fcdbd569.txt",
     "static/media/CrearColeccion.txt": "/glosariodeterminos/static/media/CrearColeccion.fc514a0f656c52997084.txt",
+    "static/media/installBootstrapReactJS.txt": "/glosariodeterminos/static/media/installBootstrapReactJS.b147f363cefe138df519.txt",
     "static/media/PomProPaqueteriaMongoDB.txt": "/glosariodeterminos/static/media/PomProPaqueteriaMongoDB.60128d3b08c1ed95abdd.txt",
     "static/media/LevantamientoEstadoReactJS.txt": "/glosariodeterminos/static/media/LevantamientoEstadoReactJS.7c1d61a8667f519d5c36.txt",
-    "static/media/installBootstrapReactJS.txt": "/glosariodeterminos/static/media/installBootstrapReactJS.d0f089538805b4db8c8b.txt",
     "static/media/PatronObserver.txt": "/glosariodeterminos/static/media/PatronObserver.7bbeb9613ac5244a93a4.txt",
     "static/media/LibreriaLog4jPOP.txt": "/glosariodeterminos/static/media/LibreriaLog4jPOP.de11892f1684d641acde.txt",
     "static/media/Dockerfile.txt": "/glosariodeterminos/static/media/Dockerfile.f9df46dcab8ea80374c6.txt",
@@ -598,6 +599,7 @@
     "static/media/equalsObject.txt": "/glosariodeterminos/static/media/equalsObject.ea939f70b277e84123b4.txt",
     "static/media/PatronProxy.txt": "/glosariodeterminos/static/media/PatronProxy.a95e4cbec6384ff2d7ae.txt",
     "static/media/HibernateJoinColumnCascadeFetchPOP.txt": "/glosariodeterminos/static/media/HibernateJoinColumnCascadeFetchPOP.1637ec404b297ed61917.txt",
+    "static/media/CreatComponenteReactJS.txt": "/glosariodeterminos/static/media/CreatComponenteReactJS.6966c9cf4860beec88b6.txt",
     "static/media/TryCatchFinallyScript.txt": "/glosariodeterminos/static/media/TryCatchFinallyScript.42ca91bf1cbcbdbc1548.txt",
     "static/media/json.txt": "/glosariodeterminos/static/media/json.7b38cc60ca329a229357.txt",
     "static/media/PROCEDURE.txt": "/glosariodeterminos/static/media/PROCEDURE.306f7591cdf36cc93d4f.txt",
@@ -606,7 +608,6 @@
     "static/media/writeFileSync.txt": "/glosariodeterminos/static/media/writeFileSync.ccb7f4dbe402bedc8f0d.txt",
     "static/media/forEach.txt": "/glosariodeterminos/static/media/forEach.9bf9f3a2ef237179f6d0.txt",
     "static/media/slice.txt": "/glosariodeterminos/static/media/slice.a1900f2099602a3a89cd.txt",
-    "static/media/CreatComponenteReactJS.txt": "/glosariodeterminos/static/media/CreatComponenteReactJS.34d4f005fbee85377327.txt",
     "static/media/TiposFuncionesJavaScript.txt": "/glosariodeterminos/static/media/TiposFuncionesJavaScript.0c138828824f352ccae4.txt",
     "static/media/ExceptionPerJava.txt": "/glosariodeterminos/static/media/ExceptionPerJava.3440707b55d4f1b79a1f.txt",
     "static/media/curlLinux.txt": "/glosariodeterminos/static/media/curlLinux.79f442ceb5971aa68f0d.txt",
@@ -788,6 +789,7 @@
     "static/media/MathMaxJavaScript.txt": "/glosariodeterminos/static/media/MathMaxJavaScript.2f2ae028063d000175ba.txt",
     "static/media/AS.txt": "/glosariodeterminos/static/media/AS.dc86af5a49428802f409.txt",
     "static/media/pop.txt": "/glosariodeterminos/static/media/pop.4f30b5a6db38e7225b57.txt",
+    "static/media/SSHkeysInfraestructuraI.txt": "/glosariodeterminos/static/media/SSHkeysInfraestructuraI.55d2f4ddcaad98ed4c92.txt",
     "static/media/killLinux.txt": "/glosariodeterminos/static/media/killLinux.be7ad5f29fa745cbd4fe.txt",
     "static/media/ParticionEquivalencia.txt": "/glosariodeterminos/static/media/ParticionEquivalencia.cc79dbcb2ea4402d3b40.txt",
     "static/media/foreachPowerShell.txt": "/glosariodeterminos/static/media/foreachPowerShell.2bc6a53b5550304a2f6b.txt",
@@ -977,10 +979,10 @@
     "static/media/var.txt": "/glosariodeterminos/static/media/var.31d6cfe0d16ae931b73c.txt",
     "static/media/virtualizaciónInfraestructura.txt": "/glosariodeterminos/static/media/virtualizaciónInfraestructura.31d6cfe0d16ae931b73c.txt",
     "main.8df7d6e7.css.map": "/glosariodeterminos/static/css/main.8df7d6e7.css.map",
-    "main.d3ab470b.js.map": "/glosariodeterminos/static/js/main.d3ab470b.js.map"
+    "main.d56e7429.js.map": "/glosariodeterminos/static/js/main.d56e7429.js.map"
   },
   "entrypoints": [
     "static/css/main.8df7d6e7.css",
-    "static/js/main.d3ab470b.js"
+    "static/js/main.d56e7429.js"
   ]
 }
