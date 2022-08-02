@@ -1,10 +1,21 @@
 
 //*******************React Developer Tools******************//
+//**Para Chrome:
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
+//**Para Firefox:
+https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+
+//**Para Edge:
+https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil
+
 
 //*****************Introduciendo las nuevas React DevTools*********************//
 
 https://es.reactjs.org/blog/2019/08/15/new-react-devtools.html#how-do-i-get-the-new-devtools
+
+
 
 //*************************prettier***********************************//
 
