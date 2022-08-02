@@ -58,15 +58,42 @@
         },
         {
             "id": 7,
-            "name": "Crear un elemento utilizando ReactJS",
-            "detalle": "Crear un elemento utilizando ReactJS",
-            "ejemplo1": "CreatElementReactJS.jpg",
-            "ejemplo2": "CreatElementReactJS.txt",
+            "name": "Glosario de terminos Utilizados en react",
+            "detalle": "Descripcion de algunas palabras y conceptos utilizados en react",
+            "ejemplo1": "GlosarioReactJS.pdf",
+            "ejemplo2": "NoHayInformacion.jpg",
             "ejemplo3": "NoHayInformacion.jpg"
 
         },
         {
             "id": 8,
+            "name": "JSX en React",
+            "detalle": "JSX es una extensión a ECMAScript que provee una forma más conveniente (syntactic sugar) de crear elementos que llaman a la función React.createElement. JSX, es una axis similar a XML/HTML que extiende ECMAScript.",
+            "ejemplo1": "JSXReactJS.jpg",
+            "ejemplo2": "JSXReglasReactJS.pdf",
+            "ejemplo3": "JSXReactJS.pdf"
+
+        },
+        {
+            "id": 9,
+            "name": "CDN Links React",
+            "detalle": "Crear contenido utilizando react de forma basica con CDN",
+            "ejemplo1": "CDNLinksReactJS.jpg",
+            "ejemplo2": "CDNLinksReactJS.txt",
+            "ejemplo3": "NoHayInformacion.jpg"
+
+        },
+        {
+            "id": 10,
+            "name": "Crear un elemento utilizando ReactJS",
+            "detalle": "Crear un elemento utilizando ReactJS",
+            "ejemplo1": "CreatElementReactJS.jpg",
+            "ejemplo2": "CreatElementReactJS.txt",
+            "ejemplo3": "CreatElementReactJS.pdf"
+
+        },
+        {
+            "id": 11,
             "name": "Crear un Componente ReactJS",
             "detalle": "Crear componente utilizando ReactJS",
             "ejemplo1": "CreatComponenteReactJS.jpg",
@@ -75,7 +102,7 @@
 
         },
         {
-            "id": 9,
+            "id": 12,
             "name": "Props en Componente ReactJS",
             "detalle": "Enviar informacion como parametro a los componentes",
             "ejemplo1": "PropsComponenteReactJS.jpg",
@@ -84,7 +111,7 @@
 
         },
         {
-            "id": 10,
+            "id": 13,
             "name": "Enlazando eventos",
             "detalle": "Enlazando eventos",
             "ejemplo1": "EventosReactJS.jpg",
@@ -93,7 +120,7 @@
 
         },
         {
-            "id": 11,
+            "id": 14,
             "name": "Manejo de estados this.state / this.setState",
             "detalle": "Componentes pueden producir su propia información para ser utilizada en props",
             "ejemplo1": "ManejoEstadosReactJS.jpg",
@@ -102,7 +129,7 @@
 
         },
         {
-            "id": 12,
+            "id": 15,
             "name": "Levantamiento del estado",
             "detalle": "Utilizar la informacion para pasarla como props a los diferentes componentes",
             "ejemplo1": "LevantamientoEstadoReactJS.jpg",
@@ -111,7 +138,7 @@
 
         },
         {
-            "id": 13,
+            "id": 16,
             "name": "Lista de componentes",
             "detalle": "Generar varios componentes en forma de lista",
             "ejemplo1": "ListaDeComponentesReactJS.jpg",
@@ -120,7 +147,7 @@
 
         },
         {
-            "id": 14,
+            "id": 17,
             "name": "React Router",
             "detalle": "Mejora la respuesta al traer solamente la diferencia de informacion cuando se hace la solicitud",
             "ejemplo1": "ReactRouterInstalacion.txt",
@@ -129,7 +156,7 @@
 
         },
         {
-            "id": 15,
+            "id": 18,
             "name": "Layout React",
             "detalle": "Permite que un componente se pueda mostrar en diferentes paginas sin escribirlo varias veses",
             "ejemplo1": "LayoutReactJS.jpg",
@@ -138,7 +165,7 @@
 
         },
         {
-            "id": 16,
+            "id": 19,
             "name": "Ciclo de vida de un componente",
             "detalle": "Montaje, Actualizacion y desmontage",
             "ejemplo1": "CicloVidaComponenteReactJS.jpg",
@@ -147,7 +174,7 @@
 
         },
         {
-            "id": 17,
+            "id": 20,
             "name": "setTimeout",
             "detalle": "El método setTimeout () llama a una función después de una cantidad de milisegundos.",
             "ejemplo1": "setTimeoutReactJS.jpg",
@@ -156,7 +183,7 @@
 
         },
         {
-            "id": 18,
+            "id": 21,
             "name": "Consumir información Json en ReactJs",
             "detalle": "Cargar información de un archivo json y mostrar en el navegador",
             "ejemplo1": "JsonReactJS.jpg",
@@ -165,7 +192,7 @@
 
         },
         {
-            "id": 19,
+            "id": 22,
             "name": "API en ReactJs",
             "detalle": "Manejo de informacion desde una Api",
             "ejemplo1": "ApiReactJS.jpg",
@@ -174,7 +201,7 @@
 
         },
         {
-            "id": 20,
+            "id": 23,
             "name": "Solicitando datos (GET) ReactJs",
             "detalle": "Solicitar informacion a una api con Get",
             "ejemplo1": "ApiGetReactJS.jpg",
@@ -183,7 +210,7 @@
 
         },
         {
-            "id": 21,
+            "id": 24,
             "name": "Instalacion de Hash Md5",
             "detalle": "Generar hash para utilizar en las aplicaciones",
             "ejemplo1": "InstalacionHashMd5.jpg",
@@ -192,7 +219,7 @@
 
         },
         {
-            "id": 22,
+            "id": 25,
             "name": "Enviar datos POST a la Api",
             "detalle": "Enviar un formulario lleno y registrar datos en la api",
             "ejemplo1": "EnviarDatosPOSTReactJs.jpg",
@@ -201,7 +228,7 @@
 
         },
         {
-            "id": 23,
+            "id": 26,
             "name": "Servidor temporal Pruebas Api",
             "detalle": "Crear un servidor en el puerto 3001 Pruebas reales api",
             "ejemplo1": "ServPruebasApiReactJs.jpg",
@@ -210,7 +237,7 @@
 
         },
         {
-            "id": 24,
+            "id": 27,
             "name": "Offcanvas con react",
             "detalle": "Crear un pagina con boton hamburguesa y menu interno que se muestra al oprimir",
             "ejemplo1": "OffcanvasReact.jpg",
@@ -219,7 +246,7 @@
 
         },
         {
-            "id": 25,
+            "id": 28,
             "name": "style",
             "detalle": "Poner stylos directamente en el html",
             "ejemplo1": "styleReact.jpg",
@@ -228,7 +255,7 @@
 
         },
         {
-            "id": 26,
+            "id": 29,
             "name": "require",
             "detalle": "Icluir imagenes y texto sin import",
             "ejemplo1": "requireReact.jpg",
@@ -236,7 +263,6 @@
             "ejemplo3": "NoHayInformacion.jpg"
 
         }
-
 
 
     ]
